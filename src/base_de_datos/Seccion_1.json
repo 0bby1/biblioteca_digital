@@ -1,0 +1,4260 @@
+{
+  "albums": [
+    {
+      "id": "emi-verdi-1986",
+      "section": "1-A",
+      "title": "La Forza del Destino",
+      "artist": "Riccardo Muti, Plácido Domingo, Mirella Freni & Orchestra del Teatro alla Scala",
+      "releaseYear": 1986,
+      "genre": "Ópera",
+      "subGenre": "Música Clásica",
+      "totalDuration": "2h 57m 20s",
+      "label": "EMI Classics",
+      "format": "Vinyl / Digital Recording (DMM)",
+      "coverUrl": "https://m.media-amazon.com/images/I/71iI-XxDVNL._UF1000,1000_QL80_.jpg",
+      "composers": [
+        "Giuseppe Verdi",
+        "Francesco Maria Piave"
+      ],
+      "tracks": [
+        {
+          "id": 1,
+          "title": "Sinfonia (Obertura)",
+          "duration": "07:27",
+          "act": "Obertura",
+          "composer": "Giuseppe Verdi"
+        },
+        {
+          "id": 2,
+          "title": "Buona notte, mia figlia",
+          "duration": "04:12",
+          "act": "Acto I",
+          "composer": "Giuseppe Verdi"
+        },
+        {
+          "id": 3,
+          "title": "Me pellegrina ed orfana",
+          "duration": "04:26",
+          "act": "Acto I",
+          "composer": "Giuseppe Verdi"
+        },
+        {
+          "id": 4,
+          "title": "Ah! per sempre, o mio bell'angiol",
+          "duration": "06:53",
+          "act": "Acto I",
+          "composer": "Giuseppe Verdi"
+        },
+        {
+          "id": 5,
+          "title": "Holà, holà, holà!",
+          "duration": "01:53",
+          "act": "Acto II",
+          "composer": "Giuseppe Verdi"
+        },
+        {
+          "id": 6,
+          "title": "Son Pereda, son ricco d'onore",
+          "duration": "02:37",
+          "act": "Acto II",
+          "composer": "Giuseppe Verdi"
+        },
+        {
+          "id": 7,
+          "title": "Sono giunta! ... Madre, pietosa Vergine",
+          "duration": "05:27",
+          "act": "Acto II",
+          "composer": "Giuseppe Verdi"
+        },
+        {
+          "id": 8,
+          "title": "Chi siete?",
+          "duration": "03:00",
+          "act": "Acto II",
+          "composer": "Giuseppe Verdi"
+        },
+        {
+          "id": 9,
+          "title": "Il santo nome di Dio... La Vergine degli Angeli",
+          "duration": "08:52",
+          "act": "Acto II",
+          "composer": "Giuseppe Verdi"
+        },
+        {
+          "id": 10,
+          "title": "La vita è inferno... O tu che in seno agli angeli",
+          "duration": "09:43",
+          "act": "Acto III",
+          "composer": "Giuseppe Verdi"
+        },
+        {
+          "id": 11,
+          "title": "Solenne in quest'ora",
+          "duration": "04:07",
+          "act": "Acto III",
+          "composer": "Giuseppe Verdi"
+        },
+        {
+          "id": 12,
+          "title": "Morir! Tremenda cosa... Urna fatale",
+          "duration": "08:08",
+          "act": "Acto III",
+          "composer": "Giuseppe Verdi"
+        },
+        {
+          "id": 13,
+          "title": "Né gustare m'è dato un'ora...",
+          "duration": "05:43",
+          "act": "Acto III",
+          "composer": "Giuseppe Verdi"
+        },
+        {
+          "id": 14,
+          "title": "Rataplan, rataplan",
+          "duration": "02:51",
+          "act": "Acto III",
+          "composer": "Giuseppe Verdi"
+        },
+        {
+          "id": 15,
+          "title": "Invano Alvaro ti celasti al mondo",
+          "duration": "08:33",
+          "act": "Acto IV",
+          "composer": "Giuseppe Verdi"
+        },
+        {
+          "id": 16,
+          "title": "Pace, pace mio Dio!",
+          "duration": "05:48",
+          "act": "Acto IV",
+          "composer": "Giuseppe Verdi"
+        },
+        {
+          "id": 17,
+          "title": "Non imprecare, umiliati",
+          "duration": "04:32",
+          "act": "Acto IV",
+          "composer": "Giuseppe Verdi"
+        }
+      ]
+    },
+    {
+      "id": "london-falstaff-solti-1964",
+      "section": "1-A",
+      "title": "Falstaff",
+      "artist": "Georg Solti (Director), Geraint Evans (Falstaff) & RCA Italiana Opera Orchestra",
+      "releaseYear": 1964,
+      "genre": "Ópera",
+      "subGenre": "Comedia Lírica",
+      "totalDuration": "2h 08m 15s",
+      "label": "London Records / Decca",
+      "format": "Vinyl / Stereo (ffrr)",
+      "coverUrl": "https://m.media-amazon.com/images/I/81xrwiACZhL._UF1000,1000_QL80_.jpg",
+      "composers": [
+        "Giuseppe Verdi",
+        "Arrigo Boito (Libreto)"
+      ],
+      "cast": [
+        "Geraint Evans (Falstaff)",
+        "Mirella Freni (Nannetta)",
+        "Robert Merrill (Ford)",
+        "Giulietta Simionato (Mistress Quickly)",
+        "Ilva Ligabue (Alice Ford)",
+        "Alfredo Kraus (Fenton)",
+        "Rosalind Elias (Meg Page)"
+      ],
+      "tracks": [
+        {
+          "id": 1,
+          "title": "Falstaff! - Holà! (Introducción)",
+          "duration": "04:15",
+          "act": "Acto I, Parte 1",
+          "composer": "Giuseppe Verdi"
+        },
+        {
+          "id": 2,
+          "title": "L'onore! Ladri! (Monólogo del honor)",
+          "duration": "05:10",
+          "act": "Acto I, Parte 1",
+          "composer": "Giuseppe Verdi"
+        },
+        {
+          "id": 3,
+          "title": "Alice! Meg! Nannetta!",
+          "duration": "06:45",
+          "act": "Acto I, Parte 2",
+          "composer": "Giuseppe Verdi"
+        },
+        {
+          "id": 4,
+          "title": "Pst, pst, Nannetta... (Fenton y Nannetta)",
+          "duration": "03:30",
+          "act": "Acto I, Parte 2",
+          "composer": "Giuseppe Verdi"
+        },
+        {
+          "id": 5,
+          "title": "Reverenza! (Mistress Quickly y Falstaff)",
+          "duration": "05:20",
+          "act": "Acto II, Parte 1",
+          "composer": "Giuseppe Verdi"
+        },
+        {
+          "id": 6,
+          "title": "Va, vecchio John (Falstaff)",
+          "duration": "02:55",
+          "act": "Acto II, Parte 1",
+          "composer": "Giuseppe Verdi"
+        },
+        {
+          "id": 7,
+          "title": "È sogno? o realtà? (Monólogo de Ford)",
+          "duration": "04:50",
+          "act": "Acto II, Parte 1",
+          "composer": "Giuseppe Verdi"
+        },
+        {
+          "id": 8,
+          "title": "Presente le mia donne... Quand'ero paggio",
+          "duration": "05:40",
+          "act": "Acto II, Parte 2",
+          "composer": "Giuseppe Verdi"
+        },
+        {
+          "id": 9,
+          "title": "Ehi! Taverniere! (Mondo ladro)",
+          "duration": "05:15",
+          "act": "Acto III, Parte 1",
+          "composer": "Giuseppe Verdi"
+        },
+        {
+          "id": 10,
+          "title": "Dal labbro il canto estasiato vola (Fenton)",
+          "duration": "04:25",
+          "act": "Acto III, Parte 2",
+          "composer": "Giuseppe Verdi"
+        },
+        {
+          "id": 11,
+          "title": "Sul fil d'un soffio etesio (Aria de Nannetta)",
+          "duration": "04:10",
+          "act": "Acto III, Parte 2",
+          "composer": "Giuseppe Verdi"
+        },
+        {
+          "id": 12,
+          "title": "Tutto nel mondo è burla (Fuga final)",
+          "duration": "03:45",
+          "act": "Finale",
+          "composer": "Giuseppe Verdi"
+        }
+      ]
+    },
+    {
+      "id": "murray-hill-oistrakh-boxset",
+      "section": "1-A",
+      "title": "David Oistrakh plays the World's Greatest Violin Concertos",
+      "artist": "David Oistrakh (Violin)",
+      "releaseYear": 1970,
+      "genre": "Música Clásica",
+      "subGenre": "Concierto para Violín",
+      "totalDuration": "2h 35m 00s",
+      "label": "Murray Hill Records",
+      "format": "3 Records Box Set / Stereophonic",
+      "coverUrl": "https://recordtowntx.com/cdn/shop/files/16425462-02289702657b92bd21b82657b92bd21b851702597309657b92bd21b8c_300x300.jpg?v=1715192955",
+      "composers": [
+        "Ludwig van Beethoven",
+        "Felix Mendelssohn",
+        "Johannes Brahms",
+        "Pyotr Ilyich Tchaikovsky"
+      ],
+      "tracks": [
+        {
+          "id": 1,
+          "title": "Concerto in D Major, Op. 61: I. Allegro ma non troppo",
+          "duration": "24:15",
+          "act": "Beethoven",
+          "composer": "Ludwig van Beethoven"
+        },
+        {
+          "id": 2,
+          "title": "Concerto in D Major, Op. 61: II. Larghetto",
+          "duration": "09:55",
+          "act": "Beethoven",
+          "composer": "Ludwig van Beethoven"
+        },
+        {
+          "id": 3,
+          "title": "Concerto in D Major, Op. 61: III. Rondo (Allegro)",
+          "duration": "10:10",
+          "act": "Beethoven",
+          "composer": "Ludwig van Beethoven"
+        },
+        {
+          "id": 4,
+          "title": "Concerto in E Minor, Op. 64: I. Allegro molto appassionato",
+          "duration": "13:20",
+          "act": "Mendelssohn",
+          "composer": "Felix Mendelssohn"
+        },
+        {
+          "id": 5,
+          "title": "Concerto in E Minor, Op. 64: II. Andante",
+          "duration": "08:15",
+          "act": "Mendelssohn",
+          "composer": "Felix Mendelssohn"
+        },
+        {
+          "id": 6,
+          "title": "Concerto in E Minor, Op. 64: III. Allegretto non troppo - Allegro",
+          "duration": "06:45",
+          "act": "Mendelssohn",
+          "composer": "Felix Mendelssohn"
+        },
+        {
+          "id": 7,
+          "title": "Concerto in D Major, Op. 77: I. Allegro non troppo",
+          "duration": "22:30",
+          "act": "Brahms",
+          "composer": "Johannes Brahms"
+        },
+        {
+          "id": 8,
+          "title": "Concerto in D Major, Op. 77: II. Adagio",
+          "duration": "09:40",
+          "act": "Brahms",
+          "composer": "Johannes Brahms"
+        },
+        {
+          "id": 9,
+          "title": "Concerto in D Major, Op. 77: III. Allegro giocoso",
+          "duration": "08:20",
+          "act": "Brahms",
+          "composer": "Johannes Brahms"
+        },
+        {
+          "id": 10,
+          "title": "Concerto in D Major, Op. 35: I. Allegro moderato",
+          "duration": "18:50",
+          "act": "Tchaikovsky",
+          "composer": "Pyotr Ilyich Tchaikovsky"
+        },
+        {
+          "id": 11,
+          "title": "Concerto in D Major, Op. 35: II. Canzonetta (Andante)",
+          "duration": "06:30",
+          "act": "Tchaikovsky",
+          "composer": "Pyotr Ilyich Tchaikovsky"
+        },
+        {
+          "id": 12,
+          "title": "Concerto in D Major, Op. 35: III. Finale (Allegro vivacissimo)",
+          "duration": "10:45",
+          "act": "Tchaikovsky",
+          "composer": "Pyotr Ilyich Tchaikovsky"
+        }
+      ]
+    },
+    {
+      "id": "columbia-ml4350-prades-vol6",
+      "section": "1-A",
+      "title": "Prades Festival Vol. 6: Bach",
+      "artist": "Pablo Casals (Cello), Paul Baumgartner (Piano) & Rudolf Serkin (Piano)",
+      "releaseYear": 1950,
+      "genre": "Música Clásica",
+      "subGenre": "Barroco / Cámara",
+      "totalDuration": "42m 10s",
+      "label": "Columbia Masterworks",
+      "format": "Vinyl / Mono / LP",
+      "coverUrl": "https://classicus.jp/wordpress/wp-content/uploads/2025/04/030243__03.jpg",
+      "composers": [
+        "Johann Sebastian Bach"
+      ],
+      "tracks": [
+        {
+          "id": 1,
+          "title": "Sonata No. 3 in G Minor for Cello and Piano (BWV 1029): I. Vivace",
+          "duration": "05:15",
+          "act": "Pablo Casals & Paul Baumgartner",
+          "composer": "Johann Sebastian Bach"
+        },
+        {
+          "id": 2,
+          "title": "Sonata No. 3 in G Minor for Cello and Piano (BWV 1029): II. Adagio",
+          "duration": "05:40",
+          "act": "Pablo Casals & Paul Baumgartner",
+          "composer": "Johann Sebastian Bach"
+        },
+        {
+          "id": 3,
+          "title": "Sonata No. 3 in G Minor for Cello and Piano (BWV 1029): III. Allegro",
+          "duration": "03:55",
+          "act": "Pablo Casals & Paul Baumgartner",
+          "composer": "Johann Sebastian Bach"
+        },
+        {
+          "id": 4,
+          "title": "Chromatic Fantasy and Fugue in D Minor (BWV 903)",
+          "duration": "12:30",
+          "act": "Rudolf Serkin (Piano)",
+          "composer": "Johann Sebastian Bach"
+        },
+        {
+          "id": 5,
+          "title": "Italian Concerto in F Major (BWV 971): I. (Allegro)",
+          "duration": "04:10",
+          "act": "Rudolf Serkin (Piano)",
+          "composer": "Johann Sebastian Bach"
+        },
+        {
+          "id": 6,
+          "title": "Italian Concerto in F Major (BWV 971): II. Andante",
+          "duration": "04:50",
+          "act": "Rudolf Serkin (Piano)",
+          "composer": "Johann Sebastian Bach"
+        },
+        {
+          "id": 7,
+          "title": "Italian Concerto in F Major (BWV 971): III. Presto",
+          "duration": "03:50",
+          "act": "Rudolf Serkin (Piano)",
+          "composer": "Johann Sebastian Bach"
+        }
+      ]
+    },
+    {
+      "id": "columbia-ml4349-prades-vol5",
+      "section": "1-A",
+      "title": "Prades Festival Vol. 5: Bach Cello Sonatas Nos. 1 & 2",
+      "artist": "Pablo Casals (Cello) & Paul Baumgartner (Piano)",
+      "releaseYear": 1950,
+      "genre": "Música Clásica",
+      "subGenre": "Barroco / Cámara",
+      "totalDuration": "29m 10s",
+      "label": "Columbia Masterworks",
+      "format": "Vinyl / Mono / LP",
+      "coverUrl": "https://classicus.jp/wordpress/wp-content/uploads/2025/04/030243.jpg",
+      "composers": [
+        "Johann Sebastian Bach"
+      ],
+      "tracks": [
+        {
+          "id": 1,
+          "title": "Sonata No. 1 in G Major (BWV 1027): I. Adagio",
+          "duration": "03:45",
+          "act": "Sonata No. 1",
+          "composer": "Johann Sebastian Bach"
+        },
+        {
+          "id": 2,
+          "title": "Sonata No. 1 in G Major (BWV 1027): II. Allegro ma non tanto",
+          "duration": "03:30",
+          "act": "Sonata No. 1",
+          "composer": "Johann Sebastian Bach"
+        },
+        {
+          "id": 3,
+          "title": "Sonata No. 1 in G Major (BWV 1027): III. Andante",
+          "duration": "02:50",
+          "act": "Sonata No. 1",
+          "composer": "Johann Sebastian Bach"
+        },
+        {
+          "id": 4,
+          "title": "Sonata No. 1 in G Major (BWV 1027): IV. Allegro moderato",
+          "duration": "03:10",
+          "act": "Sonata No. 1",
+          "composer": "Johann Sebastian Bach"
+        },
+        {
+          "id": 5,
+          "title": "Sonata No. 2 in D Major (BWV 1028): I. Adagio",
+          "duration": "03:55",
+          "act": "Sonata No. 2",
+          "composer": "Johann Sebastian Bach"
+        },
+        {
+          "id": 6,
+          "title": "Sonata No. 2 in D Major (BWV 1028): II. Allegro",
+          "duration": "04:05",
+          "act": "Sonata No. 2",
+          "composer": "Johann Sebastian Bach"
+        },
+        {
+          "id": 7,
+          "title": "Sonata No. 2 in D Major (BWV 1028): III. Andante",
+          "duration": "03:40",
+          "act": "Sonata No. 2",
+          "composer": "Johann Sebastian Bach"
+        },
+        {
+          "id": 8,
+          "title": "Sonata No. 2 in D Major (BWV 1028): IV. Allegro",
+          "duration": "04:15",
+          "act": "Sonata No. 2",
+          "composer": "Johann Sebastian Bach"
+        }
+      ]
+    },
+    {
+      "id": "baerenreiter-bach-bwv249a-rilling",
+      "section": "1-A",
+      "title": "J.S. Bach: Schäferkantate BWV 249a (Shepherd Cantata)",
+      "artist": "Helmuth Rilling (Director), Edith Mathis, Hetty Plümacher, Theo Altmeyer & Jakob Stämpfli",
+      "releaseYear": 1967,
+      "genre": "Música Clásica",
+      "subGenre": "Barroco / Cantata Profana",
+      "totalDuration": "43m 10s",
+      "label": "Bärenreiter-Musicaphon",
+      "format": "Vinyl / Stereo / LP",
+      "coverUrl": "https://i.discogs.com/-W-vY3yKT-BIGRhISsMl-WbacdGLCO8MH1irKOWGLNA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDA2/ODc2LTE1MzQ2NjM5/OTktNTAzNC5qcGVn.jpeg",
+      "composers": [
+        "Johann Sebastian Bach",
+        "Christian Friedrich Henrici (Picander) - Libreto"
+      ],
+      "tracks": [
+        {
+          "id": 1,
+          "title": "Sinfonia (Allegro)",
+          "duration": "04:02",
+          "act": "Introducción Instrumental",
+          "composer": "Johann Sebastian Bach"
+        },
+        {
+          "id": 2,
+          "title": "Adagio (Oboe Solo)",
+          "duration": "04:38",
+          "act": "Introducción Instrumental",
+          "composer": "Johann Sebastian Bach"
+        },
+        {
+          "id": 3,
+          "title": "Entfliehet, verschwindet, entweichet, ihr Sorgen",
+          "duration": "04:50",
+          "act": "Coro Inicial (Dúo)",
+          "composer": "Johann Sebastian Bach"
+        },
+        {
+          "id": 4,
+          "title": "Was hör ich da? Wer unterbricht uns hier?",
+          "duration": "00:54",
+          "act": "Recitativo",
+          "composer": "Johann Sebastian Bach"
+        },
+        {
+          "id": 5,
+          "title": "Hunderttausend Schmeicheleien",
+          "duration": "08:56",
+          "act": "Aria (Soprano - Edith Mathis)",
+          "composer": "Johann Sebastian Bach"
+        },
+        {
+          "id": 6,
+          "title": "Wie aber, die schönste Schäferin",
+          "duration": "01:28",
+          "act": "Recitativo",
+          "composer": "Johann Sebastian Bach"
+        },
+        {
+          "id": 7,
+          "title": "Wieget euch, ihr satten Schafe",
+          "duration": "07:00",
+          "act": "Aria (Tenor - Theo Altmeyer)",
+          "composer": "Johann Sebastian Bach"
+        },
+        {
+          "id": 8,
+          "title": "Wohlan! Geliebte Schäferinnen",
+          "duration": "01:42",
+          "act": "Recitativo",
+          "composer": "Johann Sebastian Bach"
+        },
+        {
+          "id": 9,
+          "title": "Komm doch, Flora, komm geschwinde",
+          "duration": "05:24",
+          "act": "Aria (Alto - Hetty Plümacher)",
+          "composer": "Johann Sebastian Bach"
+        },
+        {
+          "id": 10,
+          "title": "Was sorgt ihr viel, die Flora zu beschweren",
+          "duration": "01:07",
+          "act": "Recitativo",
+          "composer": "Johann Sebastian Bach"
+        },
+        {
+          "id": 11,
+          "title": "Glück und Heil bleibe dein beständig Teil",
+          "duration": "03:10",
+          "act": "Coro Final",
+          "composer": "Johann Sebastian Bach"
+        }
+      ]
+    },
+    {
+      "id": "vanguard-srv231sd-bach-cantatas-207a-214",
+      "section": "1-A",
+      "title": "J.S. Bach: Cantata No. 207a & Cantata No. 214",
+      "artist": "Helmut Kahlhöfer (Director), Ingeborg Reichelt, Emmy Lisken, Georg Jelden, Eduard Wollitz & Barmen Choir",
+      "releaseYear": 1967,
+      "genre": "Música Clásica",
+      "subGenre": "Barroco / Cantata Profana",
+      "totalDuration": "51m 45s",
+      "label": "Vanguard Everyman Classics",
+      "format": "Vinyl / Stereo / LP",
+      "catalogNumber": "SRV-231 SD",
+      "coverUrl": "https://m.media-amazon.com/images/I/91uKJUmxXQL._UF1000,1000_QL80_.jpg",
+      "composers": [
+        "Johann Sebastian Bach"
+      ],
+      "tracks": [
+        {
+          "id": 1,
+          "title": "Coro: Auf, schmetternde Töne der muntern Trompeten",
+          "duration": "04:30",
+          "act": "Cantata No. 207a",
+          "composer": "Johann Sebastian Bach"
+        },
+        {
+          "id": 2,
+          "title": "Recitativo: Die stille Pleiße spielt",
+          "duration": "01:20",
+          "act": "Cantata No. 207a",
+          "composer": "Johann Sebastian Bach"
+        },
+        {
+          "id": 3,
+          "title": "Aria (Tenor): August lebe, lebe König",
+          "duration": "04:15",
+          "act": "Cantata No. 207a",
+          "composer": "Johann Sebastian Bach"
+        },
+        {
+          "id": 4,
+          "title": "Aria (Soprano): Was die Seele kann ergötzen",
+          "duration": "04:40",
+          "act": "Cantata No. 207a",
+          "composer": "Johann Sebastian Bach"
+        },
+        {
+          "id": 5,
+          "title": "Coro Final: August lebe, lebe König",
+          "duration": "03:15",
+          "act": "Cantata No. 207a",
+          "composer": "Johann Sebastian Bach"
+        },
+        {
+          "id": 6,
+          "title": "Coro: Tönet, ihr Pauken! Erschallet, Trompeten!",
+          "duration": "07:45",
+          "act": "Cantata No. 214",
+          "composer": "Johann Sebastian Bach"
+        },
+        {
+          "id": 7,
+          "title": "Recitativo: Heut ist gewiss ein guter Tag",
+          "duration": "01:10",
+          "act": "Cantata No. 214",
+          "composer": "Johann Sebastian Bach"
+        },
+        {
+          "id": 8,
+          "title": "Aria (Soprano): Blast die wohlgegriffnen Flöten",
+          "duration": "03:50",
+          "act": "Cantata No. 214",
+          "composer": "Johann Sebastian Bach"
+        },
+        {
+          "id": 9,
+          "title": "Aria (Alto): Fromme Musen! meine Glieder",
+          "duration": "03:30",
+          "act": "Cantata No. 214",
+          "composer": "Johann Sebastian Bach"
+        },
+        {
+          "id": 10,
+          "title": "Aria (Bajo): Kron und Preis gekrönter Damen",
+          "duration": "04:20",
+          "act": "Cantata No. 214",
+          "composer": "Johann Sebastian Bach"
+        },
+        {
+          "id": 11,
+          "title": "Coro Final: Blühet, ihr Linden in Sachsen, wie Zedern",
+          "duration": "02:50",
+          "act": "Cantata No. 214",
+          "composer": "Johann Sebastian Bach"
+        }
+      ]
+    },
+    {
+      "id": "archiv-198161-bach-coffee-peasant",
+      "section": "1-A",
+      "title": "J.S. Bach: Kaffee-Kantate (BWV 211) & Bauern-Kantate (BWV 212)",
+      "artist": "Kurt Thomas (Director), Adele Stolte, Hans-Joachim Rotzsch, Theo Adam & Gewandhausorchester Leipzig",
+      "releaseYear": 1960,
+      "genre": "Música Clásica",
+      "subGenre": "Barroco / Cantata Profana",
+      "totalDuration": "53m 15s",
+      "label": "Archiv Produktion",
+      "format": "Vinyl / Stereo / LP",
+      "catalogNumber": "198 161",
+      "coverUrl": "https://i.discogs.com/H1PMbOgghwpcvuK98Swra6P8qOpfr7h2rgF4v93GTlI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3NTA1/MDEtMTQ4NTc4MDU4/MS0xNDUyLmpwZWc.jpeg",
+      "composers": [
+        "Johann Sebastian Bach",
+        "Christian Friedrich Henrici (Picander) - Libreto"
+      ],
+      "tracks": [
+        {
+          "id": 1,
+          "title": "Recitativo: Schweigt stille, plaudert nicht (Narrador)",
+          "duration": "01:30",
+          "act": "Kaffee-Kantate (BWV 211)",
+          "composer": "Johann Sebastian Bach"
+        },
+        {
+          "id": 2,
+          "title": "Aria: Hat man nicht mit seinen Kindern (Schlendrian)",
+          "duration": "03:45",
+          "act": "Kaffee-Kantate (BWV 211)",
+          "composer": "Johann Sebastian Bach"
+        },
+        {
+          "id": 3,
+          "title": "Aria: Ei! wie schmeckt der Coffee süße (Lieschen)",
+          "duration": "04:15",
+          "act": "Kaffee-Kantate (BWV 211)",
+          "composer": "Johann Sebastian Bach"
+        },
+        {
+          "id": 4,
+          "title": "Aria: Mädchen, die von harten Sinnen (Schlendrian)",
+          "duration": "03:30",
+          "act": "Kaffee-Kantate (BWV 211)",
+          "composer": "Johann Sebastian Bach"
+        },
+        {
+          "id": 5,
+          "title": "Aria: Heute noch, lieber Vater (Lieschen)",
+          "duration": "06:20",
+          "act": "Kaffee-Kantate (BWV 211)",
+          "composer": "Johann Sebastian Bach"
+        },
+        {
+          "id": 6,
+          "title": "Coro (Trio): Die Katze lässt das Mausen nicht",
+          "duration": "02:40",
+          "act": "Kaffee-Kantate (BWV 211)",
+          "composer": "Johann Sebastian Bach"
+        },
+        {
+          "id": 7,
+          "title": "Overture (Introducción)",
+          "duration": "02:20",
+          "act": "Bauern-Kantate (BWV 212)",
+          "composer": "Johann Sebastian Bach"
+        },
+        {
+          "id": 8,
+          "title": "Duetto: Mer hahn en neue Oberkeet",
+          "duration": "03:10",
+          "act": "Bauern-Kantate (BWV 212)",
+          "composer": "Johann Sebastian Bach"
+        },
+        {
+          "id": 9,
+          "title": "Aria: Ach, es schmeckt doch gar zu gut",
+          "duration": "03:50",
+          "act": "Bauern-Kantate (BWV 212)",
+          "composer": "Johann Sebastian Bach"
+        },
+        {
+          "id": 10,
+          "title": "Aria: Dein Wachstum sei feste",
+          "duration": "02:45",
+          "act": "Bauern-Kantate (BWV 212)",
+          "composer": "Johann Sebastian Bach"
+        },
+        {
+          "id": 11,
+          "title": "Aria: Unser trefflicher, lieber Kammerherr",
+          "duration": "02:30",
+          "act": "Bauern-Kantate (BWV 212)",
+          "composer": "Johann Sebastian Bach"
+        },
+        {
+          "id": 12,
+          "title": "Coro Final: Wir gehn nun, wo der Tudelsack",
+          "duration": "01:45",
+          "act": "Bauern-Kantate (BWV 212)",
+          "composer": "Johann Sebastian Bach"
+        }
+      ]
+    },
+    {
+    "id": "turnabout-tv34127s-bach-cantatas-204-209",
+    "section": "1-A",
+    "title": "Bach Cantatas: No. 204 & No. 209",
+    "artist": "Rudolf Ewerhart (Director), Elisabeth Speiser (Soprano) & Württemberg Chamber Orchestra",
+    "releaseYear": 1967,
+    "genre": "Música Clásica",
+    "subGenre": "Barroco / Cantata Profana",
+    "totalDuration": "52m 10s",
+    "label": "Turnabout / Vox",
+    "format": "Vinyl / Stereo / LP",
+    "catalogNumber": "TV 34127S",
+    "coverUrl": "https://i.ebayimg.com/images/g/B-cAAOSwHDdccDL0/s-l1200.jpg",
+    "composers": [
+        "Johann Sebastian Bach"
+    ],
+    "tracks": [
+        {
+        "id": 1,
+        "title": "Recitativo: Ich bin in mir vergnügt",
+        "duration": "04:20",
+        "act": "Cantata No. 204",
+        "composer": "Johann Sebastian Bach"
+        },
+        {
+        "id": 2,
+        "title": "Aria: Ruhig und in sich zufrieden",
+        "duration": "06:15",
+        "act": "Cantata No. 204",
+        "composer": "Johann Sebastian Bach"
+        },
+        {
+        "id": 3,
+        "title": "Aria: Die Schätzbarkeit der weiten Erden",
+        "duration": "04:10",
+        "act": "Cantata No. 204",
+        "composer": "Johann Sebastian Bach"
+        },
+        {
+        "id": 4,
+        "title": "Aria: Meine Seele sei vergnügt",
+        "duration": "05:30",
+        "act": "Cantata No. 204",
+        "composer": "Johann Sebastian Bach"
+        },
+        {
+        "id": 5,
+        "title": "Aria: Himmlische Vergnügsamkeit",
+        "duration": "03:45",
+        "act": "Cantata No. 204",
+        "composer": "Johann Sebastian Bach"
+        },
+        {
+        "id": 6,
+        "title": "Sinfonia (Obertura)",
+        "duration": "05:50",
+        "act": "Cantata No. 209 (Italiana)",
+        "composer": "Johann Sebastian Bach"
+        },
+        {
+        "id": 7,
+        "title": "Recitativo: Non sa che sia dolore",
+        "duration": "02:10",
+        "act": "Cantata No. 209 (Italiana)",
+        "composer": "Johann Sebastian Bach"
+        },
+        {
+        "id": 8,
+        "title": "Aria: Parti pur e con dolore",
+        "duration": "06:30",
+        "act": "Cantata No. 209 (Italiana)",
+        "composer": "Johann Sebastian Bach"
+        },
+        {
+        "id": 9,
+        "title": "Recitativo: Tuo saver al tempo e l'età",
+        "duration": "01:05",
+        "act": "Cantata No. 209 (Italiana)",
+        "composer": "Johann Sebastian Bach"
+        },
+        {
+        "id": 10,
+        "title": "Aria: Ricetti gramezza e pavento",
+        "duration": "04:15",
+        "act": "Cantata No. 209 (Italiana)",
+        "composer": "Johann Sebastian Bach"
+        }
+    ]
+    },
+    {
+    "id": "dg-traviata-kleiber-1977",
+    "section": "1-A",
+    "title": "Verdi: La Traviata",
+    "artist": "Carlos Kleiber (Conductor), Ileana Cotrubas, Plácido Domingo, Sherrill Milnes & Bayerisches Staatsorchester",
+    "releaseYear": 1977,
+    "genre": "Ópera",
+    "subGenre": "Música Clásica / Romanticismo",
+    "totalDuration": "2h 14m 30s",
+    "label": "Deutsche Grammophon",
+    "format": "Vinyl / Stereo / 2 LP Box Set",
+    "catalogNumber": "2707 103",
+    "coverUrl": "https://http2.mlstatic.com/D_NQ_NP_685062-CBT90074311086_082025-O.webp",
+    "composers": [
+        "Giuseppe Verdi",
+        "Francesco Maria Piave (Libreto)"
+    ],
+    "tracks": [
+        {
+        "id": 1,
+        "title": "Preludio (Acto I)",
+        "duration": "03:55",
+        "act": "Acto I",
+        "composer": "Giuseppe Verdi"
+        },
+        {
+        "id": 2,
+        "title": "Libiamo ne' lieti calici (Brindis)",
+        "duration": "03:10",
+        "act": "Acto I",
+        "composer": "Giuseppe Verdi"
+        },
+        {
+        "id": 3,
+        "title": "Un dì, felice, eterea",
+        "duration": "03:35",
+        "act": "Acto I",
+        "composer": "Giuseppe Verdi"
+        },
+        {
+        "id": 4,
+        "title": "È strano! ... Ah, fors'è lui",
+        "duration": "06:20",
+        "act": "Acto I",
+        "composer": "Giuseppe Verdi"
+        },
+        {
+        "id": 5,
+        "title": "Follie! Follie! ... Sempre libera",
+        "duration": "04:45",
+        "act": "Acto I",
+        "composer": "Giuseppe Verdi"
+        },
+        {
+        "id": 6,
+        "title": "Lunge da lei ... De' miei bollenti spiriti",
+        "duration": "03:50",
+        "act": "Acto II",
+        "composer": "Giuseppe Verdi"
+        },
+        {
+        "id": 7,
+        "title": "Pura siccome un angelo",
+        "duration": "07:15",
+        "act": "Acto II",
+        "composer": "Giuseppe Verdi"
+        },
+        {
+        "id": 8,
+        "title": "Dite alla giovine sì bella e pura",
+        "duration": "04:30",
+        "act": "Acto II",
+        "composer": "Giuseppe Verdi"
+        },
+        {
+        "id": 9,
+        "title": "Di Provenza il mar, il suol",
+        "duration": "04:10",
+        "act": "Acto II",
+        "composer": "Giuseppe Verdi"
+        },
+        {
+        "id": 10,
+        "title": "Noi siamo zingarelle (Coro de Gitanas)",
+        "duration": "02:50",
+        "act": "Acto II",
+        "composer": "Giuseppe Verdi"
+        },
+        {
+        "id": 11,
+        "title": "Preludio (Acto III)",
+        "duration": "04:15",
+        "act": "Acto III",
+        "composer": "Giuseppe Verdi"
+        },
+        {
+        "id": 12,
+        "title": "Teneste la promessa... Addio, del passato",
+        "duration": "06:40",
+        "act": "Acto III",
+        "composer": "Giuseppe Verdi"
+        },
+        {
+        "id": 13,
+        "title": "Parigi, o cara",
+        "duration": "04:25",
+        "act": "Acto III",
+        "composer": "Giuseppe Verdi"
+        },
+        {
+        "id": 14,
+        "title": "Prendi, quest'è l'immagine (Finale)",
+        "duration": "05:10",
+        "act": "Acto III",
+        "composer": "Giuseppe Verdi"
+        }
+    ]
+    },
+    {
+    "id": "dg-simon-boccanegra-abbado-1977",
+    "section": "1-A",
+    "title": "Verdi: Simon Boccanegra",
+    "artist": "Claudio Abbado (Director), Piero Cappuccilli, Mirella Freni, José Carreras, Nicolai Ghiaurov & Orchestra del Teatro alla Scala",
+    "releaseYear": 1977,
+    "genre": "Ópera",
+    "subGenre": "Música Clásica / Drama Histórico",
+    "totalDuration": "2h 16m 00s",
+    "label": "Deutsche Grammophon",
+    "format": "Vinyl / Stereo / 3 LP Box Set",
+    "catalogNumber": "2709 071",
+    "coverUrl": "https://i.discogs.com/0S9smDYuDraZG9idMoukLdVjTUC0PEIb_pjmThZ1UnQ/rs:fit/g:sm/q:90/h:476/w:554/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0MzE0/NTItMTQzMzkwMDEw/OS04NTExLmpwZWc.jpeg",
+    "composers": [
+        "Giuseppe Verdi",
+        "Francesco Maria Piave & Arrigo Boito (Libreto)"
+    ],
+    "tracks": [
+        {
+        "id": 1,
+        "title": "Prologo: A te l'estremo addio... Il lacerato spirito",
+        "duration": "05:40",
+        "act": "Prólogo",
+        "composer": "Giuseppe Verdi"
+        },
+        {
+        "id": 2,
+        "title": "Prologo: Suona ogni labbro il mio nome",
+        "duration": "03:15",
+        "act": "Prólogo",
+        "composer": "Giuseppe Verdi"
+        },
+        {
+        "id": 3,
+        "title": "Come in quest'ora bruna",
+        "duration": "04:50",
+        "act": "Acto I",
+        "composer": "Giuseppe Verdi"
+        },
+        {
+        "id": 4,
+        "title": "Vieni a mirar la cerula",
+        "duration": "03:20",
+        "act": "Acto I",
+        "composer": "Giuseppe Verdi"
+        },
+        {
+        "id": 5,
+        "title": "Orfanella il tetto umile... Figlia! a tal nome io palpito",
+        "duration": "09:10",
+        "act": "Acto I (Dúo)",
+        "composer": "Giuseppe Verdi"
+        },
+        {
+        "id": 6,
+        "title": "Messeri, il demonio... Plebe! Patrizi!",
+        "duration": "10:30",
+        "act": "Acto I (Finale)",
+        "composer": "Giuseppe Verdi"
+        },
+        {
+        "id": 7,
+        "title": "Sento avvampar nell'anima",
+        "duration": "03:45",
+        "act": "Acto II",
+        "composer": "Giuseppe Verdi"
+        },
+        {
+        "id": 8,
+        "title": "Cielo, pietoso, rendila",
+        "duration": "04:20",
+        "act": "Acto II",
+        "composer": "Giuseppe Verdi"
+        },
+        {
+        "id": 9,
+        "title": "Parla, in tuo cor virile",
+        "duration": "05:15",
+        "act": "Acto II",
+        "composer": "Giuseppe Verdi"
+        },
+        {
+        "id": 10,
+        "title": "M'ardon le tempia... (Muerte de Boccanegra)",
+        "duration": "06:50",
+        "act": "Acto III",
+        "composer": "Giuseppe Verdi"
+        },
+        {
+        "id": 11,
+        "title": "Gran Dio, li benedici (Finale)",
+        "duration": "04:40",
+        "act": "Acto III",
+        "composer": "Giuseppe Verdi"
+        }
+    ]
+    },
+    {
+    "id": "dg-macbeth-abbado-1976",
+    "section": "1-A",
+    "title": "Verdi: Macbeth",
+    "artist": "Claudio Abbado (Director), Piero Cappuccilli, Shirley Verrett, Plácido Domingo, Nicolai Ghiaurov & Orchestra del Teatro alla Scala",
+    "releaseYear": 1976,
+    "genre": "Ópera",
+    "subGenre": "Música Clásica / Drama Shakespeariano",
+    "totalDuration": "2h 34m 15s",
+    "label": "Deutsche Grammophon",
+    "format": "Vinyl / Stereo / 3 LP Box Set",
+    "catalogNumber": "2709 062",
+    "coverUrl": "https://m.media-amazon.com/images/I/71JJni2-ckL.jpg",
+    "composers": [
+        "Giuseppe Verdi",
+        "Francesco Maria Piave (Libreto)"
+    ],
+    "tracks": [
+        {
+        "id": 1,
+        "title": "Preludio",
+        "duration": "03:20",
+        "act": "Acto I",
+        "composer": "Giuseppe Verdi"
+        },
+        {
+        "id": 2,
+        "title": "Che faceste? Dite su! (Coro de Brujas)",
+        "duration": "04:10",
+        "act": "Acto I",
+        "composer": "Giuseppe Verdi"
+        },
+        {
+        "id": 3,
+        "title": "Vieni! t'affretta! ... Or tutti sorgete",
+        "duration": "07:45",
+        "act": "Acto I",
+        "composer": "Giuseppe Verdi"
+        },
+        {
+        "id": 4,
+        "title": "Fatal mia donna! un murmure",
+        "duration": "08:30",
+        "act": "Acto I (Escena del crimen)",
+        "composer": "Giuseppe Verdi"
+        },
+        {
+        "id": 5,
+        "title": "La luce langue",
+        "duration": "04:15",
+        "act": "Acto II",
+        "composer": "Giuseppe Verdi"
+        },
+        {
+        "id": 6,
+        "title": "Come dal ciel precipita (Aria de Banco)",
+        "duration": "03:50",
+        "act": "Acto II",
+        "composer": "Giuseppe Verdi"
+        },
+        {
+        "id": 7,
+        "title": "Si colmi il calice (Brindis)",
+        "duration": "02:40",
+        "act": "Acto II",
+        "composer": "Giuseppe Verdi"
+        },
+        {
+        "id": 8,
+        "title": "Tre volte miagola la gatta (Las Apariciones)",
+        "duration": "09:20",
+        "act": "Acto III",
+        "composer": "Giuseppe Verdi"
+        },
+        {
+        "id": 9,
+        "title": "Patria oppressa! (Coro de refugiados)",
+        "duration": "05:10",
+        "act": "Acto IV",
+        "composer": "Giuseppe Verdi"
+        },
+        {
+        "id": 10,
+        "title": "Ah, la paterna mano (Aria de Macduff)",
+        "duration": "03:35",
+        "act": "Acto IV",
+        "composer": "Giuseppe Verdi"
+        },
+        {
+        "id": 11,
+        "title": "Una macchia è qui tuttora (Escena de Sonambulismo)",
+        "duration": "10:15",
+        "act": "Acto IV",
+        "composer": "Giuseppe Verdi"
+        },
+        {
+        "id": 12,
+        "title": "Pietà, rispetto, amore (Aria de Macbeth)",
+        "duration": "04:55",
+        "act": "Acto IV",
+        "composer": "Giuseppe Verdi"
+        },
+        {
+        "id": 13,
+        "title": "Vittoria! ... Inno di vittoria (Finale)",
+        "duration": "04:20",
+        "act": "Acto IV",
+        "composer": "Giuseppe Verdi"
+        }
+    ]
+    },
+    {
+    "id": "fonit-cetra-otelo-votto-1954",
+    "section": "1-A",
+    "title": "Verdi: Otelo (Otello)",
+    "artist": "Antonino Votto (Director), Mario Del Monaco, Renata Tebaldi, Leonard Warren & Coro y Orquesta del Teatro alla Scala",
+    "releaseYear": 1954,
+    "genre": "Ópera",
+    "subGenre": "Música Clásica / Tragedia",
+    "totalDuration": "2h 18m 00s",
+    "label": "Fonit Cetra / Clave",
+    "format": "Vinyl / Mono / Live Recording (Grabación Histórica)",
+    "catalogNumber": "LA ACL3 00305",
+    "coverUrl": "/disco_generico.png",
+    "composers": [
+        "Giuseppe Verdi",
+        "Arrigo Boito (Libreto)"
+    ],
+    "tracks": [
+        {
+        "id": 1,
+        "title": "Una vela! Una vela! (Tempestad)",
+        "duration": "04:10",
+        "act": "Acto I",
+        "composer": "Giuseppe Verdi"
+        },
+        {
+        "id": 2,
+        "title": "Esultate! (Entrada de Otelo)",
+        "duration": "02:15",
+        "act": "Acto I",
+        "composer": "Giuseppe Verdi"
+        },
+        {
+        "id": 3,
+        "title": "Inaffia l'ugola! (Brindis)",
+        "duration": "04:50",
+        "act": "Acto I",
+        "composer": "Giuseppe Verdi"
+        },
+        {
+        "id": 4,
+        "title": "Già nella notte densa (Dúo de amor)",
+        "duration": "09:30",
+        "act": "Acto I",
+        "composer": "Giuseppe Verdi"
+        },
+        {
+        "id": 5,
+        "title": "Credo in un Dio crudel (Credo de Iago)",
+        "duration": "05:10",
+        "act": "Acto II",
+        "composer": "Giuseppe Verdi"
+        },
+        {
+        "id": 6,
+        "title": "Era la notte, Cassio dormia",
+        "duration": "03:40",
+        "act": "Acto II",
+        "composer": "Giuseppe Verdi"
+        },
+        {
+        "id": 7,
+        "title": "Sì, pel ciel marmoreo giuro!",
+        "duration": "02:55",
+        "act": "Acto II",
+        "composer": "Giuseppe Verdi"
+        },
+        {
+        "id": 8,
+        "title": "Dio! mi potevi scagliar (Monólogo de Otelo)",
+        "duration": "04:20",
+        "act": "Acto III",
+        "composer": "Giuseppe Verdi"
+        },
+        {
+        "id": 9,
+        "title": "A terra! ... Sì, nel livido fango (Concertante)",
+        "duration": "06:15",
+        "act": "Acto III",
+        "composer": "Giuseppe Verdi"
+        },
+        {
+        "id": 10,
+        "title": "Mia madre aveva una povera ancella (Canción del Sauce)",
+        "duration": "08:45",
+        "act": "Acto IV",
+        "composer": "Giuseppe Verdi"
+        },
+        {
+        "id": 11,
+        "title": "Ave Maria",
+        "duration": "05:10",
+        "act": "Acto IV",
+        "composer": "Giuseppe Verdi"
+        },
+        {
+        "id": 12,
+        "title": "Niun mi tema (Muerte de Otelo)",
+        "duration": "05:30",
+        "act": "Acto IV",
+        "composer": "Giuseppe Verdi"
+        }
+    ]
+    },
+    {
+    "id": "dg-verdi-requiem-karajan-1985",
+    "section": "1-A",
+    "title": "Verdi: Messa da Requiem",
+    "artist": "Herbert von Karajan (Director), Anna Tomowa-Sintow, Agnes Baltsa, José Carreras, José van Dam & Wiener Philharmoniker",
+    "releaseYear": 1985,
+    "genre": "Música Clásica",
+    "subGenre": "Misa de Réquiem / Sacra",
+    "totalDuration": "1h 28m 10s",
+    "label": "Deutsche Grammophon",
+    "format": "Vinyl / Stereo / Digital Recording / 2 LP Box Set",
+    "catalogNumber": "415 091-1",
+    "coverUrl": "https://m.media-amazon.com/images/I/41179YZf1wL._UF1000,1000_QL80_.jpg",
+    "composers": [
+        "Giuseppe Verdi"
+    ],
+    "tracks": [
+        {
+        "id": 1,
+        "title": "Requiem & Kyrie",
+        "duration": "09:15",
+        "act": "Parte I",
+        "composer": "Giuseppe Verdi"
+        },
+        {
+        "id": 2,
+        "title": "Dies irae: Dies irae (Coro)",
+        "duration": "02:15",
+        "act": "Parte II (Dies irae)",
+        "composer": "Giuseppe Verdi"
+        },
+        {
+        "id": 3,
+        "title": "Dies irae: Tuba mirum",
+        "duration": "01:55",
+        "act": "Parte II (Dies irae)",
+        "composer": "Giuseppe Verdi"
+        },
+        {
+        "id": 4,
+        "title": "Dies irae: Liber scriptus",
+        "duration": "04:50",
+        "act": "Parte II (Dies irae)",
+        "composer": "Giuseppe Verdi"
+        },
+        {
+        "id": 5,
+        "title": "Dies irae: Quid sum miser",
+        "duration": "03:40",
+        "act": "Parte II (Dies irae)",
+        "composer": "Giuseppe Verdi"
+        },
+        {
+        "id": 6,
+        "title": "Dies irae: Rex tremendae",
+        "duration": "03:35",
+        "act": "Parte II (Dies irae)",
+        "composer": "Giuseppe Verdi"
+        },
+        {
+        "id": 7,
+        "title": "Dies irae: Recordare",
+        "duration": "04:05",
+        "act": "Parte II (Dies irae)",
+        "composer": "Giuseppe Verdi"
+        },
+        {
+        "id": 8,
+        "title": "Dies irae: Ingemisco",
+        "duration": "03:40",
+        "act": "Parte II (Dies irae)",
+        "composer": "Giuseppe Verdi"
+        },
+        {
+        "id": 9,
+        "title": "Dies irae: Confutatis & Lacrimosa",
+        "duration": "05:45",
+        "act": "Parte II (Dies irae)",
+        "composer": "Giuseppe Verdi"
+        },
+        {
+        "id": 10,
+        "title": "Offertorio: Domine Jesu Christe",
+        "duration": "10:30",
+        "act": "Parte III",
+        "composer": "Giuseppe Verdi"
+        },
+        {
+        "id": 11,
+        "title": "Sanctus",
+        "duration": "02:40",
+        "act": "Parte IV",
+        "composer": "Giuseppe Verdi"
+        },
+        {
+        "id": 12,
+        "title": "Agnus Dei",
+        "duration": "04:50",
+        "act": "Parte V",
+        "composer": "Giuseppe Verdi"
+        },
+        {
+        "id": 13,
+        "title": "Lux Aeterna",
+        "duration": "06:10",
+        "act": "Parte VI",
+        "composer": "Giuseppe Verdi"
+        },
+        {
+        "id": 14,
+        "title": "Libera me",
+        "duration": "13:20",
+        "act": "Parte VII",
+        "composer": "Giuseppe Verdi"
+        }
+    ]
+    },
+    {
+    "id": "london-verdi-requiem-solti-1968",
+    "section": "1-A",
+    "title": "Verdi: Requiem",
+    "artist": "Sir Georg Solti (Director), Joan Sutherland, Marilyn Horne, Luciano Pavarotti, Martti Talvela & Vienna Philharmonic",
+    "releaseYear": 1968,
+    "genre": "Música Clásica",
+    "subGenre": "Misa de Réquiem / Sacra",
+    "totalDuration": "1h 24m 00s",
+    "label": "London Records / Decca",
+    "format": "Vinyl / Stereo / 2 LP Box Set",
+    "catalogNumber": "OSA 1275",
+    "coverUrl": "https://i.discogs.com/AqQsnyq8lr464k5FB6ogF4noIYiZ4cIpoJKu8xmAU8U/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNzk3/NjA1LTE2NTk1MDUz/NDEtOTY4Mi5qcGVn.jpeg",
+    "composers": [
+        "Giuseppe Verdi"
+    ],
+    "tracks": [
+        {
+        "id": 1,
+        "title": "Requiem & Kyrie",
+        "duration": "09:50",
+        "act": "Parte I",
+        "composer": "Giuseppe Verdi"
+        },
+        {
+        "id": 2,
+        "title": "Dies irae: Dies irae (Coro)",
+        "duration": "02:20",
+        "act": "Parte II (Dies irae)",
+        "composer": "Giuseppe Verdi"
+        },
+        {
+        "id": 3,
+        "title": "Dies irae: Tuba mirum",
+        "duration": "01:50",
+        "act": "Parte II (Dies irae)",
+        "composer": "Giuseppe Verdi"
+        },
+        {
+        "id": 4,
+        "title": "Dies irae: Liber scriptus",
+        "duration": "04:55",
+        "act": "Parte II (Dies irae)",
+        "composer": "Giuseppe Verdi"
+        },
+        {
+        "id": 5,
+        "title": "Dies irae: Quid sum miser",
+        "duration": "03:45",
+        "act": "Parte II (Dies irae)",
+        "composer": "Giuseppe Verdi"
+        },
+        {
+        "id": 6,
+        "title": "Dies irae: Rex tremendae",
+        "duration": "03:30",
+        "act": "Parte II (Dies irae)",
+        "composer": "Giuseppe Verdi"
+        },
+        {
+        "id": 7,
+        "title": "Dies irae: Recordare",
+        "duration": "04:10",
+        "act": "Parte II (Dies irae)",
+        "composer": "Giuseppe Verdi"
+        },
+        {
+        "id": 8,
+        "title": "Dies irae: Ingemisco",
+        "duration": "03:35",
+        "act": "Parte II (Dies irae)",
+        "composer": "Giuseppe Verdi"
+        },
+        {
+        "id": 9,
+        "title": "Dies irae: Confutatis & Lacrimosa",
+        "duration": "05:50",
+        "act": "Parte II (Dies irae)",
+        "composer": "Giuseppe Verdi"
+        },
+        {
+        "id": 10,
+        "title": "Offertorio: Domine Jesu Christe",
+        "duration": "10:15",
+        "act": "Parte III",
+        "composer": "Giuseppe Verdi"
+        },
+        {
+        "id": 11,
+        "title": "Sanctus",
+        "duration": "02:45",
+        "act": "Parte IV",
+        "composer": "Giuseppe Verdi"
+        },
+        {
+        "id": 12,
+        "title": "Agnus Dei",
+        "duration": "04:45",
+        "act": "Parte V",
+        "composer": "Giuseppe Verdi"
+        },
+        {
+        "id": 13,
+        "title": "Lux Aeterna",
+        "duration": "06:20",
+        "act": "Parte VI",
+        "composer": "Giuseppe Verdi"
+        },
+        {
+        "id": 14,
+        "title": "Libera me",
+        "duration": "13:40",
+        "act": "Parte VII",
+        "composer": "Giuseppe Verdi"
+        }
+    ]
+    },
+    {
+    "id": "angel-rigoletto-callas-serafin-1956",
+    "section": "1-A",
+    "title": "Verdi: Rigoletto",
+    "artist": "Tullio Serafin (Director), Maria Callas, Giuseppe Di Stefano, Tito Gobbi & Orchestra del Teatro alla Scala",
+    "releaseYear": 1956,
+    "genre": "Ópera",
+    "subGenre": "Música Clásica / Melodrama",
+    "totalDuration": "1h 58m 00s",
+    "label": "Angel Records / EMI",
+    "format": "Vinyl / Mono / Box Set",
+    "catalogNumber": "3537 5s",
+    "coverUrl": "https://i.discogs.com/54S7U8gbCrC1tkb6YwkZZY9xxJMznRSw2tKER6m0igM/rs:fit/g:sm/q:90/h:521/w:520/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDY4/NTkwLTE1NDc0OTA2/NDQtMTIxNS5qcGVn.jpeg",
+    "composers": [
+        "Giuseppe Verdi",
+        "Francesco Maria Piave (Libreto)"
+    ],
+    "tracks": [
+        {
+        "id": 1,
+        "title": "Preludio & Introduzione",
+        "duration": "04:30",
+        "act": "Acto I",
+        "composer": "Giuseppe Verdi"
+        },
+        {
+        "id": 2,
+        "title": "Questa o quella per me pari sono",
+        "duration": "03:15",
+        "act": "Acto I",
+        "composer": "Giuseppe Verdi"
+        },
+        {
+        "id": 3,
+        "title": "Pari siamo! ... Io la lingua",
+        "duration": "04:20",
+        "act": "Acto I",
+        "composer": "Giuseppe Verdi"
+        },
+        {
+        "id": 4,
+        "title": "Gualtier Maldè... Caro nome che il mio cor",
+        "duration": "06:45",
+        "act": "Acto I",
+        "composer": "Giuseppe Verdi"
+        },
+        {
+        "id": 5,
+        "title": "Ella mi fu rapita... Parmi veder le lagrime",
+        "duration": "05:10",
+        "act": "Acto II",
+        "composer": "Giuseppe Verdi"
+        },
+        {
+        "id": 6,
+        "title": "Cortigiani, vil razza dannata",
+        "duration": "04:30",
+        "act": "Acto II",
+        "composer": "Giuseppe Verdi"
+        },
+        {
+        "id": 7,
+        "title": "Tutte le feste al tempio",
+        "duration": "05:50",
+        "act": "Acto II",
+        "composer": "Giuseppe Verdi"
+        },
+        {
+        "id": 8,
+        "title": "Sì, vendetta, tremenda vendetta",
+        "duration": "02:20",
+        "act": "Acto II",
+        "composer": "Giuseppe Verdi"
+        },
+        {
+        "id": 9,
+        "title": "La donna è mobile",
+        "duration": "02:25",
+        "act": "Acto III",
+        "composer": "Giuseppe Verdi"
+        },
+        {
+        "id": 10,
+        "title": "Un dì, se ben rammentomi... Bella figlia dell'amore (Cuarteto)",
+        "duration": "06:10",
+        "act": "Acto III",
+        "composer": "Giuseppe Verdi"
+        },
+        {
+        "id": 11,
+        "title": "V'ho ingannato... Lassù in cielo (Finale)",
+        "duration": "05:40",
+        "act": "Acto III",
+        "composer": "Giuseppe Verdi"
+        }
+    ]
+    },
+    {
+    "id": "met-ernani-mitropoulos-1956",
+    "section": "1-A",
+    "title": "Verdi: Ernani",
+    "artist": "Dimitri Mitropoulos (Director), Mario Del Monaco, Zinka Milanov, Leonard Warren, Cesare Siepi & Metropolitan Opera Orchestra",
+    "releaseYear": 1956,
+    "genre": "Ópera",
+    "subGenre": "Música Clásica / Drama Lírico",
+    "totalDuration": "2h 08m 00s",
+    "label": "Metropolitan Opera (Live Recording)",
+    "format": "Vinyl / Mono / 3 LP Box Set / Live Broadcast",
+    "catalogNumber": "N/A",
+    "coverUrl": "https://i.discogs.com/AQ2mQs5c4hc8OokvsXRwwfyhUBorSbZ0FtKhdTshHcY/rs:fit/g:sm/q:90/h:576/w:576/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyNDM0/NzktMTQ3NzI0MzI2/Ni00NDUzLmpwZWc.jpeg",
+    "composers": [
+        "Giuseppe Verdi",
+        "Francesco Maria Piave (Libreto)"
+    ],
+    "tracks": [
+        {
+        "id": 1,
+        "title": "Evviva! Beviam! (Coro de bandidos)",
+        "duration": "03:45",
+        "act": "Acto I",
+        "composer": "Giuseppe Verdi"
+        },
+        {
+        "id": 2,
+        "title": "Mercè, diletti amici... Come rugiada al cespite",
+        "duration": "05:10",
+        "act": "Acto I",
+        "composer": "Giuseppe Verdi"
+        },
+        {
+        "id": 3,
+        "title": "Surta è la notte... Ernani! Ernani, involami",
+        "duration": "06:20",
+        "act": "Acto I",
+        "composer": "Giuseppe Verdi"
+        },
+        {
+        "id": 4,
+        "title": "Tutto sprezzo che d'Ernani",
+        "duration": "03:30",
+        "act": "Acto I",
+        "composer": "Giuseppe Verdi"
+        },
+        {
+        "id": 5,
+        "title": "Da quel dì che t'ho veduta",
+        "duration": "04:15",
+        "act": "Acto I (Finale)",
+        "composer": "Giuseppe Verdi"
+        },
+        {
+        "id": 6,
+        "title": "Esultiamo! Letizia ne inondi",
+        "duration": "02:50",
+        "act": "Acto II",
+        "composer": "Giuseppe Verdi"
+        },
+        {
+        "id": 7,
+        "title": "Oro, quant'oro ognuno avido",
+        "duration": "03:10",
+        "act": "Acto II",
+        "composer": "Giuseppe Verdi"
+        },
+        {
+        "id": 8,
+        "title": "Vieni meco, sol di rose",
+        "duration": "04:00",
+        "act": "Acto II",
+        "composer": "Giuseppe Verdi"
+        },
+        {
+        "id": 9,
+        "title": "Lo vedrem, o veglio audace",
+        "duration": "03:45",
+        "act": "Acto II",
+        "composer": "Giuseppe Verdi"
+        },
+        {
+        "id": 10,
+        "title": "È questo il loco? (Conspiración)",
+        "duration": "05:20",
+        "act": "Acto III",
+        "composer": "Giuseppe Verdi"
+        },
+        {
+        "id": 11,
+        "title": "Si ridesti il Leon di Castiglia",
+        "duration": "02:30",
+        "act": "Acto III",
+        "composer": "Giuseppe Verdi"
+        },
+        {
+        "id": 12,
+        "title": "O sommo Carlo (Concertante)",
+        "duration": "04:40",
+        "act": "Acto III",
+        "composer": "Giuseppe Verdi"
+        },
+        {
+        "id": 13,
+        "title": "Oura veglia, o donna",
+        "duration": "03:15",
+        "act": "Acto IV",
+        "composer": "Giuseppe Verdi"
+        },
+        {
+        "id": 14,
+        "title": "Solingo, errante, misero (Finale)",
+        "duration": "06:10",
+        "act": "Acto IV",
+        "composer": "Giuseppe Verdi"
+        }
+    ]
+    },
+    {
+    "id": "angel-rigoletto-highlights-molinari-1968",
+    "section": "1-A",
+    "title": "Verdi: Rigoletto (Highlights)",
+    "artist": "Francesco Molinari-Pradelli (Director), Cornell MacNeil, Reri Grist, Nicolai Gedda & Orchestra of the Opera House, Rome",
+    "releaseYear": 1968,
+    "genre": "Ópera",
+    "subGenre": "Música Clásica / Highlights (Selección)",
+    "totalDuration": "52m 15s",
+    "label": "Angel Records",
+    "format": "Vinyl / Stereo / LP (Highlights)",
+    "catalogNumber": "S-36730",
+    "coverUrl": "https://i.ebayimg.com/images/g/u7MAAOSw8Dlmhsq0/s-l1200.png",
+    "composers": [
+        "Giuseppe Verdi",
+        "Francesco Maria Piave (Libreto)"
+    ],
+    "tracks": [
+        {
+        "id": 1,
+        "title": "Preludio & Questa o quella",
+        "duration": "05:10",
+        "act": "Acto I",
+        "composer": "Giuseppe Verdi"
+        },
+        {
+        "id": 2,
+        "title": "Pari siamo! (Monólogo)",
+        "duration": "03:45",
+        "act": "Acto I",
+        "composer": "Giuseppe Verdi"
+        },
+        {
+        "id": 3,
+        "title": "Figlia! Mio padre! (Dúo)",
+        "duration": "06:20",
+        "act": "Acto I",
+        "composer": "Giuseppe Verdi"
+        },
+        {
+        "id": 4,
+        "title": "Gualtier Maldè... Caro nome",
+        "duration": "06:50",
+        "act": "Acto I",
+        "composer": "Giuseppe Verdi"
+        },
+        {
+        "id": 5,
+        "title": "Cortigiani, vil razza dannata",
+        "duration": "04:35",
+        "act": "Acto II",
+        "composer": "Giuseppe Verdi"
+        },
+        {
+        "id": 6,
+        "title": "Tutte le feste al tempio... Sì, vendetta",
+        "duration": "07:15",
+        "act": "Acto II",
+        "composer": "Giuseppe Verdi"
+        },
+        {
+        "id": 7,
+        "title": "La donna è mobile",
+        "duration": "02:20",
+        "act": "Acto III",
+        "composer": "Giuseppe Verdi"
+        },
+        {
+        "id": 8,
+        "title": "Bella figlia dell'amore (Cuarteto)",
+        "duration": "04:10",
+        "act": "Acto III",
+        "composer": "Giuseppe Verdi"
+        },
+        {
+        "id": 9,
+        "title": "Lassù in cielo (Finale)",
+        "duration": "05:30",
+        "act": "Acto III",
+        "composer": "Giuseppe Verdi"
+        }
+    ]
+    },
+    {
+    "id": "dg-verdi-overtures-karajan-1976",
+    "section": "1-A",
+    "title": "Verdi: Ouvertüren (Overtures & Preludes)",
+    "artist": "Herbert von Karajan (Director) & Berliner Philharmoniker",
+    "releaseYear": 1976,
+    "genre": "Música Clásica",
+    "subGenre": "Orquestal / Oberturas",
+    "totalDuration": "51m 30s",
+    "label": "Deutsche Grammophon",
+    "format": "Vinyl / Stereo / LP",
+    "catalogNumber": "2531 145",
+    "coverUrl": "https://i.discogs.com/707E5YgMrbVLX_0F64SLCkdr61wLj0z6tYmGCDaECAA/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwMzk0/ODYtMTQ2MTMyNjky/MC0zNzI2LmpwZWc.jpeg",
+    "composers": [
+        "Giuseppe Verdi"
+    ],
+    "tracks": [
+        {
+        "id": 1,
+        "title": "Nabucco: Sinfonia (Obertura)",
+        "duration": "07:55",
+        "act": "Lado A",
+        "composer": "Giuseppe Verdi"
+        },
+        {
+        "id": 2,
+        "title": "Macbeth: Preludio",
+        "duration": "03:15",
+        "act": "Lado A",
+        "composer": "Giuseppe Verdi"
+        },
+        {
+        "id": 3,
+        "title": "Il Corsaro: Sinfonia (Obertura)",
+        "duration": "03:40",
+        "act": "Lado A",
+        "composer": "Giuseppe Verdi"
+        },
+        {
+        "id": 4,
+        "title": "Luisa Miller: Sinfonia (Obertura)",
+        "duration": "05:50",
+        "act": "Lado A",
+        "composer": "Giuseppe Verdi"
+        },
+        {
+        "id": 5,
+        "title": "Rigoletto: Preludio",
+        "duration": "02:35",
+        "act": "Lado A",
+        "composer": "Giuseppe Verdi"
+        },
+        {
+        "id": 6,
+        "title": "La Traviata: Preludio (Acto I)",
+        "duration": "03:50",
+        "act": "Lado B",
+        "composer": "Giuseppe Verdi"
+        },
+        {
+        "id": 7,
+        "title": "I Vespri Siciliani: Sinfonia (Obertura)",
+        "duration": "09:00",
+        "act": "Lado B",
+        "composer": "Giuseppe Verdi"
+        },
+        {
+        "id": 8,
+        "title": "Un Ballo in Maschera: Preludio (Acto I)",
+        "duration": "04:15",
+        "act": "Lado B",
+        "composer": "Giuseppe Verdi"
+        },
+        {
+        "id": 9,
+        "title": "La Forza del Destino: Sinfonia (Obertura)",
+        "duration": "07:35",
+        "act": "Lado B",
+        "composer": "Giuseppe Verdi"
+        },
+        {
+        "id": 10,
+        "title": "Aida: Preludio (Acto I)",
+        "duration": "03:45",
+        "act": "Lado B",
+        "composer": "Giuseppe Verdi"
+        }
+    ]
+    },
+    {
+    "id": "vanguard-srv213-tartini-vol1",
+    "section": "1-A",
+    "title": "Violin Concertos of Giuseppe Tartini (1692-1770) Volume 1",
+    "artist": "André Gertler (Violin), Edmond de Stoutz (Conductor) & Zurich Chamber Orchestra",
+    "releaseYear": 1966,
+    "genre": "Música Clásica",
+    "subGenre": "Barroco / Concierto para Violín",
+    "totalDuration": "56m 00s",
+    "label": "Vanguard Everyman Classics",
+    "format": "Vinyl / Stereo / LP",
+    "catalogNumber": "SRV-213",
+    "coverUrl": "https://i.discogs.com/l2VOaEKEJ19vcisA7mGWYcmT48mRTqI-I41cPioQizg/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzE5/NDY4LTE1NTk2ODc3/NzktODgyNy5qcGVn.jpeg",
+    "composers": [
+        "Giuseppe Tartini"
+    ],
+    "tracks": [
+        {
+        "id": 1,
+        "title": "Concerto in E major, D. 53",
+        "duration": "14:00",
+        "act": "Lado A",
+        "composer": "Giuseppe Tartini"
+        },
+        {
+        "id": 2,
+        "title": "Concerto in F major, D. 68",
+        "duration": "13:20",
+        "act": "Lado A",
+        "composer": "Giuseppe Tartini"
+        },
+        {
+        "id": 3,
+        "title": "Concerto in G major, D. 83",
+        "duration": "13:40",
+        "act": "Lado B",
+        "composer": "Giuseppe Tartini"
+        },
+        {
+        "id": 4,
+        "title": "Concerto in D major, D. 24",
+        "duration": "15:00",
+        "act": "Lado B",
+        "composer": "Giuseppe Tartini"
+        }
+    ]
+    },
+    {
+    "id": "dg-orpheus-fricsay-1957",
+    "section": "1-A",
+    "title": "Gluck: Orpheus und Eurydike (Orfeo ed Euridice)",
+    "artist": "Ferenc Fricsay (Director), Dietrich Fischer-Dieskau, Maria Stader, Rita Streich & RIAS Symphonie-Orchester Berlin",
+    "releaseYear": 1957,
+    "genre": "Ópera",
+    "subGenre": "Música Clásica / Reform Opera",
+    "totalDuration": "1h 50m 00s",
+    "label": "Deutsche Grammophon Gesellschaft",
+    "format": "Vinyl / Mono / 2 LP Box Set",
+    "catalogNumber": "LPM 18 343/44",
+    "coverUrl": "https://image1.shopserve.jp/lpshop-b-platte.com/pic-labo/llimg/3623201.jpg?t=20240620023820",
+    "composers": [
+        "Christoph Willibald Gluck",
+        "Ranieri de' Calzabigi (Libreto)"
+    ],
+    "tracks": [
+        {
+        "id": 1,
+        "title": "Ouvertüre",
+        "duration": "03:20",
+        "act": "Acto I",
+        "composer": "Christoph Willibald Gluck"
+        },
+        {
+        "id": 2,
+        "title": "So klag' ich ihren Tod (Chiamo il mio ben così)",
+        "duration": "04:15",
+        "act": "Acto I",
+        "composer": "Christoph Willibald Gluck"
+        },
+        {
+        "id": 3,
+        "title": "Ballo (Danza de las Furias)",
+        "duration": "04:00",
+        "act": "Acto II",
+        "composer": "Christoph Willibald Gluck"
+        },
+        {
+        "id": 4,
+        "title": "Reigen seliger Geister (Danza de los Espíritus Bienaventurados)",
+        "duration": "06:30",
+        "act": "Acto II",
+        "composer": "Christoph Willibald Gluck"
+        },
+        {
+        "id": 5,
+        "title": "Welch reiner Himmel (Che puro ciel)",
+        "duration": "04:45",
+        "act": "Acto II",
+        "composer": "Christoph Willibald Gluck"
+        },
+        {
+        "id": 6,
+        "title": "Ach, ich habe sie verloren (Che farò senza Euridice)",
+        "duration": "04:30",
+        "act": "Acto III",
+        "composer": "Christoph Willibald Gluck"
+        },
+        {
+        "id": 7,
+        "title": "Triumph ist dein, o Amor (Finale)",
+        "duration": "03:10",
+        "act": "Acto III",
+        "composer": "Christoph Willibald Gluck"
+        }
+    ]
+    },
+    {
+    "id": "dg-brahms-requiem-lehmann-1955",
+    "section": "1-A",
+    "title": "Brahms: Ein Deutsches Requiem (A German Requiem)",
+    "artist": "Fritz Lehmann (Director), Maria Stader, Otto Wiener, Chor der St. Hedwig-Kathedrale & Berliner Philharmoniker",
+    "releaseYear": 1955,
+    "genre": "Música Clásica",
+    "subGenre": "Réquiem / Coral",
+    "totalDuration": "1h 12m 00s",
+    "label": "Deutsche Grammophon Gesellschaft",
+    "format": "Vinyl / Mono / LP Box Set",
+    "catalogNumber": "LPM 18258/59",
+    "coverUrl": "https://m.media-amazon.com/images/I/41x32+Qv-6L._UF894,1000_QL80_.jpg",
+    "composers": [
+        "Johannes Brahms"
+    ],
+    "tracks": [
+        {
+        "id": 1,
+        "title": "Selig sind, die da Leid tragen",
+        "duration": "09:50",
+        "act": "I. Coro",
+        "composer": "Johannes Brahms"
+        },
+        {
+        "id": 2,
+        "title": "Denn alles Fleisch, es ist wie Gras",
+        "duration": "14:15",
+        "act": "II. Coro",
+        "composer": "Johannes Brahms"
+        },
+        {
+        "id": 3,
+        "title": "Herr, lehre doch mich",
+        "duration": "08:40",
+        "act": "III. Barítono y Coro",
+        "composer": "Johannes Brahms"
+        },
+        {
+        "id": 4,
+        "title": "Wie lieblich sind deine Wohnungen",
+        "duration": "05:55",
+        "act": "IV. Coro",
+        "composer": "Johannes Brahms"
+        },
+        {
+        "id": 5,
+        "title": "Ihr habt nun Traurigkeit",
+        "duration": "06:30",
+        "act": "V. Soprano y Coro",
+        "composer": "Johannes Brahms"
+        },
+        {
+        "id": 6,
+        "title": "Denn wir haben hie keine bleibende Statt",
+        "duration": "11:10",
+        "act": "VI. Barítono y Coro",
+        "composer": "Johannes Brahms"
+        },
+        {
+        "id": 7,
+        "title": "Selig sind die Toten",
+        "duration": "10:20",
+        "act": "VII. Coro",
+        "composer": "Johannes Brahms"
+        }
+    ]
+    },
+    {
+    "id": "accent-parnassus-ensemble-1978",
+    "section": "1-A",
+    "title": "Parnassus Ensemble: Telemann, Händel, Galuppi, Janitsch, J.C. Bach",
+    "artist": "Parnassus Ensemble (Barthold Kuijken, Janneke van der Meer, Paul Dombrecht, Richte van der Meer, Johan Huys)",
+    "releaseYear": 1978,
+    "genre": "Música Clásica",
+    "subGenre": "Barroco / Música de Cámara",
+    "totalDuration": "56m 50s",
+    "label": "Accent",
+    "format": "Vinyl / Stereo / LP",
+    "catalogNumber": "ACC 7806",
+    "coverUrl": "https://www.lpshop-b-platte.com/pic-labo/3427115.jpg",
+    "composers": [
+        "Georg Philipp Telemann",
+        "Georg Friedrich Händel",
+        "Baldassare Galuppi",
+        "Johann Gottlieb Janitsch",
+        "Johann Christian Bach"
+    ],
+    "tracks": [
+        {
+        "id": 1,
+        "title": "Triosonate in G minor: I. Mesto",
+        "duration": "01:50",
+        "act": "Telemann",
+        "composer": "Georg Philipp Telemann"
+        },
+        {
+        "id": 2,
+        "title": "Triosonate in G minor: II. Allegro",
+        "duration": "01:45",
+        "act": "Telemann",
+        "composer": "Georg Philipp Telemann"
+        },
+        {
+        "id": 3,
+        "title": "Triosonate in G minor: III. Andante",
+        "duration": "01:30",
+        "act": "Telemann",
+        "composer": "Georg Philipp Telemann"
+        },
+        {
+        "id": 4,
+        "title": "Triosonate in G minor: IV. Vivace",
+        "duration": "01:46",
+        "act": "Telemann",
+        "composer": "Georg Philipp Telemann"
+        },
+        {
+        "id": 5,
+        "title": "Concerto a quattro in D minor: I. Adagio",
+        "duration": "01:55",
+        "act": "Händel",
+        "composer": "Georg Friedrich Händel"
+        },
+        {
+        "id": 6,
+        "title": "Concerto a quattro in D minor: II. Allegro",
+        "duration": "03:10",
+        "act": "Händel",
+        "composer": "Georg Friedrich Händel"
+        },
+        {
+        "id": 7,
+        "title": "Concerto a quattro in D minor: III. Largo",
+        "duration": "02:20",
+        "act": "Händel",
+        "composer": "Georg Friedrich Händel"
+        },
+        {
+        "id": 8,
+        "title": "Concerto a quattro in D minor: IV. Allegro",
+        "duration": "03:09",
+        "act": "Händel",
+        "composer": "Georg Friedrich Händel"
+        },
+        {
+        "id": 9,
+        "title": "Sonata in G major: I. Allegro moderato",
+        "duration": "03:50",
+        "act": "Galuppi",
+        "composer": "Baldassare Galuppi"
+        },
+        {
+        "id": 10,
+        "title": "Sonata in G major: II. Andante",
+        "duration": "02:45",
+        "act": "Galuppi",
+        "composer": "Baldassare Galuppi"
+        },
+        {
+        "id": 11,
+        "title": "Sonata in G major: III. Allegro",
+        "duration": "03:16",
+        "act": "Galuppi",
+        "composer": "Baldassare Galuppi"
+        },
+        {
+        "id": 12,
+        "title": "Quartet in F major: I. Adagio ma non troppo",
+        "duration": "04:20",
+        "act": "Janitsch",
+        "composer": "Johann Gottlieb Janitsch"
+        },
+        {
+        "id": 13,
+        "title": "Quartet in F major: II. Allegro non tanto",
+        "duration": "05:10",
+        "act": "Janitsch",
+        "composer": "Johann Gottlieb Janitsch"
+        },
+        {
+        "id": 14,
+        "title": "Quartet in F major: III. Allegretto",
+        "duration": "04:19",
+        "act": "Janitsch",
+        "composer": "Johann Gottlieb Janitsch"
+        },
+        {
+        "id": 15,
+        "title": "Quintet in D major: I. Allegro",
+        "duration": "06:10",
+        "act": "J.C. Bach",
+        "composer": "Johann Christian Bach"
+        },
+        {
+        "id": 16,
+        "title": "Quintet in D major: II. Andantino",
+        "duration": "04:20",
+        "act": "J.C. Bach",
+        "composer": "Johann Christian Bach"
+        },
+        {
+        "id": 17,
+        "title": "Quintet in D major: III. Allegro assai",
+        "duration": "05:15",
+        "act": "J.C. Bach",
+        "composer": "Johann Christian Bach"
+        }
+    ]
+    },
+    {
+    "id": "hungaroton-slpx-12380-telemann-parisian",
+    "section": "1-A",
+    "title": "Telemann: Parisian Quartets Nos. 1, 3, 4, 5",
+    "artist": "Dénes Kovács (Violin), Hungarian Baroque Trio & Ottó Nagy (Viola da gamba)",
+    "releaseYear": 1982,
+    "genre": "Música Clásica",
+    "subGenre": "Barroco / Cámara",
+    "totalDuration": "55m 00s",
+    "label": "Hungaroton",
+    "format": "Vinyl / Stereo / LP",
+    "catalogNumber": "SLPX 12380",
+    "coverUrl": "https://i.discogs.com/NuSspF3gOjUbeCvn3S2KMGJdEmgoIrEFGLzh7Ox1JQ4/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NjIz/Nzg2LTE3MDY0NDEx/NDItODI1Mi5qcGVn.jpeg",
+    "composers": [
+        "Georg Philipp Telemann"
+    ],
+    "tracks": [
+        {
+        "id": 1,
+        "title": "Concerto No. 1 in G major (Quadri)",
+        "duration": "11:40",
+        "act": "Lado A",
+        "composer": "Georg Philipp Telemann"
+        },
+        {
+        "id": 2,
+        "title": "Sonata No. 1 in A major (Quadri)",
+        "duration": "12:30",
+        "act": "Lado A",
+        "composer": "Georg Philipp Telemann"
+        },
+        {
+        "id": 3,
+        "title": "Sonata No. 2 in G minor (Quadri)",
+        "duration": "12:00",
+        "act": "Lado B",
+        "composer": "Georg Philipp Telemann"
+        },
+        {
+        "id": 4,
+        "title": "Suite No. 1 in E minor (Quadri)",
+        "duration": "18:40",
+        "act": "Lado B",
+        "composer": "Georg Philipp Telemann"
+        }
+    ]
+    },
+    {
+    "id": "dg-orpheus-fricsay-1957",
+    "section": "1-A",
+    "title": "Gluck: Orpheus und Eurydike (Orfeo ed Euridice)",
+    "artist": "Ferenc Fricsay (Director), Dietrich Fischer-Dieskau, Maria Stader, Rita Streich & RIAS Symphonie-Orchester Berlin",
+    "releaseYear": 1957,
+    "genre": "Ópera",
+    "subGenre": "Música Clásica / Reform Opera",
+    "totalDuration": "1h 50m 00s",
+    "label": "Deutsche Grammophon Gesellschaft",
+    "format": "Vinyl / Mono / 2 LP Box Set",
+    "catalogNumber": "LPM 18 343/44",
+    "coverUrl": "https://i.discogs.com/NuSspF3gOjUbeCvn3S2KMGJdEmgoIrEFGLzh7Ox1JQ4/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NjIz/Nzg2LTE3MDY0NDEx/NDItODI1Mi5qcGVn.jpeg",
+    "composers": [
+        "Christoph Willibald Gluck",
+        "Ranieri de' Calzabigi (Libreto)"
+    ],
+    "tracks": [
+        {
+        "id": 1,
+        "title": "Ouvertüre",
+        "duration": "03:20",
+        "act": "Acto I",
+        "composer": "Christoph Willibald Gluck"
+        },
+        {
+        "id": 2,
+        "title": "So klag' ich ihren Tod (Chiamo il mio ben così)",
+        "duration": "04:15",
+        "act": "Acto I",
+        "composer": "Christoph Willibald Gluck"
+        },
+        {
+        "id": 3,
+        "title": "Reigen seliger Geister (Danza de los Espíritus)",
+        "duration": "06:30",
+        "act": "Acto II",
+        "composer": "Christoph Willibald Gluck"
+        },
+        {
+        "id": 4,
+        "title": "Welch reiner Himmel (Che puro ciel)",
+        "duration": "04:45",
+        "act": "Acto II",
+        "composer": "Christoph Willibald Gluck"
+        },
+        {
+        "id": 5,
+        "title": "Ach, ich habe sie verloren (Che farò senza Euridice)",
+        "duration": "04:30",
+        "act": "Acto III",
+        "composer": "Christoph Willibald Gluck"
+        }
+    ]
+    },
+    {
+    "id": "angel-rigoletto-callas-serafin-1956",
+    "section": "1-A",
+    "title": "Verdi: Rigoletto",
+    "artist": "Tullio Serafin (Director), Maria Callas, Giuseppe Di Stefano, Tito Gobbi & Orchestra del Teatro alla Scala",
+    "releaseYear": 1956,
+    "genre": "Ópera",
+    "subGenre": "Música Clásica / Melodrama",
+    "totalDuration": "1h 58m 00s",
+    "label": "Angel Records",
+    "format": "Vinyl / Mono / Box Set",
+    "catalogNumber": "3537 5s",
+    "coverUrl": "https://i.discogs.com/NuSspF3gOjUbeCvn3S2KMGJdEmgoIrEFGLzh7Ox1JQ4/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NjIz/Nzg2LTE3MDY0NDEx/NDItODI1Mi5qcGVn.jpeg",
+    "composers": [
+        "Giuseppe Verdi",
+        "Francesco Maria Piave (Libreto)"
+    ],
+    "tracks": [
+        {
+        "id": 1,
+        "title": "Questa o quella",
+        "duration": "03:15",
+        "act": "Acto I",
+        "composer": "Giuseppe Verdi"
+        },
+        {
+        "id": 2,
+        "title": "Pari siamo!",
+        "duration": "04:20",
+        "act": "Acto I",
+        "composer": "Giuseppe Verdi"
+        },
+        {
+        "id": 3,
+        "title": "Caro nome",
+        "duration": "06:45",
+        "act": "Acto I",
+        "composer": "Giuseppe Verdi"
+        },
+        {
+        "id": 4,
+        "title": "Cortigiani, vil razza dannata",
+        "duration": "04:30",
+        "act": "Acto II",
+        "composer": "Giuseppe Verdi"
+        },
+        {
+        "id": 5,
+        "title": "La donna è mobile",
+        "duration": "02:25",
+        "act": "Acto III",
+        "composer": "Giuseppe Verdi"
+        },
+        {
+        "id": 6,
+        "title": "Bella figlia dell'amore (Cuarteto)",
+        "duration": "06:10",
+        "act": "Acto III",
+        "composer": "Giuseppe Verdi"
+        }
+    ]
+    },
+    {
+    "id": "met-ernani-mitropoulos-1956",
+    "section": "1-A",
+    "title": "Verdi: Ernani",
+    "artist": "Dimitri Mitropoulos (Director), Mario Del Monaco, Zinka Milanov, Leonard Warren, Cesare Siepi & Metropolitan Opera Orchestra",
+    "releaseYear": 1956,
+    "genre": "Ópera",
+    "subGenre": "Música Clásica / Drama Lírico",
+    "totalDuration": "2h 08m 00s",
+    "label": "Metropolitan Opera (Live Recording)",
+    "format": "Vinyl / Mono / 3 LP Box Set",
+    "catalogNumber": "N/A",
+    "coverUrl": "https://i.discogs.com/NuSspF3gOjUbeCvn3S2KMGJdEmgoIrEFGLzh7Ox1JQ4/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NjIz/Nzg2LTE3MDY0NDEx/NDItODI1Mi5qcGVn.jpeg",
+    "composers": [
+        "Giuseppe Verdi"
+    ],
+    "tracks": [
+        {
+        "id": 1,
+        "title": "Ernani! Ernani, involami",
+        "duration": "06:20",
+        "act": "Acto I",
+        "composer": "Giuseppe Verdi"
+        },
+        {
+        "id": 2,
+        "title": "O sommo Carlo",
+        "duration": "04:40",
+        "act": "Acto III",
+        "composer": "Giuseppe Verdi"
+        },
+        {
+        "id": 3,
+        "title": "Solingo, errante, misero",
+        "duration": "06:10",
+        "act": "Acto IV",
+        "composer": "Giuseppe Verdi"
+        }
+    ]
+    },
+    {
+    "id": "dg-brahms-requiem-lehmann-1955",
+    "section": "1-A",
+    "title": "Brahms: Ein Deutsches Requiem",
+    "artist": "Fritz Lehmann (Director), Maria Stader, Otto Wiener & Berliner Philharmoniker",
+    "releaseYear": 1955,
+    "genre": "Música Clásica",
+    "subGenre": "Réquiem / Coral",
+    "totalDuration": "1h 12m 00s",
+    "label": "Deutsche Grammophon Gesellschaft",
+    "format": "Vinyl / Mono / LP Box Set",
+    "catalogNumber": "LPM 18258/59",
+    "coverUrl": "https://i.discogs.com/NuSspF3gOjUbeCvn3S2KMGJdEmgoIrEFGLzh7Ox1JQ4/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NjIz/Nzg2LTE3MDY0NDEx/NDItODI1Mi5qcGVn.jpeg",
+    "composers": [
+        "Johannes Brahms"
+    ],
+    "tracks": [
+        {
+        "id": 1,
+        "title": "Selig sind, die da Leid tragen",
+        "duration": "09:50",
+        "act": "I. Coro",
+        "composer": "Johannes Brahms"
+        },
+        {
+        "id": 2,
+        "title": "Denn alles Fleisch, es ist wie Gras",
+        "duration": "14:15",
+        "act": "II. Coro",
+        "composer": "Johannes Brahms"
+        },
+        {
+        "id": 3,
+        "title": "Wie lieblich sind deine Wohnungen",
+        "duration": "05:55",
+        "act": "IV. Coro",
+        "composer": "Johannes Brahms"
+        }
+    ]
+    },
+    {
+    "id": "accent-parnassus-ensemble-1978",
+    "section": "1-A",
+    "title": "Parnassus Ensemble: Telemann, Händel, Galuppi, Janitsch, J.C. Bach",
+    "artist": "Parnassus Ensemble (Barthold Kuijken, Paul Dombrecht, etc.)",
+    "releaseYear": 1978,
+    "genre": "Música Clásica",
+    "subGenre": "Barroco / Música de Cámara",
+    "totalDuration": "56m 50s",
+    "label": "Accent",
+    "format": "Vinyl / Stereo / LP",
+    "catalogNumber": "ACC 7806",
+    "coverUrl": "https://i.discogs.com/NuSspF3gOjUbeCvn3S2KMGJdEmgoIrEFGLzh7Ox1JQ4/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NjIz/Nzg2LTE3MDY0NDEx/NDItODI1Mi5qcGVn.jpeg",
+    "composers": [
+        "Georg Philipp Telemann",
+        "Georg Friedrich Händel"
+    ],
+    "tracks": [
+        {
+        "id": 1,
+        "title": "Triosonate in G minor (Telemann)",
+        "duration": "06:50",
+        "act": "Lado A",
+        "composer": "Georg Philipp Telemann"
+        },
+        {
+        "id": 2,
+        "title": "Concerto a quattro in D minor (Händel)",
+        "duration": "10:34",
+        "act": "Lado A",
+        "composer": "Georg Friedrich Händel"
+        },
+        {
+        "id": 3,
+        "title": "Quintet in D major (J.C. Bach)",
+        "duration": "15:45",
+        "act": "Lado B",
+        "composer": "Johann Christian Bach"
+        }
+    ]
+    },
+    {
+    "id": "telefunken-telemann-pariser-146",
+    "section": "1-A",
+    "title": "Telemann: Pariser Quartette 1 · 4 · 6 (1733)",
+    "artist": "Quadro Amsterdam (Frans Brüggen, Jaap Schröder, Anner Bylsma, Gustav Leonhardt)",
+    "releaseYear": 1967,
+    "genre": "Música Clásica",
+    "subGenre": "Barroco / Cámara",
+    "totalDuration": "48m 20s",
+    "label": "Telefunken / Das Alte Werk",
+    "format": "Vinyl / Stereo / LP",
+    "catalogNumber": "SAWT 9448",
+    "coverUrl": "https://i.discogs.com/Yxj5xq5P9idBqZs7ib7UN05ZHt14GbP4_JOxxpecBPk/rs:fit/g:sm/q:90/h:583/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTA0/MTU0LTE1MTQyMTEx/MTYtOTI5NS5qcGVn.jpeg",
+    "composers": [
+        "Georg Philipp Telemann"
+    ],
+    "tracks": [
+        {
+        "id": 1,
+        "title": "Concerto I in G Major (Quartet No. 1)",
+        "duration": "10:45",
+        "act": "Lado A",
+        "composer": "Georg Philipp Telemann"
+        },
+        {
+        "id": 2,
+        "title": "Sonata II in G Minor (Quartet No. 4)",
+        "duration": "11:30",
+        "act": "Lado A",
+        "composer": "Georg Philipp Telemann"
+        },
+        {
+        "id": 3,
+        "title": "Suite II in B Minor (Quartet No. 6)",
+        "duration": "24:10",
+        "act": "Lado B",
+        "composer": "Georg Philipp Telemann"
+        }
+    ]
+    },
+    {
+    "id": "emi-angel-telemann-paris-7-9-savall-1979",
+    "section": "1-A",
+    "title": "Telemann: 'Paris' Quartets Nos. 7-9 (Nouveaux Quatuors)",
+    "artist": "Hans-Martin Linde, Lucy van Dael, Jordi Savall, Alan Curtis & Pere Ros",
+    "releaseYear": 1979,
+    "genre": "Música Clásica",
+    "subGenre": "Barroco / Cámara",
+    "totalDuration": "51m 15s",
+    "label": "EMI Angel / Musica Prae Classica",
+    "format": "Vinyl / Stereo / LP",
+    "catalogNumber": "S-3750",
+    "coverUrl": "https://i.discogs.com/oeZAYmDY9lfieyGPaK-uKqm8lwkQg-yqYuGNrDnewV8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxMDU1/MjYtMTQ1NTM1MDM3/MS0zNzA3LmpwZWc.jpeg",
+    "composers": [
+        "Georg Philipp Telemann"
+    ],
+    "tracks": [
+        {
+        "id": 1,
+        "title": "Quartet No. 7 in D Major (Nouveau Quatuor No. 1)",
+        "duration": "16:45",
+        "act": "Lado A",
+        "composer": "Georg Philipp Telemann"
+        },
+        {
+        "id": 2,
+        "title": "Quartet No. 8 in A Minor (Nouveau Quatuor No. 2)",
+        "duration": "15:30",
+        "act": "Lado B",
+        "composer": "Georg Philipp Telemann"
+        },
+        {
+        "id": 3,
+        "title": "Quartet No. 9 in G Major (Nouveau Quatuor No. 3)",
+        "duration": "18:20",
+        "act": "Lado B",
+        "composer": "Georg Philipp Telemann"
+        }
+    ]
+    },
+    {
+    "id": "archiv-arc3198-telemann-water-music",
+    "section": "1-A",
+    "title": "Telemann: Water-Music 'Hamburger Ebb und Fluht' & Chamber Music",
+    "artist": "August Wenzinger (Conductor), Schola Cantorum Basiliensis & Nuremberg Chamber Music Ensemble",
+    "releaseYear": 1962,
+    "genre": "Música Clásica",
+    "subGenre": "Barroco / Suite Orquestal",
+    "totalDuration": "49m 10s",
+    "label": "Archive Production",
+    "format": "Vinyl / Mono / LP",
+    "catalogNumber": "ARC 3198",
+    "coverUrl": "https://1265745076.rsc.cdn77.org/1024/jpg/80337-67abb0a90ed09.jpg",
+    "composers": [
+        "Georg Philipp Telemann"
+    ],
+    "tracks": [
+        {
+        "id": 1,
+        "title": "Water-Music 'Hamburger Ebb und Fluht': Overture in C Major",
+        "duration": "24:15",
+        "act": "Lado A (Orquestal)",
+        "composer": "Georg Philipp Telemann"
+        },
+        {
+        "id": 2,
+        "title": "Suite No. 6 in D Minor for Oboe, Violin and Continuo",
+        "duration": "08:30",
+        "act": "Lado B (Cámara)",
+        "composer": "Georg Philipp Telemann"
+        },
+        {
+        "id": 3,
+        "title": "Concerto No. 3 in A Major for Flute, Harpsichord and Continuo",
+        "duration": "07:45",
+        "act": "Lado B (Cámara)",
+        "composer": "Georg Philipp Telemann"
+        },
+        {
+        "id": 4,
+        "title": "Trio Sonata in E Flat Major for Oboe, Harpsichord and Continuo",
+        "duration": "08:40",
+        "act": "Lado B (Cámara)",
+        "composer": "Georg Philipp Telemann"
+        }
+    ]
+    },
+    {
+    "id": "emi-angel-telemann-paris-7-9-savall-1979",
+    "section": "1-A",
+    "title": "Telemann: 'Paris' Quartets Nos. 7-9 (Nouveaux Quatuors)",
+    "artist": "Hans-Martin Linde, Lucy van Dael, Jordi Savall, Alan Curtis & Pere Ros",
+    "releaseYear": 1979,
+    "genre": "Música Clásica",
+    "subGenre": "Barroco / Cámara",
+    "totalDuration": "51m 15s",
+    "label": "EMI Angel / Musica Prae Classica",
+    "format": "Vinyl / Stereo / LP",
+    "catalogNumber": "S-3750",
+    "coverUrl": "https://i.discogs.com/73XgFB93phT2qZSS2CoYvrapywgL_Yk9mmfAoIC9LFQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjMy/ODExLTE1MTk3NTA1/MjQtNDc1NC5qcGVn.jpeg",
+    "composers": [
+        "Georg Philipp Telemann"
+    ],
+    "tracks": [
+        {
+        "id": 1,
+        "title": "Quartet No. 7 in D Major (Nouveau Quatuor No. 1)",
+        "duration": "16:45",
+        "act": "Lado A",
+        "composer": "Georg Philipp Telemann"
+        },
+        {
+        "id": 2,
+        "title": "Quartet No. 8 in A Minor (Nouveau Quatuor No. 2)",
+        "duration": "15:30",
+        "act": "Lado B",
+        "composer": "Georg Philipp Telemann"
+        },
+        {
+        "id": 3,
+        "title": "Quartet No. 9 in G Major (Nouveau Quatuor No. 3)",
+        "duration": "18:20",
+        "act": "Lado B",
+        "composer": "Georg Philipp Telemann"
+        }
+    ]
+    },
+    {
+    "id": "philips-telemann-oboe-holliger-1979",
+    "section": "1-A",
+    "title": "Telemann: Works for Oboe (Oboenwerke)",
+    "artist": "Heinz Holliger (Oboe), Christiane Jaccottet, Nicole Hostettler, Philippe Mermoud & Manfred Sax",
+    "releaseYear": 1979,
+    "genre": "Música Clásica",
+    "subGenre": "Barroco / Música de Cámara",
+    "totalDuration": "46m 30s",
+    "label": "Philips",
+    "format": "Vinyl / Stereo / LP",
+    "catalogNumber": "9500 441",
+    "coverUrl": "https://i.discogs.com/73XgFB93phT2qZSS2CoYvrapywgL_Yk9mmfAoIC9LFQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjMy/ODExLTE1MTk3NTA1/MjQtNDc1NC5qcGVn.jpeg",
+    "composers": [
+        "Georg Philipp Telemann"
+    ],
+    "tracks": [
+        {
+        "id": 1,
+        "title": "Partita for Oboe and Continuo in G Major",
+        "duration": "10:20",
+        "act": "Lado A",
+        "composer": "Georg Philipp Telemann"
+        },
+        {
+        "id": 2,
+        "title": "Solo for Oboe and Continuo in G Minor (from Musique de Table)",
+        "duration": "12:15",
+        "act": "Lado A",
+        "composer": "Georg Philipp Telemann"
+        },
+        {
+        "id": 3,
+        "title": "Sonata in E Flat Major for Oboe, Harpsichord and Continuo",
+        "duration": "11:40",
+        "act": "Lado B",
+        "composer": "Georg Philipp Telemann"
+        },
+        {
+        "id": 4,
+        "title": "Sonata in B Flat Major for Oboe, Harpsichord and Continuo",
+        "duration": "12:05",
+        "act": "Lado B",
+        "composer": "Georg Philipp Telemann"
+        }
+    ]
+    },
+    {
+    "id": "bsst-ensemble-quebec-telemann-vivaldi",
+    "section": "1-A",
+    "title": "L'Ensemble Instrumental du Québec: Telemann, Vivaldi, Bach, Quantz",
+    "artist": "L'Ensemble Instrumental du Québec",
+    "releaseYear": 1975,
+    "genre": "Música Clásica",
+    "subGenre": "Barroco / Música de Cámara",
+    "totalDuration": "45m 00s",
+    "label": "BSST",
+    "format": "Vinyl / Stereo / LP",
+    "catalogNumber": "BSST 4",
+    "coverUrl": "/disco_generico.png",
+    "composers": [
+        "Georg Philipp Telemann",
+        "Antonio Vivaldi",
+        "Johann Sebastian Bach",
+        "Johann Joachim Quantz"
+    ],
+    "tracks": [
+        {
+        "id": 1,
+        "title": "Obra de Cámara (Ver contraportada)",
+        "duration": "10:00",
+        "act": "Telemann",
+        "composer": "Georg Philipp Telemann"
+        },
+        {
+        "id": 2,
+        "title": "Obra de Cámara (Ver contraportada)",
+        "duration": "10:00",
+        "act": "Vivaldi",
+        "composer": "Antonio Vivaldi"
+        },
+        {
+        "id": 3,
+        "title": "Obra de Cámara (Ver contraportada)",
+        "duration": "10:00",
+        "act": "Bach",
+        "composer": "Johann Sebastian Bach"
+        },
+        {
+        "id": 4,
+        "title": "Obra de Cámara (Ver contraportada)",
+        "duration": "10:00",
+        "act": "Quantz",
+        "composer": "Johann Joachim Quantz"
+        }
+    ]
+    },
+    {
+    "id": "bsst-ensemble-quebec-blue-lotti",
+    "section": "1-A",
+    "title": "L'Ensemble Instrumental du Québec: Bach, Quantz, Telemann, Lotti",
+    "artist": "L'Ensemble Instrumental du Québec",
+    "releaseYear": 1976,
+    "genre": "Música Clásica",
+    "subGenre": "Barroco / Música de Cámara",
+    "totalDuration": "45m 00s",
+    "label": "BSST",
+    "format": "Vinyl / Stereo / LP",
+    "catalogNumber": "BSST 5",
+    "coverUrl": "https://i.discogs.com/hXDtVFy942iafd1QmvqkhA9tMYPVdkKL2LXoqy-U_I0/rs:fit/g:sm/q:90/h:600/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTk1/NjQ1LTE1MTkxMjMw/ODItMjg0Ni5qcGVn.jpeg",
+    "composers": [
+        "Johann Sebastian Bach",
+        "Johann Joachim Quantz",
+        "Georg Philipp Telemann",
+        "Antonio Lotti"
+    ],
+    "tracks": [
+        {
+        "id": 1,
+        "title": "Obra de Cámara (Bach) - Ver contraportada",
+        "duration": "10:00",
+        "act": "Lado A",
+        "composer": "Johann Sebastian Bach"
+        },
+        {
+        "id": 2,
+        "title": "Obra de Cámara (Quantz) - Ver contraportada",
+        "duration": "10:00",
+        "act": "Lado A",
+        "composer": "Johann Joachim Quantz"
+        },
+        {
+        "id": 3,
+        "title": "Obra de Cámara (Telemann) - Ver contraportada",
+        "duration": "10:00",
+        "act": "Lado B",
+        "composer": "Georg Philipp Telemann"
+        },
+        {
+        "id": 4,
+        "title": "Obra de Cámara (Lotti) - Ver contraportada",
+        "duration": "10:00",
+        "act": "Lado B",
+        "composer": "Antonio Lotti"
+        }
+    ]
+    },
+    {
+    "id": "coronet-virtuoso-horn-greer",
+    "section": "1-A",
+    "title": "Virtuoso Horn Concerti (Förster, Cherubini, Telemann, Hovhaness)",
+    "artist": "Lowell Greer (Horn), Eduardo Diazmuñoz (Conductor) & L'Academie Becquepegnese",
+    "releaseYear": 1981,
+    "genre": "Música Clásica",
+    "subGenre": "Concierto / Corno Francés",
+    "totalDuration": "42m 00s",
+    "label": "Coronet Recording Company",
+    "format": "Vinyl / Stereo / LP",
+    "catalogNumber": "LPS 3122",
+    "coverUrl": "https://www.audiophileusa.com/images/products/EF5E732C-B6CA-F5CF-B94D9DEFFA8109B7_x.jpg",
+    "composers": [
+        "Christoph Förster",
+        "Luigi Cherubini",
+        "Georg Philipp Telemann",
+        "Alan Hovhaness"
+    ],
+    "tracks": [
+        {
+        "id": 1,
+        "title": "Concerto for Horn in E flat major",
+        "duration": "12:10",
+        "act": "Christoph Förster",
+        "composer": "Christoph Förster"
+        },
+        {
+        "id": 2,
+        "title": "Sonata No. 2 in F major for Horn and Strings",
+        "duration": "06:45",
+        "act": "Luigi Cherubini",
+        "composer": "Luigi Cherubini"
+        },
+        {
+        "id": 3,
+        "title": "Concerto in D major for Horn",
+        "duration": "09:30",
+        "act": "Georg Philipp Telemann",
+        "composer": "Georg Philipp Telemann"
+        },
+        {
+        "id": 4,
+        "title": "Concerto for Horn and String Orchestra, Op. 78 ('Artik')",
+        "duration": "13:35",
+        "act": "Alan Hovhaness",
+        "composer": "Alan Hovhaness"
+        }
+    ]
+    },
+    {
+    "id": "archiv-telemann-tafelmusik-prod2-wenzinger",
+    "section": "1-A",
+    "title": "Telemann: Musique de Table (Tafelmusik) - Production II",
+    "artist": "August Wenzinger (Director) & Schola Cantorum Basiliensis",
+    "releaseYear": 1965,
+    "genre": "Música Clásica",
+    "subGenre": "Barroco / Orquestal y Cámara",
+    "totalDuration": "1h 28m 00s",
+    "label": "Archiv Produktion",
+    "format": "Vinyl / Stereo / 2 LP Box Set",
+    "catalogNumber": "2708 009",
+    "coverUrl": "https://i.discogs.com/vP0nVX0QqTdYcdb2UqMJ6tQxYX7HZVGCNIkb_KSR2fg/rs:fit/g:sm/q:40/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4MDYw/NzYtMTQ2NTk5NTI3/MC05NDIwLmpwZWc.jpeg",
+    "composers": [
+        "Georg Philipp Telemann"
+    ],
+    "tracks": [
+        {
+        "id": 1,
+        "title": "Overture (Suite) in D Major for Oboe, Trumpet & Strings",
+        "duration": "28:30",
+        "act": "Production II",
+        "composer": "Georg Philipp Telemann"
+        },
+        {
+        "id": 2,
+        "title": "Quartet in D Minor for Recorder, 2 Flutes & Continuo",
+        "duration": "16:45",
+        "act": "Production II",
+        "composer": "Georg Philipp Telemann"
+        },
+        {
+        "id": 3,
+        "title": "Concerto in F Major for 3 Violins & Strings",
+        "duration": "14:20",
+        "act": "Production II",
+        "composer": "Georg Philipp Telemann"
+        },
+        {
+        "id": 4,
+        "title": "Trio in E Minor for Flute, Oboe & Continuo",
+        "duration": "11:15",
+        "act": "Production II",
+        "composer": "Georg Philipp Telemann"
+        },
+        {
+        "id": 5,
+        "title": "Solo in A Major for Violin & Continuo",
+        "duration": "12:50",
+        "act": "Production II",
+        "composer": "Georg Philipp Telemann"
+        },
+        {
+        "id": 6,
+        "title": "Conclusion in D Major for Oboe, Trumpet & Strings",
+        "duration": "06:10",
+        "act": "Production II",
+        "composer": "Georg Philipp Telemann"
+        }
+    ]
+    },
+    {
+    "id": "archiv-telemann-tafelmusik-prod3-wenzinger",
+    "section": "1-A",
+    "title": "Telemann: Musique de Table (Tafelmusik) - Production III",
+    "artist": "August Wenzinger (Director) & Schola Cantorum Basiliensis",
+    "releaseYear": 1965,
+    "genre": "Música Clásica",
+    "subGenre": "Barroco / Orquestal y Cámara",
+    "totalDuration": "1h 32m 00s",
+    "label": "Archiv Produktion",
+    "format": "Vinyl / Stereo / 2 LP Box Set",
+    "catalogNumber": "2708 010",
+    "coverUrl": "https://i.discogs.com/qO5uTGz-g6TxTNjwhkOrcdN8cECgpPXWx94IOggL7EY/rs:fit/g:sm/q:90/h:387/w:395/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0Njkx/MzAtMTMzMTY0NDU0/MS5qcGVn.jpeg",
+    "composers": [
+        "Georg Philipp Telemann"
+    ],
+    "tracks": [
+        {
+        "id": 1,
+        "title": "Overture (Suite) in B-flat Major for 2 Oboes & Strings",
+        "duration": "24:10",
+        "act": "Production III",
+        "composer": "Georg Philipp Telemann"
+        },
+        {
+        "id": 2,
+        "title": "Quartet in E Minor for Flute, Violin, Cello & Continuo",
+        "duration": "14:50",
+        "act": "Production III",
+        "composer": "Georg Philipp Telemann"
+        },
+        {
+        "id": 3,
+        "title": "Concerto in E-flat Major for 2 Horns & Strings",
+        "duration": "16:30",
+        "act": "Production III",
+        "composer": "Georg Philipp Telemann"
+        },
+        {
+        "id": 4,
+        "title": "Trio in D Major for 2 Flutes & Continuo",
+        "duration": "10:45",
+        "act": "Production III",
+        "composer": "Georg Philipp Telemann"
+        },
+        {
+        "id": 5,
+        "title": "Solo in G Minor for Oboe & Continuo",
+        "duration": "11:20",
+        "act": "Production III",
+        "composer": "Georg Philipp Telemann"
+        },
+        {
+        "id": 6,
+        "title": "Conclusion in B-flat Major for 2 Oboes & Strings",
+        "duration": "05:40",
+        "act": "Production III",
+        "composer": "Georg Philipp Telemann"
+        }
+    ]
+    },
+    {
+    "id": "archiv-telemann-tafelmusik-prod1-wenzinger",
+    "section": "1-A",
+    "title": "Telemann: Musique de Table (Tafelmusik) - Production I",
+    "artist": "August Wenzinger (Director) & Schola Cantorum Basiliensis",
+    "releaseYear": 1965,
+    "genre": "Música Clásica",
+    "subGenre": "Barroco / Orquestal y Cámara",
+    "totalDuration": "1h 35m 00s",
+    "label": "Archiv Produktion",
+    "format": "Vinyl / Stereo / 2 LP Box Set",
+    "catalogNumber": "2708 008",
+    "coverUrl": "/disco_generico.png",
+    "composers": [
+        "Georg Philipp Telemann"
+    ],
+    "tracks": [
+        {
+        "id": 1,
+        "title": "Overture (Suite) in E Minor for 2 Flutes & Strings",
+        "duration": "26:15",
+        "act": "Production I",
+        "composer": "Georg Philipp Telemann"
+        },
+        {
+        "id": 2,
+        "title": "Quartet in G Major for Flute, Oboe, Violin & Continuo",
+        "duration": "13:40",
+        "act": "Production I",
+        "composer": "Georg Philipp Telemann"
+        },
+        {
+        "id": 3,
+        "title": "Concerto in A Major for Flute, Violin & Strings",
+        "duration": "24:50",
+        "act": "Production I",
+        "composer": "Georg Philipp Telemann"
+        },
+        {
+        "id": 4,
+        "title": "Trio in E-flat Major for 2 Violins & Continuo",
+        "duration": "12:10",
+        "act": "Production I",
+        "composer": "Georg Philipp Telemann"
+        },
+        {
+        "id": 5,
+        "title": "Solo in B Minor for Flute & Continuo",
+        "duration": "10:30",
+        "act": "Production I",
+        "composer": "Georg Philipp Telemann"
+        },
+        {
+        "id": 6,
+        "title": "Conclusion in E Minor for 2 Flutes & Strings",
+        "duration": "07:35",
+        "act": "Production I",
+        "composer": "Georg Philipp Telemann"
+        }
+    ]
+    },
+    {
+    "id": "archiv-telemann-trumpet-scherbaum",
+    "section": "1-A",
+    "title": "Telemann: Trumpet Concertos & Quartets (Die deutsche Vorklassik)",
+    "artist": "Adolf Scherbaum (Trumpet), Camerata Instrumentale Hamburg & Bach-Orchester Hamburg",
+    "releaseYear": 1959,
+    "genre": "Música Clásica",
+    "subGenre": "Barroco / Concierto",
+    "totalDuration": "48m 30s",
+    "label": "Archiv Produktion",
+    "format": "Vinyl / Mono / LP",
+    "catalogNumber": "14 114 APM",
+    "coverUrl": "https://www.classical33.co.uk/wp-content/uploads/2021/11/4591060-09891916618e516ae6749618e516ae674b1636716906618e516ae674e.jpg",
+    "composers": [
+        "Georg Philipp Telemann"
+    ],
+    "tracks": [
+        {
+        "id": 1,
+        "title": "Concerto in D Major for Trumpet, Strings & Continuo",
+        "duration": "07:15",
+        "act": "Lado A",
+        "composer": "Georg Philipp Telemann"
+        },
+        {
+        "id": 2,
+        "title": "Concerto in D Major for Trumpet, 2 Oboes & Continuo",
+        "duration": "10:40",
+        "act": "Lado A",
+        "composer": "Georg Philipp Telemann"
+        },
+        {
+        "id": 3,
+        "title": "Quartet in G Major for Flute, Oboe, Violin & Continuo",
+        "duration": "12:20",
+        "act": "Lado B",
+        "composer": "Georg Philipp Telemann"
+        },
+        {
+        "id": 4,
+        "title": "Quartet in G Major for Recorder, Oboe, Violin & Continuo",
+        "duration": "11:50",
+        "act": "Lado B",
+        "composer": "Georg Philipp Telemann"
+        }
+    ]
+    },
+    {
+    "id": "bsst-ensemble-quebec-blue-lotti",
+    "section": "1-A",
+    "title": "L'Ensemble Instrumental du Québec: Bach, Quantz, Telemann, Lotti",
+    "artist": "L'Ensemble Instrumental du Québec",
+    "releaseYear": 1976,
+    "genre": "Música Clásica",
+    "subGenre": "Barroco / Música de Cámara",
+    "totalDuration": "45m 00s",
+    "label": "BSST",
+    "format": "Vinyl / Stereo / LP",
+    "catalogNumber": "BSST 5",
+    "coverUrl": "https://i.discogs.com/9YmSqMM4XcuHj0Z5WT00XgPaOk70oND58w5N5iYKZFA/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NjEy/NTE2LTE2ODAzMzc0/MjktNjg2MS5qcGVn.jpeg",
+    "composers": [
+        "Johann Sebastian Bach",
+        "Johann Joachim Quantz",
+        "Georg Philipp Telemann",
+        "Antonio Lotti"
+    ],
+    "tracks": [
+        {
+        "id": 1,
+        "title": "Obra de Cámara (Bach) - Ver contraportada",
+        "duration": "10:00",
+        "act": "Lado A",
+        "composer": "Johann Sebastian Bach"
+        },
+        {
+        "id": 2,
+        "title": "Obra de Cámara (Quantz) - Ver contraportada",
+        "duration": "10:00",
+        "act": "Lado A",
+        "composer": "Johann Joachim Quantz"
+        },
+        {
+        "id": 3,
+        "title": "Obra de Cámara (Telemann) - Ver contraportada",
+        "duration": "10:00",
+        "act": "Lado B",
+        "composer": "Georg Philipp Telemann"
+        },
+        {
+        "id": 4,
+        "title": "Obra de Cámara (Lotti) - Ver contraportada",
+        "duration": "10:00",
+        "act": "Lado B",
+        "composer": "Antonio Lotti"
+        }
+    ]
+    },
+    {
+    "id": "emi-angel-telemann-paris-7-9-savall-1979",
+    "section": "1-A",
+    "title": "Telemann: 'Paris' Quartets Nos. 7-9 (Nouveaux Quatuors)",
+    "artist": "Hans-Martin Linde, Lucy van Dael, Jordi Savall, Alan Curtis & Pere Ros",
+    "releaseYear": 1979,
+    "genre": "Música Clásica",
+    "subGenre": "Barroco / Cámara",
+    "totalDuration": "51m 15s",
+    "label": "EMI Angel / Musica Prae Classica",
+    "format": "Vinyl / Stereo / LP",
+    "catalogNumber": "S-3750",
+    "coverUrl": "https://m.media-amazon.com/images/I/91cmDN9m3oL._UF1000,1000_QL80_.jpg",
+    "composers": [
+        "Georg Philipp Telemann"
+    ],
+    "tracks": [
+        {
+        "id": 1,
+        "title": "Quartet No. 7 in D Major (Nouveau Quatuor No. 1)",
+        "duration": "16:45",
+        "act": "Lado A",
+        "composer": "Georg Philipp Telemann"
+        },
+        {
+        "id": 2,
+        "title": "Quartet No. 8 in A Minor (Nouveau Quatuor No. 2)",
+        "duration": "15:30",
+        "act": "Lado B",
+        "composer": "Georg Philipp Telemann"
+        },
+        {
+        "id": 3,
+        "title": "Quartet No. 9 in G Major (Nouveau Quatuor No. 3)",
+        "duration": "18:20",
+        "act": "Lado B",
+        "composer": "Georg Philipp Telemann"
+        }
+    ]
+    },
+    {
+    "id": "vox-dl590-telemann-3-concerti",
+    "section": "1-A",
+    "title": "Telemann: 3 Concerti (Music of Five Centuries)",
+    "artist": "The Telemann Society Orchestra & Richard Schulze (Director)",
+    "releaseYear": 1962,
+    "genre": "Música Clásica",
+    "subGenre": "Barroco / Concierto",
+    "totalDuration": "48m 00s",
+    "label": "Vox",
+    "format": "Vinyl / Mono / LP",
+    "catalogNumber": "DL 590",
+    "coverUrl": "https://static.wixstatic.com/media/084a25_88f894c869204454b3dbf82ea11f63ed~mv2.png/v1/fit/w_500,h_500,q_90/file.png",
+    "composers": [
+        "Georg Philipp Telemann"
+    ],
+    "tracks": [
+        {
+        "id": 1,
+        "title": "Concerto for 3 Trumpets, 2 Oboes, Timpani & Orchestra in D Major",
+        "duration": "14:30",
+        "act": "Lado A",
+        "composer": "Georg Philipp Telemann"
+        },
+        {
+        "id": 2,
+        "title": "Concerto for Oboe and Orchestra in E Minor",
+        "duration": "12:15",
+        "act": "Lado B",
+        "composer": "Georg Philipp Telemann"
+        },
+        {
+        "id": 3,
+        "title": "Concerto for Recorder (Flute) and Orchestra in C Minor",
+        "duration": "15:20",
+        "act": "Lado B",
+        "composer": "Georg Philipp Telemann"
+        }
+    ]
+    },
+    {
+    "id": "philips-living-baroque-telemann-hurlebusch",
+    "section": "1-A",
+    "title": "Telemann / Hurlebusch: Concerti Grossi",
+    "artist": "Capella Clementina & Helmut Müller-Brühl (Director)",
+    "releaseYear": 1980,
+    "genre": "Música Clásica",
+    "subGenre": "Barroco / Concierto Grosso",
+    "totalDuration": "47m 15s",
+    "label": "Philips / Living Baroque",
+    "format": "Vinyl / Stereo / LP",
+    "catalogNumber": "9502 064",
+    "coverUrl": "/disco_generico.png",
+    "composers": [
+        "Georg Philipp Telemann",
+        "Conrad Friedrich Hurlebusch"
+    ],
+    "tracks": [
+        {
+        "id": 1,
+        "title": "Telemann: Concerto in B flat major for 2 Recorders, 2 Oboes & Strings",
+        "duration": "14:20",
+        "act": "Lado A",
+        "composer": "Georg Philipp Telemann"
+        },
+        {
+        "id": 2,
+        "title": "Hurlebusch: Concerto in A minor for 2 Oboes, Solo Violin & Strings",
+        "duration": "09:45",
+        "act": "Lado A",
+        "composer": "Conrad Friedrich Hurlebusch"
+        },
+        {
+        "id": 3,
+        "title": "Telemann: Concerto in E minor for Flute, Violin & Strings",
+        "duration": "11:30",
+        "act": "Lado B",
+        "composer": "Georg Philipp Telemann"
+        },
+        {
+        "id": 4,
+        "title": "Hurlebusch: Concerto in B flat major for Strings & Continuo",
+        "duration": "11:40",
+        "act": "Lado B",
+        "composer": "Conrad Friedrich Hurlebusch"
+        }
+    ]
+    },
+    {
+    "id": "archiv-telemann-kammerkonzerte-goebel-1979",
+    "section": "1-A",
+    "title": "Telemann: Kammerkonzerte (Chamber Concertos)",
+    "artist": "Musica Antiqua Köln & Reinhard Goebel (Director)",
+    "releaseYear": 1979,
+    "genre": "Música Clásica",
+    "subGenre": "Barroco / Concierto de Cámara",
+    "totalDuration": "46m 30s",
+    "label": "Archiv Produktion",
+    "format": "Vinyl / Stereo / LP",
+    "catalogNumber": "2533 421",
+    "coverUrl": "https://i.discogs.com/kpp3GJ5YxG88D3RV15_1_RSt9TSjwfgOiNfKGQob1Kw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NjYz/NDctMTU4MDg5NjM2/Mi04MjMwLmpwZWc.jpeg",
+    "composers": [
+        "Georg Philipp Telemann"
+    ],
+    "tracks": [
+        {
+        "id": 1,
+        "title": "Concerto in A minor for Recorder, Oboe, Violin & Continuo",
+        "duration": "14:15",
+        "act": "Lado A",
+        "composer": "Georg Philipp Telemann"
+        },
+        {
+        "id": 2,
+        "title": "Concerto in G minor for Recorder, Violin & Continuo",
+        "duration": "09:40",
+        "act": "Lado A",
+        "composer": "Georg Philipp Telemann"
+        },
+        {
+        "id": 3,
+        "title": "Concerto in C major for Recorder, Oboe, Violin & Continuo",
+        "duration": "12:10",
+        "act": "Lado B",
+        "composer": "Georg Philipp Telemann"
+        },
+        {
+        "id": 4,
+        "title": "Concerto in D major for Transverse Flute, Violin & Continuo",
+        "duration": "10:25",
+        "act": "Lado B",
+        "composer": "Georg Philipp Telemann"
+        }
+    ]
+    },
+    {
+    "id": "da-camera-magna-telemann-flute-tanguy",
+    "section": "1-A",
+    "title": "Telemann: Flötenkonzerte (Flute Concertos)",
+    "artist": "Jean-Michel Tanguy (Flute), Jerry Felmlee & Heidelberger Kammerorchester",
+    "releaseYear": 1975,
+    "genre": "Música Clásica",
+    "subGenre": "Barroco / Concierto para Flauta",
+    "totalDuration": "45m 20s",
+    "label": "Da Camera Magna",
+    "format": "Vinyl / Stereo / LP",
+    "catalogNumber": "SM 91044",
+    "coverUrl": "/disco_generico.png",
+    "composers": [
+        "Georg Philipp Telemann"
+    ],
+    "tracks": [
+        {
+        "id": 1,
+        "title": "Concerto for Flute in D Major",
+        "duration": "12:10",
+        "act": "Lado A",
+        "composer": "Georg Philipp Telemann"
+        },
+        {
+        "id": 2,
+        "title": "Concerto for Flute in G Major",
+        "duration": "10:45",
+        "act": "Lado A",
+        "composer": "Georg Philipp Telemann"
+        },
+        {
+        "id": 3,
+        "title": "Concerto for Flute in C Major",
+        "duration": "11:30",
+        "act": "Lado B",
+        "composer": "Georg Philipp Telemann"
+        }
+    ]
+    },
+    {
+    "id": "da-camera-magna-telemann-4-violins",
+    "section": "1-A",
+    "title": "Telemann: Konzert A-Dur für 4 Violinen (Concerto for 4 Violins)",
+    "artist": "Bernhard Usedruuf (Director), Heidelberger Kammerorchester & Solistas (Adorján, Schützeichel, Germann, Naegele, Carmirelli, Fülop, Hori)",
+    "releaseYear": 1975,
+    "genre": "Música Clásica",
+    "subGenre": "Barroco / Concierto",
+    "totalDuration": "46m 00s",
+    "label": "Da Camera Magna",
+    "format": "Vinyl / Stereo / LP",
+    "catalogNumber": "SM 91031",
+    "coverUrl": "/disco_generico.png",
+    "composers": [
+        "Georg Philipp Telemann"
+    ],
+    "tracks": [
+        {
+        "id": 1,
+        "title": "Konzert A-Dur für Flöte, Violine und Orchester (Concerto in A Major)",
+        "duration": "14:30",
+        "act": "Lado A",
+        "composer": "Georg Philipp Telemann"
+        },
+        {
+        "id": 2,
+        "title": "Konzert g-moll für 2 Oboen und Orchester (Concerto in G Minor)",
+        "duration": "11:15",
+        "act": "Lado B",
+        "composer": "Georg Philipp Telemann"
+        },
+        {
+        "id": 3,
+        "title": "Konzert A-Dur für 4 Violinen (Concerto for 4 Violins in A Major)",
+        "duration": "09:45",
+        "act": "Lado B",
+        "composer": "Georg Philipp Telemann"
+        }
+    ]
+    },
+    {
+    "id": "vanguard-bach-guild-telemann-janigro-1966",
+    "section": "1-A",
+    "title": "The Baroque Art of Telemann",
+    "artist": "I Solisti di Zagreb & Antonio Janigro (Director)",
+    "releaseYear": 1966,
+    "genre": "Música Clásica",
+    "subGenre": "Barroco / Concierto",
+    "totalDuration": "48m 30s",
+    "label": "The Bach Guild / Vanguard Records",
+    "format": "Vinyl / Stereo / LP",
+    "catalogNumber": "BGS-70679",
+    "coverUrl": "https://i.discogs.com/vgOIaQ4POtLzkN2NbBOvXrd7y2w4fhPoOZ0O_IhvCOc/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDUx/NDA0LTE0OTc3MTI5/NjYtNDAxMC5qcGVn.jpeg",
+    "composers": [
+        "Georg Philipp Telemann"
+    ],
+    "tracks": [
+        {
+        "id": 1,
+        "title": "Concerto in E major for Violin, Flute and Oboe d'amore",
+        "duration": "14:15",
+        "act": "Lado A",
+        "composer": "Georg Philipp Telemann"
+        },
+        {
+        "id": 2,
+        "title": "Concerto in G major for two Violas",
+        "duration": "09:40",
+        "act": "Lado A",
+        "composer": "Georg Philipp Telemann"
+        },
+        {
+        "id": 3,
+        "title": "Concerto in D major for Trumpet",
+        "duration": "08:55",
+        "act": "Lado B",
+        "composer": "Georg Philipp Telemann"
+        },
+        {
+        "id": 4,
+        "title": "Concerto in G major for Oboe d'amore",
+        "duration": "15:20",
+        "act": "Lado B",
+        "composer": "Georg Philipp Telemann"
+        }
+    ]
+    },
+    {
+    "id": "archiv-telemann-wind-concertos-camerata-bern",
+    "section": "1-A",
+    "title": "Telemann: Bläserkonzerte (Wind Concertos)",
+    "artist": "Camerata Bern, Heinz Holliger (Oboe), Aurèle Nicolet (Flute) & Michael Copley (Recorder)",
+    "releaseYear": 1981,
+    "genre": "Música Clásica",
+    "subGenre": "Barroco / Concierto para Vientos",
+    "totalDuration": "51m 40s",
+    "label": "Archiv Produktion",
+    "format": "Vinyl / Stereo / LP",
+    "catalogNumber": "2533 454",
+    "coverUrl": "https://i.ebayimg.com/images/g/S58AAOSwJfJjuZVV/s-l1200.jpg",
+    "composers": [
+        "Georg Philipp Telemann"
+    ],
+    "tracks": [
+        {
+        "id": 1,
+        "title": "Concerto in A Major for Oboe d'amore, Strings & Continuo",
+        "duration": "15:20",
+        "act": "Lado A",
+        "composer": "Georg Philipp Telemann"
+        },
+        {
+        "id": 2,
+        "title": "Concerto in E-flat Major for Oboe, Strings & Continuo",
+        "duration": "11:45",
+        "act": "Lado A",
+        "composer": "Georg Philipp Telemann"
+        },
+        {
+        "id": 3,
+        "title": "Concerto in E Minor for Recorder, Flute, Strings & Continuo",
+        "duration": "13:10",
+        "act": "Lado B",
+        "composer": "Georg Philipp Telemann"
+        },
+        {
+        "id": 4,
+        "title": "Concerto in B Minor for Flute, Strings & Continuo",
+        "duration": "11:25",
+        "act": "Lado B",
+        "composer": "Georg Philipp Telemann"
+        }
+    ]
+    },
+    {
+    "id": "discophiles-francais-telemann-flute-rampal",
+    "section": "1-A",
+    "title": "Telemann: Concertos pour flûte et orchestre",
+    "artist": "Jean-Pierre Rampal (Flute), Orchestre de Chambre de la Sarre & Karl Ristenpart (Conductor)",
+    "releaseYear": 1964,
+    "genre": "Música Clásica",
+    "subGenre": "Barroco / Concierto para Flauta",
+    "totalDuration": "46m 20s",
+    "label": "Les Discophiles Français",
+    "format": "Vinyl / Mono / LP",
+    "catalogNumber": "DF 730.014",
+    "coverUrl": "https://i.discogs.com/Ev5MITwO53-jIxz7oDIH9SiRUSH19Jgchczpi7vu97o/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTAz/NjMzLTE1NTkxMzU2/OTUtMjM1Ny5qcGVn.jpeg",
+    "composers": [
+        "Georg Philipp Telemann"
+    ],
+    "tracks": [
+        {
+        "id": 1,
+        "title": "Concerto for Flute in G Major",
+        "duration": "12:15",
+        "act": "Lado A",
+        "composer": "Georg Philipp Telemann"
+        },
+        {
+        "id": 2,
+        "title": "Concerto for Flute in D Major",
+        "duration": "13:30",
+        "act": "Lado A",
+        "composer": "Georg Philipp Telemann"
+        },
+        {
+        "id": 3,
+        "title": "Suite for Flute and Strings in A Minor",
+        "duration": "20:35",
+        "act": "Lado B",
+        "composer": "Georg Philipp Telemann"
+        }
+    ]
+    },
+    {
+    "id": "archiv-198198-telemann-wassermusik",
+    "section": "1-A",
+    "title": "Telemann: Wassermusik »Hamburger Ebb und Fluht«",
+    "artist": "August Wenzinger (Director), Schola Cantorum Basiliensis & Nürnberger Kammermusikkreis",
+    "releaseYear": 1962,
+    "genre": "Música Clásica",
+    "subGenre": "Barroco / Suite Orquestal",
+    "totalDuration": "49m 10s",
+    "label": "Archiv Produktion",
+    "format": "Vinyl / Stereo / LP",
+    "catalogNumber": "198 198",
+    "coverUrl": "https://i.discogs.com/5hrx_65Q6sLa0kEr0Z507jZs-I7IJfL3K5_lh07TmQE/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3Mzcw/OTUtMTUyOTkyMDQ3/Mi0zMzk0LmpwZWc.jpeg",
+    "composers": [
+        "Georg Philipp Telemann"
+    ],
+    "tracks": [
+        {
+        "id": 1,
+        "title": "Wassermusik »Hamburger Ebb und Fluht« (Ouvertüre C-dur)",
+        "duration": "24:15",
+        "act": "Lado A (Orquestal)",
+        "composer": "Georg Philipp Telemann"
+        },
+        {
+        "id": 2,
+        "title": "Suite Nr. 6 d-moll für Oboe, Violine und Continuo",
+        "duration": "08:30",
+        "act": "Lado B (Cámara)",
+        "composer": "Georg Philipp Telemann"
+        },
+        {
+        "id": 3,
+        "title": "Konzert Nr. 3 A-dur für Querflöte, konzertierendes Cembalo und Continuo",
+        "duration": "07:45",
+        "act": "Lado B (Cámara)",
+        "composer": "Georg Philipp Telemann"
+        },
+        {
+        "id": 4,
+        "title": "Triosonate Es-dur für Oboe, konzertierendes Cembalo und Continuo",
+        "duration": "08:40",
+        "act": "Lado B (Cámara)",
+        "composer": "Georg Philipp Telemann"
+        }
+    ]
+    },
+    {
+    "id": "vanguard-bg575-telemann-solisti-zagreb",
+    "section": "1-A",
+    "title": "I Solisti di Zagreb play Telemann",
+    "artist": "I Solisti di Zagreb & Antonio Janigro (Director)",
+    "releaseYear": 1958,
+    "genre": "Música Clásica",
+    "subGenre": "Barroco / Concierto",
+    "totalDuration": "48m 15s",
+    "label": "The Bach Guild / Vanguard",
+    "format": "Vinyl / Mono / LP",
+    "catalogNumber": "BG-575",
+    "coverUrl": "https://i.ebayimg.com/images/g/hiYAAOSwc91mTTds/s-l1600.webp",
+    "composers": [
+        "Georg Philipp Telemann"
+    ],
+    "tracks": [
+        {
+        "id": 1,
+        "title": "Oboe Concerto in E minor",
+        "duration": "10:30",
+        "act": "Lado A",
+        "composer": "Georg Philipp Telemann"
+        },
+        {
+        "id": 2,
+        "title": "Viola Concerto in G major",
+        "duration": "14:15",
+        "act": "Lado A",
+        "composer": "Georg Philipp Telemann"
+        },
+        {
+        "id": 3,
+        "title": "Violin Concerto in A minor",
+        "duration": "09:40",
+        "act": "Lado B",
+        "composer": "Georg Philipp Telemann"
+        },
+        {
+        "id": 4,
+        "title": "Sonata a quattro in A major",
+        "duration": "07:50",
+        "act": "Lado B",
+        "composer": "Georg Philipp Telemann"
+        },
+        {
+        "id": 5,
+        "title": "Oboe Concerto in D minor",
+        "duration": "08:20",
+        "act": "Lado B",
+        "composer": "Georg Philipp Telemann"
+        }
+    ]
+    },
+    {
+    "id": "vanguard-bgs5048-virtuoso-flute-baker",
+    "section": "1-A",
+    "title": "The Virtuoso Flute: Telemann & Mozart",
+    "artist": "Julius Baker (Flute), Hubert Jelinek (Harp), I Solisti di Zagreb & Antonio Janigro (Director)",
+    "releaseYear": 1962,
+    "genre": "Música Clásica",
+    "subGenre": "Barroco / Clásico / Concierto",
+    "totalDuration": "54m 00s",
+    "label": "The Bach Guild / Vanguard",
+    "format": "Vinyl / Stereo / LP",
+    "catalogNumber": "BGS-5048",
+    "coverUrl": "https://reallygood.jp/cdn/shop/files/batch__open77_3867d3e7-d007-4717-9523-b252038da4f4.jpg?v=1764081649",
+    "composers": [
+        "Georg Philipp Telemann",
+        "Wolfgang Amadeus Mozart"
+    ],
+    "tracks": [
+        {
+        "id": 1,
+        "title": "Suite in A Minor for Flute and Strings: I. Overture",
+        "duration": "07:30",
+        "act": "Lado A (Telemann)",
+        "composer": "Georg Philipp Telemann"
+        },
+        {
+        "id": 2,
+        "title": "Suite in A Minor: II. Les Plaisirs - III. Air à l'Italien",
+        "duration": "06:15",
+        "act": "Lado A (Telemann)",
+        "composer": "Georg Philipp Telemann"
+        },
+        {
+        "id": 3,
+        "title": "Suite in A Minor: IV. Menuet - V. Réjouissance",
+        "duration": "05:20",
+        "act": "Lado A (Telemann)",
+        "composer": "Georg Philipp Telemann"
+        },
+        {
+        "id": 4,
+        "title": "Suite in A Minor: VI. Passepieds - VII. Polonaise",
+        "duration": "05:40",
+        "act": "Lado A (Telemann)",
+        "composer": "Georg Philipp Telemann"
+        },
+        {
+        "id": 5,
+        "title": "Concerto for Flute, Harp and Orchestra in C Major, K. 299: I. Allegro",
+        "duration": "10:15",
+        "act": "Lado B (Mozart)",
+        "composer": "Wolfgang Amadeus Mozart"
+        },
+        {
+        "id": 6,
+        "title": "Concerto for Flute, Harp and Orchestra in C Major, K. 299: II. Andantino",
+        "duration": "08:40",
+        "act": "Lado B (Mozart)",
+        "composer": "Wolfgang Amadeus Mozart"
+        },
+        {
+        "id": 7,
+        "title": "Concerto for Flute, Harp and Orchestra in C Major, K. 299: III. Rondo (Allegro)",
+        "duration": "09:30",
+        "act": "Lado B (Mozart)",
+        "composer": "Wolfgang Amadeus Mozart"
+        }
+    ]
+    },
+    {
+    "id": "erato-telemann-cuatro-conciertos-redel",
+    "section": "1-A",
+    "title": "Telemann: Cuatro Conciertos (Quatre Concertos)",
+    "artist": "Kurt Redel (Director/Flauta), Adolf Scherbaum (Trompeta), Kurt Kalmus (Oboe), Georg Schmid (Viola) & Orquesta de Cámara Pro Arte de Múnich",
+    "releaseYear": 1963,
+    "genre": "Música Clásica",
+    "subGenre": "Barroco / Concierto",
+    "totalDuration": "48m 10s",
+    "label": "Erato / Hispavox",
+    "format": "Vinyl / Stereo / LP",
+    "catalogNumber": "CE-046",
+    "coverUrl": "https://http2.mlstatic.com/D_NQ_NP_631891-MLM54947379856_042023-O.webp",
+    "composers": [
+        "Georg Philipp Telemann"
+    ],
+    "tracks": [
+        {
+        "id": 1,
+        "title": "Concierto en Re mayor para Trompeta, Cuerdas y Continuo",
+        "duration": "08:15",
+        "act": "Lado A",
+        "composer": "Georg Philipp Telemann"
+        },
+        {
+        "id": 2,
+        "title": "Concierto en Re mayor para Flauta, Cuerdas y Continuo",
+        "duration": "14:30",
+        "act": "Lado A",
+        "composer": "Georg Philipp Telemann"
+        },
+        {
+        "id": 3,
+        "title": "Concierto en Do menor para Oboe, Cuerdas y Continuo",
+        "duration": "09:45",
+        "act": "Lado B",
+        "composer": "Georg Philipp Telemann"
+        },
+        {
+        "id": 4,
+        "title": "Concierto en Sol mayor para Viola, Cuerdas y Continuo",
+        "duration": "13:20",
+        "act": "Lado B",
+        "composer": "Georg Philipp Telemann"
+        }
+    ]
+    },
+    {
+    "id": "erato-telemann-quatre-concertos-auriacombe",
+    "section": "1-A",
+    "title": "Telemann: Quatre Concertos (Four Concertos)",
+    "artist": "Orchestre de Chambre de Toulouse & Louis Auriacombe (Director)",
+    "releaseYear": 1965,
+    "genre": "Música Clásica",
+    "subGenre": "Barroco / Concierto",
+    "totalDuration": "48m 30s",
+    "label": "Erato / Muridisc",
+    "format": "Vinyl / Stereo / LP",
+    "catalogNumber": "CM 80054",
+    "coverUrl": "https://i.discogs.com/Ay9tAwg0XVhWBMjK2NpFMQ4x1728Oh0lhwAu7WDPHtk/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5Mzkw/ODgtMTcxMTA5NzY0/Mi0yMjM2LmpwZWc.jpeg",
+    "composers": [
+        "Georg Philipp Telemann"
+    ],
+    "tracks": [
+        {
+        "id": 1,
+        "title": "Concerto pour hautbois d'amour et orchestre à cordes",
+        "duration": "14:20",
+        "act": "Lado A",
+        "composer": "Georg Philipp Telemann"
+        },
+        {
+        "id": 2,
+        "title": "Concerto pour trompette et orchestre à cordes",
+        "duration": "08:15",
+        "act": "Lado A",
+        "composer": "Georg Philipp Telemann"
+        },
+        {
+        "id": 3,
+        "title": "Concerto pour deux cors et orchestre à cordes",
+        "duration": "12:40",
+        "act": "Lado B",
+        "composer": "Georg Philipp Telemann"
+        },
+        {
+        "id": 4,
+        "title": "Concerto pour violon et orchestre à cordes",
+        "duration": "13:15",
+        "act": "Lado B",
+        "composer": "Georg Philipp Telemann"
+        }
+    ]
+    },
+    {
+    "id": "archiv-arc3198-telemann-water-music",
+    "section": "1-A",
+    "title": "Telemann: Water-Music 'Hamburger Ebb und Fluht' & Chamber Music",
+    "artist": "August Wenzinger (Conductor), Schola Cantorum Basiliensis & Nuremberg Chamber Music Ensemble",
+    "releaseYear": 1962,
+    "genre": "Música Clásica",
+    "subGenre": "Barroco / Suite Orquestal",
+    "totalDuration": "49m 10s",
+    "label": "Archive Production",
+    "format": "Vinyl / Mono / LP",
+    "catalogNumber": "ARC 3198",
+    "coverUrl": "https://i.discogs.com/d5CCCFiKRK3L4oAq16W1uBW3tFT5qE-4ZT3bAE502ds/rs:fit/g:sm/q:90/h:582/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDEy/NTE4LTE1NDY0NTA4/ODUtNzkyOC5qcGVn.jpeg",
+    "composers": [
+        "Georg Philipp Telemann"
+    ],
+    "tracks": [
+        {
+        "id": 1,
+        "title": "Water-Music 'Hamburger Ebb und Fluht': Overture in C Major",
+        "duration": "24:15",
+        "act": "Lado A (Orquestal)",
+        "composer": "Georg Philipp Telemann"
+        },
+        {
+        "id": 2,
+        "title": "Suite No. 6 in D Minor for Oboe, Violin and Continuo",
+        "duration": "08:30",
+        "act": "Lado B (Cámara)",
+        "composer": "Georg Philipp Telemann"
+        },
+        {
+        "id": 3,
+        "title": "Concerto No. 3 in A Major for Flute, Harpsichord and Continuo",
+        "duration": "07:45",
+        "act": "Lado B (Cámara)",
+        "composer": "Georg Philipp Telemann"
+        },
+        {
+        "id": 4,
+        "title": "Trio Sonata in E Flat Major for Oboe, Harpsichord and Continuo",
+        "duration": "08:40",
+        "act": "Lado B (Cámara)",
+        "composer": "Georg Philipp Telemann"
+        }
+    ]
+    },
+    {
+    "id": "erato-vivaldi-orlando-furioso-scimone-1978",
+    "section": "1-A",
+    "title": "Vivaldi: Orlando Furioso (Prima Registrazione Mondiale)",
+    "artist": "Claudio Scimone (Director), Marilyn Horne, Victoria de los Angeles, Lucia Valentini-Terrani & I Solisti Veneti",
+    "releaseYear": 1978,
+    "genre": "Ópera",
+    "subGenre": "Música Clásica / Barroco",
+    "totalDuration": "2h 35m 00s",
+    "label": "Erato",
+    "format": "Vinyl / Stereo / 3 LP Box Set",
+    "catalogNumber": "STU 71138",
+    "coverUrl": "https://m.media-amazon.com/images/I/81Pn4CZPtVL._UF1000,1000_QL80_.jpg",
+    "composers": [
+        "Antonio Vivaldi",
+        "Grazio Braccioli (Libreto)"
+    ],
+    "tracks": [
+        {
+        "id": 1,
+        "title": "Sinfonia",
+        "duration": "03:45",
+        "act": "Acto I",
+        "composer": "Antonio Vivaldi"
+        },
+        {
+        "id": 2,
+        "title": "Nel profondo cieco mondo (Orlando)",
+        "duration": "04:20",
+        "act": "Acto I",
+        "composer": "Antonio Vivaldi"
+        },
+        {
+        "id": 3,
+        "title": "Un raggio di speme (Angelica)",
+        "duration": "05:10",
+        "act": "Acto I",
+        "composer": "Antonio Vivaldi"
+        },
+        {
+        "id": 4,
+        "title": "Sorge l'irato nembo (Orlando)",
+        "duration": "03:55",
+        "act": "Acto II",
+        "composer": "Antonio Vivaldi"
+        },
+        {
+        "id": 5,
+        "title": "Tu sei degli occhi miei (Angelica)",
+        "duration": "04:40",
+        "act": "Acto II",
+        "composer": "Antonio Vivaldi"
+        },
+        {
+        "id": 6,
+        "title": "Ah, fuggi rapido (Alcina)",
+        "duration": "03:30",
+        "act": "Acto II",
+        "composer": "Antonio Vivaldi"
+        },
+        {
+        "id": 7,
+        "title": "Sol da te, mio dolce amore (Ruggiero - con flauta)",
+        "duration": "09:15",
+        "act": "Acto III",
+        "composer": "Antonio Vivaldi"
+        },
+        {
+        "id": 8,
+        "title": "Andrò fida e sconsolata (Angelica)",
+        "duration": "05:50",
+        "act": "Acto III",
+        "composer": "Antonio Vivaldi"
+        },
+        {
+        "id": 9,
+        "title": "Scenderò, volerò, griderò (Orlando - Escena de locura)",
+        "duration": "04:10",
+        "act": "Acto III",
+        "composer": "Antonio Vivaldi"
+        }
+    ]
+    },
+    {
+    "id": "philips-vivaldi-geistliche-chorwerk-negri",
+    "section": "1-A",
+    "title": "Vivaldi: Das Geistliche Chorwerk (Sacred Choral Music) Vol. 1 & 2",
+    "artist": "Vittorio Negri (Director), Margaret Marshall, Ann Murray, Felicity Collins, Anthony Rolfe Johnson, Robert Holl, John Alldis Choir & English Chamber Orchestra",
+    "releaseYear": 1978,
+    "genre": "Música Clásica",
+    "subGenre": "Barroco / Música Sacra",
+    "totalDuration": "1h 35m 00s",
+    "label": "Philips",
+    "format": "Vinyl / Stereo / 2 LP Box Set",
+    "catalogNumber": "6700 116",
+    "coverUrl": "/disco_generico.png",
+    "composers": [
+        "Antonio Vivaldi"
+    ],
+    "tracks": [
+        {
+        "id": 1,
+        "title": "Dixit Dominus, RV 594: I. Dixit Dominus",
+        "duration": "02:30",
+        "act": "Lado A",
+        "composer": "Antonio Vivaldi"
+        },
+        {
+        "id": 2,
+        "title": "Dixit Dominus, RV 594: II. Donec ponam",
+        "duration": "03:45",
+        "act": "Lado A",
+        "composer": "Antonio Vivaldi"
+        },
+        {
+        "id": 3,
+        "title": "Beatus Vir, RV 597: I. Beatus vir",
+        "duration": "02:50",
+        "act": "Lado B",
+        "composer": "Antonio Vivaldi"
+        },
+        {
+        "id": 4,
+        "title": "Beatus Vir, RV 597: II. Potens in terra",
+        "duration": "02:15",
+        "act": "Lado B",
+        "composer": "Antonio Vivaldi"
+        },
+        {
+        "id": 5,
+        "title": "Magnificat, RV 610: I. Magnificat anima mea",
+        "duration": "01:20",
+        "act": "Lado C",
+        "composer": "Antonio Vivaldi"
+        },
+        {
+        "id": 6,
+        "title": "Magnificat, RV 610: II. Et exultavit",
+        "duration": "02:10",
+        "act": "Lado C",
+        "composer": "Antonio Vivaldi"
+        },
+        {
+        "id": 7,
+        "title": "Domine ad adiuvandum me, RV 593",
+        "duration": "08:15",
+        "act": "Lado D",
+        "composer": "Antonio Vivaldi"
+        },
+        {
+        "id": 8,
+        "title": "Introduzione al Dixit, RV 636: Canta in prato",
+        "duration": "05:30",
+        "act": "Lado D",
+        "composer": "Antonio Vivaldi"
+        }
+    ]
+    },
+    {
+    "id": "philips-vivaldi-juditha-triumphans-negri-1975",
+    "section": "1-A",
+    "title": "Vivaldi: Juditha Triumphans (Oratorio)",
+    "artist": "Vittorio Negri (Director), Birgit Finnilä, Elly Ameling, Ingeborg Springer, Julia Hamari & Kammerorchester Berlin",
+    "releaseYear": 1975,
+    "genre": "Música Clásica",
+    "subGenre": "Barroco / Oratorio",
+    "totalDuration": "2h 38m 00s",
+    "label": "Philips",
+    "format": "Vinyl / Stereo / 3 LP Box Set",
+    "catalogNumber": "6747 173",
+    "coverUrl": "https://i.discogs.com/HaXduEHPpvV6S7nMSMSai10Y9iYmxPqwgxbdOgdWlpM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTE0/MTEyLTE0OTkwMDU3/MjMtNzA2NC5qcGVn.jpeg",
+    "composers": [
+        "Antonio Vivaldi",
+        "Giacomo Cassetti (Libreto)"
+    ],
+    "tracks": [
+        {
+        "id": 1,
+        "title": "Arma, caedes, vindictae, furores (Coro)",
+        "duration": "03:45",
+        "act": "Pars Prior (Parte I)",
+        "composer": "Antonio Vivaldi"
+        },
+        {
+        "id": 2,
+        "title": "Nil arma, nil bella (Holofernes)",
+        "duration": "04:10",
+        "act": "Pars Prior (Parte I)",
+        "composer": "Antonio Vivaldi"
+        },
+        {
+        "id": 3,
+        "title": "Matrona inimica (Vagaus)",
+        "duration": "03:30",
+        "act": "Pars Prior (Parte I)",
+        "composer": "Antonio Vivaldi"
+        },
+        {
+        "id": 4,
+        "title": "Quocumque, ut venti (Juditha)",
+        "duration": "05:15",
+        "act": "Pars Prior (Parte I)",
+        "composer": "Antonio Vivaldi"
+        },
+        {
+        "id": 5,
+        "title": "Quanto magis generosa (Holofernes)",
+        "duration": "06:20",
+        "act": "Pars Prior (Parte I)",
+        "composer": "Antonio Vivaldi"
+        },
+        {
+        "id": 6,
+        "title": "Agitata infido flatu (Juditha)",
+        "duration": "04:45",
+        "act": "Pars Prior (Parte I)",
+        "composer": "Antonio Vivaldi"
+        },
+        {
+        "id": 7,
+        "title": "Veni, me sequere fida (Juditha)",
+        "duration": "07:10",
+        "act": "Pars Altera (Parte II)",
+        "composer": "Antonio Vivaldi"
+        },
+        {
+        "id": 8,
+        "title": "Umbrae carae, aurae adoratae (Vagaus)",
+        "duration": "05:50",
+        "act": "Pars Altera (Parte II)",
+        "composer": "Antonio Vivaldi"
+        },
+        {
+        "id": 9,
+        "title": "In somno profundo (Juditha)",
+        "duration": "06:30",
+        "act": "Pars Altera (Parte II)",
+        "composer": "Antonio Vivaldi"
+        },
+        {
+        "id": 10,
+        "title": "Armatae face et anguibus (Vagaus)",
+        "duration": "03:55",
+        "act": "Pars Altera (Parte II)",
+        "composer": "Antonio Vivaldi"
+        },
+        {
+        "id": 11,
+        "title": "Gaude felix (Juditha)",
+        "duration": "04:20",
+        "act": "Pars Altera (Parte II)",
+        "composer": "Antonio Vivaldi"
+        },
+        {
+        "id": 12,
+        "title": "Salve invicta Juditha formosa (Coro Final)",
+        "duration": "02:40",
+        "act": "Pars Altera (Parte II)",
+        "composer": "Antonio Vivaldi"
+        }
+    ]
+    },
+    {
+    "id": "musica-rediviva-vivaldi-la-fida-ninfa-monterosso",
+    "section": "1-A",
+    "title": "Vivaldi: La Fida Ninfa (Opera in Three Acts)",
+    "artist": "Raffaello Monterosso (Director), Rena Garazioti, Carmen Repetto, Mafalda Micheluzzi & Orchestra da Camera di Milano",
+    "releaseYear": 1964,
+    "genre": "Ópera",
+    "subGenre": "Música Clásica / Barroco",
+    "totalDuration": "2h 15m 00s",
+    "label": "Musica Rediviva / Vox",
+    "format": "Vinyl / Stereo / 3 LP Box Set",
+    "catalogNumber": "MR 1007",
+    "coverUrl": "https://ia601003.us.archive.org/BookReader/BookReaderImages.php?zip=/14/items/lp_la-fida-ninfa_antonio-vivaldi_1/lp_la-fida-ninfa_antonio-vivaldi_1_jp2.zip&file=lp_la-fida-ninfa_antonio-vivaldi_1_jp2/lp_la-fida-ninfa_antonio-vivaldi_1_0000.jp2&id=lp_la-fida-ninfa_antonio-vivaldi_1",
+    "composers": [
+        "Antonio Vivaldi",
+        "Scipione Maffei (Libreto)"
+    ],
+    "tracks": [
+        {
+        "id": 1,
+        "title": "Sinfonia",
+        "duration": "04:10",
+        "act": "Acto I",
+        "composer": "Antonio Vivaldi"
+        },
+        {
+        "id": 2,
+        "title": "Chi dal cielo o dalla sorte (Morasto)",
+        "duration": "03:45",
+        "act": "Acto I",
+        "composer": "Antonio Vivaldi"
+        },
+        {
+        "id": 3,
+        "title": "Dolce fiamma del mio petto (Licori)",
+        "duration": "05:20",
+        "act": "Acto I",
+        "composer": "Antonio Vivaldi"
+        },
+        {
+        "id": 4,
+        "title": "Selve annose, erme foreste (Elpina)",
+        "duration": "04:30",
+        "act": "Acto I",
+        "composer": "Antonio Vivaldi"
+        },
+        {
+        "id": 5,
+        "title": "Vado a morir (Licori)",
+        "duration": "03:55",
+        "act": "Acto II",
+        "composer": "Antonio Vivaldi"
+        },
+        {
+        "id": 6,
+        "title": "Aure lievi che spirate (Elpina)",
+        "duration": "04:15",
+        "act": "Acto II",
+        "composer": "Antonio Vivaldi"
+        },
+        {
+        "id": 7,
+        "title": "Alma oppressa da sorte crudele (Licori)",
+        "duration": "06:10",
+        "act": "Acto II",
+        "composer": "Antonio Vivaldi"
+        },
+        {
+        "id": 8,
+        "title": "Dite, oimè, ditelo al fine (Morasto)",
+        "duration": "04:45",
+        "act": "Acto III",
+        "composer": "Antonio Vivaldi"
+        },
+        {
+        "id": 9,
+        "title": "Non tempesta che gli alberi sfronda (Osmino)",
+        "duration": "03:30",
+        "act": "Acto III",
+        "composer": "Antonio Vivaldi"
+        },
+        {
+        "id": 10,
+        "title": "Cento donzelle festose e belle (Coro Final)",
+        "duration": "02:50",
+        "act": "Acto III",
+        "composer": "Antonio Vivaldi"
+        }
+    ]
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+    {}
+  ]
+}
