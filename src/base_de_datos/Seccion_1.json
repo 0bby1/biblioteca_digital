@@ -4255,6 +4255,4332 @@
 
     
 
-    {}
+    {
+  "id": "philips-vivaldi-pastor-fido-veilhan",
+  "section": "1-B",
+  "title": "Vivaldi: Il Pastor Fido, Op. 13 (6 Sonates pour flûte à bec)",
+  "artist": "Jean-Claude Veilhan (Flauta dulce), Blandine Verlet (Claveccín) & Jean Lamy (Violonchelo)",
+  "releaseYear": 1974,
+  "genre": "Música Clásica",
+  "subGenre": "Barroco / Cámara",
+  "totalDuration": "52m 10s",
+  "label": "Philips / Trésors Classiques",
+  "format": "Vinyl / Stereo / LP",
+  "catalogNumber": "6504 009",
+  "coverUrl": "https://i.discogs.com/GdUa03ep_dO_au7o9w8gtSNlVVf9Ko9O90XP5vKAuFA/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTc3/NDg3LTE1NjUzMzQ0/MjEtMTk0NC5qcGVn.jpeg",
+  "composers": [
+    "Antonio Vivaldi"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Sonata No. 1 in C Major (RV 54)",
+      "duration": "08:15",
+      "act": "Lado A",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 2,
+      "title": "Sonata No. 2 in C Major (RV 56)",
+      "duration": "07:30",
+      "act": "Lado A",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 3,
+      "title": "Sonata No. 3 in G Major (RV 57)",
+      "duration": "09:45",
+      "act": "Lado A",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 4,
+      "title": "Sonata No. 4 in A Major (RV 59)",
+      "duration": "07:20",
+      "act": "Lado B",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 5,
+      "title": "Sonata No. 5 in C Major (RV 55)",
+      "duration": "08:50",
+      "act": "Lado B",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 6,
+      "title": "Sonata No. 6 in G Minor (RV 58)",
+      "duration": "08:40",
+      "act": "Lado B",
+      "composer": "Antonio Vivaldi"
+    }
+  ]
+},
+{
+  "id": "dg-vivaldi-estro-armonico-berlin-1981",
+  "section": "1-B",
+  "title": "Vivaldi: L'Estro Armonico, Op. 3 (12 Concerti)",
+  "artist": "Berliner Philharmoniker, Thomas Brandis & Leon Spierer (Directors/Violins)",
+  "releaseYear": 1981,
+  "genre": "Música Clásica",
+  "subGenre": "Barroco / Concierto Grosso",
+  "totalDuration": "1h 48m 00s",
+  "label": "Deutsche Grammophon",
+  "format": "Vinyl / Stereo / 3 LP Box Set",
+  "catalogNumber": "2741 005",
+  "coverUrl": "https://i.discogs.com/7j81CyYd2IYGlSl4aDbUHD3BNa_GpNcBoA1cXMJSNmg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjI4/MTY1LTE3MjEwNjA2/NTYtOTM0MS5qcGVn.jpeg",
+  "composers": [
+    "Antonio Vivaldi"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Concerto No. 1 in D Major for 4 Violins (RV 549)",
+      "duration": "07:30",
+      "act": "Lado A",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 2,
+      "title": "Concerto No. 2 in G Minor for 2 Violins & Cello (RV 578)",
+      "duration": "08:45",
+      "act": "Lado A",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 3,
+      "title": "Concerto No. 3 in G Major for Solo Violin (RV 310)",
+      "duration": "06:50",
+      "act": "Lado B",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 4,
+      "title": "Concerto No. 4 in E Minor for 4 Violins (RV 550)",
+      "duration": "07:10",
+      "act": "Lado B",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 5,
+      "title": "Concerto No. 5 in A Major for 2 Violins (RV 519)",
+      "duration": "07:20",
+      "act": "Lado C",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 6,
+      "title": "Concerto No. 6 in A Minor for Solo Violin (RV 356)",
+      "duration": "07:45",
+      "act": "Lado C",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 7,
+      "title": "Concerto No. 7 in F Major for 4 Violins & Cello (RV 567)",
+      "duration": "08:30",
+      "act": "Lado D",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 8,
+      "title": "Concerto No. 8 in A Minor for 2 Violins (RV 522)",
+      "duration": "09:15",
+      "act": "Lado D",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 9,
+      "title": "Concerto No. 9 in D Major for Solo Violin (RV 230)",
+      "duration": "06:40",
+      "act": "Lado E",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 10,
+      "title": "Concerto No. 10 in B Minor for 4 Violins & Cello (RV 580)",
+      "duration": "09:00",
+      "act": "Lado E",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 11,
+      "title": "Concerto No. 11 in D Minor for 2 Violins & Cello (RV 565)",
+      "duration": "08:50",
+      "act": "Lado F",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 12,
+      "title": "Concerto No. 12 in E Major for Solo Violin (RV 265)",
+      "duration": "09:10",
+      "act": "Lado F",
+      "composer": "Antonio Vivaldi"
+    }
+  ]
+},
+{
+  "id": "philips-vivaldi-edition-vol8-concerti-sinfonie",
+  "section": "1-B",
+  "title": "Vivaldi Edition Vol. 8: Concerti e Sinfonie",
+  "artist": "I Musici",
+  "releaseYear": 1978,
+  "genre": "Música Clásica",
+  "subGenre": "Barroco / Concierto para Cuerdas",
+  "totalDuration": "Aprox. 4 horas (6 LPs)",
+  "label": "Philips",
+  "format": "Vinyl / Stereo / 6 LP Box Set",
+  "catalogNumber": "6768 014",
+  "coverUrl": "https://i.discogs.com/nPDQhC2OMbMgE22ptBea-YjceckTT3ZpSv6oDPPuC2E/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwNTE2/MzktMTY3ODA1MzUz/Ny03OTI0LmpwZWc.jpeg",
+  "composers": [
+    "Antonio Vivaldi"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Concerto for Strings in G Major, RV 151 'Alla Rustica'",
+      "duration": "03:45",
+      "act": "LP 1",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 2,
+      "title": "Concerto for Strings in D Minor, RV 129 'Madrigalesco'",
+      "duration": "04:10",
+      "act": "LP 1",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 3,
+      "title": "Sinfonia in B Minor, RV 169 'Al Santo Sepolcro'",
+      "duration": "03:30",
+      "act": "LP 2",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 4,
+      "title": "Concerto for Strings in A Major, RV 158",
+      "duration": "06:20",
+      "act": "LP 2",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 5,
+      "title": "Concerto for Strings in C Major, RV 114",
+      "duration": "05:15",
+      "act": "LP 3",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 6,
+      "title": "Sinfonia in G Major, RV 149",
+      "duration": "04:50",
+      "act": "LP 3",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 7,
+      "title": "Concerto for Strings in G Minor, RV 156",
+      "duration": "05:40",
+      "act": "LP 4",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 8,
+      "title": "Concerto for Strings in B-flat Major, RV 163 'Conca'",
+      "duration": "03:55",
+      "act": "LP 5",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 9,
+      "title": "Sinfonia in C Major, RV 112",
+      "duration": "04:30",
+      "act": "LP 6",
+      "composer": "Antonio Vivaldi"
+    }
+  ]
+},
+{
+  "id": "dg-huberman-festival-mehta-1982",
+  "section": "1-A",
+  "title": "Das Gipfeltreffen der großen Geiger (The Huberman Festival)",
+  "artist": "Zubin Mehta (Director), Isaac Stern, Itzhak Perlman, Pinchas Zukerman, Shlomo Mintz & Israel Philharmonic Orchestra",
+  "releaseYear": 1983,
+  "genre": "Música Clásica",
+  "subGenre": "Concierto / Violín",
+  "totalDuration": "58m 10s",
+  "label": "Deutsche Grammophon",
+  "format": "Vinyl / Stereo / Digital Recording / LP",
+  "catalogNumber": "2741 026",
+  "coverUrl": "https://m.media-amazon.com/images/I/71MI4UfOaXL._UF1000,1000_QL80_.jpg",
+  "composers": [
+    "Antonio Vivaldi",
+    "Johann Sebastian Bach",
+    "Wolfgang Amadeus Mozart"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Vivaldi: Concerto for 4 Violins in B Minor, RV 580: I. Allegro",
+      "duration": "03:45",
+      "act": "Lado A (Stern, Zukerman, Mintz, Perlman)",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 2,
+      "title": "Vivaldi: Concerto for 4 Violins in B Minor, RV 580: II. Largo",
+      "duration": "02:30",
+      "act": "Lado A",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 3,
+      "title": "Vivaldi: Concerto for 4 Violins in B Minor, RV 580: III. Allegro",
+      "duration": "03:20",
+      "act": "Lado A",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 4,
+      "title": "Bach: Double Concerto in D Minor, BWV 1043: I. Vivace",
+      "duration": "04:10",
+      "act": "Lado A (Stern, Mintz)",
+      "composer": "Johann Sebastian Bach"
+    },
+    {
+      "id": 5,
+      "title": "Bach: Double Concerto in D Minor, BWV 1043: II. Largo ma non tanto",
+      "duration": "06:50",
+      "act": "Lado A",
+      "composer": "Johann Sebastian Bach"
+    },
+    {
+      "id": 6,
+      "title": "Bach: Double Concerto in D Minor, BWV 1043: III. Allegro",
+      "duration": "05:15",
+      "act": "Lado A",
+      "composer": "Johann Sebastian Bach"
+    },
+    {
+      "id": 7,
+      "title": "Mozart: Sinfonia Concertante in E-flat Major, K. 364: I. Allegro maestoso",
+      "duration": "13:20",
+      "act": "Lado B (Perlman, Zukerman)",
+      "composer": "Wolfgang Amadeus Mozart"
+    },
+    {
+      "id": 8,
+      "title": "Mozart: Sinfonia Concertante in E-flat Major, K. 364: II. Andante",
+      "duration": "11:40",
+      "act": "Lado B",
+      "composer": "Wolfgang Amadeus Mozart"
+    },
+    {
+      "id": 9,
+      "title": "Mozart: Sinfonia Concertante in E-flat Major, K. 364: III. Presto",
+      "duration": "06:30",
+      "act": "Lado B",
+      "composer": "Wolfgang Amadeus Mozart"
+    }
+  ]
+},
+{
+  "id": "teldec-vivaldi-op8-harnoncourt-1977",
+  "section": "1-B",
+  "title": "Vivaldi: Il Cimento dell'Armonia e dell'Inventione, Op. 8 (Incl. The Four Seasons)",
+  "artist": "Nikolaus Harnoncourt (Director) & Concentus Musicus Wien",
+  "releaseYear": 1977,
+  "genre": "Música Clásica",
+  "subGenre": "Barroco / Concierto",
+  "totalDuration": "1h 55m 00s",
+  "label": "Teldec / Das Alte Werk",
+  "format": "Vinyl / Stereo / 2 LP Box Set (DMM)",
+  "catalogNumber": "6.35386",
+  "coverUrl": "https://i.ebayimg.com/images/g/JcIAAeSw7e5oDzJY/s-l1200.jpg",
+  "composers": [
+    "Antonio Vivaldi"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Concerto No. 1 in E Major, RV 269 'La Primavera' (Spring)",
+      "duration": "10:30",
+      "act": "Lado A (The Four Seasons)",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 2,
+      "title": "Concerto No. 2 in G Minor, RV 315 'L'Estate' (Summer)",
+      "duration": "10:15",
+      "act": "Lado A (The Four Seasons)",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 3,
+      "title": "Concerto No. 3 in F Major, RV 293 'L'Autunno' (Autumn)",
+      "duration": "11:00",
+      "act": "Lado B (The Four Seasons)",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 4,
+      "title": "Concerto No. 4 in F Minor, RV 297 'L'Inverno' (Winter)",
+      "duration": "08:50",
+      "act": "Lado B (The Four Seasons)",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 5,
+      "title": "Concerto No. 5 in E-flat Major, RV 253 'La Tempesta di Mare'",
+      "duration": "09:10",
+      "act": "Lado C",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 6,
+      "title": "Concerto No. 6 in C Major, RV 180 'Il Piacere'",
+      "duration": "08:45",
+      "act": "Lado C",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 7,
+      "title": "Concerto No. 7 in D Minor, RV 242",
+      "duration": "08:20",
+      "act": "Lado D",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 8,
+      "title": "Concerto No. 8 in G Minor, RV 332",
+      "duration": "09:30",
+      "act": "Lado D",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 9,
+      "title": "Concerto No. 9 in D Minor, RV 236",
+      "duration": "08:40",
+      "act": "Lado D",
+      "composer": "Antonio Vivaldi"
+    }
+  ]
+},
+{
+  "id": "decca-oiseau-lyre-vivaldi-op8-hogwood-1983",
+  "section": "1-B",
+  "title": "Vivaldi: Il Cimento dell'Armonia e dell'Inventione, Op. 8 (Incl. The Four Seasons)",
+  "artist": "The Academy of Ancient Music & Christopher Hogwood (Director)",
+  "releaseYear": 1983,
+  "genre": "Música Clásica",
+  "subGenre": "Barroco / Concierto",
+  "totalDuration": "1h 58m 00s",
+  "label": "L'Oiseau-Lyre / Decca",
+  "format": "Vinyl / Stereo / Digital Recording / 2 LP Box Set",
+  "catalogNumber": "D279D 2",
+  "coverUrl": "https://i.discogs.com/TB3wcHigNTUYzRcPYDdQkiQ-fNE59wrOQUZtHytWTFU/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzNjEy/NzctMTQ4MTk5MTk4/Ny00ODQzLmpwZWc.jpeg",
+  "composers": [
+    "Antonio Vivaldi"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Concerto No. 1 in E Major 'La Primavera' (Spring)",
+      "duration": "09:45",
+      "act": "Lado A",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 2,
+      "title": "Concerto No. 2 in G Minor 'L'Estate' (Summer)",
+      "duration": "09:30",
+      "act": "Lado A",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 3,
+      "title": "Concerto No. 3 in F Major 'L'Autunno' (Autumn)",
+      "duration": "10:50",
+      "act": "Lado B",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 4,
+      "title": "Concerto No. 4 in F Minor 'L'Inverno' (Winter)",
+      "duration": "08:15",
+      "act": "Lado B",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 5,
+      "title": "Concerto No. 5 in E-flat Major 'La Tempesta di Mare'",
+      "duration": "08:40",
+      "act": "Lado C",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 6,
+      "title": "Concerto No. 6 in C Major 'Il Piacere'",
+      "duration": "08:20",
+      "act": "Lado C",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 7,
+      "title": "Concerto No. 7 in D Minor",
+      "duration": "07:55",
+      "act": "Lado C",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 8,
+      "title": "Concerto No. 8 in G Minor",
+      "duration": "09:10",
+      "act": "Lado D",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 9,
+      "title": "Concerto No. 9 in D Minor",
+      "duration": "08:05",
+      "act": "Lado D",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 10,
+      "title": "Concerto No. 10 in B-flat Major 'La Caccia'",
+      "duration": "08:30",
+      "act": "Lado D",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 11,
+      "title": "Concerto No. 11 in D Major",
+      "duration": "09:20",
+      "act": "Lado D",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 12,
+      "title": "Concerto No. 12 in C Major",
+      "duration": "09:00",
+      "act": "Lado D",
+      "composer": "Antonio Vivaldi"
+    }
+  ]
+},
+{
+  "id": "philips-vivaldi-tito-manlio-negri-1978",
+  "section": "1-B",
+  "title": "Vivaldi: Tito Manlio (First World Recording)",
+  "artist": "Vittorio Negri (Director), Giancarlo Luccardi, Rose Wagemann, Julia Hamari, Birgit Finnilä, Margaret Marshall & Kammerorchester Berlin",
+  "releaseYear": 1978,
+  "genre": "Ópera",
+  "subGenre": "Música Clásica / Barroco",
+  "totalDuration": "4h 05m 00s",
+  "label": "Philips",
+  "format": "Vinyl / Stereo / 5 LP Box Set",
+  "catalogNumber": "6769 004",
+  "coverUrl": "https://m.media-amazon.com/images/I/81w7ZGJUBOL._UF894,1000_QL80_.jpg",
+  "composers": [
+    "Antonio Vivaldi",
+    "Matteo Noris (Libreto)"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Sinfonia: Allegro - Andante - Allegro",
+      "duration": "04:30",
+      "act": "Acto I",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 2,
+      "title": "Se il cor guerriero (Tito)",
+      "duration": "03:45",
+      "act": "Acto I",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 3,
+      "title": "Orribile lo scempio (Lucio)",
+      "duration": "03:20",
+      "act": "Acto I",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 4,
+      "title": "Di verde ulivo (Vitellia)",
+      "duration": "05:15",
+      "act": "Acto I",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 5,
+      "title": "L'intendo e non lo chiedo (Servilia)",
+      "duration": "04:50",
+      "act": "Acto I",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 6,
+      "title": "Combatta un gentil cor (Manlio)",
+      "duration": "04:10",
+      "act": "Acto II",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 7,
+      "title": "Sia con pace, o Roma augusta (Decio)",
+      "duration": "03:55",
+      "act": "Acto II",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 8,
+      "title": "Fra le procelle (Lucio)",
+      "duration": "04:40",
+      "act": "Acto II",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 9,
+      "title": "Non m'inganno, al mio rivale (Lindo)",
+      "duration": "02:50",
+      "act": "Acto II",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 10,
+      "title": "Sonno, se pur sei sonno (Manlio - Escena de prisión)",
+      "duration": "07:30",
+      "act": "Acto III",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 11,
+      "title": "Ti lascio, o padre amato (Servilia)",
+      "duration": "05:20",
+      "act": "Acto III",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 12,
+      "title": "Sulla tarpea pendice (Coro Final)",
+      "duration": "02:15",
+      "act": "Acto III",
+      "composer": "Antonio Vivaldi"
+    }
+  ]
+},
+{
+  "id": "vox-box-vbx31-vivaldi-stravaganza-barchet",
+  "section": "1-B",
+  "title": "Vivaldi: La Stravaganza, Op. 4 (12 Concerti for Solo Violin, Strings and Continuo)",
+  "artist": "Reinhold Barchet (Violin), Helma Elsner (Harpsichord), Pro Musica String Orchestra Stuttgart & Rolf Reinhardt (Conductor)",
+  "releaseYear": 1962,
+  "genre": "Música Clásica",
+  "subGenre": "Barroco / Concierto para Violín",
+  "totalDuration": "1h 55m 00s",
+  "label": "Vox Box",
+  "format": "Vinyl / Mono / 3 LP Box Set",
+  "catalogNumber": "VBX 31",
+  "coverUrl": "https://i.ebayimg.com/images/g/MbwAAOSwOK1eSZBv/s-l400.jpg",
+  "composers": [
+    "Antonio Vivaldi"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Concerto No. 1 in B-flat Major, RV 383a",
+      "duration": "09:10",
+      "act": "Lado A",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 2,
+      "title": "Concerto No. 2 in E Minor, RV 279",
+      "duration": "10:45",
+      "act": "Lado A",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 3,
+      "title": "Concerto No. 3 in G Major, RV 301",
+      "duration": "08:30",
+      "act": "Lado B",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 4,
+      "title": "Concerto No. 4 in A Minor, RV 357",
+      "duration": "09:50",
+      "act": "Lado B",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 5,
+      "title": "Concerto No. 5 in A Major, RV 347",
+      "duration": "09:40",
+      "act": "Lado C",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 6,
+      "title": "Concerto No. 6 in G Minor, RV 316a",
+      "duration": "11:15",
+      "act": "Lado C",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 7,
+      "title": "Concerto No. 7 in C Major, RV 185",
+      "duration": "08:20",
+      "act": "Lado D",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 8,
+      "title": "Concerto No. 8 in D Minor, RV 249",
+      "duration": "08:55",
+      "act": "Lado D",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 9,
+      "title": "Concerto No. 9 in F Major, RV 284",
+      "duration": "09:05",
+      "act": "Lado E",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 10,
+      "title": "Concerto No. 10 in C Minor, RV 196",
+      "duration": "10:30",
+      "act": "Lado E",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 11,
+      "title": "Concerto No. 11 in D Major, RV 204",
+      "duration": "08:45",
+      "act": "Lado F",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 12,
+      "title": "Concerto No. 12 in G Major, RV 298",
+      "duration": "10:10",
+      "act": "Lado F",
+      "composer": "Antonio Vivaldi"
+    }
+  ]
+},
+{
+  "id": "emi-angel-vivaldi-four-seasons-perlman-1976",
+  "section": "1-B",
+  "title": "Vivaldi: The Four Seasons (Le Quattro Stagioni)",
+  "artist": "Itzhak Perlman (Violin/Director) & London Philharmonic Orchestra",
+  "releaseYear": 1976,
+  "genre": "Música Clásica",
+  "subGenre": "Barroco / Concierto",
+  "totalDuration": "42m 10s",
+  "label": "EMI Angel",
+  "format": "Vinyl / Stereo / LP",
+  "catalogNumber": "SAM-8638",
+  "coverUrl": "https://m.media-amazon.com/images/I/81LUBiCSPHL._UF1000,1000_QL80_.jpg",
+  "composers": [
+    "Antonio Vivaldi"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Concerto No. 1 in E Major, RV 269 'La Primavera' (Spring)",
+      "duration": "10:45",
+      "act": "Lado A",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 2,
+      "title": "Concerto No. 2 in G Minor, RV 315 'L'Estate' (Summer)",
+      "duration": "10:30",
+      "act": "Lado A",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 3,
+      "title": "Concerto No. 3 in F Major, RV 293 'L'Autunno' (Autumn)",
+      "duration": "11:20",
+      "act": "Lado B",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 4,
+      "title": "Concerto No. 4 in F Minor, RV 297 'L'Inverno' (Winter)",
+      "duration": "09:15",
+      "act": "Lado B",
+      "composer": "Antonio Vivaldi"
+    }
+  ]
+},
+{
+  "id": "philips-vivaldi-four-seasons-szeryng-1970",
+  "section": "1-B",
+  "title": "Vivaldi: Die vier Jahreszeiten (The Four Seasons)",
+  "artist": "Henryk Szeryng (Violin/Director) & English Chamber Orchestra",
+  "releaseYear": 1970,
+  "genre": "Música Clásica",
+  "subGenre": "Barroco / Concierto",
+  "totalDuration": "43m 15s",
+  "label": "Philips",
+  "format": "Vinyl / Stereo / LP",
+  "catalogNumber": "6500 076",
+  "coverUrl": "https://i.discogs.com/_hvTebiL6TCPR_L3ehsadarYkhvSPMkgqLCSRo1MA9E/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5MTIx/MTYtMTQyOTM2NzQ3/NC05MDM2LmpwZWc.jpeg",
+  "composers": [
+    "Antonio Vivaldi"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Concerto No. 1 in E Major, RV 269 'La Primavera' (Spring)",
+      "duration": "10:50",
+      "act": "Lado A",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 2,
+      "title": "Concerto No. 2 in G Minor, RV 315 'L'Estate' (Summer)",
+      "duration": "10:40",
+      "act": "Lado A",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 3,
+      "title": "Concerto No. 3 in F Major, RV 293 'L'Autunno' (Autumn)",
+      "duration": "11:30",
+      "act": "Lado B",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 4,
+      "title": "Concerto No. 4 in F Minor, RV 297 'L'Inverno' (Winter)",
+      "duration": "09:20",
+      "act": "Lado B",
+      "composer": "Antonio Vivaldi"
+    }
+  ]
+},
+{
+  "id": "parliament-plps613-viola-damore-stumpf",
+  "section": "1-B",
+  "title": "Viola d'Amore (Ariosti, Vivaldi, Hraczek, Stamitz)",
+  "artist": "Karl Stumpf (Viola d'Amore), Prague Chamber Orchestra & Jindřich Rohan (Conductor)",
+  "releaseYear": 1966,
+  "genre": "Música Clásica",
+  "subGenre": "Barroco / Clásico / Concierto",
+  "totalDuration": "48m 30s",
+  "label": "Parliament",
+  "format": "Vinyl / Stereo / LP",
+  "catalogNumber": "PLPS-613",
+  "coverUrl": "https://i.discogs.com/TrfPjD3sgzotPdfjIA7fr2b6IFpMqb0D4dbF36oULSM/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTU3/NjMxLTE2MDA4OTg1/MDktNzM2NS5qcGVn.jpeg",
+  "composers": [
+    "Attilio Ariosti",
+    "Antonio Vivaldi",
+    "Karl Hraczek",
+    "Carl Stamitz"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Sonata No. 3 for Viola d'Amore and Continuo",
+      "duration": "09:15",
+      "act": "Lado A (Ariosti)",
+      "composer": "Attilio Ariosti"
+    },
+    {
+      "id": 2,
+      "title": "Concerto in D Minor for Viola d'Amore, Strings and Cembalo",
+      "duration": "10:40",
+      "act": "Lado A (Vivaldi)",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 3,
+      "title": "Sonata No. 12 for Viola d'Amore and Guitar",
+      "duration": "08:20",
+      "act": "Lado B (Hraczek)",
+      "composer": "Karl Hraczek"
+    },
+    {
+      "id": 4,
+      "title": "Concerto No. 2 in D Major for Viola d'Amore and Orchestra",
+      "duration": "14:50",
+      "act": "Lado B (Stamitz)",
+      "composer": "Carl Stamitz"
+    }
+  ]
+},
+{
+  "id": "epic-lc3541-vivaldi-op10-tassinari",
+  "section": "1-B",
+  "title": "Vivaldi: Six Concertos for Flute, Strings and Continuo, Op. 10",
+  "artist": "Gastone Tassinari (Flute) & I Musici",
+  "releaseYear": 1958,
+  "genre": "Música Clásica",
+  "subGenre": "Barroco / Concierto para Flauta",
+  "totalDuration": "48m 20s",
+  "label": "Epic / Monumenta Italicae Musicae",
+  "format": "Vinyl / Mono / LP",
+  "catalogNumber": "LC 3541",
+  "coverUrl": "https://i.discogs.com/ihFXHr3Hd6fCgm6C9cGRvUZ3Ln93g-6VhHkaAxaUo04/rs:fit/g:sm/q:40/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTU0/NTgyLTE0OTI1NjE5/NTctNzYwMS5qcGVn.jpeg",
+  "composers": [
+    "Antonio Vivaldi"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Concerto No. 1 in F Major, RV 433 'La Tempesta di Mare'",
+      "duration": "07:15",
+      "act": "Lado A",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 2,
+      "title": "Concerto No. 2 in G Minor, RV 439 'La Notte'",
+      "duration": "08:40",
+      "act": "Lado A",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 3,
+      "title": "Concerto No. 3 in D Major, RV 428 'Il Gardellino'",
+      "duration": "09:30",
+      "act": "Lado A",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 4,
+      "title": "Concerto No. 4 in G Major, RV 435",
+      "duration": "07:50",
+      "act": "Lado B",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 5,
+      "title": "Concerto No. 5 in F Major, RV 434",
+      "duration": "08:10",
+      "act": "Lado B",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 6,
+      "title": "Concerto No. 6 in G Major, RV 437",
+      "duration": "07:55",
+      "act": "Lado B",
+      "composer": "Antonio Vivaldi"
+    }
+  ]
+},
+{
+  "id": "vanguard-bgs5041-virtuoso-trumpet-wobisch",
+  "section": "1-B",
+  "title": "The Virtuoso Trumpet: Music for One, Two and Four Trumpets",
+  "artist": "Helmut Wobisch (Trumpet), I Solisti di Zagreb & Antonio Janigro (Director)",
+  "releaseYear": 1961,
+  "genre": "Música Clásica",
+  "subGenre": "Barroco / Concierto para Trompeta",
+  "totalDuration": "46m 40s",
+  "label": "The Bach Guild / Vanguard Records",
+  "format": "Vinyl / Stereo / LP",
+  "catalogNumber": "BGS 5041",
+  "coverUrl": "https://i.discogs.com/IZZgGtZwm9qcv2MY2DJY8vIqezceQT74HcMGSYcCdBk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwMDQ3/NDItMTY3NDc4NTI0/NC04ODA0LmpwZWc.jpeg",
+  "composers": [
+    "Antonio Vivaldi",
+    "Giuseppe Torelli",
+    "Henry Purcell",
+    "Domenico Gabrielli",
+    "Jeremiah Clarke",
+    "Arcangelo Corelli",
+    "Giacomo Antonio Perti"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Vivaldi: Concerto for 2 Trumpets in C Major, RV 537",
+      "duration": "07:30",
+      "act": "Lado A",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 2,
+      "title": "Torelli: Sonata a 5 for Trumpet and Strings in D Major (G.1)",
+      "duration": "06:45",
+      "act": "Lado A",
+      "composer": "Giuseppe Torelli"
+    },
+    {
+      "id": 3,
+      "title": "Purcell: Sonata for Trumpet and Strings in D Major",
+      "duration": "05:10",
+      "act": "Lado A",
+      "composer": "Henry Purcell"
+    },
+    {
+      "id": 4,
+      "title": "Torelli: Sinfonia for 4 Trumpets and Strings in C Major",
+      "duration": "04:50",
+      "act": "Lado A",
+      "composer": "Giuseppe Torelli"
+    },
+    {
+      "id": 5,
+      "title": "Gabrielli: Sonata for Trumpet and Strings in D Major (D.XI.4)",
+      "duration": "05:55",
+      "act": "Lado B",
+      "composer": "Domenico Gabrielli"
+    },
+    {
+      "id": 6,
+      "title": "Corelli: Sonata for Trumpet and Strings in D Major",
+      "duration": "07:20",
+      "act": "Lado B",
+      "composer": "Arcangelo Corelli"
+    },
+    {
+      "id": 7,
+      "title": "Perti: Sonata for 4 Trumpets and Strings in D Major",
+      "duration": "05:15",
+      "act": "Lado B",
+      "composer": "Giacomo Antonio Perti"
+    },
+    {
+      "id": 8,
+      "title": "Clarke: Trumpet Voluntary in D Major",
+      "duration": "02:40",
+      "act": "Lado B",
+      "composer": "Jeremiah Clarke"
+    }
+  ]
+},
+{
+  "id": "philips-vivaldi-oboe-concertos-holliger-imusici",
+  "section": "1-B",
+  "title": "Vivaldi: 4 Oboe Concertos (RV 447, 450, 460, 463)",
+  "artist": "Heinz Holliger (Oboe) & I Musici",
+  "releaseYear": 1976,
+  "genre": "Música Clásica",
+  "subGenre": "Barroco / Concierto para Oboe",
+  "totalDuration": "48m 30s",
+  "label": "Philips",
+  "format": "Vinyl / Stereo / LP",
+  "catalogNumber": "9500 299",
+  "coverUrl": "https://i.discogs.com/4ckz3JhI6I4PHLzAqpVWrn837_TFLDlsriBWpRCNdgk/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5NTI1/OTItMTYyMjMzMzUw/Mi0yMTUyLmpwZWc.jpeg",
+  "composers": [
+    "Antonio Vivaldi"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Concerto in C Major, RV 447: I. Allegro non molto",
+      "duration": "05:15",
+      "act": "Lado A",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 2,
+      "title": "Concerto in C Major, RV 447: II. Larghetto",
+      "duration": "03:40",
+      "act": "Lado A",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 3,
+      "title": "Concerto in C Major, RV 447: III. Minuetto",
+      "duration": "04:10",
+      "act": "Lado A",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 4,
+      "title": "Concerto in A Minor, RV 463: I. Allegro",
+      "duration": "03:20",
+      "act": "Lado A",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 5,
+      "title": "Concerto in A Minor, RV 463: II. Largo",
+      "duration": "02:50",
+      "act": "Lado A",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 6,
+      "title": "Concerto in A Minor, RV 463: III. Allegro",
+      "duration": "03:15",
+      "act": "Lado A",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 7,
+      "title": "Concerto in C Major, RV 450: I. Allegro molto",
+      "duration": "04:05",
+      "act": "Lado B",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 8,
+      "title": "Concerto in C Major, RV 450: II. Larghetto",
+      "duration": "03:30",
+      "act": "Lado B",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 9,
+      "title": "Concerto in C Major, RV 450: III. Allegro",
+      "duration": "02:55",
+      "act": "Lado B",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 10,
+      "title": "Concerto in C Major, RV 460: I. Allegro",
+      "duration": "04:20",
+      "act": "Lado B",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 11,
+      "title": "Concerto in C Major, RV 460: II. Largo",
+      "duration": "03:10",
+      "act": "Lado B",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 12,
+      "title": "Concerto in C Major, RV 460: III. Allegro",
+      "duration": "03:00",
+      "act": "Lado B",
+      "composer": "Antonio Vivaldi"
+    }
+  ]
+},
+{
+  "id": "vanguard-bg560-solisti-zagreb-vivaldi",
+  "section": "1-B",
+  "title": "Solisti di Zagreb play Vivaldi",
+  "artist": "I Solisti di Zagreb & Antonio Janigro (Director)",
+  "releaseYear": 1957,
+  "genre": "Música Clásica",
+  "subGenre": "Barroco / Concierto",
+  "totalDuration": "47m 20s",
+  "label": "The Bach Guild / Vanguard Records",
+  "format": "Vinyl / Mono / LP",
+  "catalogNumber": "BG-560",
+  "coverUrl": "https://i.discogs.com/9337AZFgeUFZDRYCSvnuly7636n8a32XW4Y-UEjKMFw/rs:fit/g:sm/q:40/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMDIw/MjMtMTMyNTA4MDc0/OS5qcGVn.jpeg",
+  "composers": [
+    "Antonio Vivaldi"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Concerto in E minor for Bassoon and Strings",
+      "duration": "10:45",
+      "act": "Lado A",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 2,
+      "title": "Concerto in G major for Strings, 'Alla Rustica'",
+      "duration": "03:50",
+      "act": "Lado A",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 3,
+      "title": "Concerto in F major for Oboe and Strings",
+      "duration": "09:30",
+      "act": "Lado A",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 4,
+      "title": "Concerto in D minor for Oboe and Strings",
+      "duration": "08:40",
+      "act": "Lado B",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 5,
+      "title": "Sinfonia No. 1 in C major",
+      "duration": "06:15",
+      "act": "Lado B",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 6,
+      "title": "Sinfonia No. 2 in G major",
+      "duration": "05:50",
+      "act": "Lado B",
+      "composer": "Antonio Vivaldi"
+    }
+  ]
+},
+{
+  "id": "vogue-vivaldi-concerto-cors-guitare",
+  "section": "1-B",
+  "title": "Vivaldi: Concerto pour Cors / Concertos pour Guitare",
+  "artist": "Roger Guérin & Xavier Delwande (Cornos), Christian Aubin (Guitarra), Collegium Musicum de Paris & Roland Douatte (Director)",
+  "releaseYear": 1965,
+  "genre": "Música Clásica",
+  "subGenre": "Barroco / Concierto",
+  "totalDuration": "45m 20s",
+  "label": "Vogue Contrepoint",
+  "format": "Vinyl / Mono / LP",
+  "catalogNumber": "MC 20.134",
+  "coverUrl": "https://classicus.jp/wordpress/wp-content/uploads/2019/02/024218.jpg",
+  "composers": [
+    "Antonio Vivaldi"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Concerto for 2 Horns in F Major, RV 538",
+      "duration": "09:15",
+      "act": "Lado A",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 2,
+      "title": "Concerto for Guitar (Lute) in D Major, RV 93",
+      "duration": "10:30",
+      "act": "Lado B",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 3,
+      "title": "Concerto for Guitar (Mandolin) in C Major, RV 425",
+      "duration": "08:45",
+      "act": "Lado B",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 4,
+      "title": "Trio in G Minor for Lute, Violin & Continuo, RV 85",
+      "duration": "09:50",
+      "act": "Lado B",
+      "composer": "Antonio Vivaldi"
+    }
+  ]
+},
+{
+  "id": "philips-vivaldi-3-oboe-concertos-holliger-1982",
+  "section": "1-B",
+  "title": "Vivaldi: 3 Concerti per oboe & Concerto per oboe e fagotto",
+  "artist": "Heinz Holliger (Oboe), Klaus Thunemann (Bassoon) & I Musici",
+  "releaseYear": 1982,
+  "genre": "Música Clásica",
+  "subGenre": "Barroco / Concierto para Oboe",
+  "totalDuration": "46m 30s",
+  "label": "Philips / Digital Recording",
+  "format": "Vinyl / Stereo / LP",
+  "catalogNumber": "6514 167",
+  "coverUrl": "https://i.ebayimg.com/images/g/lRUAAOSwtb9nnW9Y/s-l1200.jpg",
+  "composers": [
+    "Antonio Vivaldi"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Concerto for Oboe in C Major, RV 446",
+      "duration": "10:15",
+      "act": "Lado A",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 2,
+      "title": "Concerto for Oboe in C Major, RV 452",
+      "duration": "07:30",
+      "act": "Lado A",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 3,
+      "title": "Concerto for Oboe in D Minor, RV 454 (Op. 8 No. 9)",
+      "duration": "08:45",
+      "act": "Lado B",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 4,
+      "title": "Concerto for Oboe and Bassoon in G Major, RV 545",
+      "duration": "11:20",
+      "act": "Lado B",
+      "composer": "Antonio Vivaldi"
+    }
+  ]
+},
+{
+  "id": "period-vivaldi-accademia-dell-orso-jenkins",
+  "section": "1-B",
+  "title": "Antonio Vivaldi: Concertos for Mandolins & Piccolo",
+  "artist": "Orchestre Accademia dell'Orso & Newell Jenkins (Conductor)",
+  "releaseYear": 1957,
+  "genre": "Música Clásica",
+  "subGenre": "Barroco / Concierto",
+  "totalDuration": "46m 30s",
+  "label": "Period Records",
+  "format": "Vinyl / Mono / LP",
+  "catalogNumber": "SPL 733",
+  "coverUrl": "https://i.discogs.com/EG0IDjK6wtFIh2Eap53XfPIAL_qJFgp0G0NVtQPuS00/rs:fit/g:sm/q:90/h:449/w:446/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTU0/NDA1LTE1Njg4NDMx/NzAtNzAxNi5qcGVn.jpeg",
+  "composers": [
+    "Antonio Vivaldi"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Concerto in G Major for Two Mandolins and Orchestra, RV 532",
+      "duration": "12:10",
+      "act": "Lado A",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 2,
+      "title": "Concerto No. 1 in A Minor for Piccolo and Strings, RV 445",
+      "duration": "10:45",
+      "act": "Lado A",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 3,
+      "title": "Concerto No. 2 in C Major for Piccolo and Strings, RV 443",
+      "duration": "11:20",
+      "act": "Lado B",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 4,
+      "title": "Concerto No. 3 in C Major for Piccolo and Strings, RV 444",
+      "duration": "10:55",
+      "act": "Lado B",
+      "composer": "Antonio Vivaldi"
+    }
+  ]
+},
+{
+  "id": "dg-festival-strings-lucerne-1958",
+  "section": "1-B",
+  "title": "Festival Strings Lucerne: Vivaldi, Bach, Purcell, Pergolesi",
+  "artist": "Festival Strings Lucerne, Rudolf Baumgartner (Director) & Wolfgang Schneiderhan (Violín)",
+  "releaseYear": 1958,
+  "genre": "Música Clásica",
+  "subGenre": "Barroco / Orquestal",
+  "totalDuration": "46m 00s",
+  "label": "Deutsche Grammophon Gesellschaft",
+  "format": "Vinyl / Mono / LP",
+  "catalogNumber": "LPM 18 460",
+  "coverUrl": "https://m.media-amazon.com/images/I/519cw2Pk3xL._UXNaN_FMjpg_QL85_.jpg",
+  "composers": [
+    "Antonio Vivaldi",
+    "Johann Sebastian Bach",
+    "Henry Purcell",
+    "Giovanni Battista Pergolesi"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Vivaldi: Concerto for Strings in D Minor, Op. 3 No. 11 (RV 565)",
+      "duration": "10:30",
+      "act": "Lado A",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 2,
+      "title": "J.S. Bach: Violin Concerto No. 1 in A Minor, BWV 1041",
+      "duration": "14:15",
+      "act": "Lado A",
+      "composer": "Johann Sebastian Bach"
+    },
+    {
+      "id": 3,
+      "title": "Purcell: Pavane and Chaconne in G Minor",
+      "duration": "07:45",
+      "act": "Lado B",
+      "composer": "Henry Purcell"
+    },
+    {
+      "id": 4,
+      "title": "Pergolesi: Concertino No. 2 in G Major",
+      "duration": "11:20",
+      "act": "Lado B",
+      "composer": "Giovanni Battista Pergolesi"
+    }
+  ]
+},
+{
+  "id": "philips-vivaldi-op6-carmirelli-imusici-1978",
+  "section": "1-B",
+  "title": "Vivaldi: Sechs Concerti Op. 6 für Violine, Streicher und Continuo",
+  "artist": "Pina Carmirelli (Violin) & I Musici",
+  "releaseYear": 1978,
+  "genre": "Música Clásica",
+  "subGenre": "Barroco / Concierto para Violín",
+  "totalDuration": "54m 30s",
+  "label": "Philips",
+  "format": "Vinyl / Stereo / LP",
+  "catalogNumber": "9500 438",
+  "coverUrl": "https://i.discogs.com/mS6amxfULXpahZEvY1jSHMCYWuzOmroqCt7zAwL2Xmw/rs:fit/g:sm/q:40/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0NjM5/NDMtMTYxNDk0NjAy/OC05Mjg4LmpwZWc.jpeg",
+  "composers": [
+    "Antonio Vivaldi"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Concerto No. 1 in G Minor, RV 324: I. Allegro",
+      "duration": "03:45",
+      "act": "Lado A",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 2,
+      "title": "Concerto No. 1 in G Minor, RV 324: II. Grave",
+      "duration": "02:10",
+      "act": "Lado A",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 3,
+      "title": "Concerto No. 1 in G Minor, RV 324: III. Allegro",
+      "duration": "03:15",
+      "act": "Lado A",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 4,
+      "title": "Concerto No. 2 in E-flat Major, RV 259: I. Allegro",
+      "duration": "03:20",
+      "act": "Lado A",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 5,
+      "title": "Concerto No. 2 in E-flat Major, RV 259: II. Largo",
+      "duration": "02:30",
+      "act": "Lado A",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 6,
+      "title": "Concerto No. 2 in E-flat Major, RV 259: III. Allegro",
+      "duration": "02:40",
+      "act": "Lado A",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 7,
+      "title": "Concerto No. 3 in G Minor, RV 318: I. Allegro",
+      "duration": "04:10",
+      "act": "Lado A",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 8,
+      "title": "Concerto No. 3 in G Minor, RV 318: II. Adagio",
+      "duration": "02:50",
+      "act": "Lado A",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 9,
+      "title": "Concerto No. 3 in G Minor, RV 318: III. Allegro",
+      "duration": "03:30",
+      "act": "Lado A",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 10,
+      "title": "Concerto No. 4 in D Major, RV 216",
+      "duration": "07:20",
+      "act": "Lado B",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 11,
+      "title": "Concerto No. 5 in E Minor, RV 280",
+      "duration": "09:10",
+      "act": "Lado B",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 12,
+      "title": "Concerto No. 6 in D Minor, RV 239",
+      "duration": "08:15",
+      "act": "Lado B",
+      "composer": "Antonio Vivaldi"
+    }
+  ]
+},
+{
+  "id": "seraphim-s60118-vivaldi-two-orchestras-ephrikian",
+  "section": "1-B",
+  "title": "Vivaldi: Four Concertos for Two Orchestras",
+  "artist": "Les Solistes de Bruxelles, I Solisti di Milano & Angelo Ephrikian (Director)",
+  "releaseYear": 1974,
+  "genre": "Música Clásica",
+  "subGenre": "Barroco / Concierto para Dos Orquestas",
+  "totalDuration": "46m 00s",
+  "label": "Seraphim",
+  "format": "Vinyl / Stereo / LP",
+  "catalogNumber": "S-60118",
+  "coverUrl": "https://m.media-amazon.com/images/I/71liEcWnxTL._UF1000,1000_QL80_.jpg",
+  "composers": [
+    "Antonio Vivaldi"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Concerto in D Major for Two Orchestras, RV 581 (per la Santissima Assunzione di Maria Vergine)",
+      "duration": "12:45",
+      "act": "Lado A",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 2,
+      "title": "Concerto in B-flat Major for Two Orchestras, RV 583",
+      "duration": "10:20",
+      "act": "Lado A",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 3,
+      "title": "Concerto in A Major for Two Orchestras, RV 585",
+      "duration": "11:10",
+      "act": "Lado B",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 4,
+      "title": "Concerto in C Major for Two Orchestras, RV 582 (per la Santissima Assunzione di Maria Vergine)",
+      "duration": "11:45",
+      "act": "Lado B",
+      "composer": "Antonio Vivaldi"
+    }
+  ]
+},
+{
+  "id": "angel-vivaldi-concertos-imusici-35087",
+  "section": "1-B",
+  "title": "Vivaldi: Concerto in D Minor 'Madrigalesco' & Others",
+  "artist": "I Musici",
+  "releaseYear": 1954,
+  "genre": "Música Clásica",
+  "subGenre": "Barroco / Concierto",
+  "totalDuration": "42m 00s",
+  "label": "Angel Records",
+  "format": "Vinyl / Mono / LP",
+  "catalogNumber": "Angel 35087",
+  "coverUrl": "/disco_generico.png",
+  "composers": [
+    "Antonio Vivaldi"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Concerto in D Minor for Strings, RV 129 'Madrigalesco'",
+      "duration": "04:30",
+      "act": "Lado A",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 2,
+      "title": "Concerto in D Minor for Viola d'Amore, Strings & Cembalo, RV 393",
+      "duration": "10:15",
+      "act": "Lado A",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 3,
+      "title": "Concerto in D Major for Violin & Strings, RV 234 'L'Inquietudine'",
+      "duration": "05:45",
+      "act": "Lado B",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 4,
+      "title": "Concerto in A Major for Strings, RV 158",
+      "duration": "06:20",
+      "act": "Lado B",
+      "composer": "Antonio Vivaldi"
+    }
+  ]
+},
+{
+  "id": "period-spl557-vivaldi-juditha-ephrikian",
+  "section": "1-B",
+  "title": "Vivaldi: Juditha Triumphans (Oratorio)",
+  "artist": "Angelo Ephrikian (Conductor), Maria Amadini, Rosanna Giancola, Marcello Cortis & Orchestra of the Scuola Veneziana",
+  "releaseYear": 1952,
+  "genre": "Música Clásica",
+  "subGenre": "Barroco / Oratorio",
+  "totalDuration": "Aprox. 2 horas",
+  "label": "Period Records",
+  "format": "Vinyl / Mono / LP Box Set",
+  "catalogNumber": "SPL 557",
+  "coverUrl": "https://i.ebayimg.com/images/g/KEwAAOSwtMpm3lCH/s-l1200.png",
+  "composers": [
+    "Antonio Vivaldi",
+    "Giacomo Cassetti (Libreto)"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Arma, caedes, vindictae, furores (Coro)",
+      "duration": "03:30",
+      "act": "Pars Prior",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 2,
+      "title": "Nil arma, nil bella (Holofernes)",
+      "duration": "03:50",
+      "act": "Pars Prior",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 3,
+      "title": "Matrona inimica (Vagaus)",
+      "duration": "03:15",
+      "act": "Pars Prior",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 4,
+      "title": "Quocumque, ut venti (Juditha)",
+      "duration": "04:50",
+      "act": "Pars Prior",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 5,
+      "title": "Veni, me sequere fida (Juditha)",
+      "duration": "06:40",
+      "act": "Pars Altera",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 6,
+      "title": "In somno profundo (Juditha)",
+      "duration": "06:00",
+      "act": "Pars Altera",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 7,
+      "title": "Armatae face et anguibus (Vagaus)",
+      "duration": "03:40",
+      "act": "Pars Altera",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 8,
+      "title": "Salve invicta Juditha formosa (Coro Final)",
+      "duration": "02:30",
+      "act": "Pars Altera",
+      "composer": "Antonio Vivaldi"
+    }
+  ]
+},
+{
+  "id": "angel-corelli-vivaldi-martini-imusici",
+  "section": "1-B",
+  "title": "Corelli, Vivaldi, Martini: Concerti Grossi & Concertos",
+  "artist": "I Musici",
+  "releaseYear": 1956,
+  "genre": "Música Clásica",
+  "subGenre": "Barroco / Concierto Grosso",
+  "totalDuration": "44m 10s",
+  "label": "Angel Records",
+  "format": "Vinyl / Mono / LP",
+  "catalogNumber": "Angel 35253",
+  "coverUrl": "/disco_generico.png",
+  "composers": [
+    "Arcangelo Corelli",
+    "Antonio Vivaldi",
+    "Giovanni Battista Martini"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Corelli: Concerto Grosso No. 1 in D Major, Op. 6",
+      "duration": "12:30",
+      "act": "Lado A",
+      "composer": "Arcangelo Corelli"
+    },
+    {
+      "id": 2,
+      "title": "Vivaldi: Concerto in A Major for Viola d'Amore & Strings (RV 396)",
+      "duration": "11:15",
+      "act": "Lado A",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 3,
+      "title": "Vivaldi: Concerto in D Minor, RV 565 (Op. 3 No. 11)",
+      "duration": "09:45",
+      "act": "Lado B",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 4,
+      "title": "Martini: Concerto in F Major for Piano & Strings",
+      "duration": "10:40",
+      "act": "Lado B",
+      "composer": "Giovanni Battista Martini"
+    }
+  ]
+},
+{
+  "id": "philips-vivaldi-op8-ay-concerti-9-12",
+  "section": "1-B",
+  "title": "Vivaldi: Il Cimento dell'Armonia e dell'Inventione, Op. 8 (Concerti Nos. 9-12)",
+  "artist": "Felix Ayo (Violin) & I Musici",
+  "releaseYear": 1962,
+  "genre": "Música Clásica",
+  "subGenre": "Barroco / Concierto para Violín",
+  "totalDuration": "44m 10s",
+  "label": "Philips",
+  "format": "Vinyl / Stereo / LP",
+  "catalogNumber": "835 110 AY",
+  "coverUrl": "https://i.discogs.com/zFidszlBvZEK4k8TXbGrXx_tVAhrvxEESuTxKs6DwCI/rs:fit/g:sm/q:40/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2MDgx/NjAtMTQ2NTIwMDg4/Ny01NTIwLmpwZWc.jpeg",
+  "composers": [
+    "Antonio Vivaldi"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Concerto No. 9 in D Minor, RV 236",
+      "duration": "08:30",
+      "act": "Lado A",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 2,
+      "title": "Concerto No. 10 in B-flat Major, RV 362 'La Caccia' (The Hunt)",
+      "duration": "08:45",
+      "act": "Lado A",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 3,
+      "title": "Concerto No. 11 in D Major, RV 210",
+      "duration": "12:50",
+      "act": "Lado B",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 4,
+      "title": "Concerto No. 12 in C Major, RV 178",
+      "duration": "09:15",
+      "act": "Lado B",
+      "composer": "Antonio Vivaldi"
+    }
+  ]
+},
+{
+  "id": "archiv-vivaldi-cantate-italiane-jacobs-curtis",
+  "section": "1-B",
+  "title": "Vivaldi: Cantate italiane (Italian Cantatas)",
+  "artist": "René Jacobs (Alto), Complesso Barocco & Alan Curtis (Director/Harpsichord)",
+  "releaseYear": 1979,
+  "genre": "Música Clásica",
+  "subGenre": "Barroco / Cantata de Cámara",
+  "totalDuration": "52m 10s",
+  "label": "Archiv Produktion",
+  "format": "Vinyl / Stereo / LP",
+  "catalogNumber": "2533 385",
+  "coverUrl": "https://m.media-amazon.com/images/I/81Gu-5TAfZL._UF894,1000_QL80_.jpg",
+  "composers": [
+    "Antonio Vivaldi"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Cessate, omai cessate (Cantata for Alto, Strings & Continuo, RV 684)",
+      "duration": "12:45",
+      "act": "Lado A",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 2,
+      "title": "Qual per ignoto calle (Cantata for Alto, Strings & Continuo, RV 677)",
+      "duration": "11:30",
+      "act": "Lado A",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 3,
+      "title": "O mie porpore più belle (Cantata for Alto, Violin & Continuo, RV 685)",
+      "duration": "13:10",
+      "act": "Lado B",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 4,
+      "title": "Amor, hai vinto (Cantata for Alto, Strings & Continuo, RV 683)",
+      "duration": "14:45",
+      "act": "Lado B",
+      "composer": "Antonio Vivaldi"
+    }
+  ]
+},
+{
+  "id": "dg-vivaldi-organ-concertos-isoir-kuentz",
+  "section": "1-B",
+  "title": "Vivaldi: Konzerte mit Orgel (Concertos with Organ)",
+  "artist": "André Isoir (Organ), Monique Frasca-Colombier (Violin), Michel Giboureau (Oboe) & Orchestre de Chambre Paul Kuentz",
+  "releaseYear": 1976,
+  "genre": "Música Clásica",
+  "subGenre": "Barroco / Concierto para Órgano",
+  "totalDuration": "48m 10s",
+  "label": "Deutsche Grammophon",
+  "format": "Vinyl / Stereo / LP",
+  "catalogNumber": "2530 652",
+  "coverUrl": "https://m.media-amazon.com/images/I/A1Kiuv+N1FL._UF894,1000_QL80_.jpg",
+  "composers": [
+    "Antonio Vivaldi"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Concerto in D Minor for Violin, Organ & Strings, RV 541",
+      "duration": "10:30",
+      "act": "Lado A",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 2,
+      "title": "Concerto in A Minor for Oboe, Organ & Strings",
+      "duration": "09:45",
+      "act": "Lado A",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 3,
+      "title": "Concerto in C Major for Violin, Organ & Strings, RV 554",
+      "duration": "12:15",
+      "act": "Lado B",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 4,
+      "title": "Concerto in F Major for Violin, Organ & Strings, RV 542",
+      "duration": "11:20",
+      "act": "Lado B",
+      "composer": "Antonio Vivaldi"
+    }
+  ]
+},
+{
+  "id": "dg-vivaldi-gloria-credo-bartoletti",
+  "section": "1-B",
+  "title": "Vivaldi: Gloria & Credo (Ed. Casella)",
+  "artist": "Bruno Bartoletti (Director), Maria Stader, Alberta Pellegrini, Anna Maria Rota & Orchestra del Maggio Musicale Fiorentino",
+  "releaseYear": 1962,
+  "genre": "Música Clásica",
+  "subGenre": "Barroco / Música Sacra",
+  "totalDuration": "52m 00s",
+  "label": "Deutsche Grammophon Gesellschaft",
+  "format": "Vinyl / Stereo / LP",
+  "catalogNumber": "SLPM 138 788",
+  "coverUrl": "/disco_generico.png",
+  "composers": [
+    "Antonio Vivaldi",
+    "Alfredo Casella (Edición)"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Gloria in D Major, RV 589: I. Gloria in excelsis Deo",
+      "duration": "02:30",
+      "act": "Lado A (Gloria)",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 2,
+      "title": "Gloria in D Major, RV 589: Et in terra pax - Laudamus te",
+      "duration": "06:45",
+      "act": "Lado A (Gloria)",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 3,
+      "title": "Gloria in D Major, RV 589: Domine Deus - Domine Fili",
+      "duration": "07:20",
+      "act": "Lado A (Gloria)",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 4,
+      "title": "Gloria in D Major, RV 589: Quoniam tu solus sanctus - Cum Sancto Spiritu",
+      "duration": "05:10",
+      "act": "Lado A (Gloria)",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 5,
+      "title": "Credo in E Minor, RV 591: I. Credo in unum Deum",
+      "duration": "02:15",
+      "act": "Lado B (Credo)",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 6,
+      "title": "Credo in E Minor, RV 591: II. Et incarnatus est",
+      "duration": "01:50",
+      "act": "Lado B (Credo)",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 7,
+      "title": "Credo in E Minor, RV 591: III. Crucifixus",
+      "duration": "02:40",
+      "act": "Lado B (Credo)",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 8,
+      "title": "Credo in E Minor, RV 591: IV. Et resurrexit",
+      "duration": "03:10",
+      "act": "Lado B (Credo)",
+      "composer": "Antonio Vivaldi"
+    }
+  ]
+},
+{
+  "id": "philips-vivaldi-la-gloria-e-imeneo-blanchard",
+  "section": "1-B",
+  "title": "Vivaldi: La Gloria e Imeneo (Cantata para el matrimonio de Luis XV)",
+  "artist": "Roger Blanchard (Director), Elisabeth Dillenschneider, Jane Berbié & Solistes de l'Orchestre de la Société des Concerts du Conservatoire",
+  "releaseYear": 1964,
+  "genre": "Música Clásica",
+  "subGenre": "Barroco / Cantata de Boda",
+  "totalDuration": "48m 15s",
+  "label": "Philips / Plaisir du Classique",
+  "format": "Vinyl / Mono / LP",
+  "catalogNumber": "836.829 DSY",
+  "coverUrl": "https://http2.mlstatic.com/D_933980-MLM97530619768_112025-C.jpg",
+  "composers": [
+    "Antonio Vivaldi"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Aria: Qui non un'ombra",
+      "duration": "03:40",
+      "act": "Lado A (La Gloria)",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 2,
+      "title": "Aria: Se m'è caro il tuo bel nome",
+      "duration": "04:50",
+      "act": "Lado A (Imeneo)",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 3,
+      "title": "Aria: Da due venti cangiato il ciel",
+      "duration": "04:15",
+      "act": "Lado A (La Gloria)",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 4,
+      "title": "Aria: Non c'è più bella",
+      "duration": "05:20",
+      "act": "Lado B (Imeneo)",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 5,
+      "title": "Duetto: Di due rai languir costante (La Gloria e Imeneo)",
+      "duration": "04:45",
+      "act": "Lado B",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 6,
+      "title": "Coro: Viva il sommo Luigi e la sua sposa",
+      "duration": "03:10",
+      "act": "Lado B",
+      "composer": "Antonio Vivaldi"
+    }
+  ]
+},
+{
+  "id": "westminster-vivaldi-gloria-ephrikian",
+  "section": "1-B",
+  "title": "Vivaldi: Gloria in D Major, RV 589",
+  "artist": "Coro de la Academia de Santa Cecilia (Roma), Solistas de Milán & Angelo Ephrikian (Director)",
+  "releaseYear": 1963,
+  "genre": "Música Clásica",
+  "subGenre": "Barroco / Música Sacra",
+  "totalDuration": "30m 10s",
+  "label": "Westminster",
+  "format": "Vinyl / Stereo / LP",
+  "catalogNumber": "WST 14139",
+  "coverUrl": "https://i.scdn.co/image/ab67616d0000b273cf06018d48f6efd32b4d58ab",
+  "composers": [
+    "Antonio Vivaldi"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Gloria in D Major, RV 589: I. Gloria in excelsis Deo",
+      "duration": "02:30",
+      "act": "Lado A",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 2,
+      "title": "Gloria in D Major, RV 589: II. Et in terra pax",
+      "duration": "04:15",
+      "act": "Lado A",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 3,
+      "title": "Gloria in D Major, RV 589: III. Laudamus te",
+      "duration": "01:40",
+      "act": "Lado A",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 4,
+      "title": "Gloria in D Major, RV 589: IV. Gratias agimus tibi",
+      "duration": "00:30",
+      "act": "Lado A",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 5,
+      "title": "Gloria in D Major, RV 589: V. Propter magnam gloriam",
+      "duration": "00:45",
+      "act": "Lado A",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 6,
+      "title": "Gloria in D Major, RV 589: VI. Domine Deus, Rex coelestis",
+      "duration": "03:40",
+      "act": "Lado A",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 7,
+      "title": "Gloria in D Major, RV 589: VII. Domine Fili unigenite",
+      "duration": "02:15",
+      "act": "Lado A",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 8,
+      "title": "Gloria in D Major, RV 589: VIII. Domine Deus, Agnus Dei",
+      "duration": "02:40",
+      "act": "Lado B",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 9,
+      "title": "Gloria in D Major, RV 589: IX. Qui tollis peccata mundi",
+      "duration": "01:50",
+      "act": "Lado B",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 10,
+      "title": "Gloria in D Major, RV 589: X. Quoniam tu solus sanctus",
+      "duration": "02:25",
+      "act": "Lado B",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 11,
+      "title": "Gloria in D Major, RV 589: XI. Cum Sancto Spiritu",
+      "duration": "03:30",
+      "act": "Lado B",
+      "composer": "Antonio Vivaldi"
+    }
+  ]
+},
+{
+  "id": "archiv-vivaldi-kyrie-gloria-schneidt-1977",
+  "section": "1-B",
+  "title": "Vivaldi: Kyrie (RV 587) & Gloria (RV 588)",
+  "artist": "Hanns-Martin Schneidt (Director), Regensburger Domspatzen & Capella Academica Wien",
+  "releaseYear": 1977,
+  "genre": "Música Clásica",
+  "subGenre": "Barroco / Música Sacra",
+  "totalDuration": "45m 00s",
+  "label": "Archiv Produktion",
+  "format": "Vinyl / Stereo / LP",
+  "catalogNumber": "2533 362",
+  "coverUrl": "https://i.discogs.com/mrzFyZh0MjMynuwl3rB2Zh3KvG29Jibxn_DGX2xdLM8/rs:fit/g:sm/q:40/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDc1/ODIzLTE1MDkzOTMw/MDctNjU3Ny5qcGVn.jpeg",
+  "composers": [
+    "Antonio Vivaldi"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Kyrie in G Minor, RV 587: I. Kyrie eleison",
+      "duration": "03:40",
+      "act": "Lado A (Kyrie)",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 2,
+      "title": "Kyrie in G Minor, RV 587: II. Christe eleison",
+      "duration": "02:10",
+      "act": "Lado A (Kyrie)",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 3,
+      "title": "Kyrie in G Minor, RV 587: III. Kyrie eleison",
+      "duration": "03:15",
+      "act": "Lado A (Kyrie)",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 4,
+      "title": "Gloria in D Major, RV 588: I. Gloria in excelsis Deo",
+      "duration": "02:40",
+      "act": "Lado A (Gloria)",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 5,
+      "title": "Gloria in D Major, RV 588: II. Et in terra pax - Qui tollis peccata mundi",
+      "duration": "06:50",
+      "act": "Lado B (Gloria)",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 6,
+      "title": "Gloria in D Major, RV 588: III. Quoniam tu solus sanctus",
+      "duration": "03:15",
+      "act": "Lado B (Gloria)",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 7,
+      "title": "Gloria in D Major, RV 588: IV. Cum Sancto Spiritu",
+      "duration": "04:30",
+      "act": "Lado B (Gloria)",
+      "composer": "Antonio Vivaldi"
+    }
+  ]
+},
+{
+  "id": "westminster-gold-vivaldi-gloria-scherchen",
+  "section": "1-B",
+  "title": "Vivaldi: Gloria (RV 589)",
+  "artist": "Hermann Scherchen (Director) & Vienna State Opera Orchestra / Chorus",
+  "releaseYear": 1970,
+  "genre": "Música Clásica",
+  "subGenre": "Barroco / Música Sacra",
+  "totalDuration": "30m 10s",
+  "label": "Westminster Gold",
+  "format": "Vinyl / Stereo / LP",
+  "catalogNumber": "WGS-8013",
+  "coverUrl": "https://c8.alamy.com/comp/2H3T51G/vivaldi-gloria-scherchen-westminster-gold-1-classical-music-vintage-vinyl-record-2H3T51G.jpg",
+  "composers": [
+    "Antonio Vivaldi"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Gloria in D Major, RV 589: I. Gloria in excelsis Deo",
+      "duration": "02:30",
+      "act": "Lado A",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 2,
+      "title": "Gloria in D Major, RV 589: II. Et in terra pax",
+      "duration": "04:15",
+      "act": "Lado A",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 3,
+      "title": "Gloria in D Major, RV 589: III. Laudamus te",
+      "duration": "01:40",
+      "act": "Lado A",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 4,
+      "title": "Gloria in D Major, RV 589: IV. Gratias agimus tibi",
+      "duration": "00:30",
+      "act": "Lado A",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 5,
+      "title": "Gloria in D Major, RV 589: V. Propter magnam gloriam",
+      "duration": "00:45",
+      "act": "Lado A",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 6,
+      "title": "Gloria in D Major, RV 589: VI. Domine Deus, Rex coelestis",
+      "duration": "03:40",
+      "act": "Lado A",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 7,
+      "title": "Gloria in D Major, RV 589: VII. Domine Fili unigenite",
+      "duration": "02:15",
+      "act": "Lado A",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 8,
+      "title": "Gloria in D Major, RV 589: VIII. Domine Deus, Agnus Dei",
+      "duration": "02:40",
+      "act": "Lado B",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 9,
+      "title": "Gloria in D Major, RV 589: IX. Qui tollis peccata mundi",
+      "duration": "01:50",
+      "act": "Lado B",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 10,
+      "title": "Gloria in D Major, RV 589: X. Quoniam tu solus sanctus",
+      "duration": "02:25",
+      "act": "Lado B",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 11,
+      "title": "Gloria in D Major, RV 589: XI. Cum Sancto Spiritu",
+      "duration": "03:30",
+      "act": "Lado B",
+      "composer": "Antonio Vivaldi"
+    }
+  ]
+},
+{
+  "id": "clave-vivaldi-kalmar-sandor",
+  "section": "1-B",
+  "title": "Vivaldi: Laudate pueri, In furore, Nulla in mundo pax sincera",
+  "artist": "Magda Kalmár (Soprano), Orquesta de Cámara Ferenc Liszt & Frigyes Sándor (Director)",
+  "releaseYear": 1977,
+  "genre": "Música Clásica",
+  "subGenre": "Barroco / Música Sacra",
+  "totalDuration": "48m 50s",
+  "label": "Clave / Hungaroton",
+  "format": "Vinyl / Stereo / LP",
+  "catalogNumber": "CGL-224",
+  "coverUrl": "/disco_generico.png",
+  "composers": [
+    "Antonio Vivaldi"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Laudate pueri, Dominum (RV 600)",
+      "duration": "14:10",
+      "act": "Lado A",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 2,
+      "title": "In furore iustissimae irae (Motete, RV 626)",
+      "duration": "15:40",
+      "act": "Lado A/B",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 3,
+      "title": "Nulla in mundo pax sincera (Motete, RV 630)",
+      "duration": "17:30",
+      "act": "Lado B",
+      "composer": "Antonio Vivaldi"
+    }
+  ]
+},
+{
+  "id": "vanguard-bg578-vivaldi-dixit-ephrikian",
+  "section": "1-B",
+  "title": "Vivaldi: Dixit Dominus (RV 594) & Sinfonia al Santo Sepolcro",
+  "artist": "Angelo Ephrikian (Director), Solisti di Milano, Vienna State Opera Orchestra & Chorus",
+  "releaseYear": 1963,
+  "genre": "Música Clásica",
+  "subGenre": "Barroco / Música Sacra",
+  "totalDuration": "45m 00s",
+  "label": "The Bach Guild / Vanguard Records",
+  "format": "Vinyl / Mono / LP",
+  "catalogNumber": "BG 578",
+  "coverUrl": "https://i.discogs.com/JCL5iYzf2cdJcMYQb-2zth35CoSK_FVbasX-MQj6wJo/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NTU1/Nzk4LTE2ODgzNzYy/MzktNjg4Mi5qcGVn.jpeg",
+  "composers": [
+    "Antonio Vivaldi"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Dixit Dominus (RV 594): I. Dixit Dominus",
+      "duration": "02:30",
+      "act": "Lado A",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 2,
+      "title": "Dixit Dominus (RV 594): II. Confitebor tibi",
+      "duration": "03:45",
+      "act": "Lado A",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 3,
+      "title": "Dixit Dominus (RV 594): III. Tecum principium",
+      "duration": "02:15",
+      "act": "Lado A",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 4,
+      "title": "Dixit Dominus (RV 594): IV. Juravit Dominus",
+      "duration": "03:10",
+      "act": "Lado A",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 5,
+      "title": "Sinfonia al Santo Sepolcro (RV 169)",
+      "duration": "04:30",
+      "act": "Lado B",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 6,
+      "title": "Dixit Dominus (RV 594): V. Dominus a dextris tuis",
+      "duration": "04:50",
+      "act": "Lado B",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 7,
+      "title": "Dixit Dominus (RV 594): VI. De torrente",
+      "duration": "05:20",
+      "act": "Lado B",
+      "composer": "Antonio Vivaldi"
+    }
+  ]
+},
+{
+  "id": "philips-telemann-oboe-concertos-holliger-1982",
+  "section": "1-B",
+  "title": "Telemann: Concerti per oboe (4 Oboe Concertos)",
+  "artist": "Heinz Holliger (Oboe), Academy of St. Martin-in-the-Fields & Iona Brown (Director)",
+  "releaseYear": 1982,
+  "genre": "Música Clásica",
+  "subGenre": "Barroco / Concierto",
+  "totalDuration": "49m 10s",
+  "label": "Philips / Digital Recording",
+  "format": "Vinyl / Stereo / LP",
+  "catalogNumber": "6514 232",
+  "coverUrl": "https://i.discogs.com/vplkkuRyNPMUqtip8_8m9ya9vdBuLQ_aLoWrG7uElBM/rs:fit/g:sm/q:90/h:600/w:590/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTMy/NTEwLTE1Mjg5NDYw/MjQtNTk0MC5qcGVn.jpeg",
+  "composers": [
+    "Georg Philipp Telemann"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Concerto in E minor for Oboe and Strings",
+      "duration": "10:30",
+      "act": "Lado A",
+      "composer": "Georg Philipp Telemann"
+    },
+    {
+      "id": 2,
+      "title": "Concerto in D minor for Oboe and Strings",
+      "duration": "09:45",
+      "act": "Lado A",
+      "composer": "Georg Philipp Telemann"
+    },
+    {
+      "id": 3,
+      "title": "Concerto in C minor for Oboe and Strings",
+      "duration": "09:15",
+      "act": "Lado A",
+      "composer": "Georg Philipp Telemann"
+    },
+    {
+      "id": 4,
+      "title": "Concerto in F minor for Oboe and Strings",
+      "duration": "08:50",
+      "act": "Lado B",
+      "composer": "Georg Philipp Telemann"
+    },
+    {
+      "id": 5,
+      "title": "Concerto in D major for Oboe and Strings",
+      "duration": "10:50",
+      "act": "Lado B",
+      "composer": "Georg Philipp Telemann"
+    }
+  ]
+},
+{
+  "id": "philips-meisterkonzerte-imusici-1974",
+  "section": "1-B",
+  "title": "Meisterkonzerte des Italienischen Barock (Capuzzi / Vivaldi / Leo)",
+  "artist": "I Musici",
+  "releaseYear": 1974,
+  "genre": "Música Clásica",
+  "subGenre": "Barroco / Clasicismo",
+  "totalDuration": "47m 00s",
+  "label": "Philips / UniversO-Serie",
+  "format": "Vinyl / Stereo / LP",
+  "catalogNumber": "6580 075",
+  "coverUrl": "https://i.discogs.com/siu6TflN8o7__a985wYZJvqRjqitMW9FnQ4p3dybkGY/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5NjA2/MjItMTQxODIwNTU2/MS04MDkzLmpwZWc.jpeg",
+  "composers": [
+    "Giuseppe Antonio Capuzzi",
+    "Antonio Vivaldi",
+    "Leonardo Leo"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Capuzzi: Concerto for Contrabass (or Violin) in C Major",
+      "duration": "14:10",
+      "act": "Lado A",
+      "composer": "Giuseppe Antonio Capuzzi"
+    },
+    {
+      "id": 2,
+      "title": "Vivaldi: Concerto for 4 Violins and Cello in E Minor, RV 551",
+      "duration": "11:20",
+      "act": "Lado A",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 3,
+      "title": "Leo: Cello Concerto in D Major",
+      "duration": "21:30",
+      "act": "Lado B",
+      "composer": "Leonardo Leo"
+    }
+  ]
+},
+{
+  "id": "philips-vivaldi-5-oboe-concertos-holliger-imusici-rv451-461",
+  "section": "1-B",
+  "title": "Vivaldi: Five Oboe Concertos (RV 451, 453, 455, 457, 461)",
+  "artist": "Heinz Holliger (Oboe) & I Musici",
+  "releaseYear": 1978,
+  "genre": "Música Clásica",
+  "subGenre": "Barroco / Concierto para Oboe",
+  "totalDuration": "49m 40s",
+  "label": "Philips",
+  "format": "Vinyl / Stereo / LP",
+  "catalogNumber": "9500 742",
+  "coverUrl": "https://i.discogs.com/7lJPdkMhGoWyYA6L0obpfaE-Gp9KDQwzOdSG4_S72UM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyNDQ1/MzktMTYwMTc1Njkx/My04OTg2LmpwZWc.jpeg",
+  "composers": [
+    "Antonio Vivaldi"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Concerto in C Major, RV 451",
+      "duration": "09:40",
+      "act": "Lado A",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 2,
+      "title": "Concerto in D Major, RV 453",
+      "duration": "10:15",
+      "act": "Lado A",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 3,
+      "title": "Concerto in C Major, RV 455",
+      "duration": "10:25",
+      "act": "Lado B",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 4,
+      "title": "Concerto in F Major, RV 457",
+      "duration": "09:50",
+      "act": "Lado B",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 5,
+      "title": "Concerto in A Minor, RV 461",
+      "duration": "09:30",
+      "act": "Lado B",
+      "composer": "Antonio Vivaldi"
+    }
+  ]
+},
+{
+  "id": "philips-telemann-oboe-concertos-holliger-1982",
+  "section": "1-B",
+  "title": "Telemann: Concerti per oboe (5 Oboe Concertos)",
+  "artist": "Heinz Holliger (Oboe), Academy of St. Martin-in-the-Fields & Iona Brown (Director)",
+  "releaseYear": 1982,
+  "genre": "Música Clásica",
+  "subGenre": "Barroco / Concierto",
+  "totalDuration": "49m 10s",
+  "label": "Philips / Digital Recording",
+  "format": "Vinyl / Stereo / LP",
+  "catalogNumber": "6514 232",
+  "coverUrl": "https://i.discogs.com/y5Uev0aWtukT3_sYUWH9oCaA0M0uUpVuq9g3cG9mYNQ/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5MDk2/ODUtMTQyOTMwNjg5/NC0yNDUyLmpwZWc.jpeg",
+  "composers": [
+    "Georg Philipp Telemann"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Concerto in E minor for Oboe and Strings",
+      "duration": "10:30",
+      "act": "Lado A",
+      "composer": "Georg Philipp Telemann"
+    },
+    {
+      "id": 2,
+      "title": "Concerto in D minor for Oboe and Strings",
+      "duration": "09:45",
+      "act": "Lado A",
+      "composer": "Georg Philipp Telemann"
+    },
+    {
+      "id": 3,
+      "title": "Concerto in C minor for Oboe and Strings",
+      "duration": "09:15",
+      "act": "Lado A",
+      "composer": "Georg Philipp Telemann"
+    },
+    {
+      "id": 4,
+      "title": "Concerto in F minor for Oboe and Strings",
+      "duration": "08:50",
+      "act": "Lado B",
+      "composer": "Georg Philipp Telemann"
+    },
+    {
+      "id": 5,
+      "title": "Concerto in D major for Oboe and Strings",
+      "duration": "10:50",
+      "act": "Lado B",
+      "composer": "Georg Philipp Telemann"
+    }
+  ]
+},
+{
+  "id": "philips-vivaldi-5-oboe-concertos-holliger-bourgue-1980",
+  "section": "1-B",
+  "title": "Vivaldi: Five Oboe Concertos (RV 458, 462, 534, 535, 536)",
+  "artist": "Heinz Holliger, Maurice Bourgue (Oboes) & I Musici",
+  "releaseYear": 1980,
+  "genre": "Música Clásica",
+  "subGenre": "Barroco / Concierto para Oboe",
+  "totalDuration": "49m 40s",
+  "label": "Philips",
+  "format": "Vinyl / Stereo / LP",
+  "catalogNumber": "9500 742",
+  "coverUrl": "https://m.media-amazon.com/images/I/71GKeBDS3mL._UF1000,1000_QL80_.jpg",
+  "composers": [
+    "Antonio Vivaldi"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Concerto in C Major, RV 458 (Solo Oboe)",
+      "duration": "09:40",
+      "act": "Lado A",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 2,
+      "title": "Concerto in A Minor, RV 462 (Solo Oboe)",
+      "duration": "10:15",
+      "act": "Lado A",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 3,
+      "title": "Concerto for 2 Oboes in C Major, RV 534",
+      "duration": "09:10",
+      "act": "Lado A",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 4,
+      "title": "Concerto for 2 Oboes in D Minor, RV 535",
+      "duration": "10:15",
+      "act": "Lado B",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 5,
+      "title": "Concerto for 2 Oboes in C Major, RV 536",
+      "duration": "10:20",
+      "act": "Lado B",
+      "composer": "Antonio Vivaldi"
+    }
+  ]
+},
+{
+  "id": "london-vivaldi-guitar-concerto-yepes",
+  "section": "1-B",
+  "title": "Vivaldi Guitar Concerto / Bach Chaconne / Palau Concierto Levantino",
+  "artist": "Narciso Yepes (Guitarra), Orquesta Nacional de España & Odón Alonso (Director)",
+  "releaseYear": 1970,
+  "genre": "Música Clásica",
+  "subGenre": "Barroco / Concierto para Guitarra",
+  "totalDuration": "45m 00s",
+  "label": "London Records",
+  "format": "Vinyl / Stereo / LP",
+  "catalogNumber": "CM 9276",
+  "coverUrl": "https://m.media-amazon.com/images/I/91dboI5c9lL._UF1000,1000_QL80_.jpg",
+  "composers": [
+    "Antonio Vivaldi",
+    "Johann Sebastian Bach",
+    "Manuel Palau"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Vivaldi: Concerto in D Major for Guitar (Lute), RV 93",
+      "duration": "10:30",
+      "act": "Lado A",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 2,
+      "title": "Bach: Chaconne from Partita No. 2 in D Minor, BWV 1004 (transc. for guitar)",
+      "duration": "14:15",
+      "act": "Lado A",
+      "composer": "Johann Sebastian Bach"
+    },
+    {
+      "id": 3,
+      "title": "Palau: Concierto Levantino for Guitar and Orchestra",
+      "duration": "17:45",
+      "act": "Lado B",
+      "composer": "Manuel Palau"
+    }
+  ]
+},
+{
+  "id": "counterpoint-vivaldi-marcello-quantz-ristenpart",
+  "section": "1-B",
+  "title": "Baroque Music Concert (Vivaldi, Marcello, Quantz)",
+  "artist": "Orchestra of the Sarre & Karl Ristenpart (Conductor)",
+  "releaseYear": 1957,
+  "genre": "Música Clásica",
+  "subGenre": "Barroco / Concierto",
+  "totalDuration": "45m 40s",
+  "label": "Counterpoint / Esoteric",
+  "format": "Vinyl / Stereo / LP",
+  "catalogNumber": "CPT-551",
+  "coverUrl": "https://basicrep.com/wp-content/uploads/2016/04/baroque-counterpoint-ristenpart1.jpg",
+  "composers": [
+    "Antonio Vivaldi",
+    "Alessandro Marcello",
+    "Johann Joachim Quantz"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Vivaldi: Concerto for Bassoon and Orchestra in A Minor, RV 498",
+      "duration": "10:15",
+      "act": "Lado A",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 2,
+      "title": "Marcello: Concerto for Oboe and Orchestra in D Minor",
+      "duration": "11:45",
+      "act": "Lado A",
+      "composer": "Alessandro Marcello"
+    },
+    {
+      "id": 3,
+      "title": "Quantz: Concerto for Flute and Orchestra in G Major",
+      "duration": "14:20",
+      "act": "Lado B",
+      "composer": "Johann Joachim Quantz"
+    },
+    {
+      "id": 4,
+      "title": "Vivaldi: Concerto for Guitar (Lute), Viola d'Amore and Orchestra, RV 540",
+      "duration": "09:20",
+      "act": "Lado B",
+      "composer": "Antonio Vivaldi"
+    }
+  ]
+},
+{
+  "id": "erato-vivaldi-cinque-concerti-scimone",
+  "section": "1-B",
+  "title": "Vivaldi: Cinque Concerti per Violino (Il Riposo, Grosso Mogul, Il Sospetto)",
+  "artist": "Piero Toso, Marco Fornaciari (Violins) & I Solisti Veneti, Claudio Scimone (Director)",
+  "releaseYear": 1974,
+  "genre": "Música Clásica",
+  "subGenre": "Barroco / Concierto para Violín",
+  "totalDuration": "48m 50s",
+  "label": "Erato",
+  "format": "Vinyl / Stereo / LP",
+  "catalogNumber": "STU 71304",
+  "coverUrl": "https://i.discogs.com/L9sD3UW8J2w3Ra-gXbIt0W6vrgZ7qze1RCByuN6NxrQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzUx/MDgxLTE1MTQ3NDY2/ODAtMzkzMC5qcGVn.jpeg",
+  "composers": [
+    "Antonio Vivaldi"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Concerto 'Il Riposo' in E Major, RV 270",
+      "duration": "09:40",
+      "act": "Lado A",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 2,
+      "title": "Concerto 'Grosso Mogul' in D Major, RV 208",
+      "duration": "10:50",
+      "act": "Lado A",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 3,
+      "title": "Concerto 'Il Corneto da Posta' in D Major, RV 363",
+      "duration": "09:15",
+      "act": "Lado B",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 4,
+      "title": "Concerto 'Il Sospetto' in E Minor, RV 199",
+      "duration": "09:30",
+      "act": "Lado B",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 5,
+      "title": "Concerto in C Major (RV 179)",
+      "duration": "08:25",
+      "act": "Lado B",
+      "composer": "Antonio Vivaldi"
+    }
+  ]
+},
+{
+  "id": "cbs-masterworks-vivaldi-double-concertos-stern-oistrakh",
+  "section": "1-B",
+  "title": "Vivaldi: Cuatro Conciertos para dos Violines y Orquesta",
+  "artist": "Isaac Stern, David Oistrakh (Violines), Eugene Ormandy & Miembros de la Orquesta de Filadelfia",
+  "releaseYear": 1970,
+  "genre": "Música Clásica",
+  "subGenre": "Barroco / Concierto Doble",
+  "totalDuration": "45m 45s",
+  "label": "CBS Masterworks",
+  "format": "Vinyl / Stereo / LP",
+  "catalogNumber": "M 30578",
+  "coverUrl": "https://i.discogs.com/GNx4hO6o4HgCK110LozExu1qSzirRKY4dyMlI5juk-4/rs:fit/g:sm/q:90/h:600/w:559/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDM3/NDQwLTE1NDM2NzE4/MTAtMjIzNC5qcGVn.jpeg",
+  "composers": [
+    "Antonio Vivaldi"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Concerto for 2 Violins in A Minor, RV 522 (Op. 3 No. 8)",
+      "duration": "09:30",
+      "act": "Lado A",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 2,
+      "title": "Concerto for 2 Violins in D Major, RV 511",
+      "duration": "12:15",
+      "act": "Lado A",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 3,
+      "title": "Concerto for 2 Violins in C Minor, RV 510",
+      "duration": "11:50",
+      "act": "Lado B",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 4,
+      "title": "Concerto for 2 Violins in D Minor, RV 514",
+      "duration": "12:10",
+      "act": "Lado B",
+      "composer": "Antonio Vivaldi"
+    }
+  ]
+},
+{
+  "id": "philips-vivaldi-6-sonaten-op5-accardo",
+  "section": "1-B",
+  "title": "Vivaldi: 6 Sonaten Op. 5 (6 Sonatas for Violin and B.C.)",
+  "artist": "Salvatore Accardo (Violin), Sylvie Gazeau, Rohan de Saram & Bruno Canino",
+  "releaseYear": 1977,
+  "genre": "Música Clásica",
+  "subGenre": "Barroco / Música de Cámara",
+  "totalDuration": "48m 00s",
+  "label": "Philips",
+  "format": "Vinyl / Stereo / LP",
+  "catalogNumber": "9500 422",
+  "coverUrl": "https://i.discogs.com/7Rj9CKscAvWWF9q3yFFYTXExqkiS67rVCvh9Vk2By54/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDAx/Nzk3LTE2NDc0Mjky/MjktMzYzMS5qcGVn.jpeg",
+  "composers": [
+    "Antonio Vivaldi"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Sonata No. 1 in F Major, RV 76",
+      "duration": "07:50",
+      "act": "Lado A",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 2,
+      "title": "Sonata No. 2 in A Major, RV 30",
+      "duration": "08:15",
+      "act": "Lado A",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 3,
+      "title": "Sonata No. 3 in B-flat Major, RV 77",
+      "duration": "08:45",
+      "act": "Lado A",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 4,
+      "title": "Sonata No. 4 in G Minor, RV 28",
+      "duration": "07:40",
+      "act": "Lado B",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 5,
+      "title": "Sonata No. 5 in E Minor, RV 16",
+      "duration": "07:50",
+      "act": "Lado B",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 6,
+      "title": "Sonata No. 6 in C Major, RV 1",
+      "duration": "07:30",
+      "act": "Lado B",
+      "composer": "Antonio Vivaldi"
+    }
+  ]
+},
+{
+  "id": "erato-vivaldi-cinque-concerti-scimone",
+  "section": "1-B",
+  "title": "Vivaldi: Cinque Concerti per Violino (Il Riposo, Grosso Mogul, Il Sospetto)",
+  "artist": "Piero Toso, Marco Fornaciari (Violins) & I Solisti Veneti, Claudio Scimone (Director)",
+  "releaseYear": 1974,
+  "genre": "Música Clásica",
+  "subGenre": "Barroco / Concierto para Violín",
+  "totalDuration": "48m 50s",
+  "label": "Erato",
+  "format": "Vinyl / Stereo / LP",
+  "catalogNumber": "STU 71304",
+  "coverUrl": "https://i.scdn.co/image/ab67616d0000b27355dfd766c3de749de7555d5a",
+  "composers": [
+    "Antonio Vivaldi"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Concerto 'Il Riposo' in E Major, RV 270",
+      "duration": "09:40",
+      "act": "Lado A",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 2,
+      "title": "Concerto 'Grosso Mogul' in D Major, RV 208",
+      "duration": "10:50",
+      "act": "Lado A",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 3,
+      "title": "Concerto 'Il Corneto da Posta' in D Major, RV 363",
+      "duration": "09:15",
+      "act": "Lado B",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 4,
+      "title": "Concerto 'Il Sospetto' in E Minor, RV 199",
+      "duration": "09:30",
+      "act": "Lado B",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 5,
+      "title": "Concerto in C Major (RV 179)",
+      "duration": "08:25",
+      "act": "Lado B",
+      "composer": "Antonio Vivaldi"
+    }
+  ]
+},
+{
+  "id": "clave-vivaldi-obras-flauta-rampal-scimone",
+  "section": "1-B",
+  "title": "Vivaldi: Obras para Flauta y Orquesta (Vol. 3)",
+  "artist": "Jean-Pierre Rampal (Flauta/Flautín), I Solisti Veneti & Claudio Scimone (Director)",
+  "releaseYear": 1974,
+  "genre": "Música Clásica",
+  "subGenre": "Barroco / Concierto para Flauta",
+  "totalDuration": "47m 40s",
+  "label": "Clave / Erato",
+  "format": "Vinyl / Stereo / LP",
+  "catalogNumber": "CCL-112",
+  "coverUrl": "/disco_generico.png",
+  "composers": [
+    "Antonio Vivaldi"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Concerto en Do Mayor para 2 Flautas y Orquesta, RV 533",
+      "duration": "10:15",
+      "act": "Lado A",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 2,
+      "title": "Concerto en La menor para Flauta, RV 108",
+      "duration": "08:45",
+      "act": "Lado A",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 3,
+      "title": "Concerto en Mi menor para Flauta y Orquesta, RV 431",
+      "duration": "12:20",
+      "act": "Lado B",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 4,
+      "title": "Concerto en Sol Mayor para Flautín (Piccolo), RV 444",
+      "duration": "07:50",
+      "act": "Lado B",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 5,
+      "title": "Concerto en Do Mayor para Flautín (Piccolo), RV 443",
+      "duration": "08:30",
+      "act": "Lado B",
+      "composer": "Antonio Vivaldi"
+    }
+  ]
+},
+{
+  "id": "clave-vivaldi-obras-flauta-vol2-rampal-scimone",
+  "section": "1-B",
+  "title": "Vivaldi: Obras para Flauta y Orquesta Vol. 2 (6 Concertos)",
+  "artist": "Jean-Pierre Rampal (Flauta/Flautín), I Solisti Veneti & Claudio Scimone (Director)",
+  "releaseYear": 1974,
+  "genre": "Música Clásica",
+  "subGenre": "Barroco / Concierto para Flauta",
+  "totalDuration": "48m 10s",
+  "label": "Clave / Erato",
+  "format": "Vinyl / Stereo / LP",
+  "catalogNumber": "CCL-111",
+  "coverUrl": "/disco_generico.png",
+  "composers": [
+    "Antonio Vivaldi"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Concerto en Re Mayor para Flauta, RV 428 'Il Gardellino' (P. 203)",
+      "duration": "09:40",
+      "act": "Lado A",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 2,
+      "title": "Concerto en Re Mayor para Flauta, RV 429 (P. 204)",
+      "duration": "07:50",
+      "act": "Lado A",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 3,
+      "title": "Concerto en Do Mayor para Flautín (Piccolo), RV 444 (P. 79)",
+      "duration": "08:15",
+      "act": "Lado A",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 4,
+      "title": "Concerto en Do menor para Flautín (Piccolo), RV 441 (P. 78)",
+      "duration": "09:25",
+      "act": "Lado B",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 5,
+      "title": "Concerto en Sol Mayor para Flauta, RV 435 (P. 140)",
+      "duration": "07:45",
+      "act": "Lado B",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 6,
+      "title": "Concerto en La menor para Flauta, RV 440 (P. 80)",
+      "duration": "05:15",
+      "act": "Lado B",
+      "composer": "Antonio Vivaldi"
+    }
+  ]
+},
+{
+  "id": "clave-vivaldi-obras-flauta-vol3-rampal-scimone",
+  "section": "1-B",
+  "title": "Vivaldi: Las Obras para Flauta y Orquesta Vol. 3 (7 Concertos)",
+  "artist": "Jean-Pierre Rampal (Flauta/Flautín), I Solisti Veneti & Claudio Scimone (Director)",
+  "releaseYear": 1974,
+  "genre": "Música Clásica",
+  "subGenre": "Barroco / Concierto para Flauta",
+  "totalDuration": "48m 50s",
+  "label": "Clave / Erato",
+  "format": "Vinyl / Stereo / LP",
+  "catalogNumber": "CE-146",
+  "coverUrl": "/disco_generico.png",
+  "composers": [
+    "Antonio Vivaldi"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Concerto en Do Mayor para 2 Flautas, RV 533 (P. 76)",
+      "duration": "10:15",
+      "act": "Lado A",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 2,
+      "title": "Concerto en La menor para Flauta, RV 108 (P. 77)",
+      "duration": "08:45",
+      "act": "Lado A",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 3,
+      "title": "Concerto en Mi menor para Flauta, RV 431 (P. 139)",
+      "duration": "09:50",
+      "act": "Lado A",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 4,
+      "title": "Concerto en Sol Mayor para Flautín (Piccolo), RV 444 (P. 79)",
+      "duration": "07:50",
+      "act": "Lado B",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 5,
+      "title": "Concerto en Do Mayor para Flautín (Piccolo), RV 443 (P. 78)",
+      "duration": "08:30",
+      "act": "Lado B",
+      "composer": "Antonio Vivaldi"
+    }
+  ]
+},
+{
+  "id": "clave-vivaldi-obras-flauta-vol1-rampal-scimone",
+  "section": "1-B",
+  "title": "Vivaldi: Obras para Flauta y Orquesta Vol. 1 (6 Concertos Op. 10)",
+  "artist": "Jean-Pierre Rampal (Flauta/Flautín), I Solisti Veneti & Claudio Scimone (Director)",
+  "releaseYear": 1974,
+  "genre": "Música Clásica",
+  "subGenre": "Barroco / Concierto para Flauta",
+  "totalDuration": "48m 20s",
+  "label": "Clave / Erato",
+  "format": "Vinyl / Stereo / LP",
+  "catalogNumber": "CCL-110",
+  "coverUrl": "/disco_generico.png",
+  "composers": [
+    "Antonio Vivaldi"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Concerto No. 1 in F Major, RV 433 'La Tempesta di Mare'",
+      "duration": "07:15",
+      "act": "Lado A",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 2,
+      "title": "Concerto No. 2 in G Minor, RV 439 'La Notte'",
+      "duration": "08:40",
+      "act": "Lado A",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 3,
+      "title": "Concerto No. 3 in D Major, RV 428 'Il Gardellino'",
+      "duration": "09:30",
+      "act": "Lado A",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 4,
+      "title": "Concerto No. 4 in G Major, RV 435",
+      "duration": "07:50",
+      "act": "Lado B",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 5,
+      "title": "Concerto No. 5 in F Major, RV 434",
+      "duration": "08:10",
+      "act": "Lado B",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 6,
+      "title": "Concerto No. 6 in G Major, RV 437",
+      "duration": "06:55",
+      "act": "Lado B",
+      "composer": "Antonio Vivaldi"
+    }
+  ]
+},
+{
+  "id": "erato-vivaldi-cinque-concerti-scimone",
+  "section": "1-B",
+  "title": "Vivaldi: Cinque Concerti per Violino (Il Riposo, Grosso Mogul, Il Sospetto)",
+  "artist": "Piero Toso, Marco Fornaciari (Violins) & I Solisti Veneti, Claudio Scimone (Director)",
+  "releaseYear": 1974,
+  "genre": "Música Clásica",
+  "subGenre": "Barroco / Concierto para Violín",
+  "totalDuration": "48m 50s",
+  "label": "Erato",
+  "format": "Vinyl / Stereo / LP",
+  "catalogNumber": "STU 71304",
+  "coverUrl": "https://i.discogs.com/7xH76IrG2ALr4fDKgk4AgUxmokLj0cw8FpJRcKvOjPg/rs:fit/g:sm/q:90/h:586/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5MjI2/NDAtMTY1MzQ2NDU0/NS00NTAwLmpwZWc.jpeg",
+  "composers": [
+    "Antonio Vivaldi"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Concerto 'Il Riposo' in E Major, RV 270",
+      "duration": "09:40",
+      "act": "Lado A",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 2,
+      "title": "Concerto 'Grosso Mogul' in D Major, RV 208",
+      "duration": "10:50",
+      "act": "Lado A",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 3,
+      "title": "Concerto 'Il Corneto da Posta' in D Major, RV 363",
+      "duration": "09:15",
+      "act": "Lado B",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 4,
+      "title": "Concerto 'Il Sospetto' in E Minor, RV 199",
+      "duration": "09:30",
+      "act": "Lado B",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 5,
+      "title": "Concerto in C Major (RV 179)",
+      "duration": "08:25",
+      "act": "Lado B",
+      "composer": "Antonio Vivaldi"
+    }
+  ]
+},
+{
+  "id": "philips-vivaldi-edition-vol8-concerti-sinfonie",
+  "section": "1-B",
+  "title": "Vivaldi Edition Vol. 8: Concerti e Sinfonie",
+  "artist": "I Musici",
+  "releaseYear": 1978,
+  "genre": "Música Clásica",
+  "subGenre": "Barroco / Concierto para Cuerdas",
+  "totalDuration": "Aprox. 4 horas (6 LPs)",
+  "label": "Philips",
+  "format": "Vinyl / Stereo / 6 LP Box Set",
+  "catalogNumber": "6768 014",
+  "coverUrl": "https://i.discogs.com/To6O6KkHLP23smp8qpYoXEcwPK55jTV8q_Dy0r5fkiw/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwNjc0/NjEtMTQ1NDUxMzc5/MS04OTQwLmpwZWc.jpeg",
+  "composers": [
+    "Antonio Vivaldi"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Concerto for Strings in G Major, RV 151 'Alla Rustica'",
+      "duration": "03:45",
+      "act": "LP 1",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 2,
+      "title": "Concerto for Strings in D Minor, RV 129 'Madrigalesco'",
+      "duration": "04:10",
+      "act": "LP 1",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 3,
+      "title": "Sinfonia in B Minor, RV 169 'Al Santo Sepolcro'",
+      "duration": "03:30",
+      "act": "LP 2",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 4,
+      "title": "Concerto for Strings in A Major, RV 158",
+      "duration": "06:20",
+      "act": "LP 2",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 5,
+      "title": "Concerto for Strings in C Major, RV 114",
+      "duration": "05:15",
+      "act": "LP 3",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 6,
+      "title": "Sinfonia in G Major, RV 149",
+      "duration": "04:50",
+      "act": "LP 3",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 7,
+      "title": "Concerto for Strings in G Minor, RV 156",
+      "duration": "05:40",
+      "act": "LP 4",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 8,
+      "title": "Concerto for Strings in B-flat Major, RV 163 'Conca'",
+      "duration": "03:55",
+      "act": "LP 5",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 9,
+      "title": "Sinfonia in C Major, RV 112",
+      "duration": "04:30",
+      "act": "LP 6",
+      "composer": "Antonio Vivaldi"
+    }
+  ]
+},
+{
+  "id": "cbs-masterworks-vivaldi-double-concertos-stern-oistrakh",
+  "section": "1-B",
+  "title": "Vivaldi: Cuatro Conciertos para dos Violines y Orquesta",
+  "artist": "Isaac Stern, David Oistrakh (Violines), Eugene Ormandy & Miembros de la Orquesta Filarmónica de New York",
+  "releaseYear": 1970,
+  "genre": "Música Clásica",
+  "subGenre": "Barroco / Concierto Doble",
+  "totalDuration": "45m 45s",
+  "label": "CBS Masterworks",
+  "format": "Vinyl / Stereo / LP",
+  "catalogNumber": "M 30578",
+  "coverUrl": "/disco_generico.png",
+  "composers": [
+    "Antonio Vivaldi"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Concerto for 2 Violins in A Minor, RV 522 (Op. 3 No. 8)",
+      "duration": "09:30",
+      "act": "Lado A",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 2,
+      "title": "Concerto for 2 Violins in D Major, RV 511",
+      "duration": "12:15",
+      "act": "Lado A",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 3,
+      "title": "Concerto for 2 Violins in C Minor, RV 510",
+      "duration": "11:50",
+      "act": "Lado B",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 4,
+      "title": "Concerto for 2 Violins in D Minor, RV 514",
+      "duration": "12:10",
+      "act": "Lado B",
+      "composer": "Antonio Vivaldi"
+    }
+  ]
+},
+{
+  "id": "decca-dl9684-virtuosi-di-roma-vivaldi",
+  "section": "1-B",
+  "title": "Virtuosi di Roma: Vivaldi (Concerti Vol. 3)",
+  "artist": "I Virtuosi di Roma & Renato Fasano (Director)",
+  "releaseYear": 1957,
+  "genre": "Música Clásica",
+  "subGenre": "Barroco / Concierto",
+  "totalDuration": "48m 50s",
+  "label": "Decca Gold Label Series",
+  "format": "Vinyl / Mono / LP",
+  "catalogNumber": "DL 9684",
+  "coverUrl": "https://i.discogs.com/kPDONZNomz3GpTVssjArK02FnadtEEYq5GnVM1Y2Zg8/rs:fit/g:sm/q:90/h:580/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzI3/NzE4LTE1OTY2NzQ5/OTktNDMxOC5qcGVn.jpeg",
+  "composers": [
+    "Antonio Vivaldi"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Concerto in G minor for 2 Violoncelli, Strings and Harpsichord",
+      "duration": "14:40",
+      "act": "Lado A",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 2,
+      "title": "Concerto in B flat major for Viola, Cello, Strings and Harpsichord",
+      "duration": "10:15",
+      "act": "Lado A",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 3,
+      "title": "Concerto in B flat major for Oboe, Violin, Strings and Cembalo",
+      "duration": "11:30",
+      "act": "Lado B",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 4,
+      "title": "Concerto II, Op. 10, No. 2 'La Notte' for Flute, Strings and Cembalo",
+      "duration": "08:55",
+      "act": "Lado B",
+      "composer": "Antonio Vivaldi"
+    }
+  ]
+},
+{
+  "id": "archiv-telemann-kammerkonzerte-goebel-1979",
+  "section": "1-B",
+  "title": "Telemann: Kammerkonzerte (Chamber Concertos)",
+  "artist": "Musica Antiqua Köln & Reinhard Goebel (Director)",
+  "releaseYear": 1979,
+  "genre": "Música Clásica",
+  "subGenre": "Barroco / Concierto de Cámara",
+  "totalDuration": "46m 30s",
+  "label": "Archiv Produktion",
+  "format": "Vinyl / Stereo / LP",
+  "catalogNumber": "2533 421",
+  "coverUrl": "https://http2.mlstatic.com/D_NQ_NP_804216-MLM51654912773_092022-O.webp",
+  "composers": [
+    "Georg Philipp Telemann"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Concerto in A minor for Recorder, Oboe, Violin & Continuo",
+      "duration": "14:15",
+      "act": "Lado A",
+      "composer": "Georg Philipp Telemann"
+    },
+    {
+      "id": 2,
+      "title": "Concerto in G minor for Recorder, Violin & Continuo",
+      "duration": "09:40",
+      "act": "Lado A",
+      "composer": "Georg Philipp Telemann"
+    },
+    {
+      "id": 3,
+      "title": "Concerto in C major for Recorder, Oboe, Violin & Continuo",
+      "duration": "12:10",
+      "act": "Lado B",
+      "composer": "Georg Philipp Telemann"
+    },
+    {
+      "id": 4,
+      "title": "Concerto in D major for Transverse Flute, Violin & Continuo",
+      "duration": "10:25",
+      "act": "Lado B",
+      "composer": "Georg Philipp Telemann"
+    }
+  ]
+},
+{
+  "id": "westminster-vivaldi-6-cello-sonatas-janigro",
+  "section": "1-B",
+  "title": "Vivaldi: Six Sonatas for Cello and Harpsichord (Op. 14)",
+  "artist": "Antonio Janigro (Cello) & Robert Veyron-Lacroix (Harpsichord)",
+  "releaseYear": 1955,
+  "genre": "Música Clásica",
+  "subGenre": "Barroco / Música de Cámara",
+  "totalDuration": "1h 05m 00s",
+  "label": "Westminster",
+  "format": "Vinyl / Mono / 2 LP Box Set (Original release)",
+  "catalogNumber": "XWN 18628",
+  "coverUrl": "https://m.media-amazon.com/images/I/91vdtCJTOBL._UF1000,1000_QL80_.jpg",
+  "composers": [
+    "Antonio Vivaldi"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Sonata No. 1 in B-flat Major (RV 47): I. Largo",
+      "duration": "04:15",
+      "act": "Lado A",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 2,
+      "title": "Sonata No. 1 in B-flat Major (RV 47): II. Allegro",
+      "duration": "02:50",
+      "act": "Lado A",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 3,
+      "title": "Sonata No. 2 in F Major (RV 41): I. Largo",
+      "duration": "03:50",
+      "act": "Lado A",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 4,
+      "title": "Sonata No. 3 in A Minor (RV 43): I. Largo",
+      "duration": "03:10",
+      "act": "Lado B",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 5,
+      "title": "Sonata No. 4 in B-flat Major (RV 45): I. Largo",
+      "duration": "04:05",
+      "act": "Lado B",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 6,
+      "title": "Sonata No. 5 in E Minor (RV 40): I. Largo",
+      "duration": "03:20",
+      "act": "Lado C",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 7,
+      "title": "Sonata No. 6 in B-flat Major (RV 46): I. Largo",
+      "duration": "03:55",
+      "act": "Lado D",
+      "composer": "Antonio Vivaldi"
+    }
+  ]
+},
+{
+  "id": "vanguard-bg560-solisti-zagreb-vivaldi",
+  "section": "1-B",
+  "title": "Solisti di Zagreb play Vivaldi",
+  "artist": "I Solisti di Zagreb & Antonio Janigro (Director)",
+  "releaseYear": 1957,
+  "genre": "Música Clásica",
+  "subGenre": "Barroco / Concierto",
+  "totalDuration": "47m 20s",
+  "label": "The Bach Guild / Vanguard Records",
+  "format": "Vinyl / Mono / LP",
+  "catalogNumber": "BG-560",
+  "coverUrl": "/disco_generico.png",
+  "composers": [
+    "Antonio Vivaldi"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Concerto in E minor for Bassoon and Strings",
+      "duration": "10:45",
+      "act": "Lado A",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 2,
+      "title": "Concerto in G major for Strings, 'Alla Rustica'",
+      "duration": "03:50",
+      "act": "Lado A",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 3,
+      "title": "Concerto in F major for Oboe and Strings",
+      "duration": "09:30",
+      "act": "Lado A",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 4,
+      "title": "Concerto in D minor for Oboe and Strings",
+      "duration": "08:40",
+      "act": "Lado B",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 5,
+      "title": "Sinfonia No. 1 in C major",
+      "duration": "06:15",
+      "act": "Lado B",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 6,
+      "title": "Sinfonia No. 2 in G major",
+      "duration": "05:50",
+      "act": "Lado B",
+      "composer": "Antonio Vivaldi"
+    }
+  ]
+},
+{
+  "id": "emi-odeon-viotti-two-violin-concertos-menuhin",
+  "section": "1-B",
+  "title": "Viotti: Two Violin Concertos (No. 16 in E minor, No. 22 in A minor)",
+  "artist": "Yehudi Menuhin (Violin/Conductor) & Menuhin Festival Orchestra",
+  "releaseYear": 1969,
+  "genre": "Música Clásica",
+  "subGenre": "Clásico / Concierto para Violín",
+  "totalDuration": "51m 40s",
+  "label": "EMI Odeon",
+  "format": "Vinyl / Stereo / LP",
+  "catalogNumber": "ASD 2459",
+  "coverUrl": "https://i.discogs.com/j4Bt1o5gKfeihH8AGGt_Qry4EPQZ2KaPE_TUxGThrK0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTU1/MjQ0LTE1MjU0MjM4/MzUtOTc3Ni5qcGVn.jpeg",
+  "composers": [
+    "Giovanni Battista Viotti"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Violin Concerto No. 16 in E Minor: I. Allegro",
+      "duration": "09:30",
+      "act": "Lado A",
+      "composer": "Giovanni Battista Viotti"
+    },
+    {
+      "id": 2,
+      "title": "Violin Concerto No. 16 in E Minor: II. Andante",
+      "duration": "07:15",
+      "act": "Lado A",
+      "composer": "Giovanni Battista Viotti"
+    },
+    {
+      "id": 3,
+      "title": "Violin Concerto No. 16 in E Minor: III. Rondo",
+      "duration": "07:40",
+      "act": "Lado A",
+      "composer": "Giovanni Battista Viotti"
+    },
+    {
+      "id": 4,
+      "title": "Violin Concerto No. 22 in A Minor: I. Moderato",
+      "duration": "10:50",
+      "act": "Lado B",
+      "composer": "Giovanni Battista Viotti"
+    },
+    {
+      "id": 5,
+      "title": "Violin Concerto No. 22 in A Minor: II. Adagio",
+      "duration": "07:15",
+      "act": "Lado B",
+      "composer": "Giovanni Battista Viotti"
+    },
+    {
+      "id": 6,
+      "title": "Violin Concerto No. 22 in A Minor: III. Allegro agitato assai",
+      "duration": "07:50",
+      "act": "Lado B",
+      "composer": "Giovanni Battista Viotti"
+    }
+  ]
+},
+{
+  "id": "erato-telemann-quatre-concertos-auriacombe",
+  "section": "1-B",
+  "title": "Telemann: Quatre Concertos (Four Concertos)",
+  "artist": "Orchestre de Chambre de Toulouse & Louis Auriacombe (Director)",
+  "releaseYear": 1965,
+  "genre": "Música Clásica",
+  "subGenre": "Barroco / Concierto",
+  "totalDuration": "48m 30s",
+  "label": "Erato / Muridisc",
+  "format": "Vinyl / Stereo / LP",
+  "catalogNumber": "CM 80054",
+  "coverUrl": "https://i.discogs.com/HxZscN-L0-GV2HB74zOz7yfMlXdmiXA6v4ownl-o2NI/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5MDIy/MjYtMTQ4OTAwOTMy/MS02ODg3LmpwZWc.jpeg",
+  "composers": [
+    "Georg Philipp Telemann"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Concerto pour hautbois d'amour et orchestre à cordes",
+      "duration": "14:20",
+      "act": "Lado A",
+      "composer": "Georg Philipp Telemann"
+    },
+    {
+      "id": 2,
+      "title": "Concerto pour trompette et orchestre à cordes",
+      "duration": "08:15",
+      "act": "Lado A",
+      "composer": "Georg Philipp Telemann"
+    },
+    {
+      "id": 3,
+      "title": "Concerto pour deux cors et orchestre à cordes",
+      "duration": "12:40",
+      "act": "Lado B",
+      "composer": "Georg Philipp Telemann"
+    },
+    {
+      "id": 4,
+      "title": "Concerto pour violon et orchestre à cordes",
+      "duration": "13:15",
+      "act": "Lado B",
+      "composer": "Georg Philipp Telemann"
+    }
+  ]
+},
+{
+  "id": "erato-vivaldi-viola-damore-trampler-scimone",
+  "section": "1-B",
+  "title": "Vivaldi: Concertos pour Viole d'Amour et Orchestre",
+  "artist": "Walter Trampler (Viola d'Amore), I Solisti Veneti & Claudio Scimone (Director)",
+  "releaseYear": 1968,
+  "genre": "Música Clásica",
+  "subGenre": "Barroco / Concierto para Viola d'Amore",
+  "totalDuration": "48m 50s",
+  "label": "Erato",
+  "format": "Vinyl / Stereo / LP",
+  "catalogNumber": "STU 70468",
+  "coverUrl": "https://vinyleers.com/cdn/shop/files/11330482-0470993964487d080e1d464487d080e1d6168247220064487d080e1d9_580x.jpg?v=1716904719",
+  "composers": [
+    "Antonio Vivaldi"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Concerto in D Major, RV 392",
+      "duration": "10:15",
+      "act": "Lado A",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 2,
+      "title": "Concerto in D Minor, RV 394",
+      "duration": "10:40",
+      "act": "Lado A",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 3,
+      "title": "Concerto in A Major, RV 396",
+      "duration": "10:25",
+      "act": "Lado B",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 4,
+      "title": "Concerto in A Minor, RV 397",
+      "duration": "10:10",
+      "act": "Lado B",
+      "composer": "Antonio Vivaldi"
+    }
+  ]
+},
+{
+  "id": "erato-vivaldi-viola-damore-vol2-calabrese-scimone",
+  "section": "1-B",
+  "title": "Vivaldi: Concertos pour Viole d'Amour et Orchestre (Vol. 2)",
+  "artist": "Nane Calabrese (Viola d'Amore), I Solisti Veneti & Claudio Scimone (Director)",
+  "releaseYear": 1968,
+  "genre": "Música Clásica",
+  "subGenre": "Barroco / Concierto para Viola d'Amore",
+  "totalDuration": "48m 30s",
+  "label": "Erato / Gravure Universelle",
+  "format": "Vinyl / Stereo / LP",
+  "catalogNumber": "STU 70827",
+  "coverUrl": "https://i.ebayimg.com/images/g/nowAAOSw0CJf81SB/s-l1200.jpg",
+  "composers": [
+    "Antonio Vivaldi"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Concerto in D Minor, RV 394 (P. 289)",
+      "duration": "10:20",
+      "act": "Lado A",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 2,
+      "title": "Concerto in A Major, RV 395 (P. 233)",
+      "duration": "09:40",
+      "act": "Lado A",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 3,
+      "title": "Concerto in F Major, RV 97 (P. 286)",
+      "duration": "11:15",
+      "act": "Lado B",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 4,
+      "title": "Concerto in D Minor, RV 393 (P. 287)",
+      "duration": "08:45",
+      "act": "Lado B",
+      "composer": "Antonio Vivaldi"
+    }
+  ]
+},
+{
+  "id": "erato-vivaldi-concertos-hautbois-vol2-pierlot",
+  "section": "1-B",
+  "title": "Vivaldi: Les Concertos pour Hautbois (Oboe Concertos) Vol. 2",
+  "artist": "Pierre Pierlot, Jacques Chambon (Hautbois) & I Solisti Veneti, Claudio Scimone (Director)",
+  "releaseYear": 1968,
+  "genre": "Música Clásica",
+  "subGenre": "Barroco / Concierto para Oboe",
+  "totalDuration": "48m 30s",
+  "label": "Erato / Gravure Universelle",
+  "format": "Vinyl / Stereo / LP",
+  "catalogNumber": "STU 70404",
+  "coverUrl": "/disco_generico.png",
+  "composers": [
+    "Antonio Vivaldi"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Concerto in C Major for 2 Oboes, RV 534",
+      "duration": "09:15",
+      "act": "Lado A",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 2,
+      "title": "Concerto in C Major for Oboe, RV 447",
+      "duration": "10:30",
+      "act": "Lado A",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 3,
+      "title": "Concerto in F Major for 2 Oboes, RV 538",
+      "duration": "08:45",
+      "act": "Lado B",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 4,
+      "title": "Concerto in D Minor for Oboe, RV 453",
+      "duration": "10:15",
+      "act": "Lado B",
+      "composer": "Antonio Vivaldi"
+    }
+  ]
+},
+{
+  "id": "erato-vivaldi-concertos-hautbois-vol2-pierlot",
+  "section": "1-B",
+  "title": "Vivaldi: Les Concertos pour Hautbois (Oboe Concertos) Vol. 2",
+  "artist": "Pierre Pierlot, Jacques Chambon (Hautbois) & I Solisti Veneti, Claudio Scimone (Director)",
+  "releaseYear": 1968,
+  "genre": "Música Clásica",
+  "subGenre": "Barroco / Concierto para Oboe",
+  "totalDuration": "48m 30s",
+  "label": "Erato / Gravure Universelle",
+  "format": "Vinyl / Stereo / LP",
+  "catalogNumber": "STU 70404",
+  "coverUrl": "https://i.discogs.com/qP4jIFWNgI4YQ6LzKWJY3t60hiIHTTU4jqu_10cbsYY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3Mjcy/ODktMTUwMzM5MDc4/OS0zNTQ2LmpwZWc.jpeg",
+  "composers": [
+    "Antonio Vivaldi"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Concerto in C Major for 2 Oboes, RV 534",
+      "duration": "09:15",
+      "act": "Lado A",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 2,
+      "title": "Concerto in C Major for Oboe, RV 447",
+      "duration": "10:30",
+      "act": "Lado A",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 3,
+      "title": "Concerto in F Major for 2 Oboes, RV 538",
+      "duration": "08:45",
+      "act": "Lado B",
+      "composer": "Antonio Vivaldi"
+    },
+    {
+      "id": 4,
+      "title": "Concerto in D Minor for Oboe, RV 453",
+      "duration": "10:15",
+      "act": "Lado B",
+      "composer": "Antonio Vivaldi"
+    }
+  ]
+},
+{
+  "id": "dg-tchaikovsky-6-symphonies-karajan-1976",
+  "section": "1-B",
+  "title": "Tchaikovsky: 6 Symphonies (Integral)",
+  "artist": "Herbert von Karajan (Director) & Berliner Philharmoniker",
+  "releaseYear": 1976,
+  "genre": "Música Clásica",
+  "subGenre": "Sinfonía / Romántico",
+  "totalDuration": "Aprox. 4 horas (6 LPs)",
+  "label": "Deutsche Grammophon",
+  "format": "Vinyl / Stereo / 6 LP Box Set",
+  "catalogNumber": "2740 172",
+  "coverUrl": "https://m.media-amazon.com/images/I/81lRaWQT-HL._UF1000,1000_QL80_.jpg",
+  "composers": [
+    "Pyotr Ilyich Tchaikovsky"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Sinfonía No. 1 in G Minor, Op. 13 'Winter Dreams'",
+      "duration": "43:00",
+      "act": "LP 1",
+      "composer": "Pyotr Ilyich Tchaikovsky"
+    },
+    {
+      "id": 2,
+      "title": "Sinfonía No. 2 in C Minor, Op. 17 'Little Russian'",
+      "duration": "35:00",
+      "act": "LP 2",
+      "composer": "Pyotr Ilyich Tchaikovsky"
+    },
+    {
+      "id": 3,
+      "title": "Sinfonía No. 3 in D Major, Op. 29 'Polish'",
+      "duration": "46:00",
+      "act": "LP 3",
+      "composer": "Pyotr Ilyich Tchaikovsky"
+    },
+    {
+      "id": 4,
+      "title": "Sinfonía No. 4 in F Minor, Op. 36",
+      "duration": "43:00",
+      "act": "LP 4",
+      "composer": "Pyotr Ilyich Tchaikovsky"
+    },
+    {
+      "id": 5,
+      "title": "Sinfonía No. 5 in E Minor, Op. 64",
+      "duration": "46:00",
+      "act": "LP 5",
+      "composer": "Pyotr Ilyich Tchaikovsky"
+    },
+    {
+      "id": 6,
+      "title": "Sinfonía No. 6 in B Minor, Op. 74 'Pathétique'",
+      "duration": "45:00",
+      "act": "LP 6",
+      "composer": "Pyotr Ilyich Tchaikovsky"
+    }
+  ]
+},
+{
+  "id": "dg-tchaikovsky-swan-lake-ozawa",
+  "section": "1-B",
+  "title": "Tchaikovsky: Der Schwanensee (Swan Lake)",
+  "artist": "Seiji Ozawa (Director) & Boston Symphony Orchestra",
+  "releaseYear": 1979,
+  "genre": "Música Clásica",
+  "subGenre": "Ballet / Romántico",
+  "totalDuration": "1h 30m 00s",
+  "label": "Deutsche Grammophon",
+  "format": "Vinyl / Stereo / 2 LP Box Set",
+  "catalogNumber": "2709 099",
+  "coverUrl": "https://revolutions33.co.uk/wp-content/uploads/2018/07/11962050-E00F-4B2D-A8BF-DAB044011D79.jpeg",
+  "composers": [
+    "Pyotr Ilyich Tchaikovsky"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Scene (Act I, No. 1)",
+      "duration": "07:30",
+      "act": "Acto I",
+      "composer": "Pyotr Ilyich Tchaikovsky"
+    },
+    {
+      "id": 2,
+      "title": "Waltz (Act I, No. 2)",
+      "duration": "07:05",
+      "act": "Acto I",
+      "composer": "Pyotr Ilyich Tchaikovsky"
+    },
+    {
+      "id": 3,
+      "title": "Scene (Act II, No. 10)",
+      "duration": "03:45",
+      "act": "Acto II",
+      "composer": "Pyotr Ilyich Tchaikovsky"
+    },
+    {
+      "id": 4,
+      "title": "Dance of the Little Swans (Act II, No. 13)",
+      "duration": "01:30",
+      "act": "Acto II",
+      "composer": "Pyotr Ilyich Tchaikovsky"
+    },
+    {
+      "id": 5,
+      "title": "Black Swan Pas de Deux (Act III, No. 20)",
+      "duration": "10:15",
+      "act": "Acto III",
+      "composer": "Pyotr Ilyich Tchaikovsky"
+    },
+    {
+      "id": 6,
+      "title": "Hungarian Dance (Act III, No. 20)",
+      "duration": "04:50",
+      "act": "Acto III",
+      "composer": "Pyotr Ilyich Tchaikovsky"
+    },
+    {
+      "id": 7,
+      "title": "Finale (Act IV, No. 29)",
+      "duration": "08:10",
+      "act": "Acto IV",
+      "composer": "Pyotr Ilyich Tchaikovsky"
+    }
+  ]
+},
+{
+  "id": "columbia-melodiya-tchaikovsky-maid-of-orleans-rozhdestvensky",
+  "section": "1-B",
+  "title": "Tchaikovsky: The Maid of Orleans (La Doncella de Orleans) - Complete Opera",
+  "artist": "Irina Arkhipova, Bolshoi Theater, Moscow Radio Chorus & Orchestra, Gennadi Rozhdestvensky (Conductor)",
+  "releaseYear": 1973,
+  "genre": "Ópera",
+  "subGenre": "Romántico",
+  "totalDuration": "3h 05m 00s",
+  "label": "Columbia Masterworks / Melodiya",
+  "format": "Vinyl / Stereo / 4 LP Box Set",
+  "catalogNumber": "M4 33219",
+  "coverUrl": "https://m.media-amazon.com/images/I/61w34Dvh6tL._UF1000,1000_QL80_.jpg",
+  "composers": [
+    "Pyotr Ilyich Tchaikovsky"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Introduction & Scene: The Village Festival (Act I)",
+      "duration": "14:20",
+      "act": "Acto I",
+      "composer": "Pyotr Ilyich Tchaikovsky"
+    },
+    {
+      "id": 2,
+      "title": "Joan's Aria: Da, chas nastal! (Act I)",
+      "duration": "07:10",
+      "act": "Acto I",
+      "composer": "Pyotr Ilyich Tchaikovsky"
+    },
+    {
+      "id": 3,
+      "title": "Joan's Narrative: O, Gospod', Tebe predayus' (Act II)",
+      "duration": "06:30",
+      "act": "Acto II",
+      "composer": "Pyotr Ilyich Tchaikovsky"
+    },
+    {
+      "id": 4,
+      "title": "Coronation Scene: Trizhny! (Act III)",
+      "duration": "09:50",
+      "act": "Acto III",
+      "composer": "Pyotr Ilyich Tchaikovsky"
+    },
+    {
+      "id": 5,
+      "title": "Agnès Sorel's Aria: Prosti, prosti, moi rodnoi (Act III)",
+      "duration": "05:15",
+      "act": "Acto III",
+      "composer": "Pyotr Ilyich Tchaikovsky"
+    },
+    {
+      "id": 6,
+      "title": "The Duel Scene (Act III)",
+      "duration": "10:45",
+      "act": "Acto III",
+      "composer": "Pyotr Ilyich Tchaikovsky"
+    },
+    {
+      "id": 7,
+      "title": "Joan's Confession and Final Scene (Act IV)",
+      "duration": "12:30",
+      "act": "Acto IV",
+      "composer": "Pyotr Ilyich Tchaikovsky"
+    }
+  ]
+},
+{
+  "id": "vox-box-tchaikovsky-piano-ponti-vol2",
+  "section": "1-B",
+  "title": "Tchaikovsky: Piano Music Volume II",
+  "artist": "Michael Ponti (Pianist)",
+  "releaseYear": 1974,
+  "genre": "Música Clásica",
+  "subGenre": "Romántico / Piano Solo",
+  "totalDuration": "Aprox. 3h 15m (3 LPs)",
+  "label": "Vox Box",
+  "format": "Vinyl / Stereo / 3 LP Box Set",
+  "catalogNumber": "SVBX 5459",
+  "coverUrl": "/disco_generico.png",
+  "composers": [
+    "Pyotr Ilyich Tchaikovsky"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Piano Sonata in C-sharp Minor, Op. 80 (Grande Sonate)",
+      "duration": "28:30",
+      "act": "LP 1",
+      "composer": "Pyotr Ilyich Tchaikovsky"
+    },
+    {
+      "id": 2,
+      "title": "The Seasons (Les Saisons), Op. 37a (12 Pieces)",
+      "duration": "43:10",
+      "act": "LP 1/2",
+      "composer": "Pyotr Ilyich Tchaikovsky"
+    },
+    {
+      "id": 3,
+      "title": "Children's Album (24 Pieces), Op. 39",
+      "duration": "28:50",
+      "act": "LP 2",
+      "composer": "Pyotr Ilyich Tchaikovsky"
+    },
+    {
+      "id": 4,
+      "title": "Six Pieces for Piano, Op. 51",
+      "duration": "30:45",
+      "act": "LP 3",
+      "composer": "Pyotr Ilyich Tchaikovsky"
+    },
+    {
+      "id": 5,
+      "title": "Piano Music, Op. 72 (Excerpts)",
+      "duration": "22:15",
+      "act": "LP 3",
+      "composer": "Pyotr Ilyich Tchaikovsky"
+    }
+  ]
+},
+{
+  "id": "vox-box-tchaikovsky-piano-ponti-vol1",
+  "section": "1-B",
+  "title": "Tchaikovsky: Piano Music Volume I",
+  "artist": "Michael Ponti (Pianist)",
+  "releaseYear": 1974,
+  "genre": "Música Clásica",
+  "subGenre": "Romántico / Piano Solo",
+  "totalDuration": "Aprox. 3h 10m (3 LPs)",
+  "label": "Vox Box",
+  "format": "Vinyl / Stereo / 3 LP Box Set",
+  "catalogNumber": "SVBX 5455",
+  "coverUrl": "https://i.discogs.com/gaPft7ppe4KOlipl-4WM--RXfgplVV4h2irowr0k05c/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MzE0/OTEyLTE2MTI3Njk1/OTEtMTQxMS5qcGVn.jpeg",
+  "composers": [
+    "Pyotr Ilyich Tchaikovsky"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Grand Sonata in G Major, Op. 37",
+      "duration": "30:45",
+      "act": "LP 1",
+      "composer": "Pyotr Ilyich Tchaikovsky"
+    },
+    {
+      "id": 2,
+      "title": "The Seasons (Les Saisons), Op. 37a (Excerpts)",
+      "duration": "18:20",
+      "act": "LP 1",
+      "composer": "Pyotr Ilyich Tchaikovsky"
+    },
+    {
+      "id": 3,
+      "title": "Six Pieces on One Theme, Op. 21",
+      "duration": "24:10",
+      "act": "LP 2",
+      "composer": "Pyotr Ilyich Tchaikovsky"
+    },
+    {
+      "id": 4,
+      "title": "Twelve Éstudes (12 Etudes), Op. 40",
+      "duration": "28:50",
+      "act": "LP 2/3",
+      "composer": "Pyotr Ilyich Tchaikovsky"
+    },
+    {
+      "id": 5,
+      "title": "Six Pieces, Op. 51 (Excerpts)",
+      "duration": "20:10",
+      "act": "LP 3",
+      "composer": "Pyotr Ilyich Tchaikovsky"
+    }
+  ]
+},
+{
+  "id": "columbia-melodiya-tchaikovsky-iolanta-ermler",
+  "section": "1-B",
+  "title": "Tchaikovsky: Iolanta (Complete Opera in One Act)",
+  "artist": "Tamara Sorokina, Yuri Nesterenko, Bolshoi Theater Orchestra & Chorus, Mark Ermler (Conductor)",
+  "releaseYear": 1978,
+  "genre": "Ópera",
+  "subGenre": "Romántico",
+  "totalDuration": "1h 35m 00s",
+  "label": "Columbia Masterworks / Melodiya",
+  "format": "Vinyl / Stereo / 2 LP Set",
+  "catalogNumber": "M2 34596",
+  "coverUrl": "https://m.media-amazon.com/images/I/A17PfhkAqLL._UF1000,1000_QL80_.jpg",
+  "composers": [
+    "Pyotr Ilyich Tchaikovsky",
+    "Modest Tchaikovsky (Libreto)"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Introduction & Scene: Gospozha, vy, veroy (Iolanta's Arioso)",
+      "duration": "14:10",
+      "act": "Escena I",
+      "composer": "Pyotr Ilyich Tchaikovsky"
+    },
+    {
+      "id": 2,
+      "title": "Scene: Shto by ni govoril markiz (King René's Aria)",
+      "duration": "07:30",
+      "act": "Escena I",
+      "composer": "Pyotr Ilyich Tchaikovsky"
+    },
+    {
+      "id": 3,
+      "title": "Romance: Net, vladyka, ne mogla by ya (Robert's Aria)",
+      "duration": "06:45",
+      "act": "Escena II",
+      "composer": "Pyotr Ilyich Tchaikovsky"
+    },
+    {
+      "id": 4,
+      "title": "Duet: Tvoya krasota, tsvyeta ravna (Vaudémont and Iolanta)",
+      "duration": "07:15",
+      "act": "Escena III",
+      "composer": "Pyotr Ilyich Tchaikovsky"
+    },
+    {
+      "id": 5,
+      "title": "Scene & Chorus: Gospod' naslashchal v'nuchku (King René & Iolanta)",
+      "duration": "09:50",
+      "act": "Escena V",
+      "composer": "Pyotr Ilyich Tchaikovsky"
+    },
+    {
+      "id": 6,
+      "title": "Finale: Luchezarnaya svetlaya (Final Chorus)",
+      "duration": "07:40",
+      "act": "Escena Final",
+      "composer": "Pyotr Ilyich Tchaikovsky"
+    }
+  ]
+},
+{
+  "id": "columbia-melodiya-tchaikovsky-enchantress-provatorov",
+  "section": "1-B",
+  "title": "Tchaikovsky: The Enchantress (La Hechicera) - Complete Opera",
+  "artist": "Ludmila Simonova, Bolshoi Theater Orchestra & Chorus, Gennady Provatorov (Conductor)",
+  "releaseYear": 1978,
+  "genre": "Ópera",
+  "subGenre": "Romántico",
+  "totalDuration": "3h 10m 00s",
+  "label": "Columbia Masterworks / Melodiya",
+  "format": "Vinyl / Stereo / 4 LP Box Set",
+  "catalogNumber": "M4 35182",
+  "coverUrl": "https://i.discogs.com/PQFjz9Cgm70HjPNrEIDYqyJmvB7E_1dS11iy0BfeVW4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjQz/MzY4LTE1MzEyNjkw/NTctMzYzMC5qcGVn.jpeg",
+  "composers": [
+    "Pyotr Ilyich Tchaikovsky",
+    "Ippolit Shpazhinsky (Libreto)"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Introduction & Scene: Kuma, Kuma, shto tebe? (Act I)",
+      "duration": "12:30",
+      "act": "Acto I",
+      "composer": "Pyotr Ilyich Tchaikovsky"
+    },
+    {
+      "id": 2,
+      "title": "Prince Yury's Aria: Kogda, kogda (Act I)",
+      "duration": "07:15",
+      "act": "Acto I",
+      "composer": "Pyotr Ilyich Tchaikovsky"
+    },
+    {
+      "id": 3,
+      "title": "Nastasya's Aria: Otchego eto prezhde ne znala (Act I)",
+      "duration": "06:40",
+      "act": "Acto I",
+      "composer": "Pyotr Ilyich Tchaikovsky"
+    },
+    {
+      "id": 4,
+      "title": "Duet: Ah, kakoye schastye! (Act II)",
+      "duration": "08:50",
+      "act": "Acto II",
+      "composer": "Pyotr Ilyich Tchaikovsky"
+    },
+    {
+      "id": 5,
+      "title": "Prince Nikita's Aria: Tak vot ona, Nasten'ka (Act III)",
+      "duration": "05:15",
+      "act": "Acto III",
+      "composer": "Pyotr Ilyich Tchaikovsky"
+    },
+    {
+      "id": 6,
+      "title": "Nastasya's Lament: Na reshetke (Act IV)",
+      "duration": "07:30",
+      "act": "Acto IV",
+      "composer": "Pyotr Ilyich Tchaikovsky"
+    },
+    {
+      "id": 7,
+      "title": "Finale: Krichat, shumyat, begut (Act IV)",
+      "duration": "09:40",
+      "act": "Acto IV",
+      "composer": "Pyotr Ilyich Tchaikovsky"
+    }
+  ]
+},
+{
+  "id": "mercury-golden-imports-tchaikovsky-suites-dorati",
+  "section": "1-B",
+  "title": "Tchaikovsky: Complete Suites for Orchestra",
+  "artist": "Antal Dorati (Director) & New Philharmonia Orchestra",
+  "releaseYear": 1978,
+  "genre": "Música Clásica",
+  "subGenre": "Romántico / Suite Orquestal",
+  "totalDuration": "Aprox. 3 horas (3 LPs)",
+  "label": "Mercury Golden Imports",
+  "format": "Vinyl / Stereo / 3 LP Box Set",
+  "catalogNumber": "SR3-9018",
+  "coverUrl": "https://i.discogs.com/o9FwFl6UoohLMcyHxXbyrodoOpsxtpYhmmP_XA72YZw/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5NTk4/MzAtMTYwNjM1NDIy/OC00OTc2LmpwZWc.jpeg",
+  "composers": [
+    "Pyotr Ilyich Tchaikovsky"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Suite No. 1 in D Minor, Op. 43",
+      "duration": "35:00",
+      "act": "LP 1",
+      "composer": "Pyotr Ilyich Tchaikovsky"
+    },
+    {
+      "id": 2,
+      "title": "Suite No. 2 in C Major, Op. 53 'Suite Caractéristique'",
+      "duration": "39:00",
+      "act": "LP 2",
+      "composer": "Pyotr Ilyich Tchaikovsky"
+    },
+    {
+      "id": 3,
+      "title": "Suite No. 3 in G Major, Op. 55",
+      "duration": "43:00",
+      "act": "LP 3",
+      "composer": "Pyotr Ilyich Tchaikovsky"
+    },
+    {
+      "id": 4,
+      "title": "Suite No. 4 in G Major, Op. 61 'Mozartiana'",
+      "duration": "25:00",
+      "act": "LP 3",
+      "composer": "Pyotr Ilyich Tchaikovsky"
+    }
+  ]
+},
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{}
   ]
 }
