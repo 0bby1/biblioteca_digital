@@ -12483,6 +12483,4474 @@
 
 
 
-{}
+{
+  "id": "erato-weber-trois-concertos-guschlbauer",
+  "section": "1-D",
+  "title": "C.M. von Weber: Trois Concertos (Pour Clarinette, Basson et Cor)",
+  "artist": "Jacques Lancelot, Paul Hongne, Georges Barboteu & Orchestre Symphonique de Bamberg / Theodor Guschlbauer",
+  "releaseYear": 1970,
+  "genre": "Música Clásica",
+  "subGenre": "Romántico / Concierto",
+  "totalDuration": "52m 15s",
+  "label": "Erato",
+  "format": "Vinyl / Stereo / LP",
+  "catalogNumber": "STU 70517",
+  "coverUrl": "https://i.discogs.com/JpJpJnUl5MqEW61_uP5aMfCzBhUzCpCDwxwCpdnyiZU/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0OTA3/NjctMTQ2MjY0OTY3/OC00Mjk3LmpwZWc.jpeg",
+  "composers": [
+    "Carl Maria von Weber"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Concerto pour Clarinette et Orchestre n°1 en fa mineur, op. 73",
+      "duration": "21:10",
+      "act": "Lado A",
+      "composer": "Carl Maria von Weber"
+    },
+    {
+      "id": 2,
+      "title": "Concerto pour Basson et Orchestre en fa majeur, op. 75",
+      "duration": "18:25",
+      "act": "Lado B",
+      "composer": "Carl Maria von Weber"
+    },
+    {
+      "id": 3,
+      "title": "Concertino pour Cor et Orchestre en mi mineur, op. 45",
+      "duration": "12:40",
+      "act": "Lado B",
+      "composer": "Carl Maria von Weber"
+    }
+  ]
+},
+{
+  "id": "rca-redseal-weber-symphonies-piano-concertos",
+  "section": "1-D",
+  "title": "Carl Maria von Weber: The Two Symphonies & The Two Piano Concertos",
+  "artist": "Hans-Hubert Schönzeler, Marc Andreae (Conductors), Malcolm Frager (Piano)",
+  "releaseYear": 1973,
+  "genre": "Música Clásica",
+  "subGenre": "Romántico / Sinfonía / Concierto",
+  "totalDuration": "1h 35m 00s",
+  "label": "RCA Red Seal",
+  "format": "Vinyl / Stereo / 2 LP Box Set",
+  "catalogNumber": "CRL2-2281",
+  "coverUrl": "https://i.discogs.com/PIZjyYbSdI8g4hwLrQHblh36by2m482oU5PhC_G14L8/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTUy/MzM0LTE2NDc5MTI1/MDUtNzExMi5qcGVn.jpeg",
+  "composers": [
+    "Carl Maria von Weber"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Symphony No. 1 in C major, Op. 19",
+      "duration": "24:15",
+      "act": "LP 1 / Lado A",
+      "composer": "Carl Maria von Weber"
+    },
+    {
+      "id": 2,
+      "title": "Symphony No. 2 in C major",
+      "duration": "18:40",
+      "act": "LP 1 / Lado B",
+      "composer": "Carl Maria von Weber"
+    },
+    {
+      "id": 3,
+      "title": "Turandot: Overture and March",
+      "duration": "07:30",
+      "act": "LP 1 / Lado B",
+      "composer": "Carl Maria von Weber"
+    },
+    {
+      "id": 4,
+      "title": "Piano Concerto No. 1 in C major, Op. 11",
+      "duration": "20:45",
+      "act": "LP 2 / Lado A",
+      "composer": "Carl Maria von Weber"
+    },
+    {
+      "id": 5,
+      "title": "Piano Concerto No. 2 in E-flat major, Op. 32",
+      "duration": "23:50",
+      "act": "LP 2 / Lado B",
+      "composer": "Carl Maria von Weber"
+    }
+  ]
+},
+{
+  "id": "dg-weber-ouverturen-kubelik",
+  "section": "1-D",
+  "title": "Carl Maria von Weber: Ouvertüren (Oberturas)",
+  "artist": "Rafael Kubelik (Director) & Sinfonie-Orchester des Bayerischen Rundfunks",
+  "releaseYear": 1964,
+  "genre": "Música Clásica",
+  "subGenre": "Romántico / Oberturas de Ópera",
+  "totalDuration": "42m 15s",
+  "label": "Deutsche Grammophon Gesellschaft",
+  "format": "Vinyl / Stereo / LP",
+  "catalogNumber": "136 463",
+  "coverUrl": "https://i.discogs.com/Hacv2tJ8ialF0Dyf7sBikjcnzLHHoGEnwqfDVUEtRCw/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4MDUy/MDUtMTQ2MDE2MTcz/MS0zNzQyLmpwZWc.jpeg",
+  "composers": [
+    "Carl Maria von Weber"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Oberon: Ouvertüre",
+      "duration": "09:05",
+      "act": "Lado A",
+      "composer": "Carl Maria von Weber"
+    },
+    {
+      "id": 2,
+      "title": "Abu Hassan: Ouvertüre",
+      "duration": "03:25",
+      "act": "Lado A",
+      "composer": "Carl Maria von Weber"
+    },
+    {
+      "id": 3,
+      "title": "Der Freischütz: Ouvertüre",
+      "duration": "10:10",
+      "act": "Lado A",
+      "composer": "Carl Maria von Weber"
+    },
+    {
+      "id": 4,
+      "title": "Euryanthe: Ouvertüre",
+      "duration": "08:45",
+      "act": "Lado B",
+      "composer": "Carl Maria von Weber"
+    },
+    {
+      "id": 5,
+      "title": "Preciosa: Ouvertüre",
+      "duration": "06:20",
+      "act": "Lado B",
+      "composer": "Carl Maria von Weber"
+    },
+    {
+      "id": 6,
+      "title": "Jubel-Ouvertüre",
+      "duration": "07:30",
+      "act": "Lado B",
+      "composer": "Carl Maria von Weber"
+    }
+  ]
+},
+{
+  "id": "philips-weber-sinfonie1-cherubini-boettcher",
+  "section": "1-D",
+  "title": "Weber: Sinfonie Nr. 1 / Cherubini: Sinfonie D-dur",
+  "artist": "Wilfried Boettcher (Director) & New Philharmonia Orchestra",
+  "releaseYear": 1971,
+  "genre": "Música Clásica",
+  "subGenre": "Clasicismo / Romántico Temprano",
+  "totalDuration": "51m 30s",
+  "label": "Philips",
+  "format": "Vinyl / Stereo / LP",
+  "catalogNumber": "6500 154",
+  "coverUrl": "https://i.discogs.com/Fb7oCVvIaRjRsOOvSFTrupJoqabo1MzUrnfdv9lOOjA/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODgx/NDk3LTE2NjA3Nzg0/NzctMjM4Ni5qcGVn.jpeg",
+  "composers": [
+    "Carl Maria von Weber",
+    "Luigi Cherubini"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Weber: Sinfonie Nr. 1 C-dur, Op. 19: I. Allegro con fuoco",
+      "duration": "07:25",
+      "act": "Lado A",
+      "composer": "Carl Maria von Weber"
+    },
+    {
+      "id": 2,
+      "title": "Weber: Sinfonie Nr. 1 C-dur, Op. 19: II. Andante",
+      "duration": "05:10",
+      "act": "Lado A",
+      "composer": "Carl Maria von Weber"
+    },
+    {
+      "id": 3,
+      "title": "Weber: Sinfonie Nr. 1 C-dur, Op. 19: III. Scherzo (Presto)",
+      "duration": "03:45",
+      "act": "Lado A",
+      "composer": "Carl Maria von Weber"
+    },
+    {
+      "id": 4,
+      "title": "Weber: Sinfonie Nr. 1 C-dur, Op. 19: IV. Finale (Presto)",
+      "duration": "06:15",
+      "act": "Lado A",
+      "composer": "Carl Maria von Weber"
+    },
+    {
+      "id": 5,
+      "title": "Cherubini: Sinfonie D-dur: I. Largo - Allegro",
+      "duration": "09:40",
+      "act": "Lado B",
+      "composer": "Luigi Cherubini"
+    },
+    {
+      "id": 6,
+      "title": "Cherubini: Sinfonie D-dur: II. Larghetto cantabile",
+      "duration": "08:20",
+      "act": "Lado B",
+      "composer": "Luigi Cherubini"
+    },
+    {
+      "id": 7,
+      "title": "Cherubini: Sinfonie D-dur: III. Minuetto (Allegro non troppo)",
+      "duration": "04:55",
+      "act": "Lado B",
+      "composer": "Luigi Cherubini"
+    },
+    {
+      "id": 8,
+      "title": "Cherubini: Sinfonie D-dur: IV. Finale (Allegro vivace)",
+      "duration": "06:00",
+      "act": "Lado B",
+      "composer": "Luigi Cherubini"
+    }
+  ]
+},
+{
+  "id": "angel-stravinsky-le-rossignol-cluytens",
+  "section": "1-D",
+  "title": "Stravinsky: Le Rossignol (The Nightingale)",
+  "artist": "Janine Micheau, Jean Giraudeau, Chœurs et Orchestre National de la Radiodiffusion Française / André Cluytens",
+  "releaseYear": 1956,
+  "genre": "Ópera",
+  "subGenre": "Modernismo / Neoclasicismo",
+  "totalDuration": "45m 00s",
+  "label": "Angel Records",
+  "format": "Vinyl / Mono / LP",
+  "catalogNumber": "ANG. 35204",
+  "coverUrl": "https://i.discogs.com/3hTiUPckjwDu3znDKMajqmKYuncDcDys9jR9X9s2zA4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTc3/NDE2LTE1MTg4MTM5/ODktNDc1OS5qcGVn.jpeg",
+  "composers": [
+    "Igor Stravinsky"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Acte I: Au bord de la mer",
+      "duration": "15:20",
+      "act": "Acto I",
+      "composer": "Igor Stravinsky"
+    },
+    {
+      "id": 2,
+      "title": "Acte II: La fête au palais de l'Empereur de Chine",
+      "duration": "14:15",
+      "act": "Acto II",
+      "composer": "Igor Stravinsky"
+    },
+    {
+      "id": 3,
+      "title": "Acte III: La chambre de l'Empereur",
+      "duration": "15:25",
+      "act": "Acto III",
+      "composer": "Igor Stravinsky"
+    }
+  ]
+},
+{
+  "id": "london-stravinsky-oedipus-rex-ansermet",
+  "section": "1-D",
+  "title": "Stravinsky: Oedipus Rex (Opera-Oratorio in Two Acts after Sophocles)",
+  "artist": "Ernest Ansermet (Conductor), Soloists, Société Chorale du Brassus & L'Orchestre de la Suisse Romande",
+  "releaseYear": 1955,
+  "genre": "Ópera / Oratorio",
+  "subGenre": "Neoclasicismo",
+  "totalDuration": "52m 00s",
+  "label": "London Records",
+  "format": "Vinyl / Mono / LP",
+  "catalogNumber": "XLL 1273",
+  "coverUrl": "https://i.discogs.com/5VoqgoRkCJqUs-PKENhVYsHbcX1khbuWabxdb_cynp0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2ODkz/MzYtMTQyNDA3NDM4/MC00ODE0LmpwZWc.jpeg",
+  "composers": [
+    "Igor Stravinsky"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Act I: 'Caedit nos pestis' - 'Liberi, vos liberabo'",
+      "duration": "26:45",
+      "act": "Acto I",
+      "composer": "Igor Stravinsky"
+    },
+    {
+      "id": 2,
+      "title": "Act II: 'Respondit Deus' - 'Adest vindex' - 'Vale, Oedipus'",
+      "duration": "25:15",
+      "act": "Acto II",
+      "composer": "Igor Stravinsky"
+    }
+  ]
+},
+{
+  "id": "philips-stravinsky-histoire-du-soldat-horowicz",
+  "section": "1-D",
+  "title": "Stravinsky: Histoire du Soldat (L'Histoire du soldat)",
+  "artist": "Igor Stravinsky (Musique et Direction), Bronislaw Horowicz (Adaptation et Réalisation)",
+  "releaseYear": 1954,
+  "genre": "Música Clásica / Teatro Musical",
+  "subGenre": "Modernismo / Neoclasicismo",
+  "totalDuration": "50m 30s",
+  "label": "Philips",
+  "format": "Vinyl / Mono / LP / Minigroove 33 1/3",
+  "catalogNumber": "A 00214 L",
+  "coverUrl": "https://i.discogs.com/QeoEa-7fRbKYdUzDwUQqXoqywmQmGWXZNW6Jm1ioNU4/rs:fit/g:sm/q:90/h:580/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2MzY1/NjUtMTYzNzQ5MDYw/OS01MjAxLmpwZWc.jpeg",
+  "composers": [
+    "Igor Stravinsky",
+    "C.F. Ramuz (Texte)"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Partie I: Marche du Soldat - Musique de la 1ère Scène - Marche du Soldat (reprise)",
+      "duration": "24:15",
+      "act": "Lado A",
+      "composer": "Igor Stravinsky"
+    },
+    {
+      "id": 2,
+      "title": "Partie II: Marche Royale - Petit Concert - Trois Danses (Tango, Valse, Ragtime) - Danse du Diable",
+      "duration": "26:15",
+      "act": "Lado B",
+      "composer": "Igor Stravinsky"
+    }
+  ]
+},
+{
+  "id": "london-stravinsky-sacre-printemps-ansermet",
+  "section": "1-D",
+  "title": "Stravinsky: Le Sacre du Printemps (The Rite of Spring)",
+  "artist": "Ernest Ansermet (Conductor) & L'Orchestre de la Suisse Romande",
+  "releaseYear": 1958,
+  "genre": "Música Clásica / Ballet",
+  "subGenre": "Modernismo / Primitivismo",
+  "totalDuration": "34m 45s",
+  "label": "London Records / ffrr",
+  "format": "Vinyl / Stereo / LP / Full Frequency Stereophonic Sound",
+  "catalogNumber": "CS 6031",
+  "coverUrl": "https://i.discogs.com/5r2_Xp5jFNa0f4nWscsEdpyPKH4jgHkb9Zi5On0_5Ag/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Mjc5/NjY0LTE2MTgzMjQz/NTgtMjY0NC5qcGVn.jpeg",
+  "composers": [
+    "Igor Stravinsky"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Première Partie: L'Adoration de la Terre",
+      "duration": "15:30",
+      "act": "Lado A",
+      "composer": "Igor Stravinsky"
+    },
+    {
+      "id": 2,
+      "title": "Seconde Partie: Le Sacrifice",
+      "duration": "19:15",
+      "act": "Lado B",
+      "composer": "Igor Stravinsky"
+    }
+  ]
+},
+{
+  "id": "columbia-masterworks-the-stravinsky-album-stravinsky-conducts",
+  "section": "1-D",
+  "title": "The Stravinsky Album: Stravinsky Conducts Three Brilliant Masterpieces",
+  "artist": "Igor Stravinsky (Conductor) & The Columbia Symphony Orchestra",
+  "releaseYear": 1972,
+  "genre": "Música Clásica / Ballet",
+  "subGenre": "Modernismo",
+  "totalDuration": "1h 25m 00s",
+  "label": "Columbia Masterworks",
+  "format": "Vinyl / Stereo / 2 LP Set",
+  "catalogNumber": "MG 31202",
+  "coverUrl": "https://i.discogs.com/BG2dG41cefa26HXqF3geuK6Rp_dNPJVqLA9LywYngjw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MzQ4/OTQ1LTE3NTA2OTIz/OTAtMTk2MC5qcGVn.jpeg",
+  "composers": [
+    "Igor Stravinsky"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Le Sacre du Printemps (The Rite of Spring)",
+      "duration": "31:30",
+      "act": "LP 1",
+      "composer": "Igor Stravinsky"
+    },
+    {
+      "id": 2,
+      "title": "Petrushka Suite (Revised 1947 version)",
+      "duration": "24:15",
+      "act": "LP 2 / Lado A",
+      "composer": "Igor Stravinsky"
+    },
+    {
+      "id": 3,
+      "title": "Firebird Suite (1945 version)",
+      "duration": "28:40",
+      "act": "LP 2 / Lado B",
+      "composer": "Igor Stravinsky"
+    }
+  ]
+},
+{
+  "id": "london-stravinsky-rite-spring-dorati-detroit",
+  "section": "1-D",
+  "title": "Stravinsky: The Rite of Spring (Le Sacre du Printemps)",
+  "artist": "Antal Dorati (Conductor) & The Detroit Symphony Orchestra",
+  "releaseYear": 1982,
+  "genre": "Música Clásica / Ballet",
+  "subGenre": "Modernismo / Primitivismo",
+  "totalDuration": "33m 50s",
+  "label": "London Records / Decca",
+  "format": "Vinyl / Stereo / LP / Digital Recording",
+  "catalogNumber": "LDR 71048",
+  "coverUrl": "https://i.discogs.com/02iPYgeVgc_Lgn8uHTsxLY6irHz3n4AxcFMpshoXDJA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5NTgy/MTktMTU5NTY2MDI4/OC0xODAxLmpwZWc.jpeg",
+  "composers": [
+    "Igor Stravinsky"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Part I: The Adoration of the Earth (L'Adoration de la Terre)",
+      "duration": "14:55",
+      "act": "Lado A",
+      "composer": "Igor Stravinsky"
+    },
+    {
+      "id": 2,
+      "title": "Part II: The Sacrifice (Le Sacrifice)",
+      "duration": "18:55",
+      "act": "Lado B",
+      "composer": "Igor Stravinsky"
+    }
+  ]
+},
+{
+  "id": "angel-stravinsky-rite-spring-markevitch",
+  "section": "1-D",
+  "title": "Stravinsky: The Rite of Spring (Le Sacre du Printemps)",
+  "artist": "Igor Markevitch (Conductor) & Philharmonia Orchestra",
+  "releaseYear": 1959,
+  "genre": "Música Clásica / Ballet",
+  "subGenre": "Modernismo / Primitivismo",
+  "totalDuration": "33m 15s",
+  "label": "Angel Records",
+  "format": "Vinyl / Stereo / LP",
+  "catalogNumber": "S 35549",
+  "coverUrl": "https://archive.org/download/lp_the-rite-of-spring_igor-stravinsky-igor-markevitch-philharmon/lp_the-rite-of-spring_igor-stravinsky-igor-markevitch-philharmon_itemimage.png",
+  "composers": [
+    "Igor Stravinsky"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Part I: The Adoration of the Earth (L'Adoration de la Terre)",
+      "duration": "14:40",
+      "act": "Lado A",
+      "composer": "Igor Stravinsky"
+    },
+    {
+      "id": 2,
+      "title": "Part II: The Sacrifice (Le Sacrifice)",
+      "duration": "18:35",
+      "act": "Lado B",
+      "composer": "Igor Stravinsky"
+    }
+  ]
+},
+{
+  "id": "rca-redseal-stravinsky-rite-spring-mata-london",
+  "section": "1-D",
+  "title": "Stravinsky: The Rite of Spring (Le Sacre du Printemps)",
+  "artist": "Eduardo Mata (Conductor) & London Symphony Orchestra",
+  "releaseYear": 1979,
+  "genre": "Música Clásica / Ballet",
+  "subGenre": "Modernismo / Primitivismo",
+  "totalDuration": "34m 20s",
+  "label": "RCA Red Seal",
+  "format": "Vinyl / Stereo / LP",
+  "catalogNumber": "ARL1-3060",
+  "coverUrl": "https://i.ebayimg.com/images/g/FvkAAOSwKIVnG8-n/s-l1200.png",
+  "composers": [
+    "Igor Stravinsky"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Part I: The Adoration of the Earth (L'Adoration de la Terre)",
+      "duration": "15:10",
+      "act": "Lado A",
+      "composer": "Igor Stravinsky"
+    },
+    {
+      "id": 2,
+      "title": "Part II: The Sacrifice (Le Sacrifice)",
+      "duration": "19:10",
+      "act": "Lado B",
+      "composer": "Igor Stravinsky"
+    }
+  ]
+},
+{
+  "id": "richmond-stravinsky-rite-spring-ansermet",
+  "section": "1-D",
+  "title": "Stravinsky: The Rite of Spring (Le Sacre du Printemps)",
+  "artist": "Ernest Ansermet (Conductor) & L'Orchestre de la Suisse Romande",
+  "releaseYear": 1959,
+  "genre": "Música Clásica / Ballet",
+  "subGenre": "Modernismo / Primitivismo",
+  "totalDuration": "34m 10s",
+  "label": "Richmond High Fidelity",
+  "format": "Vinyl / Mono / LP / High Fidelity",
+  "catalogNumber": "B 19008",
+  "coverUrl": "https://i.discogs.com/FGeJ5QUG4XFb0_recBQ2vqYVveO8NHXPjdK1TVhBJyo/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2ODIx/OTItMTQ3NjE0MDMx/NC05ODE2LmpwZWc.jpeg",
+  "composers": [
+    "Igor Stravinsky"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Part I: The Adoration of the Earth (L'Adoration de la Terre)",
+      "duration": "15:05",
+      "act": "Lado A",
+      "composer": "Igor Stravinsky"
+    },
+    {
+      "id": 2,
+      "title": "Part II: The Sacrifice (Le Sacrifice)",
+      "duration": "19:05",
+      "act": "Lado B",
+      "composer": "Igor Stravinsky"
+    }
+  ]
+},
+{
+  "id": "mercury-stravinsky-rite-spring-dorati-minneapolis",
+  "section": "1-D",
+  "title": "Stravinsky: The Rite of Spring (Le Sacre du Printemps)",
+  "artist": "Antal Dorati (Conductor) & Minneapolis Symphony Orchestra",
+  "releaseYear": 1954,
+  "genre": "Música Clásica / Ballet",
+  "subGenre": "Modernismo / Primitivismo",
+  "totalDuration": "31m 40s",
+  "label": "Mercury Classics / Olympian Series",
+  "format": "Vinyl / Mono / LP / High Fidelity Recording",
+  "catalogNumber": "MG 50030",
+  "coverUrl": "https://i.discogs.com/GP87edbCz5eXuowuU-5cRUkw9fCzzHMRj_Km8826Hws/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTYw/NjAxLTE2NTI2NDk5/MDItMjY3MS5qcGVn.jpeg",
+  "composers": [
+    "Igor Stravinsky"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Part I: The Adoration of the Earth (L'Adoration de la Terre)",
+      "duration": "14:10",
+      "act": "Lado A",
+      "composer": "Igor Stravinsky"
+    },
+    {
+      "id": 2,
+      "title": "Part II: The Sacrifice (Le Sacrifice)",
+      "duration": "17:30",
+      "act": "Lado B",
+      "composer": "Igor Stravinsky"
+    }
+  ]
+},
+{
+  "id": "epic-stravinsky-schoenberg-charles-rosen",
+  "section": "1-D",
+  "title": "Stravinsky: Serenade in A; Sonata / Schoenberg: Suite, Op. 25; Two Piano Pieces, Op. 33a and b",
+  "artist": "Charles Rosen (Pianist)",
+  "releaseYear": 1961,
+  "genre": "Música Clásica",
+  "subGenre": "Modernismo / Neoclasicismo / Dodecafonismo",
+  "totalDuration": "42m 45s",
+  "label": "Epic",
+  "format": "Vinyl / Stereo / LP / Stereorama",
+  "catalogNumber": "BC 1140",
+  "coverUrl": "https://i.scdn.co/image/ab67616d0000b273f2e09465cb2a639ad654db2e",
+  "composers": [
+    "Igor Stravinsky",
+    "Arnold Schoenberg"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Stravinsky: Serenade in A",
+      "duration": "12:15",
+      "act": "Lado A",
+      "composer": "Igor Stravinsky"
+    },
+    {
+      "id": 2,
+      "title": "Stravinsky: Sonata for Piano (1924)",
+      "duration": "10:30",
+      "act": "Lado A",
+      "composer": "Igor Stravinsky"
+    },
+    {
+      "id": 3,
+      "title": "Schoenberg: Suite for Piano, Op. 25",
+      "duration": "15:40",
+      "act": "Lado B",
+      "composer": "Arnold Schoenberg"
+    },
+    {
+      "id": 4,
+      "title": "Schoenberg: Two Piano Pieces, Op. 33a & 33b",
+      "duration": "04:20",
+      "act": "Lado B",
+      "composer": "Arnold Schoenberg"
+    }
+  ]
+},
+{
+  "id": "london-stravinsky-symphonies-ansermet",
+  "section": "1-D",
+  "title": "Stravinsky: Symphony in C / Symphony in Three Movements",
+  "artist": "Ernest Ansermet (Conductor) & L'Orchestre de la Suisse Romande",
+  "releaseYear": 1960,
+  "genre": "Música Clásica",
+  "subGenre": "Neoclasicismo",
+  "totalDuration": "51m 30s",
+  "label": "London Records",
+  "format": "Vinyl / Stereo / LP",
+  "catalogNumber": "CM 9250",
+  "coverUrl": "https://i.discogs.com/t7WbOLb6voqdOvPBK2IS7jvtl5KADvU77WS0XN4axPM/rs:fit/g:sm/q:90/h:583/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NjM4/MDQwLTE2ODkwMjI3/NDYtMzI0MS5qcGVn.jpeg",
+  "composers": [
+    "Igor Stravinsky"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Symphony in C: I. Moderato alla breve",
+      "duration": "09:35",
+      "act": "Lado A",
+      "composer": "Igor Stravinsky"
+    },
+    {
+      "id": 2,
+      "title": "Symphony in C: II. Larghetto concertante",
+      "duration": "06:15",
+      "act": "Lado A",
+      "composer": "Igor Stravinsky"
+    },
+    {
+      "id": 3,
+      "title": "Symphony in C: III. Allegretto",
+      "duration": "04:50",
+      "act": "Lado A",
+      "composer": "Igor Stravinsky"
+    },
+    {
+      "id": 4,
+      "title": "Symphony in C: IV. Largo - Tempo giusto, alla breve",
+      "duration": "06:50",
+      "act": "Lado A",
+      "composer": "Igor Stravinsky"
+    },
+    {
+      "id": 5,
+      "title": "Symphony in Three Movements: I. ♩ = 160",
+      "duration": "09:40",
+      "act": "Lado B",
+      "composer": "Igor Stravinsky"
+    },
+    {
+      "id": 6,
+      "title": "Symphony in Three Movements: II. Andante",
+      "duration": "06:15",
+      "act": "Lado B",
+      "composer": "Igor Stravinsky"
+    },
+    {
+      "id": 7,
+      "title": "Symphony in Three Movements: III. Con moto",
+      "duration": "08:05",
+      "act": "Lado B",
+      "composer": "Igor Stravinsky"
+    }
+  ]
+},
+{
+  "id": "london-stravinsky-symphony1-scherzo-dorati-detroit",
+  "section": "1-D",
+  "title": "Stravinsky: Symphony No. 1 / Scherzo fantastique",
+  "artist": "Antal Dorati (Conductor) & Detroit Symphony Orchestra",
+  "releaseYear": 1986,
+  "genre": "Música Clásica",
+  "subGenre": "Modernismo / Neoclasicismo",
+  "totalDuration": "54m 30s",
+  "label": "London Records",
+  "format": "Vinyl / Stereo / LP / Digital Recording",
+  "catalogNumber": "414 456-1",
+  "coverUrl": "https://m.media-amazon.com/images/I/61COZRtW1EL._UXNaN_FMjpg_QL85_.jpg",
+  "composers": [
+    "Igor Stravinsky"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Symphony No. 1 in E flat major, Op. 1: I. Allegro moderato",
+      "duration": "09:15",
+      "act": "Lado A",
+      "composer": "Igor Stravinsky"
+    },
+    {
+      "id": 2,
+      "title": "Symphony No. 1 in E flat major, Op. 1: II. Scherzo (Allegretto)",
+      "duration": "06:10",
+      "act": "Lado A",
+      "composer": "Igor Stravinsky"
+    },
+    {
+      "id": 3,
+      "title": "Symphony No. 1 in E flat major, Op. 1: III. Largo",
+      "duration": "14:15",
+      "act": "Lado B",
+      "composer": "Igor Stravinsky"
+    },
+    {
+      "id": 4,
+      "title": "Symphony No. 1 in E flat major, Op. 1: IV. Finale (Allegro molto)",
+      "duration": "09:50",
+      "act": "Lado B",
+      "composer": "Igor Stravinsky"
+    },
+    {
+      "id": 5,
+      "title": "Scherzo fantastique, Op. 3",
+      "duration": "14:50",
+      "act": "Lado B",
+      "composer": "Igor Stravinsky"
+    }
+  ]
+},
+{
+  "id": "dg-stravinsky-psalmen-symphonie-kodaly-fricsay",
+  "section": "1-D",
+  "title": "Igor Strawinsky: Psalmen-Symphonie / Zoltan Kodaly: Psalmus Hungaricus Op. 13",
+  "artist": "Ernst Haefliger (Tenor), Ferenc Fricsay (Dirigent), RIAS-Kammerchor & Radio-Symphonie-Orchester Berlin",
+  "releaseYear": 1957,
+  "genre": "Música Clásica / Coral",
+  "subGenre": "Modernismo / Neoclasicismo",
+  "totalDuration": "46m 30s",
+  "label": "Deutsche Grammophon Gesellschaft",
+  "format": "Vinyl / Mono / LP / Hi-Fi",
+  "catalogNumber": "LPEM 19073",
+  "coverUrl": "https://i.discogs.com/AH4Vp_jckT5AFdmbsLWYFzhHmKYZmRoMpqrrKr7gaW8/rs:fit/g:sm/q:90/h:578/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3Njk5/MDUtMTYxODI1NDE4/MC0yMDQ1LmpwZWc.jpeg",
+  "composers": [
+    "Igor Stravinsky",
+    "Zoltán Kodály"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Stravinsky: Symphonie de Psaumes (Psalmen-Symphonie): I. Exaudi orationem meam",
+      "duration": "03:15",
+      "act": "Lado A",
+      "composer": "Igor Stravinsky"
+    },
+    {
+      "id": 2,
+      "title": "Stravinsky: Symphonie de Psaumes (Psalmen-Symphonie): II. Expectans expectavi Dominum",
+      "duration": "06:40",
+      "act": "Lado A",
+      "composer": "Igor Stravinsky"
+    },
+    {
+      "id": 3,
+      "title": "Stravinsky: Symphonie de Psaumes (Psalmen-Symphonie): III. Alleluia. Laudate Dominum",
+      "duration": "11:20",
+      "act": "Lado A",
+      "composer": "Igor Stravinsky"
+    },
+    {
+      "id": 4,
+      "title": "Kodály: Psalmus Hungaricus, Op. 13",
+      "duration": "25:15",
+      "act": "Lado B",
+      "composer": "Zoltán Kodály"
+    }
+  ]
+},
+{
+  "id": "columbia-masterworks-stravinsky-persephone-ny-phil",
+  "section": "1-D",
+  "title": "Stravinsky: Perséphone",
+  "artist": "Igor Stravinsky (Conductor), Vera Zorina (Narrator), Richard Robinson (Tenor), The Westminster Choir & New York Philharmonic",
+  "releaseYear": 1957,
+  "genre": "Música Clásica / Melodrama",
+  "subGenre": "Neoclasicismo",
+  "totalDuration": "48m 15s",
+  "label": "Columbia Masterworks",
+  "format": "Vinyl / Mono / LP",
+  "catalogNumber": "ML 5196",
+  "coverUrl": "https://i.discogs.com/7xwxRVTD_sL3SZmMUrxJkl_IGQq-Wpn11lFEbbCHnBI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2ODA0/OTUtMTQ5MDUwMDcy/NS0xMTExLmpwZWc.jpeg",
+  "composers": [
+    "Igor Stravinsky",
+    "André Gide (Libreto)"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Part I: Perséphone ravie",
+      "duration": "14:20",
+      "act": "Lado A",
+      "composer": "Igor Stravinsky"
+    },
+    {
+      "id": 2,
+      "title": "Part II: Perséphone aux Enfers",
+      "duration": "20:45",
+      "act": "Lado B",
+      "composer": "Igor Stravinsky"
+    },
+    {
+      "id": 3,
+      "title": "Part III: Perséphone renaissante",
+      "duration": "13:10",
+      "act": "Lado B",
+      "composer": "Igor Stravinsky"
+    }
+  ]
+},
+{
+  "id": "columbia-masterworks-stravinsky-conducts-choral-music",
+  "section": "1-D",
+  "title": "Stravinsky Conducts His Choral Music",
+  "artist": "Igor Stravinsky (Conductor), CBC Symphony Orchestra, The Festival Singers of Toronto & Soloists",
+  "releaseYear": 1965,
+  "genre": "Música Clásica / Coral",
+  "subGenre": "Modernismo / Neoclasicismo",
+  "totalDuration": "45m 30s",
+  "label": "Columbia Masterworks",
+  "format": "Vinyl / Stereo / LP / 360 Sound",
+  "catalogNumber": "MS 6647",
+  "coverUrl": "https://m.media-amazon.com/images/I/51LbLndfX7L._UF1000,1000_QL80_.jpg",
+  "composers": [
+    "Igor Stravinsky",
+    "J.S. Bach (Variaciones)"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Babel (John Colicos, Narrator)",
+      "duration": "06:45",
+      "act": "Lado A",
+      "composer": "Igor Stravinsky"
+    },
+    {
+      "id": 2,
+      "title": "Zvezdoliki 'Le Roi des Étoiles'",
+      "duration": "05:15",
+      "act": "Lado A",
+      "composer": "Igor Stravinsky"
+    },
+    {
+      "id": 3,
+      "title": "Chorale-Variations (Bach: 'Vom Himmel Hoch')",
+      "duration": "14:30",
+      "act": "Lado A",
+      "composer": "Igor Stravinsky"
+    },
+    {
+      "id": 4,
+      "title": "The Dove Descending Breaks the Air (Words by T.S. Eliot)",
+      "duration": "02:25",
+      "act": "Lado B",
+      "composer": "Igor Stravinsky"
+    },
+    {
+      "id": 5,
+      "title": "A Sermon, a Narrative and a Prayer (Shirley Verrett, Loren Driscoll, John Horton)",
+      "duration": "16:35",
+      "act": "Lado B",
+      "composer": "Igor Stravinsky"
+    }
+  ]
+},
+{
+  "id": "columbia-masterworks-stravinsky-threni-stravinsky-conducting",
+  "section": "1-D",
+  "title": "Stravinsky: Threni (Id Est Lamentationes Jeremiae Prophetae)",
+  "artist": "Igor Stravinsky (Conductor), Columbia Symphony Orchestra, Schola Cantorum & Soloists",
+  "releaseYear": 1959,
+  "genre": "Música Clásica / Coral",
+  "subGenre": "Serialismo / Música Sacra",
+  "totalDuration": "35m 20s",
+  "label": "Columbia Masterworks",
+  "format": "Vinyl / Mono / LP",
+  "catalogNumber": "ML 5383",
+  "coverUrl": "https://ia800303.us.archive.org/BookReader/BookReaderImages.php?zip=/13/items/lp_threni-id-est-lamentationes-jeremiae-pro_igor-stravinsky/lp_threni-id-est-lamentationes-jeremiae-pro_igor-stravinsky_jp2.zip&file=lp_threni-id-est-lamentationes-jeremiae-pro_igor-stravinsky_jp2/lp_threni-id-est-lamentationes-jeremiae-pro_igor-stravinsky_0000.jp2&id=lp_threni-id-est-lamentationes-jeremiae-pro_igor-stravinsky",
+  "composers": [
+    "Igor Stravinsky"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "De Elegia Prima",
+      "duration": "07:15",
+      "act": "Lado A",
+      "composer": "Igor Stravinsky"
+    },
+    {
+      "id": 2,
+      "title": "De Elegia Secunda",
+      "duration": "06:40",
+      "act": "Lado A",
+      "composer": "Igor Stravinsky"
+    },
+    {
+      "id": 3,
+      "title": "De Elegia Tertia: I. Querimonia",
+      "duration": "05:20",
+      "act": "Lado B",
+      "composer": "Igor Stravinsky"
+    },
+    {
+      "id": 4,
+      "title": "De Elegia Tertia: II. Sensus Spei",
+      "duration": "08:15",
+      "act": "Lado B",
+      "composer": "Igor Stravinsky"
+    },
+    {
+      "id": 5,
+      "title": "De Elegia Tertia: III. Solitudo",
+      "duration": "07:50",
+      "act": "Lado B",
+      "composer": "Igor Stravinsky"
+    }
+  ]
+},
+{
+  "id": "rca-erato-stravinsky-histoire-soldat-boulez",
+  "section": "1-D",
+  "title": "Boulez Conducts Stravinsky: L'Histoire du Soldat",
+  "artist": "Pierre Boulez (Conductor), Ensemble Intercontemporain & Narrators",
+  "releaseYear": 1981,
+  "genre": "Música Clásica / Teatro Musical",
+  "subGenre": "Modernismo / Neoclasicismo",
+  "totalDuration": "53m 15s",
+  "label": "RCA Red Seal / Erato",
+  "format": "Vinyl / Stereo / LP",
+  "catalogNumber": "ARL1-4354",
+  "coverUrl": "https://i.ebayimg.com/00/s/MTU5NVgxNjAw/z/BosAAOSwT31jDBuq/$_57.JPG?set_id=880000500F",
+  "composers": [
+    "Igor Stravinsky",
+    "C.F. Ramuz (Texto)"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "L'Histoire du Soldat (The Soldier's Tale) - Part I",
+      "duration": "25:40",
+      "act": "Lado A",
+      "composer": "Igor Stravinsky"
+    },
+    {
+      "id": 2,
+      "title": "L'Histoire du Soldat (The Soldier's Tale) - Part II",
+      "duration": "27:35",
+      "act": "Lado B",
+      "composer": "Igor Stravinsky"
+    }
+  ]
+},
+{
+  "id": "london-stravinsky-baiser-fee-ansermet",
+  "section": "1-D",
+  "title": "Stravinsky: Le Baiser de la Fée (The Fairy's Kiss)",
+  "artist": "Ernest Ansermet (Conductor) & L'Orchestre de la Suisse Romande",
+  "releaseYear": 1963,
+  "genre": "Música Clásica / Ballet",
+  "subGenre": "Neoclasicismo",
+  "totalDuration": "45m 10s",
+  "label": "London Records / ffrr",
+  "format": "Vinyl / Mono / LP",
+  "catalogNumber": "CM 9368",
+  "coverUrl": "https://i.discogs.com/ZV1JTei_V-cNdyBA0NIhI0QMXOudiSLfLT_uoWLl-jo/rs:fit/g:sm/q:40/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxNTgz/MTEtMTM4NjA4MDU4/NS0yOTA4LmpwZWc.jpeg",
+  "composers": [
+    "Igor Stravinsky"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Le Baiser de la Fée: Premier Tableau (Le Berceuse dans la tempête)",
+      "duration": "12:15",
+      "act": "Lado A",
+      "composer": "Igor Stravinsky"
+    },
+    {
+      "id": 2,
+      "title": "Le Baiser de la Fée: Deuxième Tableau (Une Fête au village)",
+      "duration": "10:30",
+      "act": "Lado A",
+      "composer": "Igor Stravinsky"
+    },
+    {
+      "id": 3,
+      "title": "Le Baiser de la Fée: Troisième Tableau (Au Moulin)",
+      "duration": "14:20",
+      "act": "Lado B",
+      "composer": "Igor Stravinsky"
+    },
+    {
+      "id": 4,
+      "title": "Le Baiser de la Fée: Quatrième Tableau (Epilogue: Berceuse des demeures éternelles)",
+      "duration": "08:05",
+      "act": "Lado B",
+      "composer": "Igor Stravinsky"
+    }
+  ]
+},
+{
+  "id": "columbia-masterworks-stravinsky-agon-canticum-sacrum",
+  "section": "1-D",
+  "title": "Stravinsky: Agon (A Ballet for Twelve Dancers) / Canticum Sacrum",
+  "artist": "Igor Stravinsky (Conductor), Richard Robinson (Tenor), Howard Chitjian (Baritone) & Los Angeles Festival Symphony Orchestra and Chorus",
+  "releaseYear": 1957,
+  "genre": "Música Clásica / Ballet",
+  "subGenre": "Serialismo / Neoclasicismo",
+  "totalDuration": "42m 50s",
+  "label": "Columbia Masterworks",
+  "format": "Vinyl / Mono / LP",
+  "catalogNumber": "ML 5210",
+  "coverUrl": "https://m.media-amazon.com/images/I/91se4rNs9wL._UF1000,1000_QL80_.jpg",
+  "composers": [
+    "Igor Stravinsky"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Agon: A Ballet for Twelve Dancers",
+      "duration": "23:45",
+      "act": "Lado A",
+      "composer": "Igor Stravinsky"
+    },
+    {
+      "id": 2,
+      "title": "Canticum Sacrum (Ad Honorem Sancti Marci Nominis)",
+      "duration": "19:05",
+      "act": "Lado B",
+      "composer": "Igor Stravinsky"
+    }
+  ]
+},
+{
+  "id": "columbia-masterworks-bernstein-stravinsky-poulenc",
+  "section": "1-D",
+  "title": "Stravinsky: Symphony of Psalms / Poulenc: Gloria",
+  "artist": "Leonard Bernstein (Conductor), Judith Blegen (Soprano), Westminster Choir, New York Philharmonic & London Symphony Orchestra",
+  "releaseYear": 1977,
+  "genre": "Música Clásica / Coral",
+  "subGenre": "Modernismo / Neoclasicismo",
+  "totalDuration": "48m 20s",
+  "label": "Columbia Masterworks",
+  "format": "Vinyl / Stereo / LP",
+  "catalogNumber": "M 34551",
+  "coverUrl": "https://m.media-amazon.com/images/I/71pCNzj+h8L._UF350,350_QL50_.jpg",
+  "composers": [
+    "Igor Stravinsky",
+    "Francis Poulenc"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Poulenc: Gloria (Judith Blegen, Soprano; Westminster Choir; New York Philharmonic)",
+      "duration": "26:35",
+      "act": "Lado A",
+      "composer": "Francis Poulenc"
+    },
+    {
+      "id": 2,
+      "title": "Stravinsky: Symphony of Psalms (The English Bach Festival Chorus; London Symphony Orchestra)",
+      "duration": "21:45",
+      "act": "Lado B",
+      "composer": "Igor Stravinsky"
+    }
+  ]
+},
+{
+  "id": "everest-stravinsky-ebony-concerto-symphony-goossens",
+  "section": "1-D",
+  "title": "Stravinsky: Ebony Concerto / Symphony in Three Movements",
+  "artist": "Woody Herman and his Orchestra, Sir Eugene Goossens & The London Symphony Orchestra",
+  "releaseYear": 1959,
+  "genre": "Música Clásica / Jazz Fusion",
+  "subGenre": "Modernismo / Neoclasicismo",
+  "totalDuration": "32m 40s",
+  "label": "Everest Records",
+  "format": "Vinyl / Mono / LP / HI-FI",
+  "catalogNumber": "LPBR-6009",
+  "coverUrl": "https://i.scdn.co/image/ab67616d0000b273aa3c6ddcd55380e0b026e2d3",
+  "composers": [
+    "Igor Stravinsky"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Ebony Concerto (Dedicated to Woody Herman): I. Allegro moderato",
+      "duration": "03:25",
+      "act": "Lado A",
+      "composer": "Igor Stravinsky"
+    },
+    {
+      "id": 2,
+      "title": "Ebony Concerto: II. Andante",
+      "duration": "02:45",
+      "act": "Lado A",
+      "composer": "Igor Stravinsky"
+    },
+    {
+      "id": 3,
+      "title": "Ebony Concerto: III. Moderato; Con moto",
+      "duration": "03:15",
+      "act": "Lado A",
+      "composer": "Igor Stravinsky"
+    },
+    {
+      "id": 4,
+      "title": "Symphony in Three Movements: I. ♩ = 160",
+      "duration": "09:30",
+      "act": "Lado B",
+      "composer": "Igor Stravinsky"
+    },
+    {
+      "id": 5,
+      "title": "Symphony in Three Movements: II. Andante",
+      "duration": "06:10",
+      "act": "Lado B",
+      "composer": "Igor Stravinsky"
+    },
+    {
+      "id": 6,
+      "title": "Symphony in Three Movements: III. Con moto",
+      "duration": "07:35",
+      "act": "Lado B",
+      "composer": "Igor Stravinsky"
+    }
+  ]
+},
+{
+  "id": "loiseau-lyre-stravinsky-dumbarton-oaks-colin-davis",
+  "section": "1-D",
+  "title": "Igor Stravinsky: 'Dumbarton Oaks' / 'Danses Concertantes' / 'Concerto in D'",
+  "artist": "Colin Davis (Conductor) & English Chamber Orchestra",
+  "releaseYear": 1962,
+  "genre": "Música Clásica",
+  "subGenre": "Neoclasicismo / Música de Cámara",
+  "totalDuration": "44m 10s",
+  "label": "L'Oiseau-Lyre",
+  "format": "Vinyl / Mono / LP",
+  "catalogNumber": "OL 50219",
+  "coverUrl": "https://i.discogs.com/KacCoZGIdFh2A6H3jwHqGQM5kHq47u3d0aDQvJlHHoY/rs:fit/g:sm/q:90/h:596/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzNDI2/ODgtMTM2MjMwNDAx/Ni05MTIwLmpwZWc.jpeg",
+  "composers": [
+    "Igor Stravinsky"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Concerto in E Flat ('Dumbarton Oaks')",
+      "duration": "14:15",
+      "act": "Lado A",
+      "composer": "Igor Stravinsky"
+    },
+    {
+      "id": 2,
+      "title": "Danses Concertantes",
+      "duration": "18:20",
+      "act": "Lado A / Lado B",
+      "composer": "Igor Stravinsky"
+    },
+    {
+      "id": 3,
+      "title": "Concerto in D for String Orchestra",
+      "duration": "11:35",
+      "act": "Lado B",
+      "composer": "Igor Stravinsky"
+    }
+  ]
+},
+{
+  "id": "vox-stravinsky-capriccio-concerto-pianos-brendel",
+  "section": "1-D",
+  "title": "Stravinsky: Capriccio for Piano and Orchestra / Concerto for 2 Solo Pianos",
+  "artist": "Alfred Brendel (Piano), Charlotte Zelka (Piano) & Symphony Orchestra of the Southwest German Radio, Baden-Baden / Harold Byrns (Conductor)",
+  "releaseYear": 1958,
+  "genre": "Música Clásica",
+  "subGenre": "Neoclasicismo",
+  "totalDuration": "37m 45s",
+  "label": "Vox",
+  "format": "Vinyl / Mono / LP",
+  "catalogNumber": "PL 10.660",
+  "coverUrl": "https://i.discogs.com/jMk2hz5QX2ZtrEgptaw9XOFVNm11XAvGfZzvtIyCT0I/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0NzEy/MTYtMTQ4MTE0ODkw/OS02NzczLmpwZWc.jpeg",
+  "composers": [
+    "Igor Stravinsky"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Capriccio for Piano and Orchestra (Revised 1949 version)",
+      "duration": "18:20",
+      "act": "Lado A",
+      "composer": "Igor Stravinsky"
+    },
+    {
+      "id": 2,
+      "title": "Concerto for 2 Solo Pianos",
+      "duration": "19:25",
+      "act": "Lado B",
+      "composer": "Igor Stravinsky"
+    }
+  ]
+},
+{
+  "id": "columbia-masterworks-stravinsky-conducts-1961-rosen",
+  "section": "1-D",
+  "title": "Igor Stravinsky Conducts 1961",
+  "artist": "Igor Stravinsky (Conductor), Charles Rosen (Pianist), Israel Baker (Solo Violinist) & The Columbia Symphony Orchestra",
+  "releaseYear": 1961,
+  "genre": "Música Clásica",
+  "subGenre": "Modernismo / Serialismo",
+  "totalDuration": "41m 20s",
+  "label": "Columbia Masterworks",
+  "format": "Vinyl / Stereo / LP",
+  "catalogNumber": "MS 6272",
+  "coverUrl": "https://m.media-amazon.com/images/I/91tPBsran7L._UF1000,1000_QL80_.jpg",
+  "composers": [
+    "Igor Stravinsky"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Movements for Piano and Orchestra (Charles Rosen, Pianist)",
+      "duration": "08:35",
+      "act": "Lado A",
+      "composer": "Igor Stravinsky"
+    },
+    {
+      "id": 2,
+      "title": "Double Canon for String Quartet",
+      "duration": "01:20",
+      "act": "Lado A",
+      "composer": "Igor Stravinsky"
+    },
+    {
+      "id": 3,
+      "title": "Epitaphium for Flute, Clarinet and Harp",
+      "duration": "01:15",
+      "act": "Lado A",
+      "composer": "Igor Stravinsky"
+    },
+    {
+      "id": 4,
+      "title": "Octet for Winds",
+      "duration": "14:30",
+      "act": "Lado A",
+      "composer": "Igor Stravinsky"
+    },
+    {
+      "id": 5,
+      "title": "L'Histoire du Soldat (Suite) (Israel Baker, Solo Violinist)",
+      "duration": "25:40",
+      "act": "Lado B",
+      "composer": "Igor Stravinsky"
+    }
+  ]
+},
+{
+  "id": "dg-stravinsky-bartok-konzert-sonate-seemann",
+  "section": "1-D",
+  "title": "Igor Strawinsky: Konzert für Klavier und Blasorchester (1924) / Béla Bartók: Sonate für zwei Klaviere und Schlagzeug (1937)",
+  "artist": "Carl Seemann (Piano), Edith Picht-Axenfeld (Piano), Berliner Philharmoniker / Thomas Scherman (Director)",
+  "releaseYear": 1957,
+  "genre": "Música Clásica",
+  "subGenre": "Modernismo / Neoclasicismo",
+  "totalDuration": "43m 15s",
+  "label": "Deutsche Grammophon Gesellschaft",
+  "format": "Vinyl / Mono / LP / Hi-Fi",
+  "catalogNumber": "LPM 18384",
+  "coverUrl": "https://i.discogs.com/ASlRbUPyufm1FqTPXKunuGEOdVmB7uOPanHJtJFUIRQ/rs:fit/g:sm/q:90/h:590/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTQz/MDYyLTE1Njg2MzUw/MjMtMjA5Ni5qcGVn.jpeg",
+  "composers": [
+    "Igor Stravinsky",
+    "Béla Bartók"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Strawinsky: Konzert für Klavier und Blasorchester: I. Lento - Allegro",
+      "duration": "07:25",
+      "act": "Lado A",
+      "composer": "Igor Stravinsky"
+    },
+    {
+      "id": 2,
+      "title": "Strawinsky: Konzert für Klavier und Blasorchester: II. Larghissimo",
+      "duration": "07:10",
+      "act": "Lado A",
+      "composer": "Igor Stravinsky"
+    },
+    {
+      "id": 3,
+      "title": "Strawinsky: Konzert für Klavier und Blasorchester: III. Allegro",
+      "duration": "05:15",
+      "act": "Lado A",
+      "composer": "Igor Stravinsky"
+    },
+    {
+      "id": 4,
+      "title": "Bartók: Sonate für zwei Klaviere und Schlagzeug: I. Assai lento - Allegro molto",
+      "duration": "12:15",
+      "act": "Lado B",
+      "composer": "Béla Bartók"
+    },
+    {
+      "id": 5,
+      "title": "Bartók: Sonate für zwei Klaviere und Schlagzeug: II. Lento, ma non troppo",
+      "duration": "05:10",
+      "act": "Lado B",
+      "composer": "Béla Bartók"
+    },
+    {
+      "id": 6,
+      "title": "Bartók: Sonate für zwei Klaviere und Schlagzeug: III. Allegro non troppo",
+      "duration": "06:00",
+      "act": "Lado B",
+      "composer": "Béla Bartók"
+    }
+  ]
+},
+{
+  "id": "dg-berg-stravinsky-violin-concertos-perlman-ozawa",
+  "section": "1-D",
+  "title": "Alban Berg · Igor Strawinsky: Violinkonzerte · Violin Concertos",
+  "artist": "Itzhak Perlman (Violin), Boston Symphony Orchestra & Seiji Ozawa (Conductor)",
+  "releaseYear": 1980,
+  "genre": "Música Clásica",
+  "subGenre": "Modernismo / Serialismo",
+  "totalDuration": "46m 50s",
+  "label": "Deutsche Grammophon",
+  "format": "Vinyl / Stereo / LP",
+  "catalogNumber": "2531 110",
+  "coverUrl": "https://i.discogs.com/MSXYoPzpyEd4YkQfL5lLOw_SdCNh5Tabe8yCrIC3joE/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NjQx/NTAtMTU2MTE3ODc1/MC01Njc4LmpwZWc.jpeg",
+  "composers": [
+    "Alban Berg",
+    "Igor Stravinsky"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Berg: Concerto for Violin and Orchestra: I. Andante - Allegretto",
+      "duration": "11:25",
+      "act": "Lado A",
+      "composer": "Alban Berg"
+    },
+    {
+      "id": 2,
+      "title": "Berg: Concerto for Violin and Orchestra: II. Allegro - Adagio",
+      "duration": "14:10",
+      "act": "Lado A",
+      "composer": "Alban Berg"
+    },
+    {
+      "id": 3,
+      "title": "Stravinsky: Concerto in D for Violin and Orchestra: I. Toccata",
+      "duration": "05:35",
+      "act": "Lado B",
+      "composer": "Igor Stravinsky"
+    },
+    {
+      "id": 4,
+      "title": "Stravinsky: Concerto in D for Violin and Orchestra: II. Aria I",
+      "duration": "04:15",
+      "act": "Lado B",
+      "composer": "Igor Stravinsky"
+    },
+    {
+      "id": 5,
+      "title": "Stravinsky: Concerto in D for Violin and Orchestra: III. Aria II",
+      "duration": "05:10",
+      "act": "Lado B",
+      "composer": "Igor Stravinsky"
+    },
+    {
+      "id": 6,
+      "title": "Stravinsky: Concerto in D for Violin and Orchestra: IV. Capriccio",
+      "duration": "06:15",
+      "act": "Lado B",
+      "composer": "Igor Stravinsky"
+    }
+  ]
+},
+{
+  "id": "columbia-masterworks-stravinsky-conducts-norwegian-moods-ode",
+  "section": "1-D",
+  "title": "Stravinsky Conducts: Four Norwegian Moods / Ode / Danses Concertantes / Concerto in D",
+  "artist": "Igor Stravinsky (Conductor), CBC Symphony Orchestra, The Cleveland Orchestra, The Columbia Chamber Orchestra & The Columbia Symphony Orchestra",
+  "releaseYear": 1971,
+  "genre": "Música Clásica",
+  "subGenre": "Neoclasicismo",
+  "totalDuration": "42m 15s",
+  "label": "Columbia Masterworks",
+  "format": "Vinyl / Stereo / LP",
+  "catalogNumber": "M 30516",
+  "coverUrl": "https://m.media-amazon.com/images/I/713CtM5GQiL._UF1000,1000_QL80_.jpg",
+  "composers": [
+    "Igor Stravinsky"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Four Norwegian Moods (CBC Symphony Orchestra)",
+      "duration": "08:35",
+      "act": "Lado A",
+      "composer": "Igor Stravinsky"
+    },
+    {
+      "id": 2,
+      "title": "Ode (The Cleveland Orchestra)",
+      "duration": "07:10",
+      "act": "Lado A",
+      "composer": "Igor Stravinsky"
+    },
+    {
+      "id": 3,
+      "title": "Danses Concertantes (The Columbia Chamber Orchestra)",
+      "duration": "14:50",
+      "act": "Lado B",
+      "composer": "Igor Stravinsky"
+    },
+    {
+      "id": 4,
+      "title": "Concerto in D for String Orchestra (The Columbia Symphony Orchestra)",
+      "duration": "11:40",
+      "act": "Lado B",
+      "composer": "Igor Stravinsky"
+    }
+  ]
+},
+{
+  "id": "london-stravinsky-apollo-renard-ansermet",
+  "section": "1-D",
+  "title": "Stravinsky: Apollo Musagetes / Renard",
+  "artist": "Ernest Ansermet (Conductor), L'Orchestre de la Suisse Romande & Soloists",
+  "releaseYear": 1956,
+  "genre": "Música Clásica / Ballet",
+  "subGenre": "Neoclasicismo",
+  "totalDuration": "42m 30s",
+  "label": "London Records / ffrr",
+  "format": "Vinyl / Mono / LP / Long Playing",
+  "catalogNumber": "CM 9152",
+  "coverUrl": "https://i.discogs.com/hFnA-FeA87RJq7_0end0xebtxxGoPO7Ecn0alomuYFw/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzA1/Njc2LTE1MjEwNDMx/MjktMjY1NC5qcGVn.jpeg",
+  "composers": [
+    "Igor Stravinsky"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Apollo Musagetes (Apollon Musagète) - Ballet in Two Scenes",
+      "duration": "28:15",
+      "act": "Lado A",
+      "composer": "Igor Stravinsky"
+    },
+    {
+      "id": 2,
+      "title": "Renard (Histoire de l'Ours et du Renard)",
+      "duration": "14:15",
+      "act": "Lado B",
+      "composer": "Igor Stravinsky"
+    }
+  ]
+},
+{
+  "id": "telarc-stravinsky-firebird-shaw-atlanta",
+  "section": "1-D",
+  "title": "Stravinsky: The Firebird (Suite, 1919 Version) / Borodin: Overture and Polovetsian Dances from Prince Igor",
+  "artist": "Robert Shaw (Conductor), Atlanta Symphony Orchestra and Chorus",
+  "releaseYear": 1978,
+  "genre": "Música Clásica",
+  "subGenre": "Modernismo / Nacionalismo Ruso",
+  "totalDuration": "42m 10s",
+  "label": "Telarc Digital",
+  "format": "Vinyl / Stereo / LP / Digital Recording",
+  "catalogNumber": "DG-10039",
+  "coverUrl": "https://m.media-amazon.com/images/I/71K0MGz8E0L._UF1000,1000_QL80_.jpg",
+  "composers": [
+    "Igor Stravinsky",
+    "Alexander Borodin"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Stravinsky: The Firebird (Suite, 1919 Version)",
+      "duration": "21:30",
+      "act": "Lado A",
+      "composer": "Igor Stravinsky"
+    },
+    {
+      "id": 2,
+      "title": "Borodin: Prince Igor - Overture",
+      "duration": "10:40",
+      "act": "Lado B",
+      "composer": "Alexander Borodin"
+    },
+    {
+      "id": 3,
+      "title": "Borodin: Prince Igor - Polovetsian Dances",
+      "duration": "10:00",
+      "act": "Lado B",
+      "composer": "Alexander Borodin"
+    }
+  ]
+},
+{
+  "id": "asv-digital-stravinsky-petrushka-batiz-rpo",
+  "section": "1-D",
+  "title": "Stravinsky: Petrushka / Circus Polka / Fireworks, Op. 4",
+  "artist": "Enrique Bátiz (Conductor) & Royal Philharmonic Orchestra",
+  "releaseYear": 1987,
+  "genre": "Música Clásica / Ballet",
+  "subGenre": "Modernismo / Nacionalismo Ruso",
+  "totalDuration": "46m 10s",
+  "label": "ASV Digital",
+  "format": "Vinyl / Stereo / LP / Digital Recording",
+  "catalogNumber": "DCA 542",
+  "coverUrl": "https://m.media-amazon.com/images/I/71DssPXZwQL._AC_UF1000,1000_QL80_.jpg",
+  "composers": [
+    "Igor Stravinsky"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Petrushka (1947 Version): Part I & Part II",
+      "duration": "16:45",
+      "act": "Lado A",
+      "composer": "Igor Stravinsky"
+    },
+    {
+      "id": 2,
+      "title": "Petrushka (1947 Version): Part III & Part IV",
+      "duration": "18:25",
+      "act": "Lado B",
+      "composer": "Igor Stravinsky"
+    },
+    {
+      "id": 3,
+      "title": "Circus Polka (Composed for a Young Elephant)",
+      "duration": "03:50",
+      "act": "Lado B",
+      "composer": "Igor Stravinsky"
+    },
+    {
+      "id": 4,
+      "title": "Fireworks, Op. 4",
+      "duration": "04:10",
+      "act": "Lado B",
+      "composer": "Igor Stravinsky"
+    }
+  ]
+},
+{
+  "id": "dg-stravinsky-feuervogel-nachtigall-maazel-berlin",
+  "section": "1-D",
+  "title": "Strawinsky: Der Feuervogel, Ballettsuite / Gesang der Nachtigall, Sinfonische Dichtung",
+  "artist": "Radio-Symphonie-Orchester Berlin & Lorin Maazel (Dirigent)",
+  "releaseYear": 1960,
+  "genre": "Música Clásica",
+  "subGenre": "Modernismo / Impresionismo Ruso",
+  "totalDuration": "41m 30s",
+  "label": "Deutsche Grammophon Gesellschaft",
+  "format": "Vinyl / Stereo / LP",
+  "catalogNumber": "138 006 SLPM",
+  "coverUrl": "https://i.discogs.com/NIRBiKocMNECl9FHd4DrMfpCj-p_oUr26k7lZJ8UxuM/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMDQ4/OTYtMTQ3ODI4OTUx/My0xMDkzLmpwZWc.jpeg",
+  "composers": [
+    "Igor Stravinsky"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Der Feuervogel (L'Oiseau de feu) - Ballettsuite (Version 1919)",
+      "duration": "21:10",
+      "act": "Lado A",
+      "composer": "Igor Stravinsky"
+    },
+    {
+      "id": 2,
+      "title": "Gesang der Nachtigall (Le Chant du rossignol) - Sinfonische Dichtung",
+      "duration": "20:20",
+      "act": "Lado B",
+      "composer": "Igor Stravinsky"
+    }
+  ]
+},
+{
+  "id": "columbia-masterworks-stravinsky-conducts-firebird-complete-1910",
+  "section": "1-D",
+  "title": "Stravinsky Conducts Stravinsky: The Firebird (The Complete Ballet in the Original 1910 Orchestration)",
+  "artist": "Igor Stravinsky (Conductor) & Columbia Symphony Orchestra",
+  "releaseYear": 1962,
+  "genre": "Música Clásica / Ballet",
+  "subGenre": "Modernismo / Impresionismo Ruso",
+  "totalDuration": "45m 25s",
+  "label": "Columbia Masterworks",
+  "format": "Vinyl / Mono / LP",
+  "catalogNumber": "ML 5728",
+  "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music/4f/85/b7/mzi.fjmmyndt.jpg/1200x630bb.jpg",
+  "composers": [
+    "Igor Stravinsky"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Introduction; First Scene (The Enchanted Garden of Kastchei - Appearance of the Firebird)",
+      "duration": "22:10",
+      "act": "Lado A",
+      "composer": "Igor Stravinsky"
+    },
+    {
+      "id": 2,
+      "title": "Second Scene (Capture of the Firebird - Infernal Dance of Kastchei - Lullaby - Finale)",
+      "duration": "23:15",
+      "act": "Lado B",
+      "composer": "Igor Stravinsky"
+    }
+  ]
+},
+{
+  "id": "mercury-stravinsky-firebird-debussy-nocturnes-dorati",
+  "section": "1-D",
+  "title": "Stravinsky: The Firebird (Ballet Suite) / Debussy: 3 Nocturnes (Nuages, Fêtes, Sirènes)",
+  "artist": "Antal Dorati (Conductor) & Minneapolis Symphony Orchestra",
+  "releaseYear": 1954,
+  "genre": "Música Clásica",
+  "subGenre": "Modernismo / Impresionismo",
+  "totalDuration": "44m 10s",
+  "label": "Mercury Classics / Olympian Series",
+  "format": "Vinyl / Mono / LP / High Fidelity Recording",
+  "catalogNumber": "MG 50025",
+  "coverUrl": "https://i.discogs.com/iWX2H5n1mlv9JIoq1OtVWgtJk9HVhQAsfdn2MHE8V5k/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0Mzgx/MDEtMTQ0NTcwOTQx/My00MzUzLmpwZWc.jpeg",
+  "composers": [
+    "Igor Stravinsky",
+    "Claude Debussy"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Stravinsky: The Firebird (Ballet Suite) - Introduction, Dance of the Firebird, Dance of the Princesses, Infernal Dance, Lullaby, Finale",
+      "duration": "21:30",
+      "act": "Lado A",
+      "composer": "Igor Stravinsky"
+    },
+    {
+      "id": 2,
+      "title": "Debussy: Three Nocturnes - I. Nuages (Clouds)",
+      "duration": "07:15",
+      "act": "Lado B",
+      "composer": "Claude Debussy"
+    },
+    {
+      "id": 3,
+      "title": "Debussy: Three Nocturnes - II. Fêtes (Festivals)",
+      "duration": "06:10",
+      "act": "Lado B",
+      "composer": "Claude Debussy"
+    },
+    {
+      "id": 4,
+      "title": "Debussy: Three Nocturnes - III. Sirènes (Sirens)",
+      "duration": "09:15",
+      "act": "Lado B",
+      "composer": "Claude Debussy"
+    }
+  ]
+},
+{
+  "id": "london-stravinsky-firebird-psalms-ansermet",
+  "section": "1-D",
+  "title": "Stravinsky: The Fire Bird-Suite / Symphony of Psalms",
+  "artist": "Ernest Ansermet (Conductor), L'Orchestre de la Suisse Romande & The London Philharmonic Choir and Orchestra",
+  "releaseYear": 1954,
+  "genre": "Música Clásica",
+  "subGenre": "Modernismo / Neoclasicismo",
+  "totalDuration": "41m 50s",
+  "label": "London Records / ffrr",
+  "format": "Vinyl / Mono / LP / Long Playing Microgroove",
+  "catalogNumber": "LL 889",
+  "coverUrl": "https://i.discogs.com/EOy-UR_0-uSlp0oYHezcQ8JE5kgWZ4sdlp2jbqpCl20/rs:fit/g:sm/q:90/h:450/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4MzE2/OTMtMTM3Njg2OTYy/OC02NDAxLmpwZWc.jpeg",
+  "composers": [
+    "Igor Stravinsky"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "The Fire Bird - Suite (L'Oiseau de Feu)",
+      "duration": "21:15",
+      "act": "Lado A",
+      "composer": "Igor Stravinsky"
+    },
+    {
+      "id": 2,
+      "title": "Symphony of Psalms (Symphonie de Psaumes)",
+      "duration": "20:35",
+      "act": "Lado B",
+      "composer": "Igor Stravinsky"
+    }
+  ]
+},
+{
+  "id": "columbia-boulez-conducts-stravinsky-bartok-bbc",
+  "section": "1-D",
+  "title": "Boulez Conducts Stravinsky: Firebird Suite (1910) / Bartok: Music for Strings, Percussion and Celesta",
+  "artist": "Pierre Boulez (Conductor) & The BBC Symphony Orchestra",
+  "releaseYear": 1968,
+  "genre": "Música Clásica",
+  "subGenre": "Modernismo",
+  "totalDuration": "52m 10s",
+  "label": "Columbia Masterworks",
+  "format": "Vinyl / Stereo / LP",
+  "catalogNumber": "MS 7206",
+  "coverUrl": "https://i.scdn.co/image/ab67616d0000b273907872cb5064fdda5a4762d7",
+  "composers": [
+    "Igor Stravinsky",
+    "Béla Bartók"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Stravinsky: Firebird Suite (1910 Version)",
+      "duration": "24:15",
+      "act": "Lado A",
+      "composer": "Igor Stravinsky"
+    },
+    {
+      "id": 2,
+      "title": "Bartók: Music for Strings, Percussion and Celesta",
+      "duration": "27:55",
+      "act": "Lado B",
+      "composer": "Béla Bartók"
+    }
+  ]
+},
+{
+  "id": "london-stravinsky-firebird-petrushka-monteux",
+  "section": "1-D",
+  "title": "Stravinsky: The Firebird-Suite / Petrushka-Complete",
+  "artist": "Pierre Monteux (Conductor) & Paris Conservatoire Orchestra",
+  "releaseYear": 1970,
+  "genre": "Música Clásica / Ballet",
+  "subGenre": "Modernismo / Nacionalismo Ruso",
+  "totalDuration": "48m 30s",
+  "label": "London Records / Stereo Treasury Series",
+  "format": "Vinyl / Stereo / LP",
+  "catalogNumber": "STS15197",
+  "coverUrl": "https://i.discogs.com/H_xFf9IbDnRinAlEv-iMdKn_KossrxPrQEJnEB5W514/rs:fit/g:sm/q:90/h:430/w:429/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NDk0/MzEtMTM0Njc5NDIx/Ni0zMzM4LmpwZWc.jpeg",
+  "composers": [
+    "Igor Stravinsky"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "The Firebird-Suite (L'Oiseau de Feu)",
+      "duration": "21:10",
+      "act": "Lado A",
+      "composer": "Igor Stravinsky"
+    },
+    {
+      "id": 2,
+      "title": "Petrushka-Complete (Original 1911 Version) - Part I & II",
+      "duration": "12:45",
+      "act": "Lado A",
+      "composer": "Igor Stravinsky"
+    },
+    {
+      "id": 3,
+      "title": "Petrushka-Complete (Original 1911 Version) - Part III & IV",
+      "duration": "14:35",
+      "act": "Lado B",
+      "composer": "Igor Stravinsky"
+    }
+  ]
+},
+{
+  "id": "london-stravinsky-rite-spring-monteux-paris",
+  "section": "1-D",
+  "title": "Stravinsky: The Rite of Spring (Le Sacre du Printemps)",
+  "artist": "Pierre Monteux (Conductor) & Paris Conservatoire Orchestra",
+  "releaseYear": 1970,
+  "genre": "Música Clásica / Ballet",
+  "subGenre": "Modernismo / Primitivismo",
+  "totalDuration": "34m 50s",
+  "label": "London Records / Stereo Treasury Series",
+  "format": "Vinyl / Stereo / LP",
+  "catalogNumber": "STS15318",
+  "coverUrl": "https://i.discogs.com/hwgdmE2yjMLGISAjQOGY5s5QW_5NHG1nI5uLOJpdEzk/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzEw/NTM3LTE1MDI4NTQw/MzgtNjg0OC5qcGVn.jpeg",
+  "composers": [
+    "Igor Stravinsky"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Part I: The Adoration of the Earth",
+      "duration": "15:40",
+      "act": "Lado A",
+      "composer": "Igor Stravinsky"
+    },
+    {
+      "id": 2,
+      "title": "Part II: The Sacrifice",
+      "duration": "19:10",
+      "act": "Lado B",
+      "composer": "Igor Stravinsky"
+    }
+  ]
+},
+{
+  "id": "dg-stravinsky-noces-mass-bernstein",
+  "section": "1-D",
+  "title": "Strawinsky: Les Noces / Messe (Mass)",
+  "artist": "Leonard Bernstein (Conductor), English Bach Festival Chorus & Orchestra",
+  "releaseYear": 1977,
+  "genre": "Música Clásica / Coral",
+  "subGenre": "Modernismo / Neoclasicismo",
+  "totalDuration": "44m 30s",
+  "label": "Deutsche Grammophon",
+  "format": "Vinyl / Stereo / LP",
+  "catalogNumber": "2530 880",
+  "coverUrl": "https://i.discogs.com/Ig3Szo1sotEmhwWyPUMx-WUZVTZa8uJVnjnTXiFeXdQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MDM4/NDM3LTE2MTEyNjY4/OTQtNTIxNy5qcGVn.jpeg",
+  "composers": [
+    "Igor Stravinsky"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Les Noces (The Wedding) - Part I",
+      "duration": "14:20",
+      "act": "Lado A",
+      "composer": "Igor Stravinsky"
+    },
+    {
+      "id": 2,
+      "title": "Les Noces (The Wedding) - Part II",
+      "duration": "10:15",
+      "act": "Lado A",
+      "composer": "Igor Stravinsky"
+    },
+    {
+      "id": 3,
+      "title": "Mass (Messe): I. Kyrie",
+      "duration": "03:10",
+      "act": "Lado B",
+      "composer": "Igor Stravinsky"
+    },
+    {
+      "id": 4,
+      "title": "Mass (Messe): II. Gloria",
+      "duration": "03:45",
+      "act": "Lado B",
+      "composer": "Igor Stravinsky"
+    },
+    {
+      "id": 5,
+      "title": "Mass (Messe): III. Credo",
+      "duration": "04:30",
+      "act": "Lado B",
+      "composer": "Igor Stravinsky"
+    },
+    {
+      "id": 6,
+      "title": "Mass (Messe): IV. Sanctus",
+      "duration": "03:20",
+      "act": "Lado B",
+      "composer": "Igor Stravinsky"
+    },
+    {
+      "id": 7,
+      "title": "Mass (Messe): V. Agnus Dei",
+      "duration": "05:10",
+      "act": "Lado B",
+      "composer": "Igor Stravinsky"
+    }
+  ]
+},
+{
+  "id": "epic-stravinsky-noces-mass-de-nobel",
+  "section": "1-D",
+  "title": "Stravinsky: Les Noces / Mass / Pater Noster / Ave Maria",
+  "artist": "Felix de Nobel (Conductor) & The Netherlands Chamber Choir",
+  "releaseYear": 1956,
+  "genre": "Música Clásica / Coral",
+  "subGenre": "Modernismo / Música Sacra",
+  "totalDuration": "40m 15s",
+  "label": "Epic",
+  "format": "Vinyl / Mono / LP / High Fidelity",
+  "catalogNumber": "LC 3231",
+  "coverUrl": "https://i.discogs.com/sn56Na3SW_TaFwpli3XMd0WNcZnm5k6l54DF42BID8E/rs:fit/g:sm/q:40/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDc1/MTUyLTE1ODYzNjE4/MTgtMjc1MC5qcGVn.jpeg",
+  "composers": [
+    "Igor Stravinsky"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Les Noces (\"The Wedding\") - Ballet with Songs and Choruses",
+      "duration": "24:10",
+      "act": "Lado A",
+      "composer": "Igor Stravinsky"
+    },
+    {
+      "id": 2,
+      "title": "Mass (For Mixed Chorus and Double Wind Quintet)",
+      "duration": "11:45",
+      "act": "Lado B",
+      "composer": "Igor Stravinsky"
+    },
+    {
+      "id": 3,
+      "title": "Pater Noster",
+      "duration": "02:10",
+      "act": "Lado B",
+      "composer": "Igor Stravinsky"
+    },
+    {
+      "id": 4,
+      "title": "Ave Maria",
+      "duration": "02:10",
+      "act": "Lado B",
+      "composer": "Igor Stravinsky"
+    }
+  ]
+},
+{
+  "id": "dg-stravinsky-petrouchka-abbado-lso",
+  "section": "1-D",
+  "title": "Igor Strawinsky: Pétrouchka",
+  "artist": "London Symphony Orchestra & Claudio Abbado (Dirigent)",
+  "releaseYear": 1981,
+  "genre": "Música Clásica / Ballet",
+  "subGenre": "Modernismo / Nacionalismo Ruso",
+  "totalDuration": "34m 25s",
+  "label": "Deutsche Grammophon",
+  "format": "Vinyl / Stereo / LP / Digital Recording",
+  "catalogNumber": "2532 010",
+  "coverUrl": "https://m.media-amazon.com/images/I/B1TC5AZROAS._UF1000,1000_QL80_.jpg",
+  "composers": [
+    "Igor Stravinsky"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Pétrouchka - Version 1911: Erstes Bild (La Fête populaire de la semaine grasse)",
+      "duration": "10:15",
+      "act": "Lado A",
+      "composer": "Igor Stravinsky"
+    },
+    {
+      "id": 2,
+      "title": "Pétrouchka - Version 1911: Zweites Bild (Chez Pétrouchka)",
+      "duration": "04:25",
+      "act": "Lado A",
+      "composer": "Igor Stravinsky"
+    },
+    {
+      "id": 3,
+      "title": "Pétrouchka - Version 1911: Drittes Bild (Chez le Maure)",
+      "duration": "06:55",
+      "act": "Lado B",
+      "composer": "Igor Stravinsky"
+    },
+    {
+      "id": 4,
+      "title": "Pétrouchka - Version 1911: Viertes Bild (La Fête populaire de la semaine grasse - Le Soir)",
+      "duration": "12:50",
+      "act": "Lado B",
+      "composer": "Igor Stravinsky"
+    }
+  ]
+},
+{
+  "id": "decca-stravinsky-petrushka-dorati-detroit",
+  "section": "1-D",
+  "title": "Stravinsky: Petrushka",
+  "artist": "Antal Dorati (Conductor) & Detroit Symphony Orchestra",
+  "releaseYear": 1981,
+  "genre": "Música Clásica / Ballet",
+  "subGenre": "Modernismo / Nacionalismo Ruso",
+  "totalDuration": "35m 15s",
+  "label": "Decca",
+  "format": "Vinyl / Stereo / LP / Digital Recording",
+  "catalogNumber": "SXDL 7521",
+  "coverUrl": "https://m.media-amazon.com/images/I/71vPbBFE6fL._UF1000,1000_QL80_.jpg",
+  "composers": [
+    "Igor Stravinsky"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Petrushka - Version 1947: First Part (The Shrove-Tide Fair)",
+      "duration": "10:20",
+      "act": "Lado A",
+      "composer": "Igor Stravinsky"
+    },
+    {
+      "id": 2,
+      "title": "Petrushka - Version 1947: Second Part (Petrushka's Room)",
+      "duration": "04:30",
+      "act": "Lado A",
+      "composer": "Igor Stravinsky"
+    },
+    {
+      "id": 3,
+      "title": "Petrushka - Version 1947: Third Part (The Moor's Room)",
+      "duration": "06:45",
+      "act": "Lado B",
+      "composer": "Igor Stravinsky"
+    },
+    {
+      "id": 4,
+      "title": "Petrushka - Version 1947: Fourth Part (The Shrove-Tide Fair - Evening)",
+      "duration": "13:40",
+      "act": "Lado B",
+      "composer": "Igor Stravinsky"
+    }
+  ]
+},
+{
+  "id": "dg-stravinsky-pulcinella-abbado-berganza",
+  "section": "1-D",
+  "title": "Igor Strawinsky: Pulcinella",
+  "artist": "Teresa Berganza, Ryland Davies, John Shirley-Quirk, London Symphony Orchestra & Claudio Abbado (Dirigent)",
+  "releaseYear": 1979,
+  "genre": "Música Clásica / Ballet",
+  "subGenre": "Neoclasicismo",
+  "totalDuration": "39m 45s",
+  "label": "Deutsche Grammophon",
+  "format": "Vinyl / Stereo / LP",
+  "catalogNumber": "2531 087",
+  "coverUrl": "https://m.media-amazon.com/images/I/61ZI4kfhAAL._UF1000,1000_QL80_.jpg",
+  "composers": [
+    "Igor Stravinsky"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Pulcinella - Ballet in einem Akt mit Gesang (nach Pergolesi): Part 1",
+      "duration": "19:30",
+      "act": "Lado A",
+      "composer": "Igor Stravinsky"
+    },
+    {
+      "id": 2,
+      "title": "Pulcinella - Ballet in einem Akt mit Gesang (nach Pergolesi): Part 2",
+      "duration": "20:15",
+      "act": "Lado B",
+      "composer": "Igor Stravinsky"
+    }
+  ]
+},
+{
+  "id": "dg-haydn-stravinsky-sinfonie-pulcinella-lehmann",
+  "section": "1-D",
+  "title": "Joseph Haydn: Sinfonie Nr. 45 fis-moll (Abschiedssinfonie) / Igor Strawinsky: „Pulcinella” Suite",
+  "artist": "Berliner Philharmoniker, Bamberger Symphoniker & Fritz Lehmann (Dirigent)",
+  "releaseYear": 1955,
+  "genre": "Música Clásica",
+  "subGenre": "Clasicismo / Neoclasicismo",
+  "totalDuration": "42m 10s",
+  "label": "Deutsche Grammophon Gesellschaft",
+  "format": "Vinyl / Mono / LP",
+  "catalogNumber": "18194 LPM",
+  "coverUrl": "https://i.discogs.com/56h2Ux5xDysYyEo68AHBQIKSP_vFmfBXTjoiVCKfcMI/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjQ5/NjU2LTE1MzE2NDY0/NDYtNzM0OC5qcGVn.jpeg",
+  "composers": [
+    "Joseph Haydn",
+    "Igor Stravinsky"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Haydn: Sinfonie Nr. 45 fis-moll (Abschiedssinfonie): I. Allegro assai",
+      "duration": "06:15",
+      "act": "Lado A",
+      "composer": "Joseph Haydn"
+    },
+    {
+      "id": 2,
+      "title": "Haydn: Sinfonie Nr. 45 fis-moll: II. Adagio",
+      "duration": "07:40",
+      "act": "Lado A",
+      "composer": "Joseph Haydn"
+    },
+    {
+      "id": 3,
+      "title": "Haydn: Sinfonie Nr. 45 fis-moll: III. Menuet (Allegretto)",
+      "duration": "04:10",
+      "act": "Lado A",
+      "composer": "Joseph Haydn"
+    },
+    {
+      "id": 4,
+      "title": "Haydn: Sinfonie Nr. 45 fis-moll: IV. Finale (Presto - Adagio)",
+      "duration": "08:20",
+      "act": "Lado A",
+      "composer": "Joseph Haydn"
+    },
+    {
+      "id": 5,
+      "title": "Strawinsky: „Pulcinella” Suite für kleines Orchester nach Pergolesi",
+      "duration": "15:45",
+      "act": "Lado B",
+      "composer": "Igor Stravinsky"
+    }
+  ]
+},
+{
+  "id": "nonesuch-stravinsky-rite-spring-boulez",
+  "section": "1-D",
+  "title": "Igor Stravinsky: The Rite of Spring (Le Sacre du Printemps) / Four Etudes for Orchestra",
+  "artist": "Pierre Boulez (Conductor) & Orchestre National de la R.T.F.",
+  "releaseYear": 1966,
+  "genre": "Música Clásica / Ballet",
+  "subGenre": "Modernismo / Primitivismo",
+  "totalDuration": "41m 35s",
+  "label": "Nonesuch Records",
+  "format": "Vinyl / Mono / LP",
+  "catalogNumber": "H-1093",
+  "coverUrl": "https://i.discogs.com/t7GW5NvOqfMUYZBGAJU9YKB1Gp4f6AEQ3644kzTATEk/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxMDQ2/MTgtMTY1MTg2NjMy/OS05MDYwLmpwZWc.jpeg",
+  "composers": [
+    "Igor Stravinsky"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "The Rite of Spring (Le Sacre du Printemps) - Part I: The Adoration of the Earth",
+      "duration": "15:20",
+      "act": "Lado A",
+      "composer": "Igor Stravinsky"
+    },
+    {
+      "id": 2,
+      "title": "The Rite of Spring (Le Sacre du Printemps) - Part II: The Sacrifice",
+      "duration": "17:15",
+      "act": "Lado B",
+      "composer": "Igor Stravinsky"
+    },
+    {
+      "id": 3,
+      "title": "Four Etudes for Orchestra: I. Dance; II. Excentric; III. Cantique; IV. Madrid",
+      "duration": "09:00",
+      "act": "Lado B",
+      "composer": "Igor Stravinsky"
+    }
+  ]
+},
+{
+  "id": "angel-stravinsky-rite-spring-prokofiev-fruhbeck",
+  "section": "1-D",
+  "title": "Stravinsky: The Rite of Spring / Prokofiev: Classical Symphony",
+  "artist": "Rafael Frühbeck de Burgos (Conductor) & New Philharmonia Orchestra",
+  "releaseYear": 1967,
+  "genre": "Música Clásica",
+  "subGenre": "Modernismo / Primitivismo / Neoclasicismo",
+  "totalDuration": "48m 25s",
+  "label": "Angel Records",
+  "format": "Vinyl / Stereo / LP",
+  "catalogNumber": "36427",
+  "coverUrl": "https://i.discogs.com/KLcHZ2_2NtMc_CcQriSkDvmMXzj-m7Wl3vMhQ5QoZso/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxODc0/MDYtMTY4MjM4ODcw/OS01ODE0LmpwZWc.jpeg",
+  "composers": [
+    "Igor Stravinsky",
+    "Sergei Prokofiev"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Stravinsky: The Rite of Spring (Le Sacre du Printemps) - Part I",
+      "duration": "15:45",
+      "act": "Lado A",
+      "composer": "Igor Stravinsky"
+    },
+    {
+      "id": 2,
+      "title": "Stravinsky: The Rite of Spring (Le Sacre du Printemps) - Part II",
+      "duration": "18:20",
+      "act": "Lado B",
+      "composer": "Igor Stravinsky"
+    },
+    {
+      "id": 3,
+      "title": "Prokofiev: Classical Symphony in D, Op. 25",
+      "duration": "14:20",
+      "act": "Lado B",
+      "composer": "Sergei Prokofiev"
+    }
+  ]
+},
+{
+  "id": "telarc-stravinsky-rite-spring-maazel-cleveland",
+  "section": "1-D",
+  "title": "Stravinsky: The Rite of Spring",
+  "artist": "Lorin Maazel (Conductor) & The Cleveland Orchestra",
+  "releaseYear": 1980,
+  "genre": "Música Clásica / Ballet",
+  "subGenre": "Modernismo / Primitivismo",
+  "totalDuration": "33m 45s",
+  "label": "Telarc Digital",
+  "format": "Vinyl / Stereo / LP / Digital Recording",
+  "catalogNumber": "DG-10054",
+  "coverUrl": "https://m.media-amazon.com/images/I/41Y3sdcvt0L._UF1000,1000_QL80_.jpg",
+  "composers": [
+    "Igor Stravinsky"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Part I: The Adoration of the Earth",
+      "duration": "15:10",
+      "act": "Lado A",
+      "composer": "Igor Stravinsky"
+    },
+    {
+      "id": 2,
+      "title": "Part II: The Sacrifice",
+      "duration": "18:35",
+      "act": "Lado B",
+      "composer": "Igor Stravinsky"
+    }
+  ]
+},
+{
+  "id": "london-stravinsky-rite-spring-solti-chicago",
+  "section": "1-D",
+  "title": "Stravinsky: The Rite of Spring",
+  "artist": "Sir Georg Solti (Conductor) & The Chicago Symphony Orchestra",
+  "releaseYear": 1974,
+  "genre": "Música Clásica / Ballet",
+  "subGenre": "Modernismo / Primitivismo",
+  "totalDuration": "33m 20s",
+  "label": "London Records / ffrr",
+  "format": "Vinyl / Stereo / LP",
+  "catalogNumber": "CS 6885",
+  "coverUrl": "https://i.discogs.com/QuucSM5a3eik1_KQ5Z46ViPM4pHNY09xo1AOuVBcl3U/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjQ3/NTU4LTE1Nzg4NTM1/NDctOTU1Ny5qcGVn.jpeg",
+  "composers": [
+    "Igor Stravinsky"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Part I: The Adoration of the Earth",
+      "duration": "15:05",
+      "act": "Lado A",
+      "composer": "Igor Stravinsky"
+    },
+    {
+      "id": 2,
+      "title": "Part II: The Sacrifice",
+      "duration": "18:15",
+      "act": "Lado B",
+      "composer": "Igor Stravinsky"
+    }
+  ]
+},
+{
+  "id": "columbia-masterworks-stravinsky-the-flood",
+  "section": "1-D",
+  "title": "The Flood: A Biblical Allegory Based on Noah and the Ark",
+  "artist": "Igor Stravinsky & Robert Craft (Conductors), The Columbia Symphony Orchestra and Chorus",
+  "releaseYear": 1962,
+  "genre": "Música Clásica / Drama Musical",
+  "subGenre": "Serialismo / Música Sacra",
+  "totalDuration": "24m 30s",
+  "label": "Columbia Masterworks",
+  "format": "Vinyl / Stereo / LP / Premiere Recording",
+  "catalogNumber": "MS 6357",
+  "coverUrl": "https://m.media-amazon.com/images/I/51Qd3-9ZLvL._UXNaN_FMjpg_QL85_.jpg",
+  "composers": [
+    "Igor Stravinsky"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "The Flood: Prelude - Introduction - The Building of the Ark",
+      "duration": "12:15",
+      "act": "Lado A",
+      "composer": "Igor Stravinsky"
+    },
+    {
+      "id": 2,
+      "title": "The Flood: The Catalogue of the Animals - The Flood - The Covenant - Postlude",
+      "duration": "12:15",
+      "act": "Lado B",
+      "composer": "Igor Stravinsky"
+    }
+  ]
+},
+{
+  "id": "angel-villa-lobos-bachianas-brasileiras-victoria-angeles",
+  "section": "1-D",
+  "title": "Villa-Lobos: Bachianas Brasileiras Nos. 2, 5, 6 & 9",
+  "artist": "Victoria de los Ángeles (Soprano), Orchestre National de la Radiodiffusion Française & Heitor Villa-Lobos (Conductor)",
+  "releaseYear": 1958,
+  "genre": "Música Clásica",
+  "subGenre": "Nacionalismo Brasileño / Neoclasicismo",
+  "totalDuration": "44m 20s",
+  "label": "Angel Records",
+  "format": "Vinyl / Mono / LP",
+  "catalogNumber": "35547",
+  "coverUrl": "/disco_generico.png",
+  "composers": [
+    "Heitor Villa-Lobos"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Bachianas Brasileiras No. 2 for Orchestra (incl. Little Train of the Caipira)",
+      "duration": "22:15",
+      "act": "Lado A",
+      "composer": "Heitor Villa-Lobos"
+    },
+    {
+      "id": 2,
+      "title": "Bachianas Brasileiras No. 5 for Eight Celli and Soprano",
+      "duration": "11:10",
+      "act": "Lado B",
+      "composer": "Heitor Villa-Lobos"
+    },
+    {
+      "id": 3,
+      "title": "Bachianas Brasileiras No. 6 for Flute and Bassoon",
+      "duration": "07:35",
+      "act": "Lado B",
+      "composer": "Heitor Villa-Lobos"
+    },
+    {
+      "id": 4,
+      "title": "Bachianas Brasileiras No. 9 for String Orchestra",
+      "duration": "03:20",
+      "act": "Lado B",
+      "composer": "Heitor Villa-Lobos"
+    }
+  ]
+},
+{
+  "id": "festa-villa-lobos-missa-sao-sebastiao-cleofe",
+  "section": "1-D",
+  "title": "Heitor Villa-Lobos: Missa São Sebastião",
+  "artist": "Associação de Canto Coral do Rio de Janeiro & Cleofe Person de Mattos (Direção)",
+  "releaseYear": 1963,
+  "genre": "Música Clásica / Coral",
+  "subGenre": "Música Sacra / Nacionalismo Brasileño",
+  "totalDuration": "32m 45s",
+  "label": "Festa",
+  "format": "Vinyl / Mono / LP / Alta Fidelidade",
+  "catalogNumber": "LDR-5011",
+  "coverUrl": "https://http2.mlstatic.com/D_NQ_NP_815494-MLB79576250670_102024-O.webp",
+  "composers": [
+    "Heitor Villa-Lobos"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Missa São Sebastião: Kyrie",
+      "duration": "04:15",
+      "act": "Lado A",
+      "composer": "Heitor Villa-Lobos"
+    },
+    {
+      "id": 2,
+      "title": "Missa São Sebastião: Gloria",
+      "duration": "07:20",
+      "act": "Lado A",
+      "composer": "Heitor Villa-Lobos"
+    },
+    {
+      "id": 3,
+      "title": "Missa São Sebastião: Credo",
+      "duration": "09:40",
+      "act": "Lado B",
+      "composer": "Heitor Villa-Lobos"
+    },
+    {
+      "id": 4,
+      "title": "Missa São Sebastião: Sanctus",
+      "duration": "03:10",
+      "act": "Lado B",
+      "composer": "Heitor Villa-Lobos"
+    },
+    {
+      "id": 5,
+      "title": "Missa São Sebastião: Benedictus",
+      "duration": "03:50",
+      "act": "Lado B",
+      "composer": "Heitor Villa-Lobos"
+    },
+    {
+      "id": 6,
+      "title": "Missa São Sebastião: Agnus Dei",
+      "duration": "04:30",
+      "act": "Lado B",
+      "composer": "Heitor Villa-Lobos"
+    }
+  ]
+},
+{
+  "id": "capitol-villa-lobos-guitar-concerto-almeida",
+  "section": "1-D",
+  "title": "Villa-Lobos: Concerto for Guitar and Small Orchestra (1951) / Weiss: Suite in A Minor / Bach: Arioso",
+  "artist": "Laurindo Almeida (Guitar), The Concert Arts Chamber Orchestra & Stanley Wilson (Conductor)",
+  "releaseYear": 1956,
+  "genre": "Música Clásica / Guitarra",
+  "subGenre": "Nacionalismo Brasileño",
+  "totalDuration": "38m 45s",
+  "label": "Capitol Records",
+  "format": "Vinyl / Mono / LP",
+  "catalogNumber": "P 8638",
+  "coverUrl": "https://http2.mlstatic.com/D_NQ_NP_771540-MLM50079640721_052022-O.webp",
+  "composers": [
+    "Heitor Villa-Lobos",
+    "Silvius Leopold Weiss",
+    "Johann Sebastian Bach"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Villa-Lobos: Concerto for Guitar and Small Orchestra: I. Allegro preciso",
+      "duration": "05:20",
+      "act": "Lado A",
+      "composer": "Heitor Villa-Lobos"
+    },
+    {
+      "id": 2,
+      "title": "Villa-Lobos: Concerto for Guitar and Small Orchestra: II. Andantino e andante",
+      "duration": "08:15",
+      "act": "Lado A",
+      "composer": "Heitor Villa-Lobos"
+    },
+    {
+      "id": 3,
+      "title": "Villa-Lobos: Concerto for Guitar and Small Orchestra: III. Allegretto non troppo",
+      "duration": "04:40",
+      "act": "Lado A",
+      "composer": "Heitor Villa-Lobos"
+    },
+    {
+      "id": 4,
+      "title": "Weiss: Suite in A Minor",
+      "duration": "12:30",
+      "act": "Lado B",
+      "composer": "Silvius Leopold Weiss"
+    },
+    {
+      "id": 5,
+      "title": "Bach: Arioso (from Cantata No. 156)",
+      "duration": "08:00",
+      "act": "Lado B",
+      "composer": "Johann Sebastian Bach"
+    }
+  ]
+},
+{
+  "id": "everest-villa-lobos-fantasia-concertante-cello-society",
+  "section": "1-D",
+  "title": "Villa-Lobos Conducts The Violoncello Society in his Fantasia Concertante For Orchestra of Violoncellos / J. S. Bach: Preludes and Fugues",
+  "artist": "The Violoncello Society & Heitor Villa-Lobos (Conductor)",
+  "releaseYear": 1959,
+  "genre": "Música Clásica",
+  "subGenre": "Nacionalismo Brasileño / Barroco (Transcripciones)",
+  "totalDuration": "36m 50s",
+  "label": "Everest Records",
+  "format": "Vinyl / Mono / LP / Hi-Fi",
+  "catalogNumber": "LPBR-6024",
+  "coverUrl": "https://i.discogs.com/j6WZH58L6KxvhyMV8ECWBFd0nxxxGu5yBuaaJMbtUS4/rs:fit/g:sm/q:90/h:548/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzMTIw/NjctMTQyMzc3NTk1/NC04NjQwLmpwZWc.jpeg",
+  "composers": [
+    "Heitor Villa-Lobos",
+    "Johann Sebastian Bach"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Villa-Lobos: Fantasia Concertante for Orchestra of Violoncellos: I. Animato",
+      "duration": "08:10",
+      "act": "Lado A",
+      "composer": "Heitor Villa-Lobos"
+    },
+    {
+      "id": 2,
+      "title": "Villa-Lobos: Fantasia Concertante for Orchestra of Violoncellos: II. Loistesso tempo",
+      "duration": "05:45",
+      "act": "Lado A",
+      "composer": "Heitor Villa-Lobos"
+    },
+    {
+      "id": 3,
+      "title": "Villa-Lobos: Fantasia Concertante for Orchestra of Violoncellos: III. Molto allegro",
+      "duration": "04:20",
+      "act": "Lado A",
+      "composer": "Heitor Villa-Lobos"
+    },
+    {
+      "id": 4,
+      "title": "J. S. Bach: Preludes and Fugues (Transcribed for orchestra of violoncellos by Villa-Lobos)",
+      "duration": "18:35",
+      "act": "Lado B",
+      "composer": "Johann Sebastian Bach"
+    }
+  ]
+},
+{
+  "id": "heliodor-villa-lobos-tcherepnin-harmonica-sebastian",
+  "section": "1-D",
+  "title": "John Sebastian plays Villa-Lobos / Tcherepnin: Concertos for Harmonica",
+  "artist": "John Sebastian (Harmonica), Stuttgart Radio Symphony Orchestra & Hans Schwieger (Conductor)",
+  "releaseYear": 1968,
+  "genre": "Música Clásica",
+  "subGenre": "Modernismo / Nacionalismo",
+  "totalDuration": "35m 40s",
+  "label": "Heliodor",
+  "format": "Vinyl / Stereo / LP",
+  "catalogNumber": "HS 25064",
+  "coverUrl": "https://m.media-amazon.com/images/I/61A-lA0fKUL._AC_UF1000,1000_QL80_.jpg",
+  "composers": [
+    "Heitor Villa-Lobos",
+    "Alexander Tcherepnin"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Villa-Lobos: Concerto for Harmonica and Orchestra: I. Allegro moderato",
+      "duration": "07:15",
+      "act": "Lado A",
+      "composer": "Heitor Villa-Lobos"
+    },
+    {
+      "id": 2,
+      "title": "Villa-Lobos: Concerto for Harmonica and Orchestra: II. Andante",
+      "duration": "06:40",
+      "act": "Lado A",
+      "composer": "Heitor Villa-Lobos"
+    },
+    {
+      "id": 3,
+      "title": "Villa-Lobos: Concerto for Harmonica and Orchestra: III. Allegro",
+      "duration": "05:25",
+      "act": "Lado A",
+      "composer": "Heitor Villa-Lobos"
+    },
+    {
+      "id": 4,
+      "title": "Tcherepnin: Concerto for Harmonica and Orchestra, Op. 86: I. Moderato",
+      "duration": "05:10",
+      "act": "Lado B",
+      "composer": "Alexander Tcherepnin"
+    },
+    {
+      "id": 5,
+      "title": "Tcherepnin: Concerto for Harmonica and Orchestra, Op. 86: II. Animato",
+      "duration": "04:30",
+      "act": "Lado B",
+      "composer": "Alexander Tcherepnin"
+    },
+    {
+      "id": 6,
+      "title": "Tcherepnin: Concerto for Harmonica and Orchestra, Op. 86: III. Molto vivace",
+      "duration": "06:40",
+      "act": "Lado B",
+      "composer": "Alexander Tcherepnin"
+    }
+  ]
+},
+{
+  "id": "emi-angel-schifrin-villa-lobos-romero-lopez-cobos",
+  "section": "1-D",
+  "title": "Lalo Schifrin · Villa-Lobos: Guitar Concertos",
+  "artist": "Angel Romero (Guitar), London Philharmonic Orchestra & Jesús López-Cobos (Conductor)",
+  "releaseYear": 1985,
+  "genre": "Música Clásica / Guitarra",
+  "subGenre": "Modernismo / Nacionalismo Brasileño",
+  "totalDuration": "45m 15s",
+  "label": "EMI Angel Digital",
+  "format": "Vinyl / Stereo / LP / Digital Recording",
+  "catalogNumber": "DS-38126",
+  "coverUrl": "https://i.discogs.com/yYH-EtalThtzWqfWxtaCuBDlAt04A1Qmk73EQ107VeQ/rs:fit/g:sm/q:40/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3ODYx/NjQtMTQ4NjMwNTQ2/Ny03NjY4LmpwZWc.jpeg",
+  "composers": [
+    "Lalo Schifrin",
+    "Heitor Villa-Lobos"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Schifrin: Concerto for Guitar and Orchestra: I. Allegro",
+      "duration": "08:15",
+      "act": "Lado A",
+      "composer": "Lalo Schifrin"
+    },
+    {
+      "id": 2,
+      "title": "Schifrin: Concerto for Guitar and Orchestra: II. Andante",
+      "duration": "07:30",
+      "act": "Lado A",
+      "composer": "Lalo Schifrin"
+    },
+    {
+      "id": 3,
+      "title": "Schifrin: Concerto for Guitar and Orchestra: III. Presto",
+      "duration": "05:40",
+      "act": "Lado A",
+      "composer": "Lalo Schifrin"
+    },
+    {
+      "id": 4,
+      "title": "Villa-Lobos: Concerto for Guitar and Small Orchestra: I. Allegro preciso",
+      "duration": "05:15",
+      "act": "Lado B",
+      "composer": "Heitor Villa-Lobos"
+    },
+    {
+      "id": 5,
+      "title": "Villa-Lobos: Concerto for Guitar and Small Orchestra: II. Andantino e andante",
+      "duration": "08:35",
+      "act": "Lado B",
+      "composer": "Heitor Villa-Lobos"
+    },
+    {
+      "id": 6,
+      "title": "Villa-Lobos: Concerto for Guitar and Small Orchestra: III. Allegretto non troppo",
+      "duration": "04:20",
+      "act": "Lado B",
+      "composer": "Heitor Villa-Lobos"
+    },
+    {
+      "id": 7,
+      "title": "Villa-Lobos: Etude No. 1 in E Minor",
+      "duration": "02:10",
+      "act": "Lado B",
+      "composer": "Heitor Villa-Lobos"
+    },
+    {
+      "id": 8,
+      "title": "Villa-Lobos: Etude No. 12 in A Minor",
+      "duration": "03:30",
+      "act": "Lado B",
+      "composer": "Heitor Villa-Lobos"
+    }
+  ]
+},
+{
+  "id": "erato-villa-lobos-panorama-guitare-turibio-santos",
+  "section": "1-D",
+  "title": "Panorama de la guitare: Villa-Lobos - Concerto pour guitare & petit orchestre / Sextuor mystique / Preludes",
+  "artist": "Turibio Santos (Guitare), Orchestre de Chambre Jean-François Paillard & Jean-François Paillard (Direction)",
+  "releaseYear": 1972,
+  "genre": "Música Clásica / Guitarra",
+  "subGenre": "Nacionalismo Brasileño",
+  "totalDuration": "48m 15s",
+  "label": "Erato",
+  "format": "Vinyl / Stereo / LP / Gravure Universelle",
+  "catalogNumber": "STU 70566",
+  "coverUrl": "https://i.ebayimg.com/00/s/MTYwMFgxNjAw/z/RF0AAOSwx4RjiIgy/$_57.JPG?set_id=880000500F",
+  "composers": [
+    "Heitor Villa-Lobos"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Concerto pour guitare et petit orchestre: I. Allegro preciso; II. Andantino e andante; III. Allegretto non troppo",
+      "duration": "18:20",
+      "act": "Lado A",
+      "composer": "Heitor Villa-Lobos"
+    },
+    {
+      "id": 2,
+      "title": "Sextuor mystique (pour flûte, hautbois, saxophone, harpe, célesta et guitare)",
+      "duration": "08:10",
+      "act": "Lado A",
+      "composer": "Heitor Villa-Lobos"
+    },
+    {
+      "id": 3,
+      "title": "Cinq Préludes pour guitare",
+      "duration": "21:45",
+      "act": "Lado B",
+      "composer": "Heitor Villa-Lobos"
+    }
+  ]
+},
+{
+  "id": "odyssey-brazilian-quartets-villa-lobos-nepomuceno",
+  "section": "1-D",
+  "title": "Brazilian Quartets: Villa-Lobos: Quartet No. 17 / Nepomuceno: Quartet No. 3",
+  "artist": "Brazilian String Quartet",
+  "releaseYear": 1968,
+  "genre": "Música Clásica / Cámara",
+  "subGenre": "Nacionalismo Brasileño",
+  "totalDuration": "42m 15s",
+  "label": "Odyssey",
+  "format": "Vinyl / Stereo / LP",
+  "catalogNumber": "32 16 0176",
+  "coverUrl": "https://i.discogs.com/yAqTXt70wf6N0Px49A58cvPPS-8ekIv8hIBAWeoD_vE/rs:fit/g:sm/q:90/h:600/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0Njg0/MDMtMTYxMzQxNjE0/NC00NzM5LmpwZWc.jpeg",
+  "composers": [
+    "Heitor Villa-Lobos",
+    "Alberto Nepomuceno"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Nepomuceno: Quartet No. 3 in A Minor (\"Brasileiro\"): I. Allegro moderato; II. Andante; III. Intermezzo; IV. Allegro con spirito",
+      "duration": "20:30",
+      "act": "Lado A",
+      "composer": "Alberto Nepomuceno"
+    },
+    {
+      "id": 2,
+      "title": "Villa-Lobos: Quartet No. 17: I. Allegro non troppo; II. Lento; III. Scherzo (Allegro vivace); IV. Allegro moderato",
+      "duration": "21:45",
+      "act": "Lado B",
+      "composer": "Heitor Villa-Lobos"
+    }
+  ]
+},
+{
+  "id": "ufrj-villa-lobos-quartetos-1-5-16",
+  "section": "1-D",
+  "title": "Villa-Lobos: Quartetos nos 1, 5 e 16",
+  "artist": "Quarteto Brasileiro da UFRJ",
+  "releaseYear": 1977,
+  "genre": "Música Clásica / Cámara",
+  "subGenre": "Nacionalismo Brasileño",
+  "totalDuration": "46m 30s",
+  "label": "UFRJ (Universidade Federal do Rio de Janeiro)",
+  "format": "Vinyl / Stereo / LP",
+  "catalogNumber": "UFRJ-001",
+  "coverUrl": "https://i.discogs.com/9JE4AOeQdCwqe6U6504Hg0Y_uyo8mXMLSowHppRMe9I/rs:fit/g:sm/q:40/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTQy/MDk4LTE1MTE5MDg2/MTQtMjc5NS5qcGVn.jpeg",
+  "composers": [
+    "Heitor Villa-Lobos"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Quarteto nº 1: I. Cantilena; II. Brinquedo; III. Canto lírico; IV. Cançoneta; V. Melancolia; VI. Saltando como um Saci",
+      "duration": "14:15",
+      "act": "Lado A",
+      "composer": "Heitor Villa-Lobos"
+    },
+    {
+      "id": 2,
+      "title": "Quarteto nº 16: I. Allegro non troppo; II. Andante; III. Scherzo; IV. Molto allegro",
+      "duration": "16:20",
+      "act": "Lado A/B",
+      "composer": "Heitor Villa-Lobos"
+    },
+    {
+      "id": 3,
+      "title": "Quarteto nº 5 (Quarteto n.º 5 entre nós): I. Poco andante; II. Vivo e energico; III. Andantino; IV. Allegro",
+      "duration": "15:55",
+      "act": "Lado B",
+      "composer": "Heitor Villa-Lobos"
+    }
+  ]
+},
+{
+  "id": "louisville-villa-lobos-addison-mester",
+  "section": "1-D",
+  "title": "Heitor Villa-Lobos: Danses Africaines / John Addison: Concerto for Trumpet and Strings",
+  "artist": "Leon Rapier (Trumpet), The Louisville Orchestra & Jorge Mester (Music Director)",
+  "releaseYear": 1969,
+  "genre": "Música Clásica",
+  "subGenre": "Modernismo / Nacionalismo Brasileño",
+  "totalDuration": "36m 40s",
+  "label": "First Edition Records",
+  "format": "Vinyl / Stereo / LP",
+  "catalogNumber": "LS-695",
+  "coverUrl": "https://i.discogs.com/XNs9ky9SRxtrJHMxeWLHr3n3rv7OgM66ZafISqmQr9s/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTYz/NjQ5LTE3MjYzNDQz/MDctNDY0Mi5qcGVn.jpeg",
+  "composers": [
+    "Heitor Villa-Lobos",
+    "John Addison"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Villa-Lobos: Danses Africaines (Danses des Indiens Métis du Brésil): I. Farrapos",
+      "duration": "04:50",
+      "act": "Lado A",
+      "composer": "Heitor Villa-Lobos"
+    },
+    {
+      "id": 2,
+      "title": "Villa-Lobos: Danses Africaines: II. Kankukus",
+      "duration": "06:15",
+      "act": "Lado A",
+      "composer": "Heitor Villa-Lobos"
+    },
+    {
+      "id": 3,
+      "title": "Villa-Lobos: Danses Africaines: III. Kankikis",
+      "duration": "07:35",
+      "act": "Lado A",
+      "composer": "Heitor Villa-Lobos"
+    },
+    {
+      "id": 4,
+      "title": "Addison: Concerto for Trumpet and Strings: I. Allegro; II. Canzona; III. Scherzo; IV. Finale",
+      "duration": "18:00",
+      "act": "Lado B",
+      "composer": "John Addison"
+    }
+  ]
+},
+{
+  "id": "columbia-villa-lobos-erosion-dello-joio-triumph",
+  "section": "1-D",
+  "title": "Heitor Villa-Lobos: Erosion (Origin of the Amazon River) / Norman Dello Joio: The Triumph of St. Joan Symphony",
+  "artist": "The Louisville Orchestra & Robert Whitney (Conductor)",
+  "releaseYear": 1953,
+  "genre": "Música Clásica",
+  "subGenre": "Modernismo / Poema Sinfónico",
+  "totalDuration": "42m 10s",
+  "label": "Columbia Masterworks",
+  "format": "Vinyl / Mono / LP",
+  "catalogNumber": "ML 4615",
+  "coverUrl": "https://i.discogs.com/fIg_BRFOV5zfEJvCP73UQeueXKqPvT7PRHKuUFRHDZE/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2OTIz/ODItMTQ2NjcxNzg5/Ni0xNzYyLmpwZWc.jpeg",
+  "composers": [
+    "Heitor Villa-Lobos",
+    "Norman Dello Joio"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Villa-Lobos: Erosion (Erosão) - Origin of the Amazon River (Sorimão u Ipirungaua) - Symphonic Poem (1950)",
+      "duration": "19:45",
+      "act": "Lado A",
+      "composer": "Heitor Villa-Lobos"
+    },
+    {
+      "id": 2,
+      "title": "Dello Joio: The Triumph of St. Joan Symphony: I. The Maid",
+      "duration": "07:20",
+      "act": "Lado B",
+      "composer": "Norman Dello Joio"
+    },
+    {
+      "id": 3,
+      "title": "Dello Joio: The Triumph of St. Joan Symphony: II. The Warrior",
+      "duration": "07:45",
+      "act": "Lado B",
+      "composer": "Norman Dello Joio"
+    },
+    {
+      "id": 4,
+      "title": "Dello Joio: The Triumph of St. Joan Symphony: III. The Saint",
+      "duration": "07:20",
+      "act": "Lado B",
+      "composer": "Norman Dello Joio"
+    }
+  ]
+},
+{
+  "id": "rca-victor-villa-lobos-surprise-box-falla-homage",
+  "section": "1-D",
+  "title": "Villa-Lobos: The Surprise Box / Falla: Homage",
+  "artist": "Rome Symphony Orchestra & J. J. Castro (Conductor)",
+  "releaseYear": 1957,
+  "genre": "Música Clásica / Ballet",
+  "subGenre": "Modernismo / Nacionalismo",
+  "totalDuration": "38m 50s",
+  "label": "RCA Victor Red Seal",
+  "format": "Vinyl / Mono / LP / New Orthophonic High Fidelity",
+  "catalogNumber": "LM-2143",
+  "coverUrl": "https://m.media-amazon.com/images/I/91QTxW91CML._UF1000,1000_QL80_.jpg",
+  "composers": [
+    "Heitor Villa-Lobos",
+    "Manuel de Falla"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Villa-Lobos: The Surprise Box (Caixinha de Boas Festas) - Ballet",
+      "duration": "24:15",
+      "act": "Lado A",
+      "composer": "Heitor Villa-Lobos"
+    },
+    {
+      "id": 2,
+      "title": "Falla: Homage (Homenajes): I. Fanfare sobre el nombre de Arbós; II. à Debussy; III. à Paul Dukas; IV. Pedrelliana",
+      "duration": "14:35",
+      "act": "Lado B",
+      "composer": "Manuel de Falla"
+    }
+  ]
+},
+{
+  "id": "angel-villa-lobos-bachianas-3-momoprecoce-ortiz",
+  "section": "1-D",
+  "title": "Villa-Lobos: Bachianas Brasileiras No. 3 / Mômoprecóce",
+  "artist": "Cristina Ortiz (Piano), New Philharmonia Orchestra & Vladimir Ashkenazy (Conductor)",
+  "releaseYear": 1977,
+  "genre": "Música Clásica / Piano",
+  "subGenre": "Nacionalismo Brasileño",
+  "totalDuration": "46m 10s",
+  "label": "Angel Records",
+  "format": "Vinyl / Stereo / LP",
+  "catalogNumber": "S-37439",
+  "coverUrl": "https://m.media-amazon.com/images/I/61ynQmlr7tL._UF1000,1000_QL80_.jpg",
+  "composers": [
+    "Heitor Villa-Lobos"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Bachianas Brasileiras No. 3 for Piano and Orchestra: I. Prelúdio (Ponteio)",
+      "duration": "07:15",
+      "act": "Lado A",
+      "composer": "Heitor Villa-Lobos"
+    },
+    {
+      "id": 2,
+      "title": "Bachianas Brasileiras No. 3: II. Fantasia (Devaneio)",
+      "duration": "06:30",
+      "act": "Lado A",
+      "composer": "Heitor Villa-Lobos"
+    },
+    {
+      "id": 3,
+      "title": "Bachianas Brasileiras No. 3: III. Aria (Modinha)",
+      "duration": "07:45",
+      "act": "Lado A",
+      "composer": "Heitor Villa-Lobos"
+    },
+    {
+      "id": 4,
+      "title": "Bachianas Brasileiras No. 3: IV. Toccata (Picapau)",
+      "duration": "05:15",
+      "act": "Lado A",
+      "composer": "Heitor Villa-Lobos"
+    },
+    {
+      "id": 5,
+      "title": "Mômoprecóce (Fantasy for Piano and Orchestra)",
+      "duration": "19:25",
+      "act": "Lado B",
+      "composer": "Heitor Villa-Lobos"
+    }
+  ]
+},
+{
+  "id": "angel-villa-lobos-bachianas-8-momoprecoce-tagliaferro",
+  "section": "1-D",
+  "title": "Villa-Lobos: Bachianas Brasileiras No. 8 / Momoprecoce",
+  "artist": "Magda Tagliaferro (Pianist), Orchestre National de la Radiodiffusion Française & Heitor Villa-Lobos (Conductor)",
+  "releaseYear": 1956,
+  "genre": "Música Clásica / Piano",
+  "subGenre": "Nacionalismo Brasileño",
+  "totalDuration": "42m 30s",
+  "label": "Angel Records",
+  "format": "Vinyl / Mono / LP",
+  "catalogNumber": "Angel 35179",
+  "coverUrl": "https://i.ebayimg.com/images/g/im8AAOSwufdgWl8E/s-l1200.jpg",
+  "composers": [
+    "Heitor Villa-Lobos"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Bachianas Brasileiras No. 8: I. Preludio; II. Aria (Modinha); III. Tocata; IV. Fuga",
+      "duration": "24:10",
+      "act": "Lado A",
+      "composer": "Heitor Villa-Lobos"
+    },
+    {
+      "id": 2,
+      "title": "Momoprecoce (Fantasia para piano e orquestra)",
+      "duration": "18:20",
+      "act": "Lado B",
+      "composer": "Heitor Villa-Lobos"
+    }
+  ]
+},
+{
+  "id": "dg-villa-lobos-etuden-praludien-yepes",
+  "section": "1-D",
+  "title": "Heitor Villa-Lobos: 12 Etüden · 5 Präludien",
+  "artist": "Narciso Yepes (Gitarre)",
+  "releaseYear": 1971,
+  "genre": "Música Clásica / Guitarra",
+  "subGenre": "Nacionalismo Brasileño",
+  "totalDuration": "46m 20s",
+  "label": "Deutsche Grammophon",
+  "format": "Vinyl / Stereo / LP",
+  "catalogNumber": "2530 140",
+  "coverUrl": "https://m.media-amazon.com/images/I/61zq-QZXuRL._UF1000,1000_QL80_.jpg",
+  "composers": [
+    "Heitor Villa-Lobos"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "12 Etüden (Douze Études): No. 1 - No. 12",
+      "duration": "28:45",
+      "act": "Lado A",
+      "composer": "Heitor Villa-Lobos"
+    },
+    {
+      "id": 2,
+      "title": "5 Präludien (Cinq Préludes): No. 1 - No. 5",
+      "duration": "17:35",
+      "act": "Lado B",
+      "composer": "Heitor Villa-Lobos"
+    }
+  ]
+},
+{
+  "id": "everest-villa-lobos-uirapuru-prokofiev-cinderella-stokowski",
+  "section": "1-D",
+  "title": "Villa-Lobos: Uirapurú + Modinha / Prokofiev: Cinderella (Ballet Suite)",
+  "artist": "Leopold Stokowski (Conducting) & The Stadium Symphony Orchestra of New York",
+  "releaseYear": 1959,
+  "genre": "Música Clásica / Ballet",
+  "subGenre": "Nacionalismo Brasileño / Neoclasicismo Ruso",
+  "totalDuration": "39m 15s",
+  "label": "Everest Records",
+  "format": "Vinyl / Stereo / LP / Certified Stereo-Master Recording",
+  "catalogNumber": "SDBR 3016",
+  "coverUrl": "https://i.scdn.co/image/ab67616d00001e025c709637612182aeb24da6b9",
+  "composers": [
+    "Heitor Villa-Lobos",
+    "Sergei Prokofiev"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Villa-Lobos: Uirapurú (Symphonic Poem)",
+      "duration": "18:45",
+      "act": "Lado A",
+      "composer": "Heitor Villa-Lobos"
+    },
+    {
+      "id": 2,
+      "title": "Villa-Lobos: Modinha (from Bachianas Brasileiras No. 1)",
+      "duration": "04:10",
+      "act": "Lado A",
+      "composer": "Heitor Villa-Lobos"
+    },
+    {
+      "id": 3,
+      "title": "Prokofiev: Cinderella (Ballet Suite)",
+      "duration": "16:20",
+      "act": "Lado B",
+      "composer": "Sergei Prokofiev"
+    }
+  ]
+},
+{
+  "id": "united-artists-villa-lobos-forest-amazon-sayao",
+  "section": "1-D",
+  "title": "Villa-Lobos: Forest of the Amazon",
+  "artist": "Bidu Sayão (Soprano), Symphony of the Air and Chorus & Heitor Villa-Lobos (Conductor)",
+  "releaseYear": 1959,
+  "genre": "Música Clásica / Banda Sonora",
+  "subGenre": "Nacionalismo Brasileño / Romanticismo",
+  "totalDuration": "46m 50s",
+  "label": "United Artists Records",
+  "format": "Vinyl / Stereo / LP",
+  "catalogNumber": "UAS 8007",
+  "coverUrl": "https://archive.org/download/forestofamazonso00vill/forestofamazonso00vill001.jpg",
+  "composers": [
+    "Heitor Villa-Lobos"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Forest of the Amazon (Suite based on the film 'Green Mansions')",
+      "duration": "46:50",
+      "act": "Lados A y B",
+      "composer": "Heitor Villa-Lobos"
+    }
+  ]
+},
+{
+  "id": "odeon-villa-lobos-serestas-cruz-lopes-parente",
+  "section": "1-D",
+  "title": "Heitor Villa-Lobos: Serestas",
+  "artist": "Maria de Lourdes Cruz Lopes (Soprano) & Gerardo Parente (Piano)",
+  "releaseYear": 1963,
+  "genre": "Música Clásica / Canto y Piano",
+  "subGenre": "Nacionalismo Brasileño / Canción",
+  "totalDuration": "34m 15s",
+  "label": "Odeon",
+  "format": "Vinyl / Mono / LP / Alta Fidelidade",
+  "catalogNumber": "MOFB 3313",
+  "coverUrl": "https://i.discogs.com/kAzfxq2YWk-FjAjKtlQszljVoF0iuUJR6fpRy8zD2tk/rs:fit/g:sm/q:40/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDMz/MzI5LTE1NTQxMTk1/MDgtMjI2My5qcGVn.jpeg",
+  "composers": [
+    "Heitor Villa-Lobos"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Serestas (Ciclo de 14 canções): Canção do Carreiro / Modinha / Na Paz do Outono / Realejo / Serenata / Abril",
+      "duration": "16:45",
+      "act": "Lado A",
+      "composer": "Heitor Villa-Lobos"
+    },
+    {
+      "id": 2,
+      "title": "Serestas: Desejo / Redondilha / Amante sem Dinheiro / Vôo / Canção da Folha Morta / Saudades da Minha Vida / Palpitação / Lundu da Marqueza de Santos",
+      "duration": "17:30",
+      "act": "Lado B",
+      "composer": "Heitor Villa-Lobos"
+    }
+  ]
+},
+{
+  "id": "festa-mignone-villalobos-itibere-cleofe",
+  "section": "1-D",
+  "title": "Francisco Mignone: Missa em Si Bemol / Heitor Villa-Lobos: Bendita Sabedoria / Brasílio Itiberê: Estâncias",
+  "artist": "Associação de Canto Coral & Cleofe Person de Mattos (Regente)",
+  "releaseYear": 1960,
+  "genre": "Música Clásica / Coral",
+  "subGenre": "Música Sacra / Nacionalismo Brasileño",
+  "totalDuration": "36m 20s",
+  "label": "Festa",
+  "format": "Vinyl / Mono / LP",
+  "catalogNumber": "LDR-5002",
+  "coverUrl": "/disco_generico.png",
+  "composers": [
+    "Francisco Mignone",
+    "Heitor Villa-Lobos",
+    "Brasílio Itiberê"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Mignone: Missa em Si Bemol",
+      "duration": "18:40",
+      "act": "Lado A",
+      "composer": "Francisco Mignone"
+    },
+    {
+      "id": 2,
+      "title": "Villa-Lobos: Bendita Sabedoria (Com palavras da Bíblia)",
+      "duration": "09:15",
+      "act": "Lado B",
+      "composer": "Heitor Villa-Lobos"
+    },
+    {
+      "id": 3,
+      "title": "Itiberê: Estâncias (Poesia: Carlos Drummond de Andrade)",
+      "duration": "08:25",
+      "act": "Lado B",
+      "composer": "Brasílio Itiberê"
+    }
+  ]
+},
+{
+  "id": "bam-villa-lobos-maria-livia-sao-marcos",
+  "section": "1-D",
+  "title": "Heitor Villa-Lobos",
+  "artist": "Maria Livia Sao Marcos (Violão)",
+  "releaseYear": 1968,
+  "genre": "Música Clásica / Guitarra",
+  "subGenre": "Nacionalismo Brasileño",
+  "totalDuration": "32m 50s",
+  "label": "BAM (Boîte à Musique)",
+  "format": "Vinyl / Stereo / LP",
+  "catalogNumber": "LD 5813",
+  "coverUrl": "https://c8.alamy.com/comp/2C4HFF0/maria-livia-sao-marcos-plays-heitor-villa-lobos-cinq-preludes-pour-guitare-cover-12-lp-vinyl-vintage-cover-2C4HFF0.jpg",
+  "composers": [
+    "Heitor Villa-Lobos"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Douze Études pour Guitare",
+      "duration": "32:50",
+      "act": "Lados A y B",
+      "composer": "Heitor Villa-Lobos"
+    }
+  ]
+},
+{
+  "id": "westminster-villa-lobos-guarnieri-cello-parisot",
+  "section": "1-D",
+  "title": "Heitor Villa-Lobos: Concerto No. 2 / Camargo Guarnieri: Cello Concerto",
+  "artist": "Aldo Parisot (Cello), Vienna State Opera Orchestra & Gustav Meier (Conductor)",
+  "releaseYear": 1962,
+  "genre": "Música Clásica",
+  "subGenre": "Nacionalismo Brasileño / Modernismo",
+  "totalDuration": "44m 30s",
+  "label": "Westminster",
+  "format": "Vinyl / Mono / LP",
+  "catalogNumber": "XWN 19037",
+  "coverUrl": "https://i.discogs.com/H7mrWgIkSTIMBlcmeZq88Ztbl7Q_HoUmeSedXl3iafo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1NjU2/NDItMTQ0NDE0OTk2/Ny01NTkyLmpwZWc.jpeg",
+  "composers": [
+    "Heitor Villa-Lobos",
+    "Camargo Guarnieri"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Villa-Lobos: Concerto No. 2 for Cello and Orchestra: I. Allegro non troppo; II. Molto andante; III. Vivace (Scherzo); IV. Allegro vivace",
+      "duration": "24:15",
+      "act": "Lado A",
+      "composer": "Heitor Villa-Lobos"
+    },
+    {
+      "id": 2,
+      "title": "Guarnieri: Cello Concerto: I. Allegro moderato; II. Intermezzo (Adagio); III. Celebrante (Allegro)",
+      "duration": "20:15",
+      "act": "Lado B",
+      "composer": "Camargo Guarnieri"
+    }
+  ]
+},
+{
+  "id": "dg-villa-lobos-klaviermusik-szidon",
+  "section": "1-D",
+  "title": "Heitor Villa-Lobos: Klaviermusik · Music for Piano (Rudepoêma / New York Skyline / Carnaval das Crianças)",
+  "artist": "Roberto Szidon (Piano)",
+  "releaseYear": 1972,
+  "genre": "Música Clásica / Piano",
+  "subGenre": "Nacionalismo Brasileño / Modernismo",
+  "totalDuration": "44m 50s",
+  "label": "Deutsche Grammophon",
+  "format": "Vinyl / Stereo / LP",
+  "catalogNumber": "2530 634",
+  "coverUrl": "https://i.discogs.com/3avv5XvOvE_Tn3HBgfGGL4ff3o6KCU7ZbGNrrxlnWFE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxODgy/MzEtMTc1Nzk0MjY2/My0zOTU2LmpwZWc.jpeg",
+  "composers": [
+    "Heitor Villa-Lobos"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Rudepoêma",
+      "duration": "18:45",
+      "act": "Lado A",
+      "composer": "Heitor Villa-Lobos"
+    },
+    {
+      "id": 2,
+      "title": "New York Skyline Melody (2. Versão)",
+      "duration": "02:10",
+      "act": "Lado B",
+      "composer": "Heitor Villa-Lobos"
+    },
+    {
+      "id": 3,
+      "title": "Carnaval das Crianças: I. O Chicote do Diabinho; II. A Manha da Pierrete; III. A Chicungunha do Pintadinho; IV. A Gaita de um Precoce Fantasiado; V. As Traquinices do Mascarado Mignon; VI. A Folia de um Bloco Infantil; VII. A Ciranda dos Sete Notas; VIII. Parque Infantil",
+      "duration": "23:55",
+      "act": "Lado B",
+      "composer": "Heitor Villa-Lobos"
+    }
+  ]
+},
+{
+  "id": "erato-villa-lobos-douze-etudes-turibio-santos",
+  "section": "1-D",
+  "title": "Panorama de la guitare: Villa-Lobos - Douze Etudes pour Guitare",
+  "artist": "Turibio Santos (Guitare)",
+  "releaseYear": 1966,
+  "genre": "Música Clásica / Guitarra",
+  "subGenre": "Nacionalismo Brasileño",
+  "totalDuration": "32m 40s",
+  "label": "Erato",
+  "format": "Vinyl / Stereo / LP / Gravure Universelle",
+  "catalogNumber": "STU 70496",
+  "coverUrl": "https://m.media-amazon.com/images/I/619yZx2SbzL._UXNaN_FMjpg_QL85_.jpg",
+  "composers": [
+    "Heitor Villa-Lobos"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Douze Études pour Guitare: Études Nos. 1 à 6",
+      "duration": "15:50",
+      "act": "Lado A",
+      "composer": "Heitor Villa-Lobos"
+    },
+    {
+      "id": 2,
+      "title": "Douze Études pour Guitare: Études Nos. 7 à 12",
+      "duration": "16:50",
+      "act": "Lado B",
+      "composer": "Heitor Villa-Lobos"
+    }
+  ]
+},
+{
+  "id": "capitol-villa-lobos-spanish-guitar-almeida",
+  "section": "1-D",
+  "title": "Villa-Lobos: Music for the Spanish Guitar",
+  "artist": "Laurindo Almeida (Guitar)",
+  "releaseYear": 1960,
+  "genre": "Música Clásica / Guitarra",
+  "subGenre": "Nacionalismo Brasileño",
+  "totalDuration": "38m 20s",
+  "label": "Capitol Records",
+  "format": "Vinyl / Stereo / LP / Full Dimensional Stereo",
+  "catalogNumber": "SP 8497",
+  "coverUrl": "https://i.discogs.com/tencp-uSJZ_sVPyfyuOn24vYcramd1DEpE9dRVTNlkQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NTkz/NzYtMTMzOTI0MzIw/OC02Mjg5LmpwZWc.jpeg",
+  "composers": [
+    "Heitor Villa-Lobos"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Etude No. 1 in E Minor",
+      "duration": "02:15",
+      "act": "Lado A",
+      "composer": "Heitor Villa-Lobos"
+    },
+    {
+      "id": 2,
+      "title": "Etude No. 7 in E Major",
+      "duration": "02:45",
+      "act": "Lado A",
+      "composer": "Heitor Villa-Lobos"
+    },
+    {
+      "id": 3,
+      "title": "Etude No. 8 in C-Sharp Minor",
+      "duration": "03:10",
+      "act": "Lado A",
+      "composer": "Heitor Villa-Lobos"
+    },
+    {
+      "id": 4,
+      "title": "Prelude No. 1 in E Minor",
+      "duration": "04:20",
+      "act": "Lado A",
+      "composer": "Heitor Villa-Lobos"
+    },
+    {
+      "id": 5,
+      "title": "Prelude No. 3 in A Minor",
+      "duration": "03:15",
+      "act": "Lado A",
+      "composer": "Heitor Villa-Lobos"
+    },
+    {
+      "id": 6,
+      "title": "Prelude No. 5 in D Major",
+      "duration": "03:35",
+      "act": "Lado A",
+      "composer": "Heitor Villa-Lobos"
+    },
+    {
+      "id": 7,
+      "title": "Chôros No. 1",
+      "duration": "04:50",
+      "act": "Lado B",
+      "composer": "Heitor Villa-Lobos"
+    },
+    {
+      "id": 8,
+      "title": "Gavotta-Chôro (from Suite Populaire Brésilienne)",
+      "duration": "04:15",
+      "act": "Lado B",
+      "composer": "Heitor Villa-Lobos"
+    },
+    {
+      "id": 9,
+      "title": "Schottish-Chôro (from Suite Populaire Brésilienne)",
+      "duration": "03:40",
+      "act": "Lado B",
+      "composer": "Heitor Villa-Lobos"
+    }
+  ]
+},
+{
+  "id": "mgm-villa-lobos-choros-saudades-engdahl",
+  "section": "1-D",
+  "title": "Music by Heitor Villa-Lobos",
+  "artist": "Izler Solomon (Conductor), Carlos Surinach (Conductor) & Lenore Engdahl (Piano)",
+  "releaseYear": 1957,
+  "genre": "Música Clásica",
+  "subGenre": "Nacionalismo Brasileño / Modernismo",
+  "totalDuration": "41m 20s",
+  "label": "MGM Records",
+  "format": "Vinyl / Mono / LP",
+  "catalogNumber": "E3516",
+  "coverUrl": "/disco_generico.png",
+  "composers": [
+    "Heitor Villa-Lobos"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Choros No. 7 (Septet)",
+      "duration": "09:15",
+      "act": "Lado A",
+      "composer": "Heitor Villa-Lobos"
+    },
+    {
+      "id": 2,
+      "title": "Choros No. 5 (Alma Brasileira)",
+      "duration": "04:50",
+      "act": "Lado A",
+      "composer": "Heitor Villa-Lobos"
+    },
+    {
+      "id": 3,
+      "title": "Saudades das Selvas Brasileiras (Recollections Of The Brazilian Forests)",
+      "duration": "05:25",
+      "act": "Lado A",
+      "composer": "Heitor Villa-Lobos"
+    },
+    {
+      "id": 4,
+      "title": "Suite Floral, Op. 97",
+      "duration": "08:30",
+      "act": "Lado B",
+      "composer": "Heitor Villa-Lobos"
+    },
+    {
+      "id": 5,
+      "title": "Poema Singelo",
+      "duration": "04:40",
+      "act": "Lado B",
+      "composer": "Heitor Villa-Lobos"
+    },
+    {
+      "id": 6,
+      "title": "Bachianas Brasileiras No. 9",
+      "duration": "08:40",
+      "act": "Lado B",
+      "composer": "Heitor Villa-Lobos"
+    }
+  ]
+},
+{
+  "id": "argo-stravinsky-pulcinella-apollon-marriner",
+  "section": "1-D",
+  "title": "Stravinsky: Pulcinella (Suite) / Apollon Musagète",
+  "artist": "Academy of St. Martin-in-the-Fields & Neville Marriner (Director)",
+  "releaseYear": 1968,
+  "genre": "Música Clásica / Ballet",
+  "subGenre": "Neoclasicismo",
+  "totalDuration": "45m 20s",
+  "label": "Argo",
+  "format": "Vinyl / Stereo / LP",
+  "catalogNumber": "ZRG 575",
+  "coverUrl": "https://i.discogs.com/6YiLLKSkefLbLQq5_OYIZDuGQ5OSiKlpLjr1qt-omWk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3ODY4/MDQ2LTE2MTU5MDIw/ODAtMTE4My5qcGVn.jpeg",
+  "composers": [
+    "Igor Stravinsky"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Pulcinella (Suite): I. Sinfonia; II. Serenata; III. Scherzino - Allegretto - Andantino; IV. Tarantella; V. Toccata; VI. Gavotta; VII. Vivo; VIII. Minuetto - Finale",
+      "duration": "22:15",
+      "act": "Lado A",
+      "composer": "Igor Stravinsky"
+    },
+    {
+      "id": 2,
+      "title": "Apollon Musagète (Ballet in Two Tableaux): I. Premier Tableau; II. Second Tableau",
+      "duration": "23:05",
+      "act": "Lado B",
+      "composer": "Igor Stravinsky"
+    }
+  ]
+},
+{
+  "id": "capitol-villa-lobos-bachianas-1-choros-4-7-janssen",
+  "section": "1-D",
+  "title": "Villa-Lobos: Bachianas Brasileiras No. 1 / Chôros No. 4 / Chôros No. 7",
+  "artist": "Chamber Groups under the direction of Werner Janssen",
+  "releaseYear": 1956,
+  "genre": "Música Clásica",
+  "subGenre": "Nacionalismo Brasileño / Música de Cámara",
+  "totalDuration": "38m 15s",
+  "label": "Capitol Classics",
+  "format": "Vinyl / Mono / LP / Full Dimensional Sound",
+  "catalogNumber": "P-8147",
+  "coverUrl": "https://i.discogs.com/qxq1qjq4jd7QvdeBcrO8g7oacEfX-XiC3oGLoh-7SBA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwOTg2/MzktMTM4NDQ0MjAz/OC02MTI2LmpwZWc.jpeg",
+  "composers": [
+    "Heitor Villa-Lobos"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Bachianas Brasileiras No. 1 (for eight 'celli)",
+      "duration": "17:40",
+      "act": "Lado A",
+      "composer": "Heitor Villa-Lobos"
+    },
+    {
+      "id": 2,
+      "title": "Chôros No. 4 (for three horns and trombone)",
+      "duration": "05:15",
+      "act": "Lado B",
+      "composer": "Heitor Villa-Lobos"
+    },
+    {
+      "id": 3,
+      "title": "Chôros No. 7 (for five wood winds, violin, 'cello, tam-tam)",
+      "duration": "09:20",
+      "act": "Lado B",
+      "composer": "Heitor Villa-Lobos"
+    }
+  ]
+},
+{
+  "id": "angel-vaughan-williams-sir-john-in-love-davies",
+  "section": "1-D",
+  "title": "Vaughan Williams: Sir John in Love (Premiere Recording)",
+  "artist": "Raimund Herincx, Meredith Davies, New Philharmonia Orchestra & The John Alldis Choir",
+  "releaseYear": 1975,
+  "genre": "Música Clásica / Ópera",
+  "subGenre": "Lírica Británica del Siglo XX",
+  "totalDuration": "128m 45s",
+  "label": "Angel Records",
+  "format": "Vinyl / Stereo / 3-LP Box Set",
+  "catalogNumber": "SCLX-3822",
+  "coverUrl": "https://m.media-amazon.com/images/I/912B7dtxh6L._UF1000,1000_QL80_.jpg",
+  "composers": [
+    "Ralph Vaughan Williams"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Sir John in Love (Opera in Four Acts based on 'The Merry Wives of Windsor')",
+      "duration": "128:45",
+      "act": "Lados A al F",
+      "composer": "Ralph Vaughan Williams"
+    }
+  ]
+},
+{
+  "id": "dg-vaughan-williams-concertos-barenboim",
+  "section": "1-D",
+  "title": "Vaughan Williams: Concerto for Oboe / Concerto for Tuba / The Lark Ascending",
+  "artist": "Neil Black (Oboe), Arnold Jacobs (Tuba), Pinchas Zukerman (Violin), English Chamber Orchestra & Chicago Symphony Orchestra. Daniel Barenboim (Conductor)",
+  "releaseYear": 1977,
+  "genre": "Música Clásica",
+  "subGenre": "Lírica Británica / Concierto",
+  "totalDuration": "48m 15s",
+  "label": "Deutsche Grammophon",
+  "format": "Vinyl / Stereo / LP",
+  "catalogNumber": "2530 906",
+  "coverUrl": "https://c8.alamy.com/comp/2H3T5DJ/vaughan-williams-tuba-oboe-concerti-lark-jacobs-barenboim-dgg-classical-music-vintage-vinyl-record-2H3T5DJ.jpg",
+  "composers": [
+    "Ralph Vaughan Williams"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Concerto for Oboe and Strings in A Minor: I. Rondo Pastorale; II. Minuet and Musette; III. Finale (Scherzo)",
+      "duration": "18:40",
+      "act": "Lado A",
+      "composer": "Ralph Vaughan Williams"
+    },
+    {
+      "id": 2,
+      "title": "The Lark Ascending (Romance for Violin and Orchestra)",
+      "duration": "15:20",
+      "act": "Lado B",
+      "composer": "Ralph Vaughan Williams"
+    },
+    {
+      "id": 3,
+      "title": "Concerto for Bass Tuba and Orchestra in F Minor: I. Prelude; II. Romanza; III. Finale (Rondo alla Tedesca)",
+      "duration": "13:55",
+      "act": "Lado B",
+      "composer": "Ralph Vaughan Williams"
+    }
+  ]
+},
+{
+  "id": "columbia-vaughan-williams-symphony-4-serenade-bernstein",
+  "section": "1-D",
+  "title": "Vaughan Williams: Symphony No. 4 in F Minor / Serenade to Music",
+  "artist": "New York Philharmonic & Leonard Bernstein (Conductor)",
+  "releaseYear": 1968,
+  "genre": "Música Clásica",
+  "subGenre": "Sinfonismo Británico / Lírica",
+  "totalDuration": "46m 30s",
+  "label": "Columbia Masterworks",
+  "format": "Vinyl / Stereo / LP",
+  "catalogNumber": "MS 7177",
+  "coverUrl": "https://i.discogs.com/JkQjlAAVInAA5lYmhtYxdFwdiHzsXF0Q4lQb60rg2H4/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1MzA2/MzgtMTQyMTM1Mjcy/MS0zNzE0LmpwZWc.jpeg",
+  "composers": [
+    "Ralph Vaughan Williams"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Symphony No. 4 in F Minor: I. Allegro; II. Andante moderato; III. Scherzo (Allegro molto); IV. Finale con epilogo fugato (Allegro molto)",
+      "duration": "32:45",
+      "act": "Lado A",
+      "composer": "Ralph Vaughan Williams"
+    },
+    {
+      "id": 2,
+      "title": "Serenade to Music (Text by Shakespeare)",
+      "duration": "13:45",
+      "act": "Lado B",
+      "composer": "Ralph Vaughan Williams"
+    }
+  ]
+},
+{
+  "id": "angel-vaughan-williams-serenade-symphony-5-boult",
+  "section": "1-D",
+  "title": "Ralph Vaughan Williams: Serenade to Music / Symphony No. 5 in D",
+  "artist": "Sixteen Soloists, London Philharmonic Orchestra & Sir Adrian Boult (Conductor)",
+  "releaseYear": 1970,
+  "genre": "Música Clásica",
+  "subGenre": "Sinfonismo Británico / Lírica",
+  "totalDuration": "54m 10s",
+  "label": "Angel Records",
+  "format": "Vinyl / Stereo / LP",
+  "catalogNumber": "S-36698",
+  "coverUrl": "https://i.discogs.com/OrNYuu3Q4cenb5E2DNy27CqR-b3y5SrESbrtUBUKf78/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1NTEx/MjMtMTM5Njc0NDU4/My0yMDg3LmpwZWc.jpeg",
+  "composers": [
+    "Ralph Vaughan Williams"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Serenade to Music (Text from Shakespeare's 'The Merchant of Venice')",
+      "duration": "13:20",
+      "act": "Lado A",
+      "composer": "Ralph Vaughan Williams"
+    },
+    {
+      "id": 2,
+      "title": "Symphony No. 5 in D (1943): I. Preludio; II. Scherzo; III. Romanza; IV. Passacaglia",
+      "duration": "40:50",
+      "act": "Lado A/B",
+      "composer": "Ralph Vaughan Williams"
+    }
+  ]
+},
+{
+  "id": "rca-vaughan-williams-pastoral-tuba-previn",
+  "section": "1-D",
+  "title": "The Symphonies of Vaughan Williams: Pastoral Symphony / Tuba Concerto",
+  "artist": "Heather Harper (Soprano), John Fletcher (Tuba), London Symphony Orchestra & André Previn (Conductor)",
+  "releaseYear": 1972,
+  "genre": "Música Clásica",
+  "subGenre": "Sinfonismo Británico / Concierto",
+  "totalDuration": "49m 30s",
+  "label": "RCA Red Seal",
+  "format": "Vinyl / Stereo / LP",
+  "catalogNumber": "LSC-3281",
+  "coverUrl": "https://m.media-amazon.com/images/I/41EENM-bHdL._UXNaN_FMjpg_QL85_.jpg",
+  "composers": [
+    "Ralph Vaughan Williams"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Pastoral Symphony (Symphony No. 3): I. Molto moderato; II. Lento moderato; III. Moderato pesante; IV. Lento",
+      "duration": "35:40",
+      "act": "Lado A",
+      "composer": "Ralph Vaughan Williams"
+    },
+    {
+      "id": 2,
+      "title": "Tuba Concerto in F Minor: I. Prelude (Allegro moderato); II. Romanza (Andante sostenuto); III. Finale - Rondo alla Tedesca (Allegro molto)",
+      "duration": "13:50",
+      "act": "Lado B",
+      "composer": "Ralph Vaughan Williams"
+    }
+  ]
+},
+{
+  "id": "london-vaughan-williams-pastoral-symphony-boult",
+  "section": "1-D",
+  "title": "A Pastoral Symphony",
+  "artist": "Sir Adrian Boult conducting The London Philharmonic Orchestra",
+  "releaseYear": 1953,
+  "genre": "Música Clásica",
+  "subGenre": "Sinfonismo Británico",
+  "totalDuration": "36m 10s",
+  "label": "London Records",
+  "format": "Vinyl / Mono / LP / ffrr (Full Frequency Range Recording)",
+  "catalogNumber": "LL 721",
+  "coverUrl": "https://i.discogs.com/ROAche23PMVFeEhacO04Tk2Si9iQTbABS-c60yJsbX8/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwNjc0/NTYtMTQzMjk0Mjc1/Ny05MTEwLmpwZWc.jpeg",
+  "composers": [
+    "Ralph Vaughan Williams"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "A Pastoral Symphony (Symphony No. 3): I. Molto moderato; II. Lento moderato; III. Moderato pesante; IV. Lento",
+      "duration": "36:10",
+      "act": "Lados A y B",
+      "composer": "Ralph Vaughan Williams"
+    }
+  ]
+},
+{
+  "id": "rca-vaughan-williams-sea-symphony-previn",
+  "section": "1-D",
+  "title": "A Sea Symphony (Symphony No. 1)",
+  "artist": "Heather Harper (Soprano), John Shirley-Quirk (Baritone), London Symphony Orchestra and Chorus & André Previn (Conductor)",
+  "releaseYear": 1970,
+  "genre": "Música Clásica",
+  "subGenre": "Sinfonismo Británico / Coral",
+  "totalDuration": "65m 45s",
+  "label": "RCA Gold Seal",
+  "format": "Vinyl / Stereo / LP",
+  "catalogNumber": "AGL1-4212",
+  "coverUrl": "https://i.discogs.com/wYU6aXSM3Kc1LVv76Og461GgrFsLJ8uhc335W9TOzm0/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3NjA1/MTktMTQ4NTkzNDEz/Mi0yNjQ5LmpwZWc.jpeg",
+  "composers": [
+    "Ralph Vaughan Williams"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "A Sea Symphony: I. A Song for All Seas, All Ships",
+      "duration": "19:20",
+      "act": "Lado A",
+      "composer": "Ralph Vaughan Williams"
+    },
+    {
+      "id": 2,
+      "title": "A Sea Symphony: II. On the Beach at Night Alone",
+      "duration": "11:15",
+      "act": "Lado A",
+      "composer": "Ralph Vaughan Williams"
+    },
+    {
+      "id": 3,
+      "title": "A Sea Symphony: III. Scherzo (The Waves)",
+      "duration": "07:50",
+      "act": "Lado B",
+      "composer": "Ralph Vaughan Williams"
+    },
+    {
+      "id": 4,
+      "title": "A Sea Symphony: IV. The Explorers",
+      "duration": "27:20",
+      "act": "Lado B",
+      "composer": "Ralph Vaughan Williams"
+    }
+  ]
+},
+{
+  "id": "emi-vaughan-williams-london-symphony-haitink",
+  "section": "1-D",
+  "title": "Vaughan Williams: A London Symphony / Fantasia on a Theme by Thomas Tallis",
+  "artist": "London Philharmonic Orchestra & Bernard Haitink (Conductor)",
+  "releaseYear": 1987,
+  "genre": "Música Clásica",
+  "subGenre": "Sinfonismo Británico",
+  "totalDuration": "63m 20s",
+  "label": "EMI Digital",
+  "format": "Vinyl / Stereo / LP / DMM (Direct Metal Mastering)",
+  "catalogNumber": "EL 27 0591 1",
+  "coverUrl": "https://i.scdn.co/image/ab67616d0000b2730a65361732b6b964a1cdc64f",
+  "composers": [
+    "Ralph Vaughan Williams"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "A London Symphony (Symphony No. 2): I. Lento - Allegro risoluto; II. Lento; III. Scherzo (Nocturne); IV. Andante con moto - Maestoso alla marcia - Epilogue",
+      "duration": "47:50",
+      "act": "Lado A/B",
+      "composer": "Ralph Vaughan Williams"
+    },
+    {
+      "id": 2,
+      "title": "Fantasia on a Theme by Thomas Tallis",
+      "duration": "15:30",
+      "act": "Lado B",
+      "composer": "Ralph Vaughan Williams"
+    }
+  ]
+},
+{
+  "id": "rca-vaughan-williams-london-symphony-previn",
+  "section": "1-D",
+  "title": "The Symphonies of Vaughan Williams: A London Symphony",
+  "artist": "London Symphony Orchestra & André Previn (Conductor)",
+  "releaseYear": 1972,
+  "genre": "Música Clásica",
+  "subGenre": "Sinfonismo Británico",
+  "totalDuration": "48m 05s",
+  "label": "RCA Red Seal",
+  "format": "Vinyl / Stereo / LP",
+  "catalogNumber": "LSC-3282",
+  "coverUrl": "https://m.media-amazon.com/images/I/519ZuJgKu9L._UXNaN_FMjpg_QL85_.jpg",
+  "composers": [
+    "Ralph Vaughan Williams"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Symphony No. 2 'A London Symphony': I. Lento - Allegro risoluto; II. Lento",
+      "duration": "24:15",
+      "act": "Lado A",
+      "composer": "Ralph Vaughan Williams"
+    },
+    {
+      "id": 2,
+      "title": "Symphony No. 2 'A London Symphony': III. Scherzo (Nocturne); IV. Andante con moto - Maestoso alla marcia - Epilogue",
+      "duration": "23:50",
+      "act": "Lado B",
+      "composer": "Ralph Vaughan Williams"
+    }
+  ]
+},
+{
+  "id": "emi-vaughan-williams-symphony-6-oboe-berglund",
+  "section": "1-D",
+  "title": "Vaughan Williams: Symphony No. 6 in E Minor / Concerto for Oboe and Strings",
+  "artist": "John Williams (Oboe), Bournemouth Symphony Orchestra & Paavo Berglund (Conductor)",
+  "releaseYear": 1975,
+  "genre": "Música Clásica",
+  "subGenre": "Sinfonismo Británico / Concierto",
+  "totalDuration": "51m 40s",
+  "label": "EMI / His Master's Voice",
+  "format": "Vinyl / Stereo / LP",
+  "catalogNumber": "ASD 3127",
+  "coverUrl": "https://us.rarevinyl.com/cdn/shop/files/ralph-vaughan-williams-symphony-no-6-in-e-minor-quad-uk-vinyl-lp-album-record-asd3127-482381.jpg?v=1761808132",
+  "composers": [
+    "Ralph Vaughan Williams"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Symphony No. 6 in E Minor: I. Allegro; II. Moderato; III. Scherzo (Allegro vivace); IV. Epilogue (Moderato)",
+      "duration": "32:55",
+      "act": "Lado A",
+      "composer": "Ralph Vaughan Williams"
+    },
+    {
+      "id": 2,
+      "title": "Concerto for Oboe and Strings in A Minor: I. Rondo Pastorale; II. Minuet and Musette; III. Finale (Scherzo)",
+      "duration": "18:45",
+      "act": "Lado B",
+      "composer": "Ralph Vaughan Williams"
+    }
+  ]
+},
+{
+  "id": "rca-vaughan-williams-sea-symphony-previn-red-seal",
+  "section": "1-D",
+  "title": "The Symphonies of Vaughan Williams: A Sea Symphony (Symphony No. 1)",
+  "artist": "Heather Harper (Soprano), John Shirley-Quirk (Baritone), London Symphony Orchestra and Chorus & André Previn (Conductor)",
+  "releaseYear": 1970,
+  "genre": "Música Clásica",
+  "subGenre": "Sinfonismo Británico / Coral",
+  "totalDuration": "65m 30s",
+  "label": "RCA Red Seal",
+  "format": "Vinyl / Stereo / LP",
+  "catalogNumber": "LSC-3170",
+  "coverUrl": "https://i.discogs.com/03P1g0Aj_wXT86aOzcrxSiq76aT4iS2R6ZUngexDqwo/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4NjUx/OTgtMTUwMDEwODcy/OC04Mzk3LmpwZWc.jpeg",
+  "composers": [
+    "Ralph Vaughan Williams"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "A Sea Symphony: I. A Song for All Seas, All Ships",
+      "duration": "19:15",
+      "act": "Lado A",
+      "composer": "Ralph Vaughan Williams"
+    },
+    {
+      "id": 2,
+      "title": "A Sea Symphony: II. On the Beach at Night Alone",
+      "duration": "11:10",
+      "act": "Lado A",
+      "composer": "Ralph Vaughan Williams"
+    },
+    {
+      "id": 3,
+      "title": "A Sea Symphony: III. Scherzo (The Waves)",
+      "duration": "07:55",
+      "act": "Lado B",
+      "composer": "Ralph Vaughan Williams"
+    },
+    {
+      "id": 4,
+      "title": "A Sea Symphony: IV. The Explorers",
+      "duration": "27:10",
+      "act": "Lado B",
+      "composer": "Ralph Vaughan Williams"
+    }
+  ]
+},
+{
+  "id": "dg-greensleeves-vaughan-williams-zukerman-barenboim",
+  "section": "1-D",
+  "title": "Greensleeves: Vaughan Williams · Walton · Delius",
+  "artist": "Pinchas Zukerman (Violin), English Chamber Orchestra & Daniel Barenboim (Conductor)",
+  "releaseYear": 1975,
+  "genre": "Música Clásica",
+  "subGenre": "Lírica Británica / Música para Cuerdas",
+  "totalDuration": "46m 10s",
+  "label": "Deutsche Grammophon",
+  "format": "Vinyl / Stereo / LP",
+  "catalogNumber": "2530 505",
+  "coverUrl": "https://i.discogs.com/soXmAnmslMm6AfEI1AZH0txG9CwSY0xIbMD0EHkdcNI/rs:fit/g:sm/q:90/h:584/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MTU4/Mjk3LTE2MTE5NjAz/NDUtMjc1Mi5qcGVn.jpeg",
+  "composers": [
+    "Ralph Vaughan Williams",
+    "George Butterworth",
+    "Frederick Delius",
+    "Sir William Walton"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Vaughan Williams: Fantasia on 'Greensleeves'",
+      "duration": "04:35",
+      "act": "Lado A",
+      "composer": "Ralph Vaughan Williams"
+    },
+    {
+      "id": 2,
+      "title": "Butterworth: The Banks of Green Willow",
+      "duration": "07:15",
+      "act": "Lado A",
+      "composer": "George Butterworth"
+    },
+    {
+      "id": 3,
+      "title": "Vaughan Williams: The Lark Ascending",
+      "duration": "15:25",
+      "act": "Lado A",
+      "composer": "Ralph Vaughan Williams"
+    },
+    {
+      "id": 4,
+      "title": "Delius: Two Pieces for Small Orchestra: I. On Hearing the First Cuckoo in Spring; II. Summer Night on the River",
+      "duration": "12:10",
+      "act": "Lado B",
+      "composer": "Frederick Delius"
+    },
+    {
+      "id": 5,
+      "title": "Walton: Two Pieces from 'Henry V': I. Passacaglia (Death of Falstaff); II. Touch her soft lips and part",
+      "duration": "06:45",
+      "act": "Lado B",
+      "composer": "Sir William Walton"
+    }
+  ]
+},
+{
+  "id": "rca-britten-peter-grimes-vaughan-williams-ormandy",
+  "section": "1-D",
+  "title": "Britten: Four Sea Interludes and Passacaglia from 'Peter Grimes' / Vaughan Williams: Fantasia on a Theme by Thomas Tallis",
+  "artist": "The Philadelphia Orchestra & Eugene Ormandy (Conductor)",
+  "releaseYear": 1978,
+  "genre": "Música Clásica",
+  "subGenre": "Música Británica del Siglo XX",
+  "totalDuration": "42m 50s",
+  "label": "RCA Red Seal",
+  "format": "Vinyl / Stereo / LP",
+  "catalogNumber": "ARL1-2744",
+  "coverUrl": "https://i.discogs.com/0ytfFw3qBis_TUnd3PW0T77wKZvv5hXP7EAZHRY569Y/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwMjEx/MTAtMTQ1MzYzMTkx/Mi04NjIyLmdpZg.jpeg",
+  "composers": [
+    "Benjamin Britten",
+    "Ralph Vaughan Williams"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Britten: Four Sea Interludes from 'Peter Grimes', Op. 33a: I. Dawn; II. Sunday Morning; III. Moonlight; IV. Storm",
+      "duration": "16:15",
+      "act": "Lado A",
+      "composer": "Benjamin Britten"
+    },
+    {
+      "id": 2,
+      "title": "Britten: Passacaglia from 'Peter Grimes', Op. 33b",
+      "duration": "07:10",
+      "act": "Lado A",
+      "composer": "Benjamin Britten"
+    },
+    {
+      "id": 3,
+      "title": "Vaughan Williams: Fantasia on a Theme by Thomas Tallis",
+      "duration": "19:25",
+      "act": "Lado B",
+      "composer": "Ralph Vaughan Williams"
+    }
+  ]
+},
+{
+  "id": "angel-vaughan-williams-unknown-region-del-mar",
+  "section": "1-D",
+  "title": "Vaughan Williams: Toward the Unknown Region / Norfolk Rhapsody No. 1 / Fantasia on a Theme by Thomas Tallis / Five Variants of 'Dives and Lazarus'",
+  "artist": "Norman Del Mar, City of Birmingham Symphony Orchestra & Chorus",
+  "releaseYear": 1981,
+  "genre": "Música Clásica",
+  "subGenre": "Lírica Británica / Música Coral y Orquestal",
+  "totalDuration": "48m 30s",
+  "label": "Angel Records",
+  "format": "Vinyl / Stereo / LP / Digital",
+  "catalogNumber": "DS-37772",
+  "coverUrl": "https://i.discogs.com/4Ln-zxxGYzyrax9FAiBjh0APPPcOJ-fX8wVvkBUWWw0/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0Mzk0/NjEtMTU1NDgyNzI5/Ni0zMzY0LmpwZWc.jpeg",
+  "composers": [
+    "Ralph Vaughan Williams"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Toward the Unknown Region (Words by Walt Whitman)",
+      "duration": "12:15",
+      "act": "Lado A",
+      "composer": "Ralph Vaughan Williams"
+    },
+    {
+      "id": 2,
+      "title": "Norfolk Rhapsody No. 1 in E Minor",
+      "duration": "11:05",
+      "act": "Lado A",
+      "composer": "Ralph Vaughan Williams"
+    },
+    {
+      "id": 3,
+      "title": "Fantasia on a Theme by Thomas Tallis",
+      "duration": "14:50",
+      "act": "Lado B",
+      "composer": "Ralph Vaughan Williams"
+    },
+    {
+      "id": 4,
+      "title": "Five Variants of 'Dives and Lazarus'",
+      "duration": "10:20",
+      "act": "Lado B",
+      "composer": "Ralph Vaughan Williams"
+    }
+  ]
+},
+{
+  "id": "angel-vaughan-williams-concerto-pianos-symphony-8-boult",
+  "section": "1-D",
+  "title": "Vaughan Williams: Concerto for Two Pianos and Orchestra / Symphony No. 8",
+  "artist": "Vronsky & Babin (Pianos), London Philharmonic Orchestra & Sir Adrian Boult (Conductor)",
+  "releaseYear": 1969,
+  "genre": "Música Clásica",
+  "subGenre": "Sinfonismo Británico / Concierto",
+  "totalDuration": "53m 40s",
+  "label": "Angel Records",
+  "format": "Vinyl / Stereo / LP",
+  "catalogNumber": "S-36625",
+  "coverUrl": "https://i.discogs.com/Y1RAXu_h1_9RQM132ca6vVtiweFlcgdf4ZA3iyNDRyU/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTM3/MjA5LTE2MDQwNjY5/NTEtMzM2OS5qcGVn.jpeg",
+  "composers": [
+    "Ralph Vaughan Williams"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Concerto for Two Pianos and Orchestra: I. Toccata; II. Romanza; III. Fuga chromatica con finale alla tedesca",
+      "duration": "26:15",
+      "act": "Lado A",
+      "composer": "Ralph Vaughan Williams"
+    },
+    {
+      "id": 2,
+      "title": "Symphony No. 8 in D Minor: I. Fantasia (Variazioni senza tema); II. Scherzo alla marcia; III. Cavatina; IV. Toccata",
+      "duration": "27:25",
+      "act": "Lado B",
+      "composer": "Ralph Vaughan Williams"
+    }
+  ]
+},
+{
+  "id": "angel-vaughan-williams-hodie-willcocks",
+  "section": "1-D",
+  "title": "Vaughan Williams: Hodie (A Christmas Cantata) - World Première Recording",
+  "artist": "Janet Baker (Mezzo-Soprano), Richard Lewis (Tenor), John Shirley-Quirk (Baritone), Bach Choir, Choristers of Westminster Abbey, London Symphony Orchestra & David Willcocks (Conductor)",
+  "releaseYear": 1965,
+  "genre": "Música Clásica / Coral",
+  "subGenre": "Cantata de Navidad",
+  "totalDuration": "58m 20s",
+  "label": "Angel Records",
+  "format": "Vinyl / Stereo / LP",
+  "catalogNumber": "S-36297",
+  "coverUrl": "https://i.ebayimg.com/00/s/MTYwMFgxNTc0/z/lvQAAOSwvlVgSmRu/$_57.PNG?set_id=8800005007",
+  "composers": [
+    "Ralph Vaughan Williams"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Hodie (This Day): I. Prologue; II. Narration; III. Song; IV. Narration; V. Choral; VI. Narration; VII. The Oxen; VIII. Narration; IX. Pastoral",
+      "duration": "29:10",
+      "act": "Lado A",
+      "composer": "Ralph Vaughan Williams"
+    },
+    {
+      "id": 2,
+      "title": "Hodie (This Day): X. Narration; XI. Lullaby; XII. Hymn; XIII. Narration; XIV. The March of the Three Kings; XV. Choral; XVI. Epilogue",
+      "duration": "29:10",
+      "act": "Lado B",
+      "composer": "Ralph Vaughan Williams"
+    }
+  ]
+},
+{
+  "id": "concert-hall-vaughan-williams-palmer-hull",
+  "section": "1-D",
+  "title": "Vaughan Williams: Fantasia on the 'Old 104th' Psalm Tune / 3 Sea Chantys - Robert Palmer: Chamber Concerto / Slow, Slow, Fresh Fount",
+  "artist": "Cornell A Cappella Chorus, The Rochester Chamber Orchestra, Millard Taylor (Violin), Robert Sprenkle (Oboe), John Hunt (Piano) & Robert Hull (Conductor)",
+  "releaseYear": 1954,
+  "genre": "Música Clásica",
+  "subGenre": "Música Coral y Orquestal del Siglo XX",
+  "totalDuration": "42m 15s",
+  "label": "Concert Hall Society",
+  "format": "Vinyl / Mono / LP",
+  "catalogNumber": "CHS-1190",
+  "coverUrl": "https://i.discogs.com/ElTFbdQ_WSuskN_WtBX55aGbxpgQZNBw6FNBFIHXhhY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODkx/ODA3LTE1MjQyMzUy/MDQtMTc0NS5qcGVn.jpeg",
+  "composers": [
+    "Ralph Vaughan Williams",
+    "Robert Palmer"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Vaughan Williams: Fantasia on the 'Old 104th' Psalm Tune (for Piano, Chorus and Orchestra)",
+      "duration": "14:50",
+      "act": "Lado A",
+      "composer": "Ralph Vaughan Williams"
+    },
+    {
+      "id": 2,
+      "title": "Vaughan Williams: Three Sea Chantys (for A Cappella Chorus)",
+      "duration": "07:25",
+      "act": "Lado A",
+      "composer": "Ralph Vaughan Williams"
+    },
+    {
+      "id": 3,
+      "title": "Robert Palmer: Chamber Concerto (for Violin, Oboe and String Orchestra)",
+      "duration": "12:15",
+      "act": "Lado B",
+      "composer": "Robert Palmer"
+    },
+    {
+      "id": 4,
+      "title": "Robert Palmer: Slow, Slow, Fresh Fount (for A Cappella Chorus)",
+      "duration": "07:45",
+      "act": "Lado B",
+      "composer": "Robert Palmer"
+    }
+  ]
+},
+{
+  "id": "angel-vaughan-williams-string-quartets-music-group-london",
+  "section": "1-D",
+  "title": "Vaughan Williams: String Quartet in G Minor / String Quartet in A Minor",
+  "artist": "Music Group of London (Hugh Bean, Frances Mason, Christopher Wellington, Eileen Croxford)",
+  "releaseYear": 1973,
+  "genre": "Música Clásica / Cámara",
+  "subGenre": "Nacionalismo Británico / Cuarteto de Cuerdas",
+  "totalDuration": "51m 40s",
+  "label": "Angel Records / EMI",
+  "format": "Vinyl / Stereo / LP",
+  "catalogNumber": "S-36945",
+  "coverUrl": "https://i.discogs.com/7SxYknLfDYmgQDsYqkV56bAVd3TFQH1aqZYN18k2Jwo/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5MTk5/NzItMTQ5MzkwMDcw/Ny00NjgyLm1wbw.jpeg",
+  "composers": [
+    "Ralph Vaughan Williams"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "String Quartet in G Minor: I. Allegro moderato; II. (Scherzo) Presto; III. (Romance) Andante sostenuto; IV. (Finale) Allegro molto",
+      "duration": "28:15",
+      "act": "Lado A",
+      "composer": "Ralph Vaughan Williams"
+    },
+    {
+      "id": 2,
+      "title": "String Quartet in A Minor (For Jean on her Birthday): I. Prelude (Allegro appassionato); II. Romance (Lento); III. Scherzo (Allegro); IV. Epilogue (Andante sostenuto)",
+      "duration": "23:25",
+      "act": "Lado B",
+      "composer": "Ralph Vaughan Williams"
+    }
+  ]
+},
+{
+  "id": "emi-vaughan-williams-violin-sonata-phantasy-bean",
+  "section": "1-D",
+  "title": "Vaughan Williams: Violin Sonata / Phantasy Quintet / Six Studies in English Folk Song",
+  "artist": "Hugh Bean (Violin), David Parkhouse (Piano), Music Group of London",
+  "releaseYear": 1974,
+  "genre": "Música Clásica / Cámara",
+  "subGenre": "Nacionalismo Británico / Música de Cámara",
+  "totalDuration": "54m 15s",
+  "label": "EMI / HMV Greensleeve",
+  "format": "Vinyl / Stereo / LP",
+  "catalogNumber": "HQS 1327",
+  "coverUrl": "https://i.discogs.com/YhGQf1CMxT64uGUf9fiJdCeZozPah5dR-4gnIK9keg0/rs:fit/g:sm/q:90/h:600/w:586/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5MTk5/MTQtMTYzNjM5Mzgx/OS04NDEwLmpwZWc.jpeg",
+  "composers": [
+    "Ralph Vaughan Williams"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Sonata in A Minor for Violin and Piano: I. Fantasia; II. Scherzo; III. Tema con variazioni",
+      "duration": "26:10",
+      "act": "Lado A",
+      "composer": "Ralph Vaughan Williams"
+    },
+    {
+      "id": 2,
+      "title": "Phantasy Quintet (for 2 Violins, 2 Violas and Cello): I. Prelude; II. Scherzo; III. Alla Sarabanda; IV. Burlesca",
+      "duration": "14:55",
+      "act": "Lado B",
+      "composer": "Ralph Vaughan Williams"
+    },
+    {
+      "id": 3,
+      "title": "Six Studies in English Folk Song (for Cello and Piano): I. Adagio; II. Andante sostenuto; III. Larghetto; IV. Lento; V. Andante tranquillo; VI. Allegro vivace",
+      "duration": "13:10",
+      "act": "Lado B",
+      "composer": "Ralph Vaughan Williams"
+    }
+  ]
+},
+{
+  "id": "angel-vaughan-williams-flos-campi-oxford-willcocks",
+  "section": "1-D",
+  "title": "Ralph Vaughan Williams: Flos Campi / An Oxford Elegy / Five Variants of 'Dives and Lazarus'",
+  "artist": "John Westbrook (Speaker), Cecil Aronowitz (Viola), Choir of King's College, Cambridge, Jacques Orchestra & David Willcocks (Conductor)",
+  "releaseYear": 1969,
+  "genre": "Música Clásica",
+  "subGenre": "Lírica Británica / Música Coral y de Cámara",
+  "totalDuration": "52m 15s",
+  "label": "Angel Records",
+  "format": "Vinyl / Stereo / LP",
+  "catalogNumber": "S-36699",
+  "coverUrl": "https://i.discogs.com/uJj9Rp2wAvc608EXhBFCclre91BTrCDJzTlit9wMRcg/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTc1/NzE5LTE2NTE1NDQz/NDEtODUxNC5qcGVn.jpeg",
+  "composers": [
+    "Ralph Vaughan Williams"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Flos Campi (Suite for Solo Viola, Small Orchestra and Small Chorus)",
+      "duration": "20:45",
+      "act": "Lado A",
+      "composer": "Ralph Vaughan Williams"
+    },
+    {
+      "id": 2,
+      "title": "An Oxford Elegy (For Speaker, Small Chorus and Small Orchestra)",
+      "duration": "21:10",
+      "act": "Lado B",
+      "composer": "Ralph Vaughan Williams"
+    },
+    {
+      "id": 3,
+      "title": "Five Variants of 'Dives and Lazarus' (For String Orchestra and Harp)",
+      "duration": "10:20",
+      "act": "Lado B",
+      "composer": "Ralph Vaughan Williams"
+    }
+  ]
+},
+{
+  "id": "angel-vaughan-williams-symphony-6-lark-boult",
+  "section": "1-D",
+  "title": "Vaughan Williams: Symphony No. 6 in E Minor / The Lark Ascending",
+  "artist": "Hugh Bean (Violin), The New Philharmonia Orchestra & Sir Adrian Boult (Conductor)",
+  "releaseYear": 1967,
+  "genre": "Música Clásica",
+  "subGenre": "Sinfonismo Británico / Lírica",
+  "totalDuration": "48m 50s",
+  "label": "Angel Records",
+  "format": "Vinyl / Stereo / LP",
+  "catalogNumber": "S-36469",
+  "coverUrl": "https://m.media-amazon.com/images/I/71MYGfwsYjL._UF1000,1000_QL80_.jpg",
+  "composers": [
+    "Ralph Vaughan Williams"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Symphony No. 6 in E Minor: I. Allegro; II. Moderato; III. Scherzo; IV. Epilogue",
+      "duration": "33:45",
+      "act": "Lado A/B",
+      "composer": "Ralph Vaughan Williams"
+    },
+    {
+      "id": 2,
+      "title": "The Lark Ascending (Romance for Violin and Orchestra)",
+      "duration": "15:05",
+      "act": "Lado B",
+      "composer": "Ralph Vaughan Williams"
+    }
+  ]
+},
+{
+  "id": "rca-vaughan-williams-symphonies-6-8-previn",
+  "section": "1-D",
+  "title": "André Previn conducts the Symphonies of Vaughan Williams: No. 6 in E Minor / No. 8 in D Minor",
+  "artist": "London Symphony Orchestra & André Previn (Conductor)",
+  "releaseYear": 1970,
+  "genre": "Música Clásica",
+  "subGenre": "Sinfonismo Británico",
+  "totalDuration": "58m 15s",
+  "label": "RCA Red Seal",
+  "format": "Vinyl / Stereo / LP",
+  "catalogNumber": "LSC-3114",
+  "coverUrl": "https://m.media-amazon.com/images/I/41rGudO0k1L._UF1000,1000_QL80_.jpg",
+  "composers": [
+    "Ralph Vaughan Williams"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Symphony No. 6 in E Minor: I. Allegro; II. Moderato; III. Scherzo; IV. Epilogue",
+      "duration": "31:45",
+      "act": "Lado A",
+      "composer": "Ralph Vaughan Williams"
+    },
+    {
+      "id": 2,
+      "title": "Symphony No. 8 in D Minor: I. Fantasia; II. Scherzo alla marcia; III. Cavatina; IV. Toccata",
+      "duration": "26:30",
+      "act": "Lado B",
+      "composer": "Ralph Vaughan Williams"
+    }
+  ]
+},
+{
+  "id": "richmond-vaughan-williams-antartica-boult",
+  "section": "1-D",
+  "title": "Vaughan Williams: Sinfonia Antartica",
+  "artist": "Margaret Ritchie (Soprano), Sir John Gielgud (Speaker), London Philharmonic Choir and Orchestra & Sir Adrian Boult (Conductor)",
+  "releaseYear": 1954,
+  "genre": "Música Clásica",
+  "subGenre": "Sinfonismo Británico",
+  "totalDuration": "44m 20s",
+  "label": "Richmond / London Records",
+  "format": "Vinyl / Stereo / LP",
+  "catalogNumber": "B-19225",
+  "coverUrl": "https://i.discogs.com/MvEzGJbA2C1RY5d2p_Zje2kcs3et4fzmy-XwNhN2av8/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwMDk0/ODQtMTQzMTYwMjYw/OC00NTI1LmpwZWc.jpeg",
+  "composers": [
+    "Ralph Vaughan Williams"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Sinfonia Antartica (Symphony No. 7): I. Prelude; II. Scherzo; III. Landscape; IV. Intermezzo; V. Epilogue",
+      "duration": "44:20",
+      "act": "Lados A y B",
+      "composer": "Ralph Vaughan Williams"
+    }
+  ]
+},
+{
+  "id": "angel-vaughan-williams-sinfonia-antartica-boult",
+  "section": "1-D",
+  "title": "Ralph Vaughan Williams: Sinfonia Antartica (Symphony No. 7)",
+  "artist": "Norma Burrowes (Soprano), London Philharmonic Orchestra & Choir, Sir Adrian Boult (Conductor)",
+  "releaseYear": 1970,
+  "genre": "Música Clásica",
+  "subGenre": "Sinfonismo Británico",
+  "totalDuration": "44m 15s",
+  "label": "Angel Records",
+  "format": "Vinyl / Stereo / LP",
+  "catalogNumber": "S-36763",
+  "coverUrl": "https://m.media-amazon.com/images/I/91TSSy7uYuL._UF1000,1000_QL80_.jpg",
+  "composers": [
+    "Ralph Vaughan Williams"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Sinfonia Antartica (Symphony No. 7): I. Prelude; II. Scherzo; III. Landscape; IV. Intermezzo; V. Epilogue",
+      "duration": "44:15",
+      "act": "Lados A y B",
+      "composer": "Ralph Vaughan Williams"
+    }
+  ]
+},
+{
+  "id": "mercury-vaughan-williams-symphony-8-barbirolli",
+  "section": "1-D",
+  "title": "Vaughan Williams: Symphony in D Minor, No. 8 (World Premiere Recording) / Butterworth: A Shropshire Lad / Bax: The Garden of Fand",
+  "artist": "Sir John Barbirolli & Halle Orchestra",
+  "releaseYear": 1956,
+  "genre": "Música Clásica",
+  "subGenre": "Sinfonismo Británico",
+  "totalDuration": "46m 50s",
+  "label": "Mercury Records",
+  "format": "Vinyl / Mono / LP / High Fidelity Olympian Living Presence",
+  "catalogNumber": "MG 50115",
+  "coverUrl": "https://i.ebayimg.com/images/g/0wAAAOSwixdiuPDQ/s-l1200.jpg",
+  "composers": [
+    "Ralph Vaughan Williams",
+    "George Butterworth",
+    "Arnold Bax"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Vaughan Williams: Symphony No. 8 in D Minor (Dedicated to Sir John Barbirolli)",
+      "duration": "26:30",
+      "act": "Lado A",
+      "composer": "Ralph Vaughan Williams"
+    },
+    {
+      "id": 2,
+      "title": "Butterworth: A Shropshire Lad (Rhapsody for Orchestra)",
+      "duration": "09:45",
+      "act": "Lado B",
+      "composer": "George Butterworth"
+    },
+    {
+      "id": 3,
+      "title": "Bax: The Garden of Fand",
+      "duration": "10:35",
+      "act": "Lado B",
+      "composer": "Arnold Bax"
+    }
+  ]
+},
+{
+  "id": "everest-vaughan-williams-symphony-9-boult",
+  "section": "1-D",
+  "title": "A Memorial Tribute to Ralph Vaughan Williams: Symphony No. 9 in E Minor",
+  "artist": "The London Philharmonic Orchestra & Sir Adrian Boult (Conductor)",
+  "releaseYear": 1958,
+  "genre": "Música Clásica",
+  "subGenre": "Sinfonismo Británico",
+  "totalDuration": "34m 45s",
+  "label": "Everest Records",
+  "format": "Vinyl / Mono / LP / Hi-Fi Long Play",
+  "catalogNumber": "LPBR-6006",
+  "coverUrl": "https://m.media-amazon.com/images/I/91bhrNwTv4L._UF1000,1000_QL80_.jpg",
+  "composers": [
+    "Ralph Vaughan Williams"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Symphony No. 9 in E Minor: I. Moderato maestoso; II. Andante sostenuto; III. Scherzo (Allegro pesante); IV. Andante tranquillo",
+      "duration": "34:45",
+      "act": "Lados A y B",
+      "composer": "Ralph Vaughan Williams"
+    }
+  ]
+},
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   ]
 }
