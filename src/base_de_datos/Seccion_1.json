@@ -1,7 +1,7 @@
 {
   "albums": [
     {
-      "id": "emi-verdi-1986",
+      "id": "1",
       "section": "1-A",
       "title": "La Forza del Destino",
       "artist": "Riccardo Muti, Plácido Domingo, Mirella Freni & Orchestra del Teatro alla Scala",
@@ -139,7 +139,7 @@
       ]
     },
     {
-      "id": "london-falstaff-solti-1964",
+      "id": "2",
       "section": "1-A",
       "title": "Falstaff",
       "artist": "Georg Solti (Director), Geraint Evans (Falstaff) & RCA Italiana Opera Orchestra",
@@ -251,7 +251,7 @@
       ]
     },
     {
-      "id": "murray-hill-oistrakh-boxset",
+      "id": "3",
       "section": "1-A",
       "title": "David Oistrakh plays the World's Greatest Violin Concertos",
       "artist": "David Oistrakh (Violin)",
@@ -356,7 +356,7 @@
       ]
     },
     {
-      "id": "columbia-ml4350-prades-vol6",
+      "id": "4",
       "section": "1-A",
       "title": "Prades Festival Vol. 6: Bach",
       "artist": "Pablo Casals (Cello), Paul Baumgartner (Piano) & Rudolf Serkin (Piano)",
@@ -423,7 +423,7 @@
       ]
     },
     {
-      "id": "columbia-ml4349-prades-vol5",
+      "id": "5",
       "section": "1-A",
       "title": "Prades Festival Vol. 5: Bach Cello Sonatas Nos. 1 & 2",
       "artist": "Pablo Casals (Cello) & Paul Baumgartner (Piano)",
@@ -497,7 +497,7 @@
       ]
     },
     {
-      "id": "baerenreiter-bach-bwv249a-rilling",
+      "id": "6",
       "section": "1-A",
       "title": "J.S. Bach: Schäferkantate BWV 249a (Shepherd Cantata)",
       "artist": "Helmuth Rilling (Director), Edith Mathis, Hetty Plümacher, Theo Altmeyer & Jakob Stämpfli",
@@ -593,7 +593,7 @@
       ]
     },
     {
-      "id": "vanguard-srv231sd-bach-cantatas-207a-214",
+      "id": "7",
       "section": "1-A",
       "title": "J.S. Bach: Cantata No. 207a & Cantata No. 214",
       "artist": "Helmut Kahlhöfer (Director), Ingeborg Reichelt, Emmy Lisken, Georg Jelden, Eduard Wollitz & Barmen Choir",
@@ -689,7 +689,7 @@
       ]
     },
     {
-      "id": "archiv-198161-bach-coffee-peasant",
+      "id": "8",
       "section": "1-A",
       "title": "J.S. Bach: Kaffee-Kantate (BWV 211) & Bauern-Kantate (BWV 212)",
       "artist": "Kurt Thomas (Director), Adele Stolte, Hans-Joachim Rotzsch, Theo Adam & Gewandhausorchester Leipzig",
@@ -793,7 +793,7 @@
       ]
     },
     {
-    "id": "turnabout-tv34127s-bach-cantatas-204-209",
+    "id": "9",
     "section": "1-A",
     "title": "Bach Cantatas: No. 204 & No. 209",
     "artist": "Rudolf Ewerhart (Director), Elisabeth Speiser (Soprano) & Württemberg Chamber Orchestra",
@@ -882,7 +882,7 @@
     ]
     },
     {
-    "id": "dg-traviata-kleiber-1977",
+    "id": "10",
     "section": "1-A",
     "title": "Verdi: La Traviata",
     "artist": "Carlos Kleiber (Conductor), Ileana Cotrubas, Plácido Domingo, Sherrill Milnes & Bayerisches Staatsorchester",
@@ -1000,7 +1000,7 @@
     ]
     },
     {
-    "id": "dg-simon-boccanegra-abbado-1977",
+    "id": "11",
     "section": "1-A",
     "title": "Verdi: Simon Boccanegra",
     "artist": "Claudio Abbado (Director), Piero Cappuccilli, Mirella Freni, José Carreras, Nicolai Ghiaurov & Orchestra del Teatro alla Scala",
@@ -1097,7 +1097,7 @@
     ]
     },
     {
-    "id": "dg-macbeth-abbado-1976",
+    "id": "12",
     "section": "1-A",
     "title": "Verdi: Macbeth",
     "artist": "Claudio Abbado (Director), Piero Cappuccilli, Shirley Verrett, Plácido Domingo, Nicolai Ghiaurov & Orchestra del Teatro alla Scala",
@@ -1208,7 +1208,7 @@
     ]
     },
     {
-    "id": "fonit-cetra-otelo-votto-1954",
+    "id": "13",
     "section": "1-A",
     "title": "Verdi: Otelo (Otello)",
     "artist": "Antonino Votto (Director), Mario Del Monaco, Renata Tebaldi, Leonard Warren & Coro y Orquesta del Teatro alla Scala",
@@ -1312,7 +1312,7 @@
     ]
     },
     {
-    "id": "dg-verdi-requiem-karajan-1985",
+    "id": "14",
     "section": "1-A",
     "title": "Verdi: Messa da Requiem",
     "artist": "Herbert von Karajan (Director), Anna Tomowa-Sintow, Agnes Baltsa, José Carreras, José van Dam & Wiener Philharmoniker",
@@ -1429,7 +1429,7 @@
     ]
     },
     {
-    "id": "london-verdi-requiem-solti-1968",
+    "id": "15",
     "section": "1-A",
     "title": "Verdi: Requiem",
     "artist": "Sir Georg Solti (Director), Joan Sutherland, Marilyn Horne, Luciano Pavarotti, Martti Talvela & Vienna Philharmonic",
@@ -1546,7 +1546,7 @@
     ]
     },
     {
-    "id": "angel-rigoletto-callas-serafin-1956",
+    "id": "16",
     "section": "1-A",
     "title": "Verdi: Rigoletto",
     "artist": "Tullio Serafin (Director), Maria Callas, Giuseppe Di Stefano, Tito Gobbi & Orchestra del Teatro alla Scala",
@@ -1643,7 +1643,7 @@
     ]
     },
     {
-    "id": "met-ernani-mitropoulos-1956",
+    "id": "17",
     "section": "1-A",
     "title": "Verdi: Ernani",
     "artist": "Dimitri Mitropoulos (Director), Mario Del Monaco, Zinka Milanov, Leonard Warren, Cesare Siepi & Metropolitan Opera Orchestra",
@@ -1761,7 +1761,7 @@
     ]
     },
     {
-    "id": "angel-rigoletto-highlights-molinari-1968",
+    "id": "18",
     "section": "1-A",
     "title": "Verdi: Rigoletto (Highlights)",
     "artist": "Francesco Molinari-Pradelli (Director), Cornell MacNeil, Reri Grist, Nicolai Gedda & Orchestra of the Opera House, Rome",
@@ -1844,7 +1844,7 @@
     ]
     },
     {
-    "id": "dg-verdi-overtures-karajan-1976",
+    "id": "19",
     "section": "1-A",
     "title": "Verdi: Ouvertüren (Overtures & Preludes)",
     "artist": "Herbert von Karajan (Director) & Berliner Philharmoniker",
@@ -1933,7 +1933,7 @@
     ]
     },
     {
-    "id": "vanguard-srv213-tartini-vol1",
+    "id": "20",
     "section": "1-A",
     "title": "Violin Concertos of Giuseppe Tartini (1692-1770) Volume 1",
     "artist": "André Gertler (Violin), Edmond de Stoutz (Conductor) & Zurich Chamber Orchestra",
@@ -1980,7 +1980,7 @@
     ]
     },
     {
-    "id": "dg-orpheus-fricsay-1957",
+    "id": "21",
     "section": "1-A",
     "title": "Gluck: Orpheus und Eurydike (Orfeo ed Euridice)",
     "artist": "Ferenc Fricsay (Director), Dietrich Fischer-Dieskau, Maria Stader, Rita Streich & RIAS Symphonie-Orchester Berlin",
@@ -2049,7 +2049,7 @@
     ]
     },
     {
-    "id": "dg-brahms-requiem-lehmann-1955",
+    "id": "22",
     "section": "1-A",
     "title": "Brahms: Ein Deutsches Requiem (A German Requiem)",
     "artist": "Fritz Lehmann (Director), Maria Stader, Otto Wiener, Chor der St. Hedwig-Kathedrale & Berliner Philharmoniker",
@@ -2117,7 +2117,7 @@
     ]
     },
     {
-    "id": "accent-parnassus-ensemble-1978",
+    "id": "23",
     "section": "1-A",
     "title": "Parnassus Ensemble: Telemann, Händel, Galuppi, Janitsch, J.C. Bach",
     "artist": "Parnassus Ensemble (Barthold Kuijken, Janneke van der Meer, Paul Dombrecht, Richte van der Meer, Johan Huys)",
@@ -2259,7 +2259,7 @@
     ]
     },
     {
-    "id": "hungaroton-slpx-12380-telemann-parisian",
+    "id": "24",
     "section": "1-A",
     "title": "Telemann: Parisian Quartets Nos. 1, 3, 4, 5",
     "artist": "Dénes Kovács (Violin), Hungarian Baroque Trio & Ottó Nagy (Viola da gamba)",
@@ -2306,7 +2306,7 @@
     ]
     },
     {
-    "id": "dg-orpheus-fricsay-1957",
+    "id": "25",
     "section": "1-A",
     "title": "Gluck: Orpheus und Eurydike (Orfeo ed Euridice)",
     "artist": "Ferenc Fricsay (Director), Dietrich Fischer-Dieskau, Maria Stader, Rita Streich & RIAS Symphonie-Orchester Berlin",
@@ -2361,7 +2361,7 @@
     ]
     },
     {
-    "id": "angel-rigoletto-callas-serafin-1956",
+    "id": "26",
     "section": "1-A",
     "title": "Verdi: Rigoletto",
     "artist": "Tullio Serafin (Director), Maria Callas, Giuseppe Di Stefano, Tito Gobbi & Orchestra del Teatro alla Scala",
@@ -2423,7 +2423,7 @@
     ]
     },
     {
-    "id": "met-ernani-mitropoulos-1956",
+    "id": "27",
     "section": "1-A",
     "title": "Verdi: Ernani",
     "artist": "Dimitri Mitropoulos (Director), Mario Del Monaco, Zinka Milanov, Leonard Warren, Cesare Siepi & Metropolitan Opera Orchestra",
@@ -2463,7 +2463,7 @@
     ]
     },
     {
-    "id": "dg-brahms-requiem-lehmann-1955",
+    "id": "28",
     "section": "1-A",
     "title": "Brahms: Ein Deutsches Requiem",
     "artist": "Fritz Lehmann (Director), Maria Stader, Otto Wiener & Berliner Philharmoniker",
@@ -2503,7 +2503,7 @@
     ]
     },
     {
-    "id": "accent-parnassus-ensemble-1978",
+    "id": "29",
     "section": "1-A",
     "title": "Parnassus Ensemble: Telemann, Händel, Galuppi, Janitsch, J.C. Bach",
     "artist": "Parnassus Ensemble (Barthold Kuijken, Paul Dombrecht, etc.)",
@@ -2544,7 +2544,7 @@
     ]
     },
     {
-    "id": "telefunken-telemann-pariser-146",
+    "id": "30",
     "section": "1-A",
     "title": "Telemann: Pariser Quartette 1 · 4 · 6 (1733)",
     "artist": "Quadro Amsterdam (Frans Brüggen, Jaap Schröder, Anner Bylsma, Gustav Leonhardt)",
@@ -2584,7 +2584,7 @@
     ]
     },
     {
-    "id": "emi-angel-telemann-paris-7-9-savall-1979",
+    "id": "31",
     "section": "1-A",
     "title": "Telemann: 'Paris' Quartets Nos. 7-9 (Nouveaux Quatuors)",
     "artist": "Hans-Martin Linde, Lucy van Dael, Jordi Savall, Alan Curtis & Pere Ros",
@@ -2624,7 +2624,7 @@
     ]
     },
     {
-    "id": "archiv-arc3198-telemann-water-music",
+    "id": "32",
     "section": "1-A",
     "title": "Telemann: Water-Music 'Hamburger Ebb und Fluht' & Chamber Music",
     "artist": "August Wenzinger (Conductor), Schola Cantorum Basiliensis & Nuremberg Chamber Music Ensemble",
@@ -2671,7 +2671,7 @@
     ]
     },
     {
-    "id": "emi-angel-telemann-paris-7-9-savall-1979",
+    "id": "33",
     "section": "1-A",
     "title": "Telemann: 'Paris' Quartets Nos. 7-9 (Nouveaux Quatuors)",
     "artist": "Hans-Martin Linde, Lucy van Dael, Jordi Savall, Alan Curtis & Pere Ros",
@@ -2711,7 +2711,7 @@
     ]
     },
     {
-    "id": "philips-telemann-oboe-holliger-1979",
+    "id": "34",
     "section": "1-A",
     "title": "Telemann: Works for Oboe (Oboenwerke)",
     "artist": "Heinz Holliger (Oboe), Christiane Jaccottet, Nicole Hostettler, Philippe Mermoud & Manfred Sax",
@@ -2758,7 +2758,7 @@
     ]
     },
     {
-    "id": "bsst-ensemble-quebec-telemann-vivaldi",
+    "id": "35",
     "section": "1-A",
     "title": "L'Ensemble Instrumental du Québec: Telemann, Vivaldi, Bach, Quantz",
     "artist": "L'Ensemble Instrumental du Québec",
@@ -2808,7 +2808,7 @@
     ]
     },
     {
-    "id": "bsst-ensemble-quebec-blue-lotti",
+    "id": "36",
     "section": "1-A",
     "title": "L'Ensemble Instrumental du Québec: Bach, Quantz, Telemann, Lotti",
     "artist": "L'Ensemble Instrumental du Québec",
@@ -2858,7 +2858,7 @@
     ]
     },
     {
-    "id": "coronet-virtuoso-horn-greer",
+    "id": "37",
     "section": "1-A",
     "title": "Virtuoso Horn Concerti (Förster, Cherubini, Telemann, Hovhaness)",
     "artist": "Lowell Greer (Horn), Eduardo Diazmuñoz (Conductor) & L'Academie Becquepegnese",
@@ -2908,7 +2908,7 @@
     ]
     },
     {
-    "id": "archiv-telemann-tafelmusik-prod2-wenzinger",
+    "id": "38",
     "section": "1-A",
     "title": "Telemann: Musique de Table (Tafelmusik) - Production II",
     "artist": "August Wenzinger (Director) & Schola Cantorum Basiliensis",
@@ -2969,7 +2969,7 @@
     ]
     },
     {
-    "id": "archiv-telemann-tafelmusik-prod3-wenzinger",
+    "id": "39",
     "section": "1-A",
     "title": "Telemann: Musique de Table (Tafelmusik) - Production III",
     "artist": "August Wenzinger (Director) & Schola Cantorum Basiliensis",
@@ -3030,7 +3030,7 @@
     ]
     },
     {
-    "id": "archiv-telemann-tafelmusik-prod1-wenzinger",
+    "id": "40",
     "section": "1-A",
     "title": "Telemann: Musique de Table (Tafelmusik) - Production I",
     "artist": "August Wenzinger (Director) & Schola Cantorum Basiliensis",
@@ -3091,7 +3091,7 @@
     ]
     },
     {
-    "id": "archiv-telemann-trumpet-scherbaum",
+    "id": "41",
     "section": "1-A",
     "title": "Telemann: Trumpet Concertos & Quartets (Die deutsche Vorklassik)",
     "artist": "Adolf Scherbaum (Trumpet), Camerata Instrumentale Hamburg & Bach-Orchester Hamburg",
@@ -3138,7 +3138,7 @@
     ]
     },
     {
-    "id": "bsst-ensemble-quebec-blue-lotti",
+    "id": "42",
     "section": "1-A",
     "title": "L'Ensemble Instrumental du Québec: Bach, Quantz, Telemann, Lotti",
     "artist": "L'Ensemble Instrumental du Québec",
@@ -3188,7 +3188,7 @@
     ]
     },
     {
-    "id": "emi-angel-telemann-paris-7-9-savall-1979",
+    "id": "43",
     "section": "1-A",
     "title": "Telemann: 'Paris' Quartets Nos. 7-9 (Nouveaux Quatuors)",
     "artist": "Hans-Martin Linde, Lucy van Dael, Jordi Savall, Alan Curtis & Pere Ros",
@@ -3228,7 +3228,7 @@
     ]
     },
     {
-    "id": "vox-dl590-telemann-3-concerti",
+    "id": "44",
     "section": "1-A",
     "title": "Telemann: 3 Concerti (Music of Five Centuries)",
     "artist": "The Telemann Society Orchestra & Richard Schulze (Director)",
@@ -3268,7 +3268,7 @@
     ]
     },
     {
-    "id": "philips-living-baroque-telemann-hurlebusch",
+    "id": "45",
     "section": "1-A",
     "title": "Telemann / Hurlebusch: Concerti Grossi",
     "artist": "Capella Clementina & Helmut Müller-Brühl (Director)",
@@ -3316,7 +3316,7 @@
     ]
     },
     {
-    "id": "archiv-telemann-kammerkonzerte-goebel-1979",
+    "id": "46",
     "section": "1-A",
     "title": "Telemann: Kammerkonzerte (Chamber Concertos)",
     "artist": "Musica Antiqua Köln & Reinhard Goebel (Director)",
@@ -3363,7 +3363,7 @@
     ]
     },
     {
-    "id": "da-camera-magna-telemann-flute-tanguy",
+    "id": "47",
     "section": "1-A",
     "title": "Telemann: Flötenkonzerte (Flute Concertos)",
     "artist": "Jean-Michel Tanguy (Flute), Jerry Felmlee & Heidelberger Kammerorchester",
@@ -3403,7 +3403,7 @@
     ]
     },
     {
-    "id": "da-camera-magna-telemann-4-violins",
+    "id": "48",
     "section": "1-A",
     "title": "Telemann: Konzert A-Dur für 4 Violinen (Concerto for 4 Violins)",
     "artist": "Bernhard Usedruuf (Director), Heidelberger Kammerorchester & Solistas (Adorján, Schützeichel, Germann, Naegele, Carmirelli, Fülop, Hori)",
@@ -3443,7 +3443,7 @@
     ]
     },
     {
-    "id": "vanguard-bach-guild-telemann-janigro-1966",
+    "id": "49",
     "section": "1-A",
     "title": "The Baroque Art of Telemann",
     "artist": "I Solisti di Zagreb & Antonio Janigro (Director)",
@@ -3490,7 +3490,7 @@
     ]
     },
     {
-    "id": "archiv-telemann-wind-concertos-camerata-bern",
+    "id": "50",
     "section": "1-A",
     "title": "Telemann: Bläserkonzerte (Wind Concertos)",
     "artist": "Camerata Bern, Heinz Holliger (Oboe), Aurèle Nicolet (Flute) & Michael Copley (Recorder)",
@@ -3537,7 +3537,7 @@
     ]
     },
     {
-    "id": "discophiles-francais-telemann-flute-rampal",
+    "id": "51",
     "section": "1-A",
     "title": "Telemann: Concertos pour flûte et orchestre",
     "artist": "Jean-Pierre Rampal (Flute), Orchestre de Chambre de la Sarre & Karl Ristenpart (Conductor)",
@@ -3577,7 +3577,7 @@
     ]
     },
     {
-    "id": "archiv-198198-telemann-wassermusik",
+    "id": "52",
     "section": "1-A",
     "title": "Telemann: Wassermusik »Hamburger Ebb und Fluht«",
     "artist": "August Wenzinger (Director), Schola Cantorum Basiliensis & Nürnberger Kammermusikkreis",
@@ -3624,7 +3624,7 @@
     ]
     },
     {
-    "id": "vanguard-bg575-telemann-solisti-zagreb",
+    "id": "53",
     "section": "1-A",
     "title": "I Solisti di Zagreb play Telemann",
     "artist": "I Solisti di Zagreb & Antonio Janigro (Director)",
@@ -3678,7 +3678,7 @@
     ]
     },
     {
-    "id": "vanguard-bgs5048-virtuoso-flute-baker",
+    "id": "54",
     "section": "1-A",
     "title": "The Virtuoso Flute: Telemann & Mozart",
     "artist": "Julius Baker (Flute), Hubert Jelinek (Harp), I Solisti di Zagreb & Antonio Janigro (Director)",
@@ -3747,7 +3747,7 @@
     ]
     },
     {
-    "id": "erato-telemann-cuatro-conciertos-redel",
+    "id": "55",
     "section": "1-A",
     "title": "Telemann: Cuatro Conciertos (Quatre Concertos)",
     "artist": "Kurt Redel (Director/Flauta), Adolf Scherbaum (Trompeta), Kurt Kalmus (Oboe), Georg Schmid (Viola) & Orquesta de Cámara Pro Arte de Múnich",
@@ -3794,7 +3794,7 @@
     ]
     },
     {
-    "id": "erato-telemann-quatre-concertos-auriacombe",
+    "id": "56",
     "section": "1-A",
     "title": "Telemann: Quatre Concertos (Four Concertos)",
     "artist": "Orchestre de Chambre de Toulouse & Louis Auriacombe (Director)",
@@ -3841,7 +3841,7 @@
     ]
     },
     {
-    "id": "archiv-arc3198-telemann-water-music",
+    "id": "57",
     "section": "1-A",
     "title": "Telemann: Water-Music 'Hamburger Ebb und Fluht' & Chamber Music",
     "artist": "August Wenzinger (Conductor), Schola Cantorum Basiliensis & Nuremberg Chamber Music Ensemble",
@@ -3888,7 +3888,7 @@
     ]
     },
     {
-    "id": "erato-vivaldi-orlando-furioso-scimone-1978",
+    "id": "58",
     "section": "1-A",
     "title": "Vivaldi: Orlando Furioso (Prima Registrazione Mondiale)",
     "artist": "Claudio Scimone (Director), Marilyn Horne, Victoria de los Angeles, Lucia Valentini-Terrani & I Solisti Veneti",
@@ -3971,7 +3971,7 @@
     ]
     },
     {
-    "id": "philips-vivaldi-geistliche-chorwerk-negri",
+    "id": "59",
     "section": "1-A",
     "title": "Vivaldi: Das Geistliche Chorwerk (Sacred Choral Music) Vol. 1 & 2",
     "artist": "Vittorio Negri (Director), Margaret Marshall, Ann Murray, Felicity Collins, Anthony Rolfe Johnson, Robert Holl, John Alldis Choir & English Chamber Orchestra",
@@ -4046,7 +4046,7 @@
     ]
     },
     {
-    "id": "philips-vivaldi-juditha-triumphans-negri-1975",
+    "id": "60",
     "section": "1-A",
     "title": "Vivaldi: Juditha Triumphans (Oratorio)",
     "artist": "Vittorio Negri (Director), Birgit Finnilä, Elly Ameling, Ingeborg Springer, Julia Hamari & Kammerorchester Berlin",
@@ -4150,7 +4150,7 @@
     ]
     },
     {
-    "id": "musica-rediviva-vivaldi-la-fida-ninfa-monterosso",
+    "id": "61",
     "section": "1-A",
     "title": "Vivaldi: La Fida Ninfa (Opera in Three Acts)",
     "artist": "Raffaello Monterosso (Director), Rena Garazioti, Carmen Repetto, Mafalda Micheluzzi & Orchestra da Camera di Milano",
@@ -4503,7 +4503,7 @@
 },
 {
   "id": "dg-huberman-festival-mehta-1982",
-  "section": "1-A",
+  "section": "1-B",
   "title": "Das Gipfeltreffen der großen Geiger (The Huberman Festival)",
   "artist": "Zubin Mehta (Director), Isaac Stern, Itzhak Perlman, Pinchas Zukerman, Shlomo Mintz & Israel Philharmonic Orchestra",
   "releaseYear": 1983,
@@ -16951,6 +16951,2146 @@
 
 
 
+{
+  "id": "westminster-vaughan-williams-old-king-cole-boult",
+  "section": "1-E",
+  "title": "Old King Cole / The Wasps (Aristophanic Suite)",
+  "artist": "Philharmonic Promenade Orchestra & Sir Adrian Boult (Conductor)",
+  "releaseYear": 1954,
+  "genre": "Música Clásica",
+  "subGenre": "Ballet y Música Incidental Británica",
+  "totalDuration": "41m 20s",
+  "label": "Westminster Hi-Fi",
+  "format": "Vinyl / Mono / LP / Natural Balance",
+  "catalogNumber": "XWN 18251",
+  "coverUrl": "https://i.discogs.com/aTox_rH7uwaFOWkCdVB21DZ8MQE7YG3-cBR6gPnrKw8/rs:fit/g:sm/q:90/h:600/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjA2/MzI5LTE1NTgyODU4/OTktODQ3NS5qcGVn.jpeg",
+  "composers": [
+    "Ralph Vaughan Williams"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Old King Cole (A Ballet for Orchestra)",
+      "duration": "20:15",
+      "act": "Lado A",
+      "composer": "Ralph Vaughan Williams"
+    },
+    {
+      "id": 2,
+      "title": "The Wasps - Aristophanic Suite: I. Overture; II. Entr'acte; III. March Past of the Kitchen Utensils; IV. Entr'acte; V. Ballet and Final Tableau",
+      "duration": "21:05",
+      "act": "Lado B",
+      "composer": "Ralph Vaughan Williams"
+    }
+  ]
+},
+{
+  "id": "vanguard-vaughan-williams-dona-nobis-abravanel",
+  "section": "1-E",
+  "title": "Vaughan Williams: Dona Nobis Pacem / Flos Campi",
+  "artist": "Blanche Christensen (Soprano), William Metcalf (Baritone), Sally Peck Lentz (Viola), Utah Symphony Orchestra & Maurice Abravanel (Conductor)",
+  "releaseYear": 1966,
+  "genre": "Música Clásica",
+  "subGenre": "Música Coral y Orquestal Británica",
+  "totalDuration": "51m 30s",
+  "label": "Vanguard Recordings for the Connoisseur",
+  "format": "Vinyl / Stereo / LP",
+  "catalogNumber": "VSD-71159",
+  "coverUrl": "https://i.discogs.com/6Q5gcjSu3z8xZXpTVgr5_a2gUJw0KErUsrl19c6Tkec/rs:fit/g:sm/q:90/h:600/w:579/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MDky/NDIwLTE3MDE1NTM0/ODYtNDI0NC5qcGVn.jpeg",
+  "composers": [
+    "Ralph Vaughan Williams"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Dona Nobis Pacem (Cantata for Soprano and Baritone Soli, Chorus and Orchestra)",
+      "duration": "32:15",
+      "act": "Lado A",
+      "composer": "Ralph Vaughan Williams"
+    },
+    {
+      "id": 2,
+      "title": "Flos Campi (Suite for Solo Viola, Small Chorus and Orchestra)",
+      "duration": "19:15",
+      "act": "Lado B",
+      "composer": "Ralph Vaughan Williams"
+    }
+  ]
+},
+{
+  "id": "london-vaughan-williams-g-minor-mass-britten-canterbury",
+  "section": "1-E",
+  "title": "Vaughan Williams: G Minor Mass / Benjamin Britten: A Ceremony of Carols",
+  "artist": "The Choristers of Canterbury Cathedral, The Renaissance Singers & Dr. Sidney Campbell (Director)",
+  "releaseYear": 1962,
+  "genre": "Música Clásica / Coral",
+  "subGenre": "Música Sacra Británica",
+  "totalDuration": "48m 35s",
+  "label": "London Records",
+  "format": "Vinyl / Stereo / LP",
+  "catalogNumber": "OS 25271",
+  "coverUrl": "https://i.discogs.com/2IfkD8v6fYKOXW4zxt7XMCtx8JF8lN94RsSd3hwy7MI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzk1/NzQ5LTE1NTM0NDA3/MzMtNDU5My5qcGVn.jpeg",
+  "composers": [
+    "Ralph Vaughan Williams",
+    "Benjamin Britten"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Vaughan Williams: Mass in G Minor: I. Kyrie; II. Gloria; III. Credo; IV. Sanctus; V. Benedictus; VI. Agnus Dei",
+      "duration": "25:40",
+      "act": "Lado A",
+      "composer": "Ralph Vaughan Williams"
+    },
+    {
+      "id": 2,
+      "title": "Britten: A Ceremony of Carols, Op. 28",
+      "duration": "22:55",
+      "act": "Lado B",
+      "composer": "Benjamin Britten"
+    }
+  ]
+},
+{
+  "id": "philips-wagner-bayreuther-festspiele-knappertsbusch",
+  "section": "1-E",
+  "title": "Wagner: Der Fliegende Holländer / Tannhäuser / Parsifal",
+  "artist": "Grace Bumbry, George London, Anja Silja, Wolfgang Windgassen, Bayreuther Festspiele Orchester & Chor, Hans Knappertsbusch & Wolfgang Sawallisch (Conductors)",
+  "releaseYear": 1966,
+  "genre": "Música Clásica / Ópera",
+  "subGenre": "Romanticismo Alemán / Grabaciones en Vivo",
+  "label": "Philips",
+  "format": "Vinyl / Box Set / Stereo",
+  "catalogNumber": "6723 001",
+  "coverUrl": "https://i.discogs.com/ipTKzhUcVozaih0-UYfOaE1zDbydspM2bwN_knLcQgU/rs:fit/g:sm/q:40/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTI4/MDEzLTE1ODc3Mzg5/NjQtNjI5Mi5qcGVn.jpeg",
+  "composers": [
+    "Richard Wagner"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Der Fliegende Holländer (The Flying Dutchman)",
+      "duration": "Grabación completa",
+      "composer": "Richard Wagner"
+    },
+    {
+      "id": 2,
+      "title": "Tannhäuser",
+      "duration": "Grabación completa",
+      "composer": "Richard Wagner"
+    },
+    {
+      "id": 3,
+      "title": "Parsifal",
+      "duration": "Grabación completa",
+      "composer": "Richard Wagner"
+    }
+  ]
+},
+{
+  "id": "telefunken-wagner-modl-blatter-rother",
+  "section": "1-E",
+  "title": "Wagner: Isolde's Narration from 'Tristan und Isolde' (Act 1) / Brünnhilde's Immolation from 'Die Götterdämmerung' (Act 3)",
+  "artist": "Martha Mödl (Soprano), Johanna Blatter (Mezzo-soprano), Orchestra of the Städtische Oper, Berlin & Artur Rother (Conductor)",
+  "releaseYear": 1955,
+  "genre": "Música Clásica / Ópera",
+  "subGenre": "Romanticismo Alemán",
+  "totalDuration": "38m 45s",
+  "label": "Telefunken",
+  "format": "Vinyl / Mono / LP / Long playing microgroove flexible record",
+  "catalogNumber": "LGX 66036",
+  "coverUrl": "https://i.discogs.com/qQu_CCA8xah5TIvWr_4RO1tCeVSzA3JmuyF_Z8_Jtic/rs:fit/g:sm/q:90/h:600/w:580/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODc4/NzU1LTE1NjY0OTY3/NjctOTMzOC5qcGVn.jpeg",
+  "composers": [
+    "Richard Wagner"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Isolde's Narration and Curse (Tristan und Isolde, Act 1)",
+      "duration": "18:20",
+      "act": "Lado A",
+      "composer": "Richard Wagner"
+    },
+    {
+      "id": 2,
+      "title": "Brünnhilde's Immolation Scene (Die Götterdämmerung, Act 3)",
+      "duration": "20:25",
+      "act": "Lado B",
+      "composer": "Richard Wagner"
+    }
+  ]
+},
+{
+  "id": "angel-roger-wagner-chorale-salve-regina",
+  "section": "1-E",
+  "title": "Salve Regina: Choral Masterpieces of the 16th and 17th Centuries",
+  "artist": "The Roger Wagner Chorale & Roger Wagner (Conductor)",
+  "releaseYear": 1960,
+  "genre": "Música Clásica / Coral",
+  "subGenre": "Música Sacra / Renacimiento y Barroco",
+  "totalDuration": "44m 30s",
+  "label": "Angel Records",
+  "format": "Vinyl / Stereo / LP",
+  "catalogNumber": "S-36008",
+  "coverUrl": "https://ia904503.us.archive.org/BookReader/BookReaderImages.php?zip=/19/items/lp_salve-regina-choral-music-of-the-spanish-n_the-roger-wagner-chorale/lp_salve-regina-choral-music-of-the-spanish-n_the-roger-wagner-chorale_jp2.zip&file=lp_salve-regina-choral-music-of-the-spanish-n_the-roger-wagner-chorale_jp2/lp_salve-regina-choral-music-of-the-spanish-n_the-roger-wagner-chorale_0000.jp2&id=lp_salve-regina-choral-music-of-the-spanish-n_the-roger-wagner-chorale",
+  "composers": [
+    "Tomás Luis de Victoria",
+    "Giovanni Pierluigi da Palestrina",
+    "Josquin des Prez",
+    "Gregor Aichinger",
+    "Ingegneri",
+    "Viadana",
+    "Lotti"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Victoria: Salve Regina",
+      "duration": "06:15",
+      "act": "Lado A",
+      "composer": "Tomás Luis de Victoria"
+    },
+    {
+      "id": 2,
+      "title": "Palestrina: Super Flumina Babylonis",
+      "duration": "04:30",
+      "act": "Lado A",
+      "composer": "Giovanni Pierluigi da Palestrina"
+    },
+    {
+      "id": 3,
+      "title": "Josquin des Prez: Ave Vera Virginitas",
+      "duration": "03:10",
+      "act": "Lado A",
+      "composer": "Josquin des Prez"
+    },
+    {
+      "id": 4,
+      "title": "Aichinger: Regina Coeli",
+      "duration": "02:45",
+      "act": "Lado A",
+      "composer": "Gregor Aichinger"
+    },
+    {
+      "id": 5,
+      "title": "Lotti: Crucifixus",
+      "duration": "04:10",
+      "act": "Lado B",
+      "composer": "Antonio Lotti"
+    },
+    {
+      "id": 6,
+      "title": "Viadana: Exsultate Justi",
+      "duration": "02:25",
+      "act": "Lado B",
+      "composer": "Lodovico Grossi da Viadana"
+    }
+  ]
+},
+{
+  "id": "decca-virtuosi-di-roma-fasano-reali-marcello",
+  "section": "1-E",
+  "title": "Virtuosi di Roma: Reali · Marcello · Albinoni · Vinci · Porpora",
+  "artist": "Virtuosi di Roma & Renato Fasano (Director)",
+  "releaseYear": 1954,
+  "genre": "Música Clásica",
+  "subGenre": "Barroco Italiano",
+  "totalDuration": "42m 10s",
+  "label": "Decca Gold Label Series",
+  "format": "Vinyl / Mono / LP",
+  "catalogNumber": "DL 9731",
+  "coverUrl": "https://ph-test-11.slatic.net/p/51d9bcc79216530ec502d25771c67a3f.jpg",
+  "composers": [
+    "Giovanni Reali",
+    "Alessandro Marcello",
+    "Tomaso Albinoni",
+    "Leonardo Vinci",
+    "Nicola Porpora"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Reali: La Follia (Theme and Variations for Strings and Cembalo)",
+      "duration": "09:45",
+      "act": "Lado A",
+      "composer": "Giovanni Reali"
+    },
+    {
+      "id": 2,
+      "title": "Marcello: Introduction, Aria and Presto for Strings",
+      "duration": "08:20",
+      "act": "Lado A",
+      "composer": "Alessandro Marcello"
+    },
+    {
+      "id": 3,
+      "title": "Albinoni: Concerto in D Minor, Op. 9, No. 2 for Oboe and Strings",
+      "duration": "12:15",
+      "act": "Lado B",
+      "composer": "Tomaso Albinoni"
+    },
+    {
+      "id": 4,
+      "title": "Vinci: Danza Antiche for Strings (Sarabande - Minuet - Gavotte)",
+      "duration": "06:30",
+      "act": "Lado B",
+      "composer": "Leonardo Vinci"
+    },
+    {
+      "id": 5,
+      "title": "Porpora: Aria for Cello and Strings",
+      "duration": "05:20",
+      "act": "Lado B",
+      "composer": "Nicola Porpora"
+    }
+  ]
+},
+{
+  "id": "seraphim-flagstad-moore-wagner-brahms-grieg",
+  "section": "1-E",
+  "title": "Kirsten Flagstad: Wagner: Wesendonck Lieder / Brahms: 2 Songs, Op. 91 / Grieg: 4 Songs",
+  "artist": "Kirsten Flagstad (Soprano), Gerald Moore (Piano) & Herbert Downes (Viola)",
+  "releaseYear": 1960,
+  "genre": "Música Clásica / Vocal",
+  "subGenre": "Lieder / Canción Artística",
+  "totalDuration": "45m 20s",
+  "label": "Seraphim",
+  "format": "Vinyl / Mono / LP",
+  "catalogNumber": "60046",
+  "coverUrl": "https://i.discogs.com/IeNUIJ10YEe7pM6Bvd2QMLkl9e7sC3VakiJzDsqZb1U/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDky/NTc4LTE1OTI0MzQy/OTEtMzcxMS5qcGVn.jpeg",
+  "composers": [
+    "Richard Wagner",
+    "Johannes Brahms",
+    "Edvard Grieg"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Wagner: Wesendonck Lieder (Original Version): I. Der Engel; II. Stehe still!; III. Im Treibhaus; IV. Schmerzen; V. Träume",
+      "duration": "21:35",
+      "act": "Lado A",
+      "composer": "Richard Wagner"
+    },
+    {
+      "id": 2,
+      "title": "Brahms: 2 Songs, Op. 91: I. Gestillte Sehnsucht; II. Geistliches Wiegenlied",
+      "duration": "11:45",
+      "act": "Lado B",
+      "composer": "Johannes Brahms"
+    },
+    {
+      "id": 3,
+      "title": "Grieg: 4 Songs: I. Autumn Storms; II. And I Will Take a Lover; III. I Give My Song to the Spring; IV. To One, Part 1",
+      "duration": "12:00",
+      "act": "Lado B",
+      "composer": "Edvard Grieg"
+    }
+  ]
+},
+{
+  "id": "telefunken-famous-wagner-interpreters-berlin-bayreuth",
+  "section": "1-E",
+  "title": "Berühmte Wagner-Interpreten / Famous Wagner Interpreters: Berlin 1933 - Bayreuth 1936",
+  "artist": "Maria Müller, Margarethe Klose, Rudolf Bockelmann, Max Lorenz, Helge Roswaenge",
+  "releaseYear": 1970,
+  "genre": "Música Clásica / Ópera",
+  "subGenre": "Grabaciones Históricas / Romanticismo Alemán",
+  "totalDuration": "46m 15s",
+  "label": "Telefunken",
+  "format": "Vinyl / Mono / LP",
+  "catalogNumber": "KT 11017",
+  "coverUrl": "https://m.media-amazon.com/images/I/51QHPJ74niL._UF1000,1000_QL80_.jpg",
+  "composers": [
+    "Richard Wagner"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Extractos de: Die Meistersinger von Nürnberg, Lohengrin, Tannhäuser, Die Walküre",
+      "duration": "46:15",
+      "act": "Lados A y B",
+      "composer": "Richard Wagner"
+    }
+  ]
+},
+{
+  "id": "angel-wagner-dutchman-walkure-hotter-nilsson-ludwig",
+  "section": "1-E",
+  "title": "Wagner: Excerpts from 'The Flying Dutchman' and 'Die Walküre'",
+  "artist": "Hans Hotter (Baritone), Birgit Nilsson (Soprano), Philharmonia Orchestra & Leopold Ludwig (Conductor)",
+  "releaseYear": 1959,
+  "genre": "Música Clásica / Ópera",
+  "subGenre": "Romanticismo Alemán",
+  "totalDuration": "48m 20s",
+  "label": "Angel Records",
+  "format": "Vinyl / Mono / LP / Thrift Edition",
+  "catalogNumber": "Angel 35585",
+  "coverUrl": "/disco_generico.png",
+  "composers": [
+    "Richard Wagner"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "The Flying Dutchman: Act 2, Scene 3: 'Wie aus der Ferne'",
+      "duration": "16:45",
+      "act": "Lado A",
+      "composer": "Richard Wagner"
+    },
+    {
+      "id": 2,
+      "title": "Die Walküre: Act 3, Scene 3: 'War es so schmählich?' / 'Deinen leichten Sinn'",
+      "duration": "14:20",
+      "act": "Lado B",
+      "composer": "Richard Wagner"
+    },
+    {
+      "id": 3,
+      "title": "Die Walküre: Act 3, Scene 3: 'Leb' wohl, du kühnes, herrliches Kind!' (Wotan's Farewell and Magic Fire Music)",
+      "duration": "17:15",
+      "act": "Lado B",
+      "composer": "Richard Wagner"
+    }
+  ]
+},
+{
+  "id": "angel-wagner-tannhauser-gotterdammerung-grummer-frick",
+  "section": "1-E",
+  "title": "Wagner: Great Scenes from 'Tannhäuser' and 'Götterdämmerung'",
+  "artist": "Elisabeth Grümmer (Soprano), Gottlob Frick (Bass), Orchestra and Chorus of the German State Opera Berlin & Franz Konwitschny (Conductor)",
+  "releaseYear": 1961,
+  "genre": "Música Clásica / Ópera",
+  "subGenre": "Romanticismo Alemán",
+  "totalDuration": "49m 10s",
+  "label": "Angel Records",
+  "format": "Vinyl / Stereo / LP",
+  "catalogNumber": "S-35844",
+  "coverUrl": "https://i.discogs.com/P73OKPW6PoG3FH4mjelPVmRWix78RwyHYxYtLL2x_HI/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzMDI5/ODYtMTQ1ODk3MDk2/OC0xMjkyLmpwZWc.jpeg",
+  "composers": [
+    "Richard Wagner"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Tannhäuser: Dich, teure Halle (Entry of Elisabeth); Freudig begrüssen (Grand March)",
+      "duration": "14:20",
+      "act": "Lado A",
+      "composer": "Richard Wagner"
+    },
+    {
+      "id": 2,
+      "title": "Götterdämmerung: Hier sitz' ich zur Wacht (Hagen's Watch); Hoiho! Hoiho! (Hagen's Call to the Vassals)",
+      "duration": "12:45",
+      "act": "Lado B",
+      "composer": "Richard Wagner"
+    }
+  ]
+},
+{
+  "id": "rca-victor-wagner-schumann-flagstad-melchior-lehmann",
+  "section": "1-E",
+  "title": "Wagner: Kundry-Parsifal Duet / Prologue to Die Götterdämmerung / Schumann: Five Duets",
+  "artist": "Kirsten Flagstad, Lauritz Melchior, Lotte Lehmann",
+  "releaseYear": 1964,
+  "genre": "Música Clásica / Vocal",
+  "subGenre": "Grabaciones Históricas / Ópera / Lieder",
+  "totalDuration": "46m 30s",
+  "label": "RCA Victor Red Seal",
+  "format": "Vinyl / Mono / LP",
+  "catalogNumber": "LM-2763",
+  "coverUrl": "https://m.media-amazon.com/images/I/912kWmSz9oL.jpg",
+  "composers": [
+    "Richard Wagner",
+    "Robert Schumann"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Wagner: Parsifal: Act 2: Kundry-Parsifal Duet",
+      "duration": "18:45",
+      "act": "Lado A",
+      "composer": "Richard Wagner"
+    },
+    {
+      "id": 2,
+      "title": "Wagner: Die Götterdämmerung: Prologue: Zu neuen Taten",
+      "duration": "11:20",
+      "act": "Lado A",
+      "composer": "Richard Wagner"
+    },
+    {
+      "id": 3,
+      "title": "Schumann: Five Duets: I. Er und sie; II. Familien-Gemälde; III. Ich denke dein; IV. So wahr die Sonne scheinet; V. Unterm Fenster",
+      "duration": "16:25",
+      "act": "Lado B",
+      "composer": "Robert Schumann"
+    }
+  ]
+},
+{
+  "id": "rca-victor-flagstad-melchior-tristan-lohengrin",
+  "section": "1-E",
+  "title": "Wagner: Tristan and Isolde: Love Duet / Lohengrin: Bridal Chamber Scene",
+  "artist": "Kirsten Flagstad (Soprano), Lauritz Melchior (Tenor) & San Francisco Symphony Orchestra",
+  "releaseYear": 1962,
+  "genre": "Música Clásica / Ópera",
+  "subGenre": "Grabaciones Históricas / Romanticismo Alemán",
+  "totalDuration": "42m 15s",
+  "label": "RCA Victor Red Seal",
+  "format": "Vinyl / Mono / LP",
+  "catalogNumber": "LM-2618",
+  "coverUrl": "https://i.discogs.com/Ko-8y7vmlBeKXqUnQNE1pnLtl_PH3kn0dtXyed3_XCA/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTg4/Mzc3LTE1NDYwNDI1/OTAtMzk1MC5qcGVn.jpeg",
+  "composers": [
+    "Richard Wagner"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Tristan and Isolde: Love Duet (Act 2)",
+      "duration": "22:10",
+      "act": "Lado A",
+      "composer": "Richard Wagner"
+    },
+    {
+      "id": 2,
+      "title": "Lohengrin: Bridal Chamber Scene (Act 3)",
+      "duration": "20:05",
+      "act": "Lado B",
+      "composer": "Richard Wagner"
+    }
+  ]
+},
+{
+  "id": "odyssey-wagner-tristan-melchior-traubel",
+  "section": "1-E",
+  "title": "Wagner: Tristan and Isolde (Excerpts)",
+  "artist": "Lauritz Melchior (Tenor), Helen Traubel (Soprano), Columbia Opera Orchestra & Artur Rodzinski (Conductor)",
+  "releaseYear": 1968,
+  "genre": "Música Clásica / Ópera",
+  "subGenre": "Grabaciones Históricas / Romanticismo Alemán",
+  "totalDuration": "47m 15s",
+  "label": "Odyssey (Columbia)",
+  "format": "Vinyl / Mono / LP / Legendary Performances",
+  "catalogNumber": "32 16 0145",
+  "coverUrl": "https://i.discogs.com/gNtxWEUIWSb6rvi1YitidAnsgj9OJqQR7oR9PDAp0zY/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwNDcz/MDItMTY4MzI0MjAw/NS04NzQ3LmpwZWc.jpeg",
+  "composers": [
+    "Richard Wagner"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Act I: Isolde's Narrative and Curse",
+      "duration": "14:20",
+      "act": "Lado A",
+      "composer": "Richard Wagner"
+    },
+    {
+      "id": 2,
+      "title": "Act II: O König",
+      "duration": "08:15",
+      "act": "Lado A",
+      "composer": "Richard Wagner"
+    },
+    {
+      "id": 3,
+      "title": "Act III: Scene One (Complete); O diese Sonne!; Liebestod",
+      "duration": "24:40",
+      "act": "Lado B",
+      "composer": "Richard Wagner"
+    }
+  ]
+},
+{
+  "id": "hmv-wagner-siegfried-gotterdammerung-flagstad-svanholm",
+  "section": "1-E",
+  "title": "Wagner: Siegfried - Awakening Scene / Die Götterdämmerung - Brünnhilde's Immolation",
+  "artist": "Kirsten Flagstad (Soprano), Set Svanholm (Tenor), Philharmonia Orchestra, Wilhelm Furtwängler & George Sebastian (Conductors)",
+  "releaseYear": 1954,
+  "genre": "Música Clásica / Ópera",
+  "subGenre": "Romanticismo Alemán / Grabaciones Históricas",
+  "totalDuration": "40m 15s",
+  "label": "His Master's Voice (RCA Victor)",
+  "format": "Vinyl / Mono / LP / Long Play 33 1/3",
+  "catalogNumber": "LHMV-1072",
+  "coverUrl": "https://i.discogs.com/HKhXe_EgE7kxs1JtcR5UWWMJCiQC5A_n8l9oOvflg7g/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMzA1/NzUtMTU1NzgzODU5/Mi0yODEzLmpwZWc.jpeg",
+  "composers": [
+    "Richard Wagner"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Siegfried: Act 3, Scene 3: Awakening Scene ('Heil dir, Sonne!')",
+      "duration": "21:30",
+      "act": "Lado A",
+      "composer": "Richard Wagner"
+    },
+    {
+      "id": 2,
+      "title": "Die Götterdämmerung: Act 3, Scene 3: Brünnhilde's Immolation ('Starke Scheite schichtet mir dort')",
+      "duration": "18:45",
+      "act": "Lado B",
+      "composer": "Richard Wagner"
+    }
+  ]
+},
+{
+  "id": "angel-leider-melchior-operatic-scenes-arias",
+  "section": "1-E",
+  "title": "Frida Leider • Lauritz Melchior: Operatic Scenes & Arias (Recorded 1928-1931)",
+  "artist": "Frida Leider (Soprano), Lauritz Melchior (Tenor), various orchestras and conductors",
+  "releaseYear": 1963,
+  "genre": "Música Clásica / Ópera",
+  "subGenre": "Grabaciones Históricas / Wagner / Gluck / Beethoven / Mozart",
+  "totalDuration": "48m 15s",
+  "label": "Angel Records",
+  "format": "Vinyl / Mono / LP / Great Recordings of the Century",
+  "catalogNumber": "COLH 132",
+  "coverUrl": "https://i.discogs.com/yEJ35IZ9D_x3KqP9H806-94utMJIoDUbB68Ka-cLBAU/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyOTMy/OTAtMTUyNzUyNjk3/OS0zNTIwLmpwZWc.jpeg",
+  "composers": [
+    "Richard Wagner",
+    "Christoph Willibald Gluck",
+    "Ludwig van Beethoven",
+    "Wolfgang Amadeus Mozart"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Wagner: Tristan und Isolde: Isolde's Narrative and Curse; Love Duet; O König; Wohin nun Tristan scheidet; Und darf Isolde; Wie sie selig",
+      "duration": "24:10",
+      "act": "Lado A",
+      "composer": "Richard Wagner"
+    },
+    {
+      "id": 2,
+      "title": "Wagner: Parsifal: Ich sah' das Kind",
+      "duration": "05:15",
+      "act": "Lado B",
+      "composer": "Richard Wagner"
+    },
+    {
+      "id": 3,
+      "title": "Gluck: Armide: Ah! si la liberté",
+      "duration": "04:20",
+      "act": "Lado B",
+      "composer": "Christoph Willibald Gluck"
+    },
+    {
+      "id": 4,
+      "title": "Beethoven: Fidelio: Abscheulicher! wo eilst du hin? ... Komm, Hoffnung!",
+      "duration": "07:30",
+      "act": "Lado B",
+      "composer": "Ludwig van Beethoven"
+    },
+    {
+      "id": 5,
+      "title": "Mozart: Don Giovanni: Or sai chi l'onore",
+      "duration": "07:00",
+      "act": "Lado B",
+      "composer": "Wolfgang Amadeus Mozart"
+    }
+  ]
+},
+{
+  "id": "arkadia-wagner-melodies-francaises-denize",
+  "section": "1-E",
+  "title": "Wagner: Les mélodies françaises / Les lieder",
+  "artist": "Nadine Denize (Mezzo-soprano) & Jean-Philippe Collard (Piano)",
+  "releaseYear": 1978,
+  "genre": "Música Clásica / Vocal",
+  "subGenre": "Mélodie Française / Lieder",
+  "totalDuration": "42m 40s",
+  "label": "Arkadia / Aristocrate",
+  "format": "Vinyl / Stereo / LP",
+  "catalogNumber": "LAR 17",
+  "coverUrl": "https://i.discogs.com/1Es8EDi7M8_Ac3BGn-VTT2fX8F2GfGb-AsbsBzxkZmk/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDEx/MTE3LTE2MTQ0NTAw/MDctMTIwNy5qcGVn.jpeg",
+  "composers": [
+    "Richard Wagner"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Les mélodies françaises: Mignonne; Tout n'est qu'images fugitives; Les deux grenadiers; Dors, mon enfant; Attente; Adieux de Marie Stuart",
+      "duration": "22:15",
+      "act": "Lado A",
+      "composer": "Richard Wagner"
+    },
+    {
+      "id": 2,
+      "title": "Wesendonck Lieder: Der Engel; Stehe Still!; Im Treibhaus; Schmerzen; Träume",
+      "duration": "20:25",
+      "act": "Lado B",
+      "composer": "Richard Wagner"
+    }
+  ]
+},
+{
+  "id": "seraphim-flagstad-svanholm-three-scenes-wagner",
+  "section": "1-E",
+  "title": "Three Scenes from Wagner",
+  "artist": "Kirsten Flagstad (Soprano), Set Svanholm (Tenor), Philharmonia Orchestra",
+  "releaseYear": 1960,
+  "genre": "Música Clásica / Ópera",
+  "subGenre": "Romanticismo Alemán / Grabaciones Históricas",
+  "totalDuration": "45m 30s",
+  "label": "Seraphim",
+  "format": "Vinyl / Mono / LP / A Seraphim Classic",
+  "catalogNumber": "60082",
+  "coverUrl": "https://http2.mlstatic.com/D_NQ_NP_602031-MLM45134088718_032021-O.webp",
+  "composers": [
+    "Richard Wagner"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Tristan und Isolde: Isolde's Narrative and Curse (Act 1)",
+      "duration": "14:50",
+      "act": "Lado A",
+      "composer": "Richard Wagner"
+    },
+    {
+      "id": 2,
+      "title": "Die Walküre: Act 2, Scene 4 (Todesverkündigung)",
+      "duration": "15:15",
+      "act": "Lado B",
+      "composer": "Richard Wagner"
+    },
+    {
+      "id": 3,
+      "title": "Siegfried: Brünnhilde's Awakening (Act 3, Scene 3)",
+      "duration": "15:25",
+      "act": "Lado B",
+      "composer": "Richard Wagner"
+    }
+  ]
+},
+{
+  "id": "dg-max-lorenz-singt-wagner-historische",
+  "section": "1-E",
+  "title": "Die Grossen Ihrer Zeit: Max Lorenz singt aus Opern von Richard Wagner",
+  "artist": "Max Lorenz (Tenor), various orchestras and conductors",
+  "releaseYear": 1960,
+  "genre": "Música Clásica / Ópera",
+  "subGenre": "Grabaciones Históricas / Romanticismo Alemán",
+  "totalDuration": "44m 50s",
+  "label": "Deutsche Grammophon Gesellschaft",
+  "format": "Vinyl / Mono / LP / Historische Aufnahmen",
+  "catalogNumber": "19 259",
+  "coverUrl": "https://i.discogs.com/PxMPKSY04DgL-g9Tksd-D_eBVmMBc0Z-jxXVXpuurVw/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDg5/MDE2LTE1NDc4NTU0/MzItOTI5NC5qcGVn.jpeg",
+  "composers": [
+    "Richard Wagner"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Rienzi: Allmächt'ger Vater, blick herab!",
+      "duration": "08:15",
+      "act": "Lado A",
+      "composer": "Richard Wagner"
+    },
+    {
+      "id": 2,
+      "title": "Tannhäuser: Dir töne Lob!; Inbrunst im Herzen (Rom-Erzählung)",
+      "duration": "12:30",
+      "act": "Lado A",
+      "composer": "Richard Wagner"
+    },
+    {
+      "id": 3,
+      "title": "Lohengrin: In fernem Land; Mein lieber Schwan!",
+      "duration": "09:40",
+      "act": "Lado B",
+      "composer": "Richard Wagner"
+    },
+    {
+      "id": 4,
+      "title": "Die Meistersinger von Nürnberg: Am stillen Herd; Morgendlich leuchtend (Preislied)",
+      "duration": "08:25",
+      "act": "Lado B",
+      "composer": "Richard Wagner"
+    },
+    {
+      "id": 5,
+      "title": "Siegfried: Nothung! Nothung! Neidliches Schwert!",
+      "duration": "06:00",
+      "act": "Lado B",
+      "composer": "Richard Wagner"
+    }
+  ]
+},
+{
+  "id": "mixtur-wagner-samtliche-lieder-ganady",
+  "section": "1-E",
+  "title": "Richard Wagner: Sämtliche Lieder",
+  "artist": "Brigitte Ganady (Sopran), Peter Maus (Tenor), Klaus Lang (Bass), Kammerchor Ernst Senff & Etzel Gundlich (Klavier)",
+  "releaseYear": 1983,
+  "genre": "Música Clásica / Vocal",
+  "subGenre": "Lieder / Canción Artística",
+  "totalDuration": "51m 15s",
+  "label": "Mixtur",
+  "format": "Vinyl / Stereo / LP",
+  "catalogNumber": "MIT 3004",
+  "coverUrl": "https://i.discogs.com/nfbuWnAwRle3O-TKPqpFP8I-aaFJ62_xwp36kieM0AQ/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3OTQ0/ODI4LTE2MTYzMzQz/NjEtNDMxOC5qcGVn.jpeg",
+  "composers": [
+    "Richard Wagner"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Sieben Kompositionen zu Goethes 'Faust'",
+      "duration": "12:10",
+      "act": "Lado A",
+      "composer": "Richard Wagner"
+    },
+    {
+      "id": 2,
+      "title": "Les deux Grenadiers",
+      "duration": "06:45",
+      "act": "Lado A",
+      "composer": "Richard Wagner"
+    },
+    {
+      "id": 3,
+      "title": "Les Adieux de Marie Stuart",
+      "duration": "05:30",
+      "act": "Lado A",
+      "composer": "Richard Wagner"
+    },
+    {
+      "id": 4,
+      "title": "Der Tannenbaum",
+      "duration": "04:15",
+      "act": "Lado A",
+      "composer": "Richard Wagner"
+    },
+    {
+      "id": 5,
+      "title": "Drei Romanzen",
+      "duration": "08:20",
+      "act": "Lado B",
+      "composer": "Richard Wagner"
+    },
+    {
+      "id": 6,
+      "title": "Tout n'est qu'images fugitives",
+      "duration": "04:15",
+      "act": "Lado B",
+      "composer": "Richard Wagner"
+    },
+    {
+      "id": 7,
+      "title": "Wesendonck-Lieder",
+      "duration": "10:00",
+      "act": "Lado B",
+      "composer": "Richard Wagner"
+    }
+  ]
+},
+{
+  "id": "london-flagstad-wagner-recital-knappertsbusch",
+  "section": "1-E",
+  "title": "Wagner Recital: Wesendonck Lieder / Lohengrin / Parsifal / Die Walküre",
+  "artist": "Kirsten Flagstad (Soprano), The Vienna Philharmonic Orchestra & Hans Knappertsbusch (Conductor)",
+  "releaseYear": 1956,
+  "genre": "Música Clásica / Ópera",
+  "subGenre": "Lieder / Romanticismo Alemán",
+  "totalDuration": "46m 10s",
+  "label": "London Records",
+  "format": "Vinyl / Mono / LP / Long Playing 33 1/3 r.p.m. Record",
+  "catalogNumber": "5259",
+  "coverUrl": "https://m.media-amazon.com/images/I/51xEVLD8UGL._UXNaN_FMjpg_QL85_.jpg",
+  "composers": [
+    "Richard Wagner"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Wesendonck Lieder: I. Der Engel; II. Stehe still!; III. Im Treibhaus; IV. Schmerzen; V. Träume",
+      "duration": "21:15",
+      "act": "Lado A",
+      "composer": "Richard Wagner"
+    },
+    {
+      "id": 2,
+      "title": "Lohengrin: Elsa's Dream ('Einsam in trüben Tagen')",
+      "duration": "06:20",
+      "act": "Lado B",
+      "composer": "Richard Wagner"
+    },
+    {
+      "id": 3,
+      "title": "Parsifal: Ich sah' das Kind",
+      "duration": "09:45",
+      "act": "Lado B",
+      "composer": "Richard Wagner"
+    },
+    {
+      "id": 4,
+      "title": "Die Walküre: Der Männer Sippe; Du bist der Lenz",
+      "duration": "08:50",
+      "act": "Lado B",
+      "composer": "Richard Wagner"
+    }
+  ]
+},
+{
+  "id": "vps-wagner-sibelius-lieder-bjoner",
+  "section": "1-E",
+  "title": "Richard Wagner: Wesendonck-Lieder / Jean Sibelius: Ausgewählte Lieder",
+  "artist": "Ingrid Bjoner (Sopran) & Einar Steen-Nökleberg (Klavier)",
+  "releaseYear": 1980,
+  "genre": "Música Clásica / Vocal",
+  "subGenre": "Lieder / Romanticismo",
+  "totalDuration": "48m 25s",
+  "label": "VPS (Victoria Project Stereo)",
+  "format": "Vinyl / Stereo / LP",
+  "catalogNumber": "SST 0178",
+  "coverUrl": "https://i.discogs.com/UEBr2RxpLYgn1Jn1snGdWdGCNtZs7WX2IHWqxZYFcn8/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDUz/ODA1LTE1OTcwNzEy/ODYtNDQzMi5qcGVn.jpeg",
+  "composers": [
+    "Richard Wagner",
+    "Jean Sibelius"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Wagner: Wesendonck-Lieder: I. Der Engel; II. Stehe still!; III. Im Treibhaus; IV. Schmerzen; V. Träume",
+      "duration": "21:40",
+      "act": "Lado A",
+      "composer": "Richard Wagner"
+    },
+    {
+      "id": 2,
+      "title": "Sibelius: Ausgewählte Lieder: I. Svarta rosor; II. Säv, säv, susa; III. Demanten på marssnön; IV. Var det en dröm?; V. Flickan kom ifrån sin älsklings möte",
+      "duration": "26:45",
+      "act": "Lado B",
+      "composer": "Jean Sibelius"
+    }
+  ]
+},
+{
+  "id": "angel-hmv-baker-boult-brahms-wagner-strauss",
+  "section": "1-E",
+  "title": "Brahms: Alt-Rhapsodie / Wagner: Wesendonk-Lieder / Strauss: Liebeshymnus - Ruhe, Meine Seele - Das Rosenband - Muttertändelei",
+  "artist": "Janet Baker (Mezzo-soprano), John Alldis Choir, London Philharmonic Orchestra & Sir Adrian Boult (Conductor)",
+  "releaseYear": 1976,
+  "genre": "Música Clásica / Vocal",
+  "subGenre": "Romanticismo / Lieder",
+  "totalDuration": "48m 35s",
+  "label": "Angel Records / His Master's Voice",
+  "format": "Vinyl / Stereo / Quadraphonic / LP",
+  "catalogNumber": "S-37199 / ASD 3260",
+  "coverUrl": "https://i.discogs.com/U64cuZoQBZJKrxq6z4sQMVeD-ubQWnH8XLdIC9MaORA/rs:fit/g:sm/q:90/h:586/w:590/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxNTAw/NTUtMTQzNDgzNzA2/NS0yMTQxLmpwZWc.jpeg",
+  "composers": [
+    "Johannes Brahms",
+    "Richard Wagner",
+    "Richard Strauss"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Wagner: Wesendonk-Lieder: I. Der Engel; II. Stehe still!; III. Im Treibhaus; IV. Schmerzen; V. Träume",
+      "duration": "22:59",
+      "act": "Lado A",
+      "composer": "Richard Wagner"
+    },
+    {
+      "id": 2,
+      "title": "Strauss: Vier Lieder: I. Liebeshymnus; II. Ruhe, meine Seele!; III. Das Rosenband; IV. Muttertändelei",
+      "duration": "12:50",
+      "act": "Lado B",
+      "composer": "Richard Strauss"
+    },
+    {
+      "id": 3,
+      "title": "Brahms: Alt-Rhapsodie, Op. 53 (Alto Rhapsody)",
+      "duration": "12:46",
+      "act": "Lado B",
+      "composer": "Johannes Brahms"
+    }
+  ]
+},
+{
+  "id": "dg-liszt-wagner-transkriptionen-barenboim",
+  "section": "1-E",
+  "title": "Franz Liszt: Wagner-Transkriptionen",
+  "artist": "Daniel Barenboim (Piano)",
+  "releaseYear": 1983,
+  "genre": "Música Clásica",
+  "subGenre": "Romanticismo / Piano Solo",
+  "totalDuration": "45m 10s",
+  "label": "Deutsche Grammophon",
+  "format": "Vinyl / Stereo / LP / Digital Recording",
+  "catalogNumber": "2532 100",
+  "coverUrl": "https://m.media-amazon.com/images/I/71scAc0aVdL.jpg",
+  "composers": [
+    "Franz Liszt",
+    "Richard Wagner"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Tannhäuser: O du mein holder Abendstern (Recitative and Romance)",
+      "duration": "05:35",
+      "act": "Lado A",
+      "composer": "Franz Liszt / Richard Wagner"
+    },
+    {
+      "id": 2,
+      "title": "Der fliegende Holländer: Spinnerlied",
+      "duration": "06:10",
+      "act": "Lado A",
+      "composer": "Franz Liszt / Richard Wagner"
+    },
+    {
+      "id": 3,
+      "title": "Lohengrin: Elsas Brautzug zum Münster",
+      "duration": "08:45",
+      "act": "Lado A",
+      "composer": "Franz Liszt / Richard Wagner"
+    },
+    {
+      "id": 4,
+      "title": "Tristan und Isolde: Isoldens Liebestod",
+      "duration": "07:20",
+      "act": "Lado B",
+      "composer": "Franz Liszt / Richard Wagner"
+    },
+    {
+      "id": 5,
+      "title": "Rienzi: Phantasiestück",
+      "duration": "09:15",
+      "act": "Lado B",
+      "composer": "Franz Liszt / Richard Wagner"
+    },
+    {
+      "id": 6,
+      "title": "Tannhäuser: Einzug der Gäste auf Wartburg",
+      "duration": "08:05",
+      "act": "Lado B",
+      "composer": "Franz Liszt / Richard Wagner"
+    }
+  ]
+},
+{
+  "id": "london-music-from-spain-argenta",
+  "section": "1-E",
+  "title": "Music from Spain",
+  "artist": "Orquesta Nacional de España & Ataúlfo Argenta (Director)",
+  "releaseYear": 1958,
+  "genre": "Música Clásica",
+  "subGenre": "Nacionalismo Español / Música Orquestal",
+  "totalDuration": "46m 20s",
+  "label": "London Records",
+  "format": "Vinyl / Stereo / LP / Full Frequency Stereophonic Sound",
+  "catalogNumber": "CS 6152",
+  "coverUrl": "https://i.discogs.com/v7-y5-3x4cDbwsXfMYHGCtbOmj-B6wLO059KoinZBsA/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5Njc1/MTMtMTUyNzk3NTU0/MS04MjE4LmpwZWc.jpeg",
+  "composers": [
+    "Enrique Granados",
+    "Isaac Albéniz",
+    "Manuel de Falla",
+    "Joaquín Turina"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Granados: Danzas Españolas (Spanish Dances) - Nos. 8, 9, 10, 11",
+      "duration": "18:40",
+      "act": "Lado A",
+      "composer": "Enrique Granados"
+    },
+    {
+      "id": 2,
+      "title": "Albéniz: Navarra",
+      "duration": "06:15",
+      "act": "Lado B",
+      "composer": "Isaac Albéniz"
+    },
+    {
+      "id": 3,
+      "title": "Falla: El Sombrero de Tres Picos - Dances",
+      "duration": "12:30",
+      "act": "Lado B",
+      "composer": "Manuel de Falla"
+    },
+    {
+      "id": 4,
+      "title": "Turina: La Procesión del Rocío",
+      "duration": "08:55",
+      "act": "Lado B",
+      "composer": "Joaquín Turina"
+    }
+  ]
+},
+{
+  "id": "london-argenta-basque-dances-navarra",
+  "section": "1-E",
+  "title": "Ten Basque Dances / Navarra / La Procesión del Rocío / La Oración del Torero",
+  "artist": "Orquesta Nacional de España & Ataúlfo Argenta (Director)",
+  "releaseYear": 1958,
+  "genre": "Música Clásica",
+  "subGenre": "Nacionalismo Español / Música Orquestal",
+  "totalDuration": "44m 15s",
+  "label": "London Records",
+  "format": "Vinyl / Stereo / LP / Full Frequency Stereophonic Sound",
+  "catalogNumber": "CS 6130",
+  "coverUrl": "https://i.discogs.com/GZgGAiNMU0-717g3pH-T6Q0JLAejuHHHUxqymC6Lpno/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwNTA3/NTUtMTQzMjU2MTc5/NC00Njk4LmpwZWc.jpeg",
+  "composers": [
+    "Jesús Guridi",
+    "Isaac Albéniz",
+    "Joaquín Turina"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Guridi: Ten Basque Dances (Diez Melodías Vascas)",
+      "duration": "18:25",
+      "act": "Lado A",
+      "composer": "Jesús Guridi"
+    },
+    {
+      "id": 2,
+      "title": "Albéniz: Navarra",
+      "duration": "06:10",
+      "act": "Lado B",
+      "composer": "Isaac Albéniz"
+    },
+    {
+      "id": 3,
+      "title": "Turina: La Procesión del Rocío, Op. 9",
+      "duration": "08:40",
+      "act": "Lado B",
+      "composer": "Joaquín Turina"
+    },
+    {
+      "id": 4,
+      "title": "Turina: La Oración del Torero, Op. 34",
+      "duration": "08:15",
+      "act": "Lado B",
+      "composer": "Joaquín Turina"
+    }
+  ]
+},
+{
+  "id": "london-argenta-espana-vol9-madrid",
+  "section": "1-E",
+  "title": "España - Vol. 9",
+  "artist": "Orquesta de Cámara de Madrid & Ataúlfo Argenta (Director)",
+  "releaseYear": 1957,
+  "genre": "Música Clásica",
+  "subGenre": "Zarzuela / Música Española",
+  "totalDuration": "40m 50s",
+  "label": "London Records",
+  "format": "Vinyl / Mono / LP / High Fidelity",
+  "catalogNumber": "LL-1740",
+  "coverUrl": "https://i.discogs.com/YhJbIeaVnHm2jW5ULIK6G29-6Q7JnIBCCaenebbUthQ/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTYz/OTQyLTE1Mzc2OTg1/OTgtNzc3OC5qcGVn.jpeg",
+  "composers": [
+    "José María Usandizaga",
+    "Reveriano Soutullo",
+    "Juan Vert",
+    "Amadeo Vives",
+    "Francisco Asenjo Barbieri",
+    "Manuel Fernández Caballero",
+    "Federico Chueca"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Usandizaga: Las Golondrinas - Preludio & Pantomima",
+      "duration": "09:15",
+      "act": "Lado A",
+      "composer": "José María Usandizaga"
+    },
+    {
+      "id": 2,
+      "title": "Soutullo y Vert: La Leyenda del Beso - Intermedio",
+      "duration": "05:20",
+      "act": "Lado A",
+      "composer": "Soutullo y Vert"
+    },
+    {
+      "id": 3,
+      "title": "Vives: Bohemios - Intermedio",
+      "duration": "04:45",
+      "act": "Lado A",
+      "composer": "Amadeo Vives"
+    },
+    {
+      "id": 4,
+      "title": "Barbieri: El Barberillo de Lavapiés - Preludio",
+      "duration": "06:10",
+      "act": "Lado B",
+      "composer": "Francisco Asenjo Barbieri"
+    },
+    {
+      "id": 5,
+      "title": "Caballero: La Viejetecita - Preludio",
+      "duration": "07:30",
+      "act": "Lado B",
+      "composer": "Manuel Fernández Caballero"
+    },
+    {
+      "id": 6,
+      "title": "Chueca: La Gran Vía - Preludio",
+      "duration": "07:50",
+      "act": "Lado B",
+      "composer": "Federico Chueca"
+    }
+  ]
+},
+{
+  "id": "london-forrester-brahms-wagner-treasury",
+  "section": "1-E",
+  "title": "Brahms: Four Serious Songs / Wagner: Wesendonck Lieder",
+  "artist": "Maureen Forrester (Contralto) & John Newmark (Piano)",
+  "releaseYear": 1971,
+  "genre": "Música Clásica / Vocal",
+  "subGenre": "Lieder / Romanticismo",
+  "totalDuration": "43m 50s",
+  "label": "London Records - Stereo Treasury Series",
+  "format": "Vinyl / Stereo / LP",
+  "catalogNumber": "STS 15113",
+  "coverUrl": "https://i.discogs.com/7pB8Uo0MY7gcv4yjdkXkxmU9aNd0h67TZ1gR2aBvfpw/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4ODY1/MjgtMTQ5NzU0MzI0/MS00NjA1LmpwZWc.jpeg",
+  "composers": [
+    "Johannes Brahms",
+    "Richard Wagner"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Brahms: Four Serious Songs (Vier ernste Gesänge), Op. 121",
+      "duration": "18:45",
+      "act": "Lado A",
+      "composer": "Johannes Brahms"
+    },
+    {
+      "id": 2,
+      "title": "Wagner: Wesendonck Lieder (Original Version for Piano)",
+      "duration": "21:05",
+      "act": "Lado B",
+      "composer": "Richard Wagner"
+    }
+  ]
+},
+{
+  "id": "delyse-siegfried-wagner-gluck-sehnsucht-eros",
+  "section": "1-E",
+  "title": "Siegfried Wagner: Glück (Tone Poem) / Sehnsucht (Tone Poem) / Scherzo",
+  "artist": "Aalborg Symphony Orchestra & Peter Erös (Conductor)",
+  "releaseYear": 1979,
+  "genre": "Música Clásica",
+  "subGenre": "Post-romanticismo Alemán",
+  "totalDuration": "46m 15s",
+  "label": "Delysé",
+  "format": "Vinyl / Stereo / LP",
+  "catalogNumber": "SWS 3",
+  "coverUrl": "https://i.discogs.com/s9L4aU0hvra7cr2iI5mdNchSQydyJzLcWv2f7NLwmgw/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4ODgy/NDktMTQ4Nzk5OTAz/MC00OTE4LmpwZWc.jpeg",
+  "composers": [
+    "Siegfried Wagner"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Glück - Tone Poem",
+      "duration": "14:20",
+      "act": "Lado A",
+      "composer": "Siegfried Wagner"
+    },
+    {
+      "id": 2,
+      "title": "“Und wenn die Welt voll Teufel wär” - Scherzo",
+      "duration": "10:15",
+      "act": "Lado A",
+      "composer": "Siegfried Wagner"
+    },
+    {
+      "id": 3,
+      "title": "Sehnsucht - Tone Poem",
+      "duration": "21:40",
+      "act": "Lado B",
+      "composer": "Siegfried Wagner"
+    }
+  ]
+},
+{
+  "id": "delyse-siegfried-wagner-symphony-eros",
+  "section": "1-E",
+  "title": "Symphony by Siegfried Wagner",
+  "artist": "Aalborg Symphony Orchestra & Peter Erös (Conductor)",
+  "releaseYear": 1978,
+  "genre": "Música Clásica",
+  "subGenre": "Post-romanticismo Alemán / Sinfonismo",
+  "totalDuration": "45m 30s",
+  "label": "Delysé",
+  "format": "Vinyl / Stereo / LP",
+  "catalogNumber": "SWS 2",
+  "coverUrl": "https://i.discogs.com/FcNnxuJrNrwplb9XilZM8Y7enZ9KY0ksIycEreDvC6g/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODg4/NTIyLTE2NjUzODgx/NTMtOTc4NC5qcGVn.jpeg",
+  "composers": [
+    "Siegfried Wagner"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Symphony in C major: I. Moderato; II. Adagio; III. Scherzo; IV. Finale",
+      "duration": "45:30",
+      "act": "Lados A y B",
+      "composer": "Siegfried Wagner"
+    }
+  ]
+},
+{
+  "id": "le-chant-du-monde-wagner-melodies-francaises-denize",
+  "section": "1-E",
+  "title": "Wagner: Les mélodies françaises / Les lieder",
+  "artist": "Nadine Denize (Mezzo-soprano), Christine Barbaux (Soprano) & Gérard Parmentier (Piano)",
+  "releaseYear": 1978,
+  "genre": "Música Clásica / Vocal",
+  "subGenre": "Mélodie Française / Lieder",
+  "totalDuration": "45m 15s",
+  "label": "Le Chant du Monde",
+  "format": "Vinyl / Stereo / LP",
+  "catalogNumber": "LDX 78745",
+  "coverUrl": "https://i.discogs.com/1Es8EDi7M8_Ac3BGn-VTT2fX8F2GfGb-AsbsBzxkZmk/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDEx/MTE3LTE2MTQ0NTAw/MDctMTIwNy5qcGVn.jpeg",
+  "composers": [
+    "Richard Wagner"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Mignonne; Tout n'est qu'images fugitives; Les deux grenadiers; Dors, mon enfant; Attente; Adieux de Marie Stuart",
+      "duration": "22:40",
+      "act": "Lado A",
+      "composer": "Richard Wagner"
+    },
+    {
+      "id": 2,
+      "title": "Wesendonk-Lieder: Der Engel; Stehe still!; Im Treibhaus; Schmerzen; Träume",
+      "duration": "22:35",
+      "act": "Lado B",
+      "composer": "Richard Wagner"
+    }
+  ]
+},
+{
+  "id": "urania-tiana-lemnitz-sings-wagner",
+  "section": "1-E",
+  "title": "Tiana Lemnitz Sings Wagner",
+  "artist": "Tiana Lemnitz (Soprano), Franz Völker (Tenor) & Michael Raucheisen (Piano)",
+  "releaseYear": 1951,
+  "genre": "Música Clásica / Ópera",
+  "subGenre": "Lieder / Romanticismo Alemán",
+  "totalDuration": "42m 10s",
+  "label": "Urania Records, Inc.",
+  "format": "Vinyl / Mono / LP / Long Playing 33 1/3 RPM Microgroove",
+  "catalogNumber": "URLP 7019",
+  "coverUrl": "https://i.discogs.com/Q5D3kSJwVlwzLvSG-eDGPYEf7xYXh5KANq9ads1EGwM/rs:fit/g:sm/q:90/h:454/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4MzEx/MzctMTQwMzkwNDky/Ni0yNTA0LmpwZWc.jpeg",
+  "composers": [
+    "Richard Wagner"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Five Wesendonck Gedichte (Five Wesendonck Poems)",
+      "duration": "20:15",
+      "act": "Lado A",
+      "composer": "Richard Wagner"
+    },
+    {
+      "id": 2,
+      "title": "Tannhäuser: Dich teure Halle",
+      "duration": "04:30",
+      "act": "Lado B",
+      "composer": "Richard Wagner"
+    },
+    {
+      "id": 3,
+      "title": "Lohengrin: Love Duet",
+      "duration": "17:25",
+      "act": "Lado B",
+      "composer": "Richard Wagner"
+    }
+  ]
+},
+{
+  "id": "london-kirsten-flagstad-sings-wagner-knappertsbusch",
+  "section": "1-E",
+  "title": "Kirsten Flagstad Sings Wagner",
+  "artist": "Kirsten Flagstad (Soprano), The Vienna Philharmonic Orchestra & Hans Knappertsbusch (Conductor)",
+  "releaseYear": 1959,
+  "genre": "Música Clásica / Ópera",
+  "subGenre": "Romanticismo Alemán / Lieder",
+  "totalDuration": "46m 35s",
+  "label": "London Records",
+  "format": "Vinyl / Stereo / LP",
+  "catalogNumber": "OS 25101",
+  "coverUrl": "https://i.ebayimg.com/00/s/MTYwMFgxNjAw/z/UEsAAOSwfYxhOjyx/$_57.JPG?set_id=880000500F",
+  "composers": [
+    "Richard Wagner"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Wesendonck Lieder: Der Engel; Stehe Still; Im Treibhaus; Schmerzen; Träume",
+      "duration": "21:30",
+      "act": "Lado A",
+      "composer": "Richard Wagner"
+    },
+    {
+      "id": 2,
+      "title": "Lohengrin: Elsa's Dream",
+      "duration": "06:15",
+      "act": "Lado B",
+      "composer": "Richard Wagner"
+    },
+    {
+      "id": 3,
+      "title": "Parsifal: Ich sah' das Kind",
+      "duration": "09:50",
+      "act": "Lado B",
+      "composer": "Richard Wagner"
+    },
+    {
+      "id": 4,
+      "title": "Die Walküre: Der Männer Sippe; Du bist der Lenz",
+      "duration": "09:00",
+      "act": "Lado B",
+      "composer": "Richard Wagner"
+    }
+  ]
+},
+{
+  "id": "archiv-mannheimer-schule-early-classical-era",
+  "section": "1-E",
+  "title": "Die Mannheimer Schule: Musik der Frühklassik (Music of the Early Classical Era)",
+  "artist": "Thomas Demenga, Thomas Füri, Heinz Holliger, Aurèle Nicolet & Camerata Bern",
+  "releaseYear": 1980,
+  "genre": "Música Clásica",
+  "subGenre": "Clasicismo Temprano / Escuela de Mannheim",
+  "totalDuration": "124m 15s",
+  "label": "Archiv Produktion",
+  "format": "Vinyl / Stereo / LP Box Set",
+  "catalogNumber": "2723 068",
+  "coverUrl": "https://i.ebayimg.com/images/g/XSoAAOSw-W9kYM9k/s-l1200.png",
+  "composers": [
+    "Franz Xaver Richter",
+    "Johann Stamitz",
+    "Anton Fils",
+    "Christian Cannabich",
+    "Carl Stamitz",
+    "Ludwig August Lebrun"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Richter: Sinfonia en Si bemol mayor",
+      "duration": "12:45",
+      "act": "LP 1",
+      "composer": "Franz Xaver Richter"
+    },
+    {
+      "id": 2,
+      "title": "Stamitz, J.: Sinfonia en Re mayor, Op. 3 No. 2",
+      "duration": "15:20",
+      "act": "LP 1",
+      "composer": "Johann Stamitz"
+    },
+    {
+      "id": 3,
+      "title": "Fils: Sinfonia en Sol menor",
+      "duration": "14:10",
+      "act": "LP 2",
+      "composer": "Anton Fils"
+    },
+    {
+      "id": 4,
+      "title": "Cannabich: Sinfonia en Si bemol mayor",
+      "duration": "13:30",
+      "act": "LP 2",
+      "composer": "Christian Cannabich"
+    },
+    {
+      "id": 5,
+      "title": "Stamitz, C.: Concierto para Violonchelo en La mayor",
+      "duration": "20:45",
+      "act": "LP 3",
+      "composer": "Carl Stamitz"
+    },
+    {
+      "id": 6,
+      "title": "Lebrun: Concierto para Oboe No. 4 en Si bemol mayor",
+      "duration": "18:25",
+      "act": "LP 3",
+      "composer": "Ludwig August Lebrun"
+    }
+  ]
+},
+{
+  "id": "angel-verdi-il-trovatore-corelli-tucci",
+  "section": "1-E",
+  "title": "Verdi: Il Trovatore",
+  "artist": "Franco Corelli, Gabriella Tucci, Giulietta Simionato, Robert Merrill, Chorus and Orchestra of the Teatro dell'Opera di Roma & Thomas Schippers (Conductor)",
+  "releaseYear": 1964,
+  "genre": "Música Clásica / Ópera",
+  "subGenre": "Romanticismo Italiano",
+  "totalDuration": "122m 45s",
+  "label": "Angel Records",
+  "format": "Vinyl / Stereo / LP Box Set",
+  "catalogNumber": "SCL 3653",
+  "coverUrl": "https://i.ebayimg.com/images/g/eiwAAOSwmFdl-Hg6/s-l1200.jpg",
+  "composers": [
+    "Giuseppe Verdi"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Atto Primo: Il Duello",
+      "duration": "28:15",
+      "act": "LP 1",
+      "composer": "Giuseppe Verdi"
+    },
+    {
+      "id": 2,
+      "title": "Atto Secondo: La Gitana",
+      "duration": "35:20",
+      "act": "LP 2",
+      "composer": "Giuseppe Verdi"
+    },
+    {
+      "id": 3,
+      "title": "Atto Terzo: Il Figlio della Zingara",
+      "duration": "22:40",
+      "act": "LP 3",
+      "composer": "Giuseppe Verdi"
+    },
+    {
+      "id": 4,
+      "title": "Atto Quarto: El Supplizio",
+      "duration": "36:30",
+      "act": "LP 3",
+      "composer": "Giuseppe Verdi"
+    }
+  ]
+},
+{
+  "id": "london-verdi-il-trovatore-pavarotti-sutherland",
+  "section": "1-E",
+  "title": "Verdi: Il Trovatore",
+  "artist": "Luciano Pavarotti, Joan Sutherland, Marilyn Horne, Ingvar Wixell, Nicolai Ghiaurov, National Philharmonic Orchestra & Richard Bonynge (Conductor)",
+  "releaseYear": 1977,
+  "genre": "Música Clásica / Ópera",
+  "subGenre": "Romanticismo Italiano",
+  "totalDuration": "138m 20s",
+  "label": "London ffrr",
+  "format": "Vinyl / Stereo / LP Box Set / Full Frequency Range Recording",
+  "catalogNumber": "OSA 13124",
+  "coverUrl": "https://m.media-amazon.com/images/I/51sm2Cg12xL._UF350,350_QL50_.jpg",
+  "composers": [
+    "Giuseppe Verdi"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Atto Primo: Il Duello",
+      "duration": "29:35",
+      "act": "LP 1",
+      "composer": "Giuseppe Verdi"
+    },
+    {
+      "id": 2,
+      "title": "Atto Secondo: La Gitana",
+      "duration": "38:10",
+      "act": "LP 1/2",
+      "composer": "Giuseppe Verdi"
+    },
+    {
+      "id": 3,
+      "title": "Atto Terzo: Il Figlio della Zingara",
+      "duration": "31:45",
+      "act": "LP 2/3",
+      "composer": "Giuseppe Verdi"
+    },
+    {
+      "id": 4,
+      "title": "Atto Quarto: Il Supplizio",
+      "duration": "38:50",
+      "act": "LP 3",
+      "composer": "Giuseppe Verdi"
+    }
+  ]
+},
+{
+  "id": "rca-victor-verdi-il-trovatore-highlights-milanov-bjoerling",
+  "section": "1-E",
+  "title": "Verdi: Il Trovatore (Highlights)",
+  "artist": "Zinka Milanov, Jussi Bjoerling, Fedora Barbieri, Leonard Warren, The Robert Shaw Chorale & RCA Victor Orchestra",
+  "releaseYear": 1954,
+  "genre": "Música Clásica / Ópera",
+  "subGenre": "Romanticismo Italiano",
+  "totalDuration": "48m 15s",
+  "label": "RCA Victor Red Seal",
+  "format": "Vinyl / Mono / LP / New Orthophonic High Fidelity",
+  "catalogNumber": "LM-1827",
+  "coverUrl": "https://m.media-amazon.com/images/I/81zCoYkj7GL._UF1000,1000_QL80_.jpg",
+  "composers": [
+    "Giuseppe Verdi"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Act I: Tacea la notte placida; Di tale amor",
+      "duration": "07:20",
+      "act": "Lado A",
+      "composer": "Giuseppe Verdi"
+    },
+    {
+      "id": 2,
+      "title": "Act II: Anvil Chorus; Stride la vampa!; Il balen del suo sorriso",
+      "duration": "12:45",
+      "act": "Lado A",
+      "composer": "Giuseppe Verdi"
+    },
+    {
+      "id": 3,
+      "title": "Act III: Ah! sì, ben mio; Di quella pira",
+      "duration": "08:10",
+      "act": "Lado B",
+      "composer": "Giuseppe Verdi"
+    },
+    {
+      "id": 4,
+      "title": "Act IV: D'amor sull'ali rosee; Miserere; Ai nostri monti; Mira, d'acerbe lagrime",
+      "duration": "20:00",
+      "act": "Lado B",
+      "composer": "Giuseppe Verdi"
+    }
+  ]
+},
+{
+  "id": "philips-verdi-stiffelio-carreras-sass-gardelli",
+  "section": "1-E",
+  "title": "Verdi: Stiffelio",
+  "artist": "José Carreras, Sylvia Sass, Matteo Manuguerra, Wladimiro Ganzarolli, ORF Symphony Orchestra and Chorus, Vienna & Lamberto Gardelli (Conductor)",
+  "releaseYear": 1980,
+  "genre": "Música Clásica / Ópera",
+  "subGenre": "Romanticismo Italiano / Primera Grabación Mundial",
+  "totalDuration": "108m 45s",
+  "label": "Philips",
+  "format": "Vinyl / Stereo / LP Box Set",
+  "catalogNumber": "6769 039",
+  "coverUrl": "https://i.discogs.com/sqhz1Zzuak1zlLTYlERMeRE8GIwokaxY9NEoIVqe5b0/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyMDc0/ODMtMTUxNDIyOTE4/Ny04ODUyLmpwZWc.jpeg",
+  "composers": [
+    "Giuseppe Verdi"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Atto Primo",
+      "duration": "42:15",
+      "act": "LP 1",
+      "composer": "Giuseppe Verdi"
+    },
+    {
+      "id": 2,
+      "title": "Atto Secondo",
+      "duration": "32:40",
+      "act": "LP 2",
+      "composer": "Giuseppe Verdi"
+    },
+    {
+      "id": 3,
+      "title": "Atto Terzo",
+      "duration": "33:50",
+      "act": "LP 2",
+      "composer": "Giuseppe Verdi"
+    }
+  ]
+},
+{
+  "id": "philips-verdi-battaglia-legnano-ricciarelli-carreras",
+  "section": "1-E",
+  "title": "Verdi: La Battaglia di Legnano",
+  "artist": "Katia Ricciarelli, José Carreras, Matteo Manuguerra, Nicola Ghiuselev, ORF Symphony Orchestra and Chorus, Vienna & Lamberto Gardelli (Conductor)",
+  "releaseYear": 1978,
+  "genre": "Música Clásica / Ópera",
+  "subGenre": "Romanticismo Italiano / Primera Grabación Estéreo Completa",
+  "totalDuration": "105m 20s",
+  "label": "Philips",
+  "format": "Vinyl / Stereo / LP Box Set",
+  "catalogNumber": "6700 120",
+  "coverUrl": "https://i.discogs.com/_qkoqvy2jbZ8kOFtSqHnXrOvnC3ppbCzt1JkyUwCVWE/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMjk4/NDUtMTUyNzkzODU3/Mi0zOTY4LmpwZWc.jpeg",
+  "composers": [
+    "Giuseppe Verdi"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Atto Primo: L'Adunanza",
+      "duration": "28:45",
+      "act": "LP 1",
+      "composer": "Giuseppe Verdi"
+    },
+    {
+      "id": 2,
+      "title": "Atto Secondo: El Appuntamento",
+      "duration": "18:10",
+      "act": "LP 1",
+      "composer": "Giuseppe Verdi"
+    },
+    {
+      "id": 3,
+      "title": "Atto Terzo: L'Infamia",
+      "duration": "35:50",
+      "act": "LP 2",
+      "composer": "Giuseppe Verdi"
+    },
+    {
+      "id": 4,
+      "title": "Atto Quarto: Die Morituri",
+      "duration": "22:35",
+      "act": "LP 2",
+      "composer": "Giuseppe Verdi"
+    }
+  ]
+},
+{
+  "id": "philips-verdi-corsaro-caballe-carreras-norman",
+  "section": "1-E",
+  "title": "Verdi: Il Corsaro",
+  "artist": "Montserrat Caballé, José Carreras, Giampiero Mastromei, Jessye Norman, New Philharmonia Orchestra & Lamberto Gardelli (Conductor)",
+  "releaseYear": 1975,
+  "genre": "Música Clásica / Ópera",
+  "subGenre": "Romanticismo Italiano / Primera Grabación Mundial",
+  "totalDuration": "94m 45s",
+  "label": "Philips",
+  "format": "Vinyl / Stereo / LP Box Set",
+  "catalogNumber": "6700 098",
+  "coverUrl": "https://i.discogs.com/yvzjHK38pt_NhJN-ZwNybh9aVTvydMeK8YpwvkLcRlI/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDQ5/MDQ3LTE1NzQ3MjU4/MTQtNzM3My5qcGVn.jpeg",
+  "composers": [
+    "Giuseppe Verdi"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Atto Primo",
+      "duration": "28:15",
+      "act": "LP 1",
+      "composer": "Giuseppe Verdi"
+    },
+    {
+      "id": 2,
+      "title": "Atto Secondo",
+      "duration": "32:40",
+      "act": "LP 1/2",
+      "composer": "Giuseppe Verdi"
+    },
+    {
+      "id": 3,
+      "title": "Atto Terzo",
+      "duration": "33:50",
+      "act": "LP 2",
+      "composer": "Giuseppe Verdi"
+    }
+  ]
+},
+{
+  "id": "records-international-zemlinsky-symphony-bflat-seipenbusch",
+  "section": "1-E",
+  "title": "Alexander von Zemlinsky: Symphony in B-Flat Major",
+  "artist": "Slovak Philharmonic Orchestra & Edgar Seipenbusch (Conductor)",
+  "releaseYear": 1985,
+  "genre": "Música Clásica",
+  "subGenre": "Post-romanticismo / Sinfonismo",
+  "totalDuration": "42m 15s",
+  "label": "Records International",
+  "format": "Vinyl / Stereo / LP / Digital Recording",
+  "catalogNumber": "7006-1",
+  "coverUrl": "https://m.media-amazon.com/images/I/41srKi83snL._UF1000,1000_QL80_.jpg",
+  "composers": [
+    "Alexander von Zemlinsky"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Symphony in B-Flat Major: I. Sostenuto - Allegro; II. Scherzo: Allegro; III. Adagio; IV. Moderato",
+      "duration": "42:15",
+      "act": "Lados A y B",
+      "composer": "Alexander von Zemlinsky"
+    }
+  ]
+},
+{
+  "id": "northeastern-zemlinsky-trio-songs-morgan",
+  "section": "1-E",
+  "title": "Alexander von Zemlinsky: Trio, Op. 3 / Twelve Songs, Op. 27",
+  "artist": "Beverly Morgan (Soprano), Chester Brezniak (Clarinet), Richard Sher (Cello) & Christopher O'Riley (Piano)",
+  "releaseYear": 1985,
+  "genre": "Música Clásica",
+  "subGenre": "Música de Cámara / Lieder",
+  "totalDuration": "51m 30s",
+  "label": "Northeastern Records",
+  "format": "Vinyl / Stereo / LP",
+  "catalogNumber": "NR 215",
+  "coverUrl": "/disco_generico.png",
+  "composers": [
+    "Alexander von Zemlinsky"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Trio for Clarinet, Cello and Piano in D Minor, Op. 3",
+      "duration": "26:15",
+      "act": "Lado A",
+      "composer": "Alexander von Zemlinsky"
+    },
+    {
+      "id": 2,
+      "title": "Twelve Songs, Op. 27",
+      "duration": "25:15",
+      "act": "Lado B",
+      "composer": "Alexander von Zemlinsky"
+    }
+  ]
+},
+{
+  "id": "seraphim-kempe-music-czechoslovakia-rpo",
+  "section": "1-E",
+  "title": "Rudolf Kempe Conducts Music of Czechoslovakia",
+  "artist": "Royal Philharmonic Orchestra & Rudolf Kempe (Conductor)",
+  "releaseYear": 1968,
+  "genre": "Música Clásica",
+  "subGenre": "Nacionalismo Checoslovaco / Música Orquestal",
+  "totalDuration": "44m 35s",
+  "label": "Seraphim",
+  "format": "Vinyl / Stereo / LP",
+  "catalogNumber": "S-60098",
+  "coverUrl": "https://i.discogs.com/IS51n8xfaJ-ukQGCs0S8IhNJ2a0n84aBZ1nEDiw8oWU/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1MTI0/OTUtMTYyMzM3NTU3/Ni02OTM3LmpwZWc.jpeg",
+  "composers": [
+    "Bedřich Smetana",
+    "Antonín Dvořák",
+    "Jaromír Weinberger"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Smetana: Overture & Three Dances from 'The Bartered Bride'",
+      "duration": "16:40",
+      "act": "Lado A",
+      "composer": "Bedřich Smetana"
+    },
+    {
+      "id": 2,
+      "title": "Dvořák: Scherzo capriccioso, Op. 66",
+      "duration": "12:15",
+      "act": "Lado B",
+      "composer": "Antonín Dvořák"
+    },
+    {
+      "id": 3,
+      "title": "Weinberger: Polka & Fugue from 'Schwanda'",
+      "duration": "07:55",
+      "act": "Lado B",
+      "composer": "Jaromír Weinberger"
+    }
+  ]
+},
+{
+  "id": "angel-kempe-vienna-kodaly-tchaikovsky-gotovac",
+  "section": "1-E",
+  "title": "Kodaly: Suite Háry János / Tchaikovsky: Theme and Variations from Suite No. 3 / Gotovac: Kolo from 'Ero der Schelm'",
+  "artist": "Vienna Philharmonic Orchestra & Rudolf Kempe (Conductor)",
+  "releaseYear": 1962,
+  "genre": "Música Clásica",
+  "subGenre": "Música Orquestal / Romanticismo / Nacionalismo",
+  "totalDuration": "42m 55s",
+  "label": "Angel Records",
+  "format": "Vinyl / Stereo / LP",
+  "catalogNumber": "35975",
+  "coverUrl": "https://i.discogs.com/koG6eogoysgYlcg-oZ9eIOcc4xQ11UdHL5k3Hy1hGV8/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTg4/MjA5LTE1MjYwNjk2/NjMtOTE4My5qcGVn.jpeg",
+  "composers": [
+    "Zoltán Kodály",
+    "Pyotr Ilyich Tchaikovsky",
+    "Jakov Gotovac"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Kodály: Háry János Suite",
+      "duration": "22:40",
+      "act": "Lado A",
+      "composer": "Zoltán Kodály"
+    },
+    {
+      "id": 2,
+      "title": "Tchaikovsky: Theme and Variations from Suite No. 3 in G, Op. 55",
+      "duration": "15:20",
+      "act": "Lado B",
+      "composer": "Pyotr Ilyich Tchaikovsky"
+    },
+    {
+      "id": 3,
+      "title": "Gotovac: Kolo from 'Ero der Schelm'",
+      "duration": "04:55",
+      "act": "Lado B",
+      "composer": "Jakov Gotovac"
+    }
+  ]
+},
+{
+  "id": "angel-walton-belshazzars-feast-composer",
+  "section": "1-E",
+  "title": "Sir William Walton: Belshazzar's Feast / Partita for Orchestra",
+  "artist": "Donald Bell (Baritone), Philharmonia Orchestra and Chorus & Sir William Walton (Conductor)",
+  "releaseYear": 1959,
+  "genre": "Música Clásica",
+  "subGenre": "Música Coral / Siglo XX Británico",
+  "totalDuration": "51m 35s",
+  "label": "Angel Records",
+  "format": "Vinyl / Mono / LP",
+  "catalogNumber": "35681",
+  "coverUrl": "https://i.discogs.com/XWGTrH4jV8EWUC2u1GJnIohFjrng-M9LVJXor5-tLOI/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5NjE3/MDktMTU4NDE4OTk2/Ni0xMjI4LmpwZWc.jpeg",
+  "composers": [
+    "Sir William Walton"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Belshazzar's Feast",
+      "duration": "35:10",
+      "act": "Lado A / B",
+      "composer": "Sir William Walton"
+    },
+    {
+      "id": 2,
+      "title": "Partita for Orchestra",
+      "duration": "16:25",
+      "act": "Lado B",
+      "composer": "Sir William Walton"
+    }
+  ]
+},
+{
+  "id": "rca-heifetz-walton-castelnuovo-tedesco",
+  "section": "1-E",
+  "title": "Walton: Violin Concerto / Castelnuovo-Tedesco: Concerto No. 2 \"The Prophets\"",
+  "artist": "Jascha Heifetz (Violin), Philharmonia Orchestra conducted by Sir William Walton & Los Angeles Philharmonic Orchestra conducted by Alfred Wallenstein",
+  "releaseYear": 1964,
+  "genre": "Música Clásica",
+  "subGenre": "Concierto para Violín / Siglo XX",
+  "totalDuration": "53m 20s",
+  "label": "RCA Victor Red Seal",
+  "format": "Vinyl / Mono / LP",
+  "catalogNumber": "LM-2740",
+  "coverUrl": "https://i.ebayimg.com/images/g/tYYAAOSwIsVoIkcJ/s-l1200.webp",
+  "composers": [
+    "Sir William Walton",
+    "Mario Castelnuovo-Tedesco"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Walton: Violin Concerto",
+      "duration": "27:15",
+      "act": "Lado A",
+      "composer": "Sir William Walton"
+    },
+    {
+      "id": 2,
+      "title": "Castelnuovo-Tedesco: Concerto No. 2 \"The Prophets\"",
+      "duration": "26:05",
+      "act": "Lado B",
+      "composer": "Mario Castelnuovo-Tedesco"
+    }
+  ]
+},
+{
+  "id": "emi-walton-symphony1-sargent",
+  "section": "1-E",
+  "title": "Walton: Symphony No. 1",
+  "artist": "New Philharmonia Orchestra & Sir Malcolm Sargent (Conductor)",
+  "releaseYear": 1966,
+  "genre": "Música Clásica",
+  "subGenre": "Sinfonismo / Siglo XX Británico",
+  "totalDuration": "43m 15s",
+  "label": "EMI - Concert Classics Series",
+  "format": "Vinyl / Stereo / LP",
+  "catalogNumber": "SVP 1361",
+  "coverUrl": "https://m.media-amazon.com/images/I/71C8LBBUi6S._UF1000,1000_QL80_.jpg",
+  "composers": [
+    "Sir William Walton"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Symphony No. 1 in B Flat Minor: I. Allegro assai; II. Presto, con malizia",
+      "duration": "21:40",
+      "act": "Lado A",
+      "composer": "Sir William Walton"
+    },
+    {
+      "id": 2,
+      "title": "Symphony No. 1 in B Flat Minor: III. Andante con malinconia; IV. Maestoso - Allegro",
+      "duration": "21:35",
+      "act": "Lado B",
+      "composer": "Sir William Walton"
+    }
+  ]
+},
+{
+  "id": "dg-karajan-radetzky-march-prussian-austrian",
+  "section": "1-E",
+  "title": "Radetzky March: Prussian and Austrian Marches",
+  "artist": "Berlin Philharmonic & Herbert von Karajan (Conductor)",
+  "releaseYear": 1974,
+  "genre": "Música Clásica",
+  "subGenre": "Marchas Militares / Música Orquestal",
+  "totalDuration": "48m 10s",
+  "label": "Deutsche Grammophon - Special",
+  "format": "Vinyl / Stereo / LP",
+  "catalogNumber": "2535 647--10",
+  "coverUrl": "/disco_generico.png",
+  "composers": [
+    "Johann Strauss I",
+    "Gottfried Piefke",
+    "Beethoven",
+    "Frederick the Great",
+    "Various"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Radetzky-Marsch, Op. 228",
+      "duration": "02:55",
+      "act": "Lado A",
+      "composer": "Johann Strauss I"
+    },
+    {
+      "id": 2,
+      "title": "Preußischer Präsentiermarsch",
+      "duration": "02:10",
+      "act": "Lado A",
+      "composer": "Frederick the Great"
+    },
+    {
+      "id": 3,
+      "title": "Yorckscher Marsch",
+      "duration": "03:15",
+      "act": "Lado A",
+      "composer": "Beethoven"
+    },
+    {
+      "id": 4,
+      "title": "Preußens Gloria",
+      "duration": "03:10",
+      "act": "Lado B",
+      "composer": "Gottfried Piefke"
+    }
+  ]
+},
+{
+  "id": "dg-karajan-weihnachtskonzerte-christmas-concertos",
+  "section": "1-E",
+  "title": "Weihnachtskonzerte · Christmas Concertos · Concertos de Noël",
+  "artist": "Berliner Philharmoniker & Herbert von Karajan (Conductor)",
+  "releaseYear": 1970,
+  "genre": "Música Clásica",
+  "subGenre": "Barroco / Música Navideña",
+  "totalDuration": "48m 20s",
+  "label": "Deutsche Grammophon",
+  "format": "Vinyl / Stereo / LP",
+  "catalogNumber": "2530 070",
+  "coverUrl": "https://m.media-amazon.com/images/I/51TUE81d2dL._UF1000,1000_QL80_.jpg",
+  "composers": [
+    "Arcangelo Corelli",
+    "Francesco Manfredini",
+    "Giuseppe Torelli",
+    "Pietro Locatelli"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Corelli: Concerto grosso in G minor, Op. 6, No. 8 \"fatto per la Notte di Natale\"",
+      "duration": "15:10",
+      "act": "Lado A",
+      "composer": "Arcangelo Corelli"
+    },
+    {
+      "id": 2,
+      "title": "Manfredini: Concerto grosso in C major, Op. 3, No. 12 \"per il Santissimo Natale\"",
+      "duration": "10:35",
+      "act": "Lado A",
+      "composer": "Francesco Manfredini"
+    },
+    {
+      "id": 3,
+      "title": "Torelli: Concerto a 4 in G minor, Op. 8, No. 6 \"in forma di Pastorale per il Santissimo Natale\"",
+      "duration": "07:45",
+      "act": "Lado B",
+      "composer": "Giuseppe Torelli"
+    },
+    {
+      "id": 4,
+      "title": "Locatelli: Concerto grosso in F minor, Op. 1, No. 8",
+      "duration": "14:50",
+      "act": "Lado B",
+      "composer": "Pietro Locatelli"
+    }
+  ]
+},
+{
+  "id": "dg-karajan-preludes-moldau-wilhelm-tell",
+  "section": "1-E",
+  "title": "Les Préludes · Die Moldau · Ouvertüre »Wilhelm Tell« · Ungarische Rhapsodie Nr. 5 · Aufforderung zum Tanz",
+  "artist": "Berliner Philharmoniker & Herbert von Karajan (Conductor)",
+  "releaseYear": 1984,
+  "genre": "Música Clásica",
+  "subGenre": "Romanticismo / Poemas Sinfónicos",
+  "totalDuration": "54m 30s",
+  "label": "Deutsche Grammophon",
+  "format": "Vinyl / Stereo / LP / Digital Recording",
+  "catalogNumber": "413 587-1",
+  "coverUrl": "https://m.media-amazon.com/images/I/81Zp0sWgqxL._UF1000,1000_QL80_.jpg",
+  "composers": [
+    "Franz Liszt",
+    "Bedřich Smetana",
+    "Gioacchino Rossini",
+    "Carl Maria von Weber"
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Liszt: Les Préludes (Sinfonische Dichtung Nr. 3)",
+      "duration": "16:20",
+      "act": "Lado A",
+      "composer": "Franz Liszt"
+    },
+    {
+      "id": 2,
+      "title": "Smetana: Die Moldau (Vltava)",
+      "duration": "12:15",
+      "act": "Lado A",
+      "composer": "Bedřich Smetana"
+    },
+    {
+      "id": 3,
+      "title": "Rossini: Ouvertüre »Wilhelm Tell«",
+      "duration": "11:50",
+      "act": "Lado B",
+      "composer": "Gioacchino Rossini"
+    },
+    {
+      "id": 4,
+      "title": "Weber: Aufforderung zum Tanz (Aude a la danse), Op. 65",
+      "duration": "08:55",
+      "act": "Lado B",
+      "composer": "Carl Maria von Weber"
+    },
+    {
+      "id": 5,
+      "title": "Liszt: Ungarische Rhapsodie Nr. 5",
+      "duration": "12:40",
+      "act": "Lado B",
+      "composer": "Franz Liszt"
+    }
+  ]
+}
 
   ]
 }

@@ -1,0 +1,254 @@
+{
+  "albums": [
+    {
+      "id": "emi-verdi-1986",
+      "section": "1-A",
+      "title": "La Forza del Destino",
+      "artist": "Riccardo Muti, Plácido Domingo, Mirella Freni & Orchestra del Teatro alla Scala",
+      "releaseYear": 1986,
+      "genre": "Ópera",
+      "subGenre": "Música Clásica",
+      "totalDuration": "2h 57m 20s",
+      "label": "EMI Classics",
+      "format": "Vinyl / Digital Recording (DMM)",
+      "coverUrl": "https://m.media-amazon.com/images/I/71iI-XxDVNL._UF1000,1000_QL80_.jpg",
+      "composers": [
+        "Giuseppe Verdi",
+        "Francesco Maria Piave"
+      ],
+      "tracks": [
+        {
+          "id": 1,
+          "title": "Sinfonia (Obertura)",
+          "duration": "07:27",
+          "act": "Obertura",
+          "composer": "Giuseppe Verdi"
+        },
+        {
+          "id": 2,
+          "title": "Buona notte, mia figlia",
+          "duration": "04:12",
+          "act": "Acto I",
+          "composer": "Giuseppe Verdi"
+        },
+        {
+          "id": 3,
+          "title": "Me pellegrina ed orfana",
+          "duration": "04:26",
+          "act": "Acto I",
+          "composer": "Giuseppe Verdi"
+        },
+        {
+          "id": 4,
+          "title": "Ah! per sempre, o mio bell'angiol",
+          "duration": "06:53",
+          "act": "Acto I",
+          "composer": "Giuseppe Verdi"
+        },
+        {
+          "id": 5,
+          "title": "Holà, holà, holà!",
+          "duration": "01:53",
+          "act": "Acto II",
+          "composer": "Giuseppe Verdi"
+        },
+        {
+          "id": 6,
+          "title": "Son Pereda, son ricco d'onore",
+          "duration": "02:37",
+          "act": "Acto II",
+          "composer": "Giuseppe Verdi"
+        },
+        {
+          "id": 7,
+          "title": "Sono giunta! ... Madre, pietosa Vergine",
+          "duration": "05:27",
+          "act": "Acto II",
+          "composer": "Giuseppe Verdi"
+        },
+        {
+          "id": 8,
+          "title": "Chi siete?",
+          "duration": "03:00",
+          "act": "Acto II",
+          "composer": "Giuseppe Verdi"
+        },
+        {
+          "id": 9,
+          "title": "Il santo nome di Dio... La Vergine degli Angeli",
+          "duration": "08:52",
+          "act": "Acto II",
+          "composer": "Giuseppe Verdi"
+        },
+        {
+          "id": 10,
+          "title": "La vita è inferno... O tu che in seno agli angeli",
+          "duration": "09:43",
+          "act": "Acto III",
+          "composer": "Giuseppe Verdi"
+        },
+        {
+          "id": 11,
+          "title": "Solenne in quest'ora",
+          "duration": "04:07",
+          "act": "Acto III",
+          "composer": "Giuseppe Verdi"
+        },
+        {
+          "id": 12,
+          "title": "Morir! Tremenda cosa... Urna fatale",
+          "duration": "08:08",
+          "act": "Acto III",
+          "composer": "Giuseppe Verdi"
+        },
+        {
+          "id": 13,
+          "title": "Né gustare m'è dato un'ora...",
+          "duration": "05:43",
+          "act": "Acto III",
+          "composer": "Giuseppe Verdi"
+        },
+        {
+          "id": 14,
+          "title": "Rataplan, rataplan",
+          "duration": "02:51",
+          "act": "Acto III",
+          "composer": "Giuseppe Verdi"
+        },
+        {
+          "id": 15,
+          "title": "Invano Alvaro ti celasti al mondo",
+          "duration": "08:33",
+          "act": "Acto IV",
+          "composer": "Giuseppe Verdi"
+        },
+        {
+          "id": 16,
+          "title": "Pace, pace mio Dio!",
+          "duration": "05:48",
+          "act": "Acto IV",
+          "composer": "Giuseppe Verdi"
+        },
+        {
+          "id": 17,
+          "title": "Non imprecare, umiliati",
+          "duration": "04:32",
+          "act": "Acto IV",
+          "composer": "Giuseppe Verdi"
+        }
+      ]
+    },
+    {
+      "id": "london-falstaff-solti-1964",
+      "section": "1-A",
+      "title": "Falstaff",
+      "artist": "Georg Solti (Director), Geraint Evans (Falstaff) & RCA Italiana Opera Orchestra",
+      "releaseYear": 1964,
+      "genre": "Ópera",
+      "subGenre": "Comedia Lírica",
+      "totalDuration": "2h 08m 15s",
+      "label": "London Records / Decca",
+      "format": "Vinyl / Stereo (ffrr)",
+      "coverUrl": "https://m.media-amazon.com/images/I/81xrwiACZhL._UF1000,1000_QL80_.jpg",
+      "composers": [
+        "Giuseppe Verdi",
+        "Arrigo Boito (Libreto)"
+      ],
+      "cast": [
+        "Geraint Evans (Falstaff)",
+        "Mirella Freni (Nannetta)",
+        "Robert Merrill (Ford)",
+        "Giulietta Simionato (Mistress Quickly)",
+        "Ilva Ligabue (Alice Ford)",
+        "Alfredo Kraus (Fenton)",
+        "Rosalind Elias (Meg Page)"
+      ],
+      "tracks": [
+        {
+          "id": 1,
+          "title": "Falstaff! - Holà! (Introducción)",
+          "duration": "04:15",
+          "act": "Acto I, Parte 1",
+          "composer": "Giuseppe Verdi"
+        },
+        {
+          "id": 2,
+          "title": "L'onore! Ladri! (Monólogo del honor)",
+          "duration": "05:10",
+          "act": "Acto I, Parte 1",
+          "composer": "Giuseppe Verdi"
+        },
+        {
+          "id": 3,
+          "title": "Alice! Meg! Nannetta!",
+          "duration": "06:45",
+          "act": "Acto I, Parte 2",
+          "composer": "Giuseppe Verdi"
+        },
+        {
+          "id": 4,
+          "title": "Pst, pst, Nannetta... (Fenton y Nannetta)",
+          "duration": "03:30",
+          "act": "Acto I, Parte 2",
+          "composer": "Giuseppe Verdi"
+        },
+        {
+          "id": 5,
+          "title": "Reverenza! (Mistress Quickly y Falstaff)",
+          "duration": "05:20",
+          "act": "Acto II, Parte 1",
+          "composer": "Giuseppe Verdi"
+        },
+        {
+          "id": 6,
+          "title": "Va, vecchio John (Falstaff)",
+          "duration": "02:55",
+          "act": "Acto II, Parte 1",
+          "composer": "Giuseppe Verdi"
+        },
+        {
+          "id": 7,
+          "title": "È sogno? o realtà? (Monólogo de Ford)",
+          "duration": "04:50",
+          "act": "Acto II, Parte 1",
+          "composer": "Giuseppe Verdi"
+        },
+        {
+          "id": 8,
+          "title": "Presente le mia donne... Quand'ero paggio",
+          "duration": "05:40",
+          "act": "Acto II, Parte 2",
+          "composer": "Giuseppe Verdi"
+        },
+        {
+          "id": 9,
+          "title": "Ehi! Taverniere! (Mondo ladro)",
+          "duration": "05:15",
+          "act": "Acto III, Parte 1",
+          "composer": "Giuseppe Verdi"
+        },
+        {
+          "id": 10,
+          "title": "Dal labbro il canto estasiato vola (Fenton)",
+          "duration": "04:25",
+          "act": "Acto III, Parte 2",
+          "composer": "Giuseppe Verdi"
+        },
+        {
+          "id": 11,
+          "title": "Sul fil d'un soffio etesio (Aria de Nannetta)",
+          "duration": "04:10",
+          "act": "Acto III, Parte 2",
+          "composer": "Giuseppe Verdi"
+        },
+        {
+          "id": 12,
+          "title": "Tutto nel mondo è burla (Fuga final)",
+          "duration": "03:45",
+          "act": "Finale",
+          "composer": "Giuseppe Verdi"
+        }
+      ]
+    }
+  ]
+}
