@@ -1,6 +1,7 @@
 {
   "albums": [
     {
+      "_comentario": "DISCOS REPETIDOS DE LA SECCION 1-A, SI NO HAY NADA EN EL JSON DA ERROR, BORRAR ESTOS DISCOS CUANDO YA VALLAN POR ESTE PUNTO",
       "id": "emi-verdi-1986",
       "section": "3-A",
       "title": "La Forza del Destino",
