@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/biblioteca_digital/static/css/main.a63b2e2c.css",
-    "main.js": "/biblioteca_digital/static/js/main.b129b398.js",
+    "main.js": "/biblioteca_digital/static/js/main.c6c0352e.js",
     "static/js/453.4300bc96.chunk.js": "/biblioteca_digital/static/js/453.4300bc96.chunk.js",
     "index.html": "/biblioteca_digital/index.html",
     "main.a63b2e2c.css.map": "/biblioteca_digital/static/css/main.a63b2e2c.css.map",
-    "main.b129b398.js.map": "/biblioteca_digital/static/js/main.b129b398.js.map",
+    "main.c6c0352e.js.map": "/biblioteca_digital/static/js/main.c6c0352e.js.map",
     "453.4300bc96.chunk.js.map": "/biblioteca_digital/static/js/453.4300bc96.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a63b2e2c.css",
-    "static/js/main.b129b398.js"
+    "static/js/main.c6c0352e.js"
   ]
 }
