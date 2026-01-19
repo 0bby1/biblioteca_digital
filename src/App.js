@@ -73,7 +73,7 @@ function App() {
       <header className="header-ismea">
         <div className="header-wrapper">
 
-          <img src="/logo_ismea.png" alt="ISMEA" className="logo-img" />
+          <img src="logo_ismea.png" alt="ISMEA" className="logo-img" />
 
           <div className="header-text">
             <h1>Fundación Azteca</h1>
