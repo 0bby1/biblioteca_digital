@@ -2,7 +2,7 @@
   "albums": [
     {
       "id": "emi-verdi-1986",
-      "section": "1-A",
+      "section": "2-A",
       "title": "La Forza del Destino",
       "artist": "Riccardo Muti, Plácido Domingo, Mirella Freni & Orchestra del Teatro alla Scala",
       "releaseYear": 1986,
@@ -140,7 +140,7 @@
     },
     {
       "id": "london-falstaff-solti-1964",
-      "section": "1-A",
+      "section": "2-A",
       "title": "Falstaff",
       "artist": "Georg Solti (Director), Geraint Evans (Falstaff) & RCA Italiana Opera Orchestra",
       "releaseYear": 1964,
