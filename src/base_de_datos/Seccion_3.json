@@ -1,255 +1,2029 @@
 {
   "albums": [
     {
-      "_comentario": "DISCOS REPETIDOS DE LA SECCION 1-A, SI NO HAY NADA EN EL JSON DA ERROR, BORRAR ESTOS DISCOS CUANDO YA VALLAN POR ESTE PUNTO",
-      "id": "emi-verdi-1986",
-      "section": "3-A",
-      "title": "La Forza del Destino",
-      "artist": "Riccardo Muti, Plácido Domingo, Mirella Freni & Orchestra del Teatro alla Scala",
-      "releaseYear": 1986,
-      "genre": "Ópera",
-      "subGenre": "Música Clásica",
-      "totalDuration": "2h 57m 20s",
-      "label": "EMI Classics",
-      "format": "Vinyl / Digital Recording (DMM)",
-      "coverUrl": "https://m.media-amazon.com/images/I/71iI-XxDVNL._UF1000,1000_QL80_.jpg",
-      "composers": [
-        "Giuseppe Verdi",
-        "Francesco Maria Piave"
-      ],
-      "tracks": [
-        {
-          "id": 1,
-          "title": "Sinfonia (Obertura)",
-          "duration": "07:27",
-          "act": "Obertura",
-          "composer": "Giuseppe Verdi"
-        },
-        {
-          "id": 2,
-          "title": "Buona notte, mia figlia",
-          "duration": "04:12",
-          "act": "Acto I",
-          "composer": "Giuseppe Verdi"
-        },
-        {
-          "id": 3,
-          "title": "Me pellegrina ed orfana",
-          "duration": "04:26",
-          "act": "Acto I",
-          "composer": "Giuseppe Verdi"
-        },
-        {
-          "id": 4,
-          "title": "Ah! per sempre, o mio bell'angiol",
-          "duration": "06:53",
-          "act": "Acto I",
-          "composer": "Giuseppe Verdi"
-        },
-        {
-          "id": 5,
-          "title": "Holà, holà, holà!",
-          "duration": "01:53",
-          "act": "Acto II",
-          "composer": "Giuseppe Verdi"
-        },
-        {
-          "id": 6,
-          "title": "Son Pereda, son ricco d'onore",
-          "duration": "02:37",
-          "act": "Acto II",
-          "composer": "Giuseppe Verdi"
-        },
-        {
-          "id": 7,
-          "title": "Sono giunta! ... Madre, pietosa Vergine",
-          "duration": "05:27",
-          "act": "Acto II",
-          "composer": "Giuseppe Verdi"
-        },
-        {
-          "id": 8,
-          "title": "Chi siete?",
-          "duration": "03:00",
-          "act": "Acto II",
-          "composer": "Giuseppe Verdi"
-        },
-        {
-          "id": 9,
-          "title": "Il santo nome di Dio... La Vergine degli Angeli",
-          "duration": "08:52",
-          "act": "Acto II",
-          "composer": "Giuseppe Verdi"
-        },
-        {
-          "id": 10,
-          "title": "La vita è inferno... O tu che in seno agli angeli",
-          "duration": "09:43",
-          "act": "Acto III",
-          "composer": "Giuseppe Verdi"
-        },
-        {
-          "id": 11,
-          "title": "Solenne in quest'ora",
-          "duration": "04:07",
-          "act": "Acto III",
-          "composer": "Giuseppe Verdi"
-        },
-        {
-          "id": 12,
-          "title": "Morir! Tremenda cosa... Urna fatale",
-          "duration": "08:08",
-          "act": "Acto III",
-          "composer": "Giuseppe Verdi"
-        },
-        {
-          "id": 13,
-          "title": "Né gustare m'è dato un'ora...",
-          "duration": "05:43",
-          "act": "Acto III",
-          "composer": "Giuseppe Verdi"
-        },
-        {
-          "id": 14,
-          "title": "Rataplan, rataplan",
-          "duration": "02:51",
-          "act": "Acto III",
-          "composer": "Giuseppe Verdi"
-        },
-        {
-          "id": 15,
-          "title": "Invano Alvaro ti celasti al mondo",
-          "duration": "08:33",
-          "act": "Acto IV",
-          "composer": "Giuseppe Verdi"
-        },
-        {
-          "id": 16,
-          "title": "Pace, pace mio Dio!",
-          "duration": "05:48",
-          "act": "Acto IV",
-          "composer": "Giuseppe Verdi"
-        },
-        {
-          "id": 17,
-          "title": "Non imprecare, umiliati",
-          "duration": "04:32",
-          "act": "Acto IV",
-          "composer": "Giuseppe Verdi"
-        }
-      ]
-    },
-    {
-      "id": "london-falstaff-solti-1964",
-      "section": "3-A",
-      "title": "Falstaff",
-      "artist": "Georg Solti (Director), Geraint Evans (Falstaff) & RCA Italiana Opera Orchestra",
-      "releaseYear": 1964,
-      "genre": "Ópera",
-      "subGenre": "Comedia Lírica",
-      "totalDuration": "2h 08m 15s",
-      "label": "London Records / Decca",
-      "format": "Vinyl / Stereo (ffrr)",
-      "coverUrl": "https://m.media-amazon.com/images/I/81xrwiACZhL._UF1000,1000_QL80_.jpg",
-      "composers": [
-        "Giuseppe Verdi",
-        "Arrigo Boito (Libreto)"
-      ],
-      "cast": [
-        "Geraint Evans (Falstaff)",
-        "Mirella Freni (Nannetta)",
-        "Robert Merrill (Ford)",
-        "Giulietta Simionato (Mistress Quickly)",
-        "Ilva Ligabue (Alice Ford)",
-        "Alfredo Kraus (Fenton)",
-        "Rosalind Elias (Meg Page)"
-      ],
-      "tracks": [
-        {
-          "id": 1,
-          "title": "Falstaff! - Holà! (Introducción)",
-          "duration": "04:15",
-          "act": "Acto I, Parte 1",
-          "composer": "Giuseppe Verdi"
-        },
-        {
-          "id": 2,
-          "title": "L'onore! Ladri! (Monólogo del honor)",
-          "duration": "05:10",
-          "act": "Acto I, Parte 1",
-          "composer": "Giuseppe Verdi"
-        },
-        {
-          "id": 3,
-          "title": "Alice! Meg! Nannetta!",
-          "duration": "06:45",
-          "act": "Acto I, Parte 2",
-          "composer": "Giuseppe Verdi"
-        },
-        {
-          "id": 4,
-          "title": "Pst, pst, Nannetta... (Fenton y Nannetta)",
-          "duration": "03:30",
-          "act": "Acto I, Parte 2",
-          "composer": "Giuseppe Verdi"
-        },
-        {
-          "id": 5,
-          "title": "Reverenza! (Mistress Quickly y Falstaff)",
-          "duration": "05:20",
-          "act": "Acto II, Parte 1",
-          "composer": "Giuseppe Verdi"
-        },
-        {
-          "id": 6,
-          "title": "Va, vecchio John (Falstaff)",
-          "duration": "02:55",
-          "act": "Acto II, Parte 1",
-          "composer": "Giuseppe Verdi"
-        },
-        {
-          "id": 7,
-          "title": "È sogno? o realtà? (Monólogo de Ford)",
-          "duration": "04:50",
-          "act": "Acto II, Parte 1",
-          "composer": "Giuseppe Verdi"
-        },
-        {
-          "id": 8,
-          "title": "Presente le mia donne... Quand'ero paggio",
-          "duration": "05:40",
-          "act": "Acto II, Parte 2",
-          "composer": "Giuseppe Verdi"
-        },
-        {
-          "id": 9,
-          "title": "Ehi! Taverniere! (Mondo ladro)",
-          "duration": "05:15",
-          "act": "Acto III, Parte 1",
-          "composer": "Giuseppe Verdi"
-        },
-        {
-          "id": 10,
-          "title": "Dal labbro il canto estasiato vola (Fenton)",
-          "duration": "04:25",
-          "act": "Acto III, Parte 2",
-          "composer": "Giuseppe Verdi"
-        },
-        {
-          "id": 11,
-          "title": "Sul fil d'un soffio etesio (Aria de Nannetta)",
-          "duration": "04:10",
-          "act": "Acto III, Parte 2",
-          "composer": "Giuseppe Verdi"
-        },
-        {
-          "id": 12,
-          "title": "Tutto nel mondo è burla (Fuga final)",
-          "duration": "03:45",
-          "act": "Finale",
-          "composer": "Giuseppe Verdi"
-        }
-      ]
-    }
+  "id": "3 - 1",
+  "section": "3-A",
+  "title": "Rachmaninoff: The Complete Works for Solo Piano, Vol. 5",
+  "artist": "Ruth Laredo (Piano)",
+  "releaseYear": 1979,
+  "genre": "Música Clásica",
+  "subGenre": "Romanticismo Ruso / Piano Solo",
+  "totalDuration": "48m 15s",
+  "label": "Columbia Masterworks",
+  "format": "Vinyl / Stereo / 1 LP",
+  "catalogNumber": "M 35151",
+  "coverUrl": "https://alchetron.com/cdn/ruth-laredo-71e13ad2-f6f5-4b0e-b5e3-bfa9f988f34-resize-750.jpeg",
+  "composers": [
+    "Sergei Rachmaninoff",
+    "Felix Mendelssohn",
+    "Georges Bizet",
+    "J.S. Bach",
+    "Rimsky-Korsakov",
+    "Pyotr Ilyich Tchaikovsky",
+    "Modest Mussorgsky",
+    "Franz Schubert"
+  ]
+},
+{
+  "id": "3 - 2",
+  "section": "3-A",
+  "title": "Rachmaninoff: Aleko (Opera in One Act)",
+  "artist": "Soloists, Chorus and Orchestra of the Sofia State Opera",
+  "releaseYear": 1970,
+  "genre": "Música Clásica",
+  "subGenre": "Ópera / Romanticismo Ruso",
+  "totalDuration": "Desconocida (2 LP)",
+  "label": "Monitor Collectors Series",
+  "format": "Vinyl / Stereo / 2 LP / Box Set",
+  "catalogNumber": "HS 90102/3",
+  "coverUrl": "https://i.discogs.com/vUqy4M8sV3KFVOpDsjrDT1FgJLDst-Iu-pPlFu6yFIc/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODUy/ODM4LTE1MjUxOTI4/NzYtMzE1Ni5qcGVn.jpeg",
+  "composers": [
+    "Sergei Rachmaninoff"
+  ]
+},
+{
+  "id": "3 - 3",
+  "section": "3-A",
+  "title": "Sergei Rachmaninov: The Ampico Recordings, Volume Two",
+  "artist": "Sergei Rachmaninov (Piano)",
+  "releaseYear": 1984,
+  "genre": "Música Clásica",
+  "subGenre": "Romanticismo / Piano Solo / Grabación Histórica",
+  "totalDuration": "Desconocida",
+  "label": "L'Oiseau-Lyre",
+  "format": "Vinyl / Stereo / 1 LP",
+  "catalogNumber": "414 099-1 OH",
+  "coverUrl": "https://i.discogs.com/yRGmIfeWWzwYDiuQChd0D3Zzlq8PTgGanq-32P6_QrM/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3NTY5/MTUtMTYzODM5NTIy/Ni04MDQzLmpwZWc.jpeg",
+  "composers": [
+    "Sergei Rachmaninov",
+    "Frédéric Chopin",
+    "Pyotr Ilyich Tchaikovsky",
+    "Fritz Kreisler",
+    "Nikolai Rimsky-Korsakov",
+    "Georges Bizet",
+    "Ignacy Jan Paderewski",
+    "Modest Mussorgsky",
+    "Anton Rubinstein"
+  ]
+},
+{
+  "id": "3 - 4",
+  "section": "3-A",
+  "title": "Rachmaninoff: Symphony No. 3 in A minor",
+  "artist": "Moscow Radio Symphony Orchestra & Yevgeny Svetlanov (Conductor)",
+  "releaseYear": 1968,
+  "genre": "Música Clásica",
+  "subGenre": "Romanticismo Ruso / Sinfonía",
+  "totalDuration": "Desconocida",
+  "label": "Melodiya / Angel",
+  "format": "Vinyl / Stereo / 1 LP",
+  "catalogNumber": "SR-40117",
+  "coverUrl": "https://i.discogs.com/1dJurXE-1gEsyuJPQxR78RdPG8zGY0cyxhRzATW-n64/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMjQ5/MDctMTYyMjMyNDIx/NC0xNjQxLmpwZWc.jpeg",
+  "composers": [
+    "Sergei Rachmaninoff"
+  ]
+},
+{
+  "id": "3 - 5",
+  "section": "3-A",
+  "title": "Rachmaninov: Rhapsody On A Theme Of Paganini / Dohnányi: Variations On A Nursery Tune",
+  "artist": "Julius Katchen (Piano), London Philharmonic Orchestra & Sir Adrian Boult (Conductor)",
+  "releaseYear": 1960,
+  "genre": "Música Clásica",
+  "subGenre": "Romanticismo / Piano y Orquesta",
+  "totalDuration": "Desconocida",
+  "label": "London ffrr",
+  "format": "Vinyl / Stereo / 1 LP",
+  "catalogNumber": "CS 6153",
+  "coverUrl": "https://i.discogs.com/JRvnmP5w2di7nhShtSlkw-9pbMGr2orfkvabvEnjISg/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzM2/NTQxLTE1MzMxOTU1/NjYtMzE4OC5qcGVn.jpeg",
+  "composers": [
+    "Sergei Rachmaninov",
+    "Ernst von Dohnányi"
+  ]
+},
+{
+  "id": "3 - 6",
+  "section": "3-A",
+  "title": "Rachmaninoff: Piano Concerto No. 2 in C Minor",
+  "artist": "Leonard Pennario (Piano), The Los Angeles Philharmonic Orchestra & Erich Leinsdorf (Conductor)",
+  "releaseYear": 1960,
+  "genre": "Música Clásica",
+  "subGenre": "Romanticismo Ruso / Concierto para Piano",
+  "totalDuration": "Desconocida",
+  "label": "Capitol / EMI",
+  "format": "Vinyl / Stereo / 1 LP",
+  "catalogNumber": "CCM-036",
+  "coverUrl": "https://m.media-amazon.com/images/I/91hgBdvoWpL._UF1000,1000_QL80_.jpg",
+  "composers": [
+    "Sergei Rachmaninoff"
+  ]
+},
+{
+  "id": "3 - 7",
+  "section": "3-A",
+  "title": "Rachmaninoff: Concerto No. 2 in C minor, Op. 18 for Piano and Orchestra",
+  "artist": "Sviatoslav Richter (Piano), Leningrad Philharmonic Orchestra & Kurt Sanderling (Conductor)",
+  "releaseYear": 1959,
+  "genre": "Música Clásica",
+  "subGenre": "Romanticismo Ruso / Concierto para Piano",
+  "totalDuration": "Desconocida",
+  "label": "Parliament",
+  "format": "Vinyl / Mono / 1 LP",
+  "catalogNumber": "PLP-134",
+  "coverUrl": "https://m.media-amazon.com/images/I/91ZCe9f31wL._UF1000,1000_QL80_.jpg",
+  "composers": [
+    "Sergei Rachmaninoff"
+  ]
+},
+{
+  "id": "3 - 8",
+  "section": "3-A",
+  "title": "Rachmaninov: Symphonie No. 2",
+  "artist": "Berliner Philharmoniker & Lorin Maazel (Conductor)",
+  "releaseYear": 1983,
+  "genre": "Música Clásica",
+  "subGenre": "Romanticismo Ruso / Sinfonía",
+  "totalDuration": "60m 13s",
+  "label": "Deutsche Grammophon",
+  "format": "Vinyl / Stereo / 1 LP / Digital Recording",
+  "catalogNumber": "2532 102",
+  "coverUrl": "https://m.media-amazon.com/images/I/81dmGZmjogL._UF1000,1000_QL80_.jpg",
+  "composers": [
+    "Sergei Rachmaninoff"
+  ]
+},
+{
+  "id": "3 - 9",
+  "section": "3-A",
+  "title": "Rachmaninov: Symphonie No. 3 / Die Toteninsel · The Isle of the Dead",
+  "artist": "Berliner Philharmoniker & Lorin Maazel (Conductor)",
+  "releaseYear": 1982,
+  "genre": "Música Clásica",
+  "subGenre": "Romanticismo Ruso / Sinfonía / Poema Sinfónico",
+  "totalDuration": "Desconocida",
+  "label": "Deutsche Grammophon",
+  "format": "Vinyl / Stereo / 1 LP / Digital Recording",
+  "catalogNumber": "2532 065",
+  "coverUrl": "https://i.etsystatic.com/7171588/r/il/e61075/4379537435/il_fullxfull.4379537435_ti1a.jpg",
+  "composers": [
+    "Sergei Rachmaninoff"
+  ]
+},
+{
+  "id": "3 - 10",
+  "section": "3-A",
+  "title": "Rachmaninoff: Symphony No. 3 / Intermezzo and Women's Dance from 'Aleko'",
+  "artist": "London Symphony Orchestra & André Previn (Conductor)",
+  "releaseYear": 1977,
+  "genre": "Música Clásica",
+  "subGenre": "Romanticismo Ruso / Sinfonía / Ópera (Fragmentos)",
+  "totalDuration": "Desconocida",
+  "label": "Angel",
+  "format": "Vinyl / Stereo / 1 LP",
+  "catalogNumber": "S-37260",
+  "coverUrl": "https://i.scdn.co/image/ab67616d0000b273ffb2523c075d31e95d613877",
+  "composers": [
+    "Sergei Rachmaninoff"
+  ]
+},
+{
+  "id": "3 - 11",
+  "section": "3-A",
+  "title": "Rachmaninoff: Symphony No. 3, Op. 44 / Mussorgsky: Night On The Bare Mountain",
+  "artist": "L'Orchestre De La Suisse Romande & Paul Kletzki (Conductor)",
+  "releaseYear": 1969,
+  "genre": "Música Clásica",
+  "subGenre": "Romanticismo Ruso / Sinfonía / Poema Sinfónico",
+  "totalDuration": "Desconocida",
+  "label": "London ffrr",
+  "format": "Vinyl / Stereo / 1 LP",
+  "catalogNumber": "CS 6622",
+  "coverUrl": "https://m.media-amazon.com/images/I/917OwhLdDCL._UF1000,1000_QL80_.jpg",
+  "composers": [
+    "Sergei Rachmaninoff",
+    "Modest Mussorgsky"
+  ]
+},
+{
+  "id": "3 - 12",
+  "section": "3-A",
+  "title": "Rachmaninoff: The Bells (Based on the poem by Edgar Allan Poe) / Vocalise",
+  "artist": "Sheila Armstrong, Robert Tear, John Shirley-Quirk, London Symphony Orchestra & London Symphony Chorus, André Previn (Conductor)",
+  "releaseYear": 1976,
+  "genre": "Música Clásica",
+  "subGenre": "Romanticismo Ruso / Sinfonía Coral / Obra Vocal",
+  "totalDuration": "Desconocida",
+  "label": "Angel",
+  "format": "Vinyl / Stereo / 1 LP",
+  "catalogNumber": "S-37169",
+  "coverUrl": "https://m.media-amazon.com/images/I/511owbjH6uS._UXNaN_FMjpg_QL85_.jpg",
+  "composers": [
+    "Sergei Rachmaninoff"
+  ]
+},
+{
+  "id": "3 - 13",
+  "section": "3-A",
+  "title": "Rachmaninoff: Symphonic Dances / Three Russian Songs",
+  "artist": "Moscow Philharmonic & Kiril Kondrashin (Conductor) / Bolshoi Theater Chorus & Orchestra & Yevgeny Svetlanov (Conductor)",
+  "releaseYear": 1967,
+  "genre": "Música Clásica",
+  "subGenre": "Romanticismo Ruso / Música Orquestal / Obra Coral",
+  "totalDuration": "Desconocida",
+  "label": "Melodiya / Angel",
+  "format": "Vinyl / Stereo / 1 LP",
+  "catalogNumber": "SR-40093",
+  "coverUrl": "https://i.discogs.com/f8hQg-lqqonKecAr9Ug43AqIFhhdtuvJ_FPZGjicLRI/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzI2/NDc1LTE3MjY5NTg2/NzUtNDAwMy5wbmc.jpeg",
+  "composers": [
+    "Sergei Rachmaninoff"
+  ]
+},
+{
+  "id": "3 - 14",
+  "section": "3-A",
+  "title": "Rachmaninov: Symphonic Dances, Op. 45 / Russian Rhapsody",
+  "artist": "Vladimir Ashkenazy & André Previn (Pianos)",
+  "releaseYear": 1979,
+  "genre": "Música Clásica",
+  "subGenre": "Romanticismo Ruso / Dúo de Pianos",
+  "totalDuration": "Desconocida",
+  "label": "London ffrr",
+  "format": "Vinyl / Stereo / 1 LP",
+  "catalogNumber": "CS 7159",
+  "coverUrl": "https://m.media-amazon.com/images/I/913Lblj-PaL._UF350,350_QL50_.jpg",
+  "composers": [
+    "Sergei Rachmaninoff"
+  ]
+},
+{
+  "id": "3 - 15",
+  "section": "3-A",
+  "title": "Rachmaninov: Songs, Volume Two",
+  "artist": "Elisabeth Söderström (Soprano) & Vladimir Ashkenazy (Piano)",
+  "releaseYear": 1977,
+  "genre": "Música Clásica",
+  "subGenre": "Romanticismo Ruso / Lied / Música Vocal",
+  "totalDuration": "Desconocida",
+  "label": "London ffrr",
+  "format": "Vinyl / Stereo / 1 LP",
+  "catalogNumber": "OS 26453",
+  "coverUrl": "https://i.etsystatic.com/12941269/r/il/d965b2/3713828109/il_fullxfull.3713828109_arw0.jpg",
+  "composers": [
+    "Sergei Rachmaninoff"
+  ]
+},
+{
+  "id": "3 - 16",
+  "section": "3-A",
+  "title": "Rachmaninoff: Concerto No. 2, Op. 18 / Etudes-Tableaux Op. 39 Nos. 1 & 2 / Tableaux Op. 29 No. 5",
+  "artist": "Vladimir Ashkenazy (Piano), Moscow Philharmonic Orchestra & Kyril Kondrashin (Conductor)",
+  "releaseYear": 1964,
+  "genre": "Música Clásica",
+  "subGenre": "Romanticismo Ruso / Concierto para Piano / Piano Solo",
+  "totalDuration": "Desconocida",
+  "label": "London ffrr",
+  "format": "Vinyl / Stereo / 1 LP",
+  "catalogNumber": "CS 6390",
+  "coverUrl": "https://i.ebayimg.com/00/s/MTYwMFgxNjAw/z/4xEAAOSwwW1hPNKV/$_57.JPG?set_id=880000500F",
+  "composers": [
+    "Sergei Rachmaninoff"
+  ]
+},
+{
+  "id": "3 - 17",
+  "section": "3-A",
+  "title": "Rachmaninoff: 24 Preludes for Piano (Complete)",
+  "artist": "Constance Keene (Piano)",
+  "releaseYear": 1960,
+  "genre": "Música Clásica",
+  "subGenre": "Romanticismo Ruso / Piano Solo",
+  "totalDuration": "Desconocida (2 LP)",
+  "label": "Philips World Series",
+  "format": "Vinyl / Stereo / 2 LP / Box Set",
+  "catalogNumber": "PHC 2-006",
+  "coverUrl": "https://m.media-amazon.com/images/I/91MhVz4YX6L._UF1000,1000_QL80_.jpg",
+  "composers": [
+    "Sergei Rachmaninoff"
+  ]
+},
+{
+  "id": "3 - 18",
+  "section": "3-A",
+  "title": "Preußische & Österreichische Märsche (Prussian & Austrian Marches / Marches prussiennes & autrichiennes)",
+  "artist": "Bläser der Berliner Philharmoniker & Herbert von Karajan (Conductor)",
+  "releaseYear": 1974,
+  "genre": "Música Clásica",
+  "subGenre": "Marcha Militar / Banda de Vientos",
+  "totalDuration": "Desconocida",
+  "label": "Deutsche Grammophon",
+  "format": "CD / Stereo",
+  "catalogNumber": "Desconocido",
+  "coverUrl": "https://m.media-amazon.com/images/I/71ms8wBRBnL._UF1000,1000_QL80_.jpg",
+  "composers": [
+    "Varios"
+  ]
+},
+{
+  "id": "3 - 19",
+  "section": "3-A",
+  "title": "Beethoven/Liszt: The Symphonies Nos. 1-9",
+  "artist": "Cyprien Katsaris (Piano)",
+  "releaseYear": 1990,
+  "genre": "Música Clásica",
+  "subGenre": "Romanticismo / Piano Solo / Transcripciones",
+  "totalDuration": "Desconocida (Caja de CDs)",
+  "label": "Teldec",
+  "format": "CD / Stereo / Box Set",
+  "catalogNumber": "Desconocido",
+  "coverUrl": "https://i.discogs.com/Jz5xJrvBqagt3z60XbUM3R_KhkVrFkWAz974UhyGFN8/rs:fit/g:sm/q:90/h:525/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjYx/MjExLTE1NzUxNDAx/MTAtMTk0OC5qcGVn.jpeg",
+  "composers": [
+    "Ludwig van Beethoven",
+    "Franz Liszt"
+  ]
+},
+{
+  "id": "3 - 20",
+  "section": "3-A",
+  "title": "Cuartetos Mexicanos Desconocidos Vol. II",
+  "artist": "Cuarteto de Cuerdas Ruso-Americano",
+  "releaseYear": 2005,
+  "genre": "Música Clásica",
+  "subGenre": "Música de Cámara / Nacionalismo Mexicano",
+  "totalDuration": "Desconocida",
+  "label": "Quindecim Recordings",
+  "format": "CD / Stereo",
+  "catalogNumber": "QP141",
+  "coverUrl": "https://m.media-amazon.com/images/I/51eDP1sT0xL._UXNaN_FMjpg_QL85_.jpg",
+  "composers": [
+    "Carlos Chávez",
+    "Salvador Contreras",
+    "Candelario Huízar"
+  ]
+},
+{
+  "id": "3 - 21",
+  "section": "3-A",
+  "title": "Antonin Dvořák: Symphonien Nr. 7 & 8",
+  "artist": "Berliner Philharmoniker & Rafael Kubelík (Conductor)",
+  "releaseYear": 1988,
+  "genre": "Música Clásica",
+  "subGenre": "Romanticismo / Sinfonía",
+  "totalDuration": "73m 27s",
+  "label": "Deutsche Grammophon Resonance",
+  "format": "CD / Stereo",
+  "catalogNumber": "429 518-2",
+  "coverUrl": "https://i.discogs.com/4ioRJSt1j4BHz1izE_XOpKXRrwi18Z1qbQj4IZdPp-U/rs:fit/g:sm/q:90/h:583/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNjk4/NzktMTI2Nzc5MTQw/NS5qcGVn.jpeg",
+  "composers": [
+    "Antonín Dvořák"
+  ]
+},
+{
+  "id": "3 - 22",
+  "section": "3-A",
+  "title": "Sibelius · Dvořák: Violinkonzerte (Violin Concertos)",
+  "artist": "Shlomo Mintz (Violin), Berliner Philharmoniker & James Levine (Conductor)",
+  "releaseYear": 1987,
+  "genre": "Música Clásica",
+  "subGenre": "Romanticismo / Concierto para Violín",
+  "totalDuration": "65m 16s",
+  "label": "Deutsche Grammophon",
+  "format": "CD / Stereo / Digital Recording",
+  "catalogNumber": "419 618-2",
+  "coverUrl": "https://i.discogs.com/bpPkG-6UKNcthXr4LLYkgfNA5gJKkS6FRRICbVXb1N8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5NzQw/NzQtMTU2MzgwNzk2/OS05OTI2LmpwZWc.jpeg",
+  "composers": [
+    "Jean Sibelius",
+    "Antonín Dvořák"
+  ]
+},
+{
+  "id": "3 - 23",
+  "section": "3-A",
+  "title": "Julio Estrada: Eua'On",
+  "artist": "Orquesta de la SWF, Olaf Henzold (Director), Yunnohui Yeí (Violoncello), Jane Chapman (Clavicémbalo)",
+  "releaseYear": 1995,
+  "genre": "Música Contemporánea",
+  "subGenre": "Vanguardia / Música Electroacústica / UPIC",
+  "totalDuration": "Desconocida",
+  "label": "Desconocido",
+  "format": "CD / Stereo",
+  "catalogNumber": "Desconocido",
+  "coverUrl": "disco_generico.png",
+  "composers": [
+    "Julio Estrada"
+  ]
+},
+{
+  "id": "3 - 24",
+  "section": "3-A",
+  "title": "Joseph Haydn: Cellokonzert C-Dur / Symphonie Nr. 104",
+  "artist": "Dietrich Fischer-Dieskau (Director), Wolfgang Boettcher (Violoncello) & Camerata Academica",
+  "releaseYear": 1994,
+  "genre": "Música Clásica",
+  "subGenre": "Clasicismo / Sinfonía / Concierto para Cello",
+  "totalDuration": "54m 37s",
+  "label": "Orfeo d'Or",
+  "format": "CD / Stereo / Live Recording",
+  "catalogNumber": "C 357 941 B",
+  "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music62/v4/51/b5/19/51b519e3-80e1-4977-b651-f606d79b319c/4011790221120.jpg/1200x630bb.jpg",
+  "composers": [
+    "Joseph Haydn"
+  ]
+},
+{
+  "id": "3 - 25",
+  "section": "3-A",
+  "title": "Julio Estrada: Murmullos del Páramo (Rehearsal CD #1 - Doloritas)",
+  "artist": "Julio Estrada / Experimentalstudio der Heinrich-Strobel-Stiftung des SWR Freiburg",
+  "releaseYear": 2006,
+  "genre": "Música Contemporánea",
+  "subGenre": "Vanguardia / Ópera / Documento de Ensayo",
+  "totalDuration": "Desconocida",
+  "label": "SWR Experimentalstudio",
+  "format": "Audio CD / Rehearsal CD",
+  "catalogNumber": "Abril 2006",
+  "coverUrl": "disco_generico.png",
+  "composers": [
+    "Julio Estrada"
+  ]
+},
+{
+  "id": "3 - 26",
+  "section": "3-A",
+  "title": "Julio Estrada: Murmullos del Páramo (Rehearsal CD #2 - Susana)",
+  "artist": "Julio Estrada / Experimentalstudio der Heinrich-Strobel-Stiftung des SWR Freiburg",
+  "releaseYear": 2006,
+  "genre": "Música Contemporánea",
+  "subGenre": "Vanguardia / Ópera / Documento de Ensayo",
+  "totalDuration": "Desconocida",
+  "label": "SWR Experimentalstudio",
+  "format": "Audio CD / Rehearsal CD",
+  "catalogNumber": "Abril 2006",
+  "coverUrl": "disco_generico.png",
+  "composers": [
+    "Julio Estrada"
+  ]
+},
+{
+  "id": "3 - 27",
+  "section": "3-A",
+  "title": "Julio Estrada: Mictlán / Eolo Ollín",
+  "artist": "Fátima Miranda (Voz), Llorenç Barber (Ruidista), Stefano Scodanibbio (Contrabajo), Grupo de Percusiones de Darmstadt",
+  "releaseYear": 1998,
+  "genre": "Música Contemporánea",
+  "subGenre": "Vanguardia / Música Experimental / Microtonalismo",
+  "totalDuration": "Desconocida",
+  "label": "Desconocido",
+  "format": "CD / Stereo",
+  "catalogNumber": "Desconocido",
+  "coverUrl": "disco_generico.png",
+  "composers": [
+    "Julio Estrada"
+  ]
+},
+{
+  "id": "3 - 28",
+  "section": "3-A",
+  "title": "Philip Glass: Violin Concerto No. 2 'The American Four Seasons'",
+  "artist": "Robert McDuffie (Violin), London Philharmonic Orchestra & Marin Alsop (Conductor)",
+  "releaseYear": 2010,
+  "genre": "Música Clásica",
+  "subGenre": "Minimalismo / Concierto para Violín",
+  "totalDuration": "Desconocida",
+  "label": "Orange Mountain Music",
+  "format": "CD / Stereo",
+  "catalogNumber": "Desconocido",
+  "coverUrl": "disco_generico.png",
+  "composers": [
+    "Philip Glass"
+  ]
+},
+{
+  "id": "3 - 29",
+  "section": "3-A",
+  "title": "G.F. Haendel: Ombra mai fù (Arias from Giulio Cesare, Admeto, Radamisto, Rodelinda, Serse, Alcina)",
+  "artist": "Andreas Scholl (Contratenor) & Akademie für Alte Musik Berlin",
+  "releaseYear": 1999,
+  "genre": "Música Clásica",
+  "subGenre": "Barroco / Ópera / Arias",
+  "totalDuration": "Desconocida",
+  "label": "Harmonia Mundi France",
+  "format": "CD / Stereo",
+  "catalogNumber": "HMC 901685",
+  "coverUrl": "https://m.media-amazon.com/images/I/71knwDknkRL._UF350,350_QL80_.jpg",
+  "composers": [
+    "George Frideric Handel"
+  ]
+},
+{
+  "id": "3 - 30",
+  "section": "3-A",
+  "title": "Farewell: Joseph Haydn / Isang Yun",
+  "artist": "Münchener Kammerorchester & Alexander Liebreich (Conductor)",
+  "releaseYear": 2008,
+  "genre": "Música Clásica",
+  "subGenre": "Clasicismo / Música Contemporánea",
+  "totalDuration": "Desconocida",
+  "label": "ECM New Series",
+  "format": "CD / Stereo",
+  "catalogNumber": "ECM 2040",
+  "coverUrl": "https://m.media-amazon.com/images/I/81NWULzIC7L._UF350,350_QL50_.jpg",
+  "composers": [
+    "Joseph Haydn",
+    "Isang Yun"
+  ]
+},
+{
+  "id": "3 - 31",
+  "section": "3-A",
+  "title": "Gustav Holst: The Planets / Colin Matthews: Pluto",
+  "artist": "The Hallé Orchestra & Mark Elder (Conductor)",
+  "releaseYear": 2001,
+  "genre": "Música Clásica",
+  "subGenre": "Romanticismo Tardío / Música Orquestal / Siglo XX",
+  "totalDuration": "Desconocida",
+  "label": "Hyperion",
+  "format": "CD / Stereo",
+  "catalogNumber": "CDA67270",
+  "coverUrl": "https://m.media-amazon.com/images/I/61ajYlpM1TL._UF350,350_QL50_.jpg",
+  "composers": [
+    "Gustav Holst",
+    "Colin Matthews"
+  ]
+},
+{
+  "id": "3 - 32",
+  "section": "3-A",
+  "title": "Janáček: Mládí / Říkadla / Concertino / Capriccio / Pochod modráčků",
+  "artist": "Netherlands Wind Ensemble, Thierry Fischer (Conductor) & Boris Berman (Piano)",
+  "releaseYear": 1996,
+  "genre": "Música Clásica",
+  "subGenre": "Modernismo / Música de Cámara / Ensamble de Vientos",
+  "totalDuration": "Desconocida",
+  "label": "Chandos",
+  "format": "CD / Stereo",
+  "catalogNumber": "CHAN 9489",
+  "coverUrl": "https://m.media-amazon.com/images/I/51D9fSDqR+L._UF350,350_QL50_.jpg",
+  "composers": [
+    "Leoš Janáček"
+  ]
+},
+{
+  "id": "3 - 33",
+  "section": "3-A",
+  "title": "Janáček: Mša glagolskaja (Glagolitic Mass) / Amarus",
+  "artist": "František Jílek & Sir Charles Mackerras (Conductors)",
+  "releaseYear": 1992,
+  "genre": "Música Clásica",
+  "subGenre": "Modernismo / Música Coral / Obra Sacra",
+  "totalDuration": "Desconocida",
+  "label": "Supraphon",
+  "format": "CD / Stereo",
+  "catalogNumber": "11 1467-2",
+  "coverUrl": "https://m.media-amazon.com/images/I/61dDMNSVKRL._UF1000,1000_QL80_.jpg",
+  "composers": [
+    "Leoš Janáček"
+  ]
+},
+{
+  "id": "3 - 34",
+  "section": "3-A",
+  "title": "Julio Estrada: Obras",
+  "artist": "Velia Nieto (Piano), Janos Negyesy (Violín), Peter Farnell (Cello), Jane Chapman (Clavicímbalo), Irvine Arditti (Violín)",
+  "releaseYear": "Desconocido",
+  "genre": "Música Contemporánea",
+  "subGenre": "Vanguardia / Música de Cámara / Solista",
+  "totalDuration": "Desconocida",
+  "label": "Desconocido",
+  "format": "CD / Stereo",
+  "catalogNumber": "Desconocido",
+  "coverUrl": "disco_generico.png",
+  "composers": [
+    "Julio Estrada"
+  ]
+},
+{
+  "id": "3 - 35",
+  "section": "3-A",
+  "title": "Carlos Chávez: The Visitors (Opera en tres actos) - Acto I",
+  "artist": "Lourdes Ambriz, Randolph Locke, Encarnación Vázquez, Jesús Suaste, Marc Embree, Orquesta y Coro del Teatro de Bellas Artes, José Areán (Director)",
+  "releaseYear": "Desconocido",
+  "genre": "Música Clásica",
+  "subGenre": "Ópera / Nacionalismo Mexicano",
+  "totalDuration": "Desconocida",
+  "label": "Desconocido",
+  "format": "CD / Stereo",
+  "catalogNumber": "Desconocido",
+  "coverUrl": "disco_generico.png",
+  "composers": [
+    "Carlos Chávez"
+  ]
+},
+{
+  "id": "3 - 36",
+  "section": "3-A",
+  "title": "Carlos Chávez: The Visitors (Opera en tres actos) - Acto II",
+  "artist": "Lourdes Ambriz, Randolph Locke, Encarnación Vázquez, Jesús Suaste, Marc Embree, Orquesta y Coro del Teatro de Bellas Artes, José Areán (Director)",
+  "releaseYear": "Desconocido",
+  "genre": "Música Clásica",
+  "subGenre": "Ópera / Nacionalismo Mexicano",
+  "totalDuration": "Desconocida",
+  "label": "Desconocido",
+  "format": "CD / Stereo",
+  "catalogNumber": "Desconocido",
+  "coverUrl": "disco_generico.png",
+  "composers": [
+    "Carlos Chávez"
+  ]
+},
+{
+  "id": "3 - 37",
+  "section": "3-A",
+  "title": "Schubert | Tchaikovsky | Bruch",
+  "artist": "Maxim Rysanov (Viola), Swedish Chamber Orchestra & Muhai Tang (Conductor)",
+  "releaseYear": 2009,
+  "genre": "Música Clásica",
+  "subGenre": "Romanticismo / Viola Solista / Música Orquestal",
+  "totalDuration": "Desconocida",
+  "label": "BIS",
+  "format": "Super Audio CD (SACD) / Stereo",
+  "catalogNumber": "BIS-SACD-1713",
+  "coverUrl": "https://dnan0fzjxntrj.cloudfront.net/Pictures/1024x536/0/7/8/1078_maxinrysanov.jpg",
+  "composers": [
+    "Franz Schubert",
+    "Pyotr Ilyich Tchaikovsky",
+    "Max Bruch"
+  ]
+},
+{
+  "id": "3 - 38",
+  "section": "3-A",
+  "title": "Beniamino Gigli: Airs d'Opéras / Opera Arias / Opernarien",
+  "artist": "Beniamino Gigli (Tenor)",
+  "releaseYear": 1990,
+  "genre": "Música Clásica",
+  "subGenre": "Ópera / Bel Canto / Tenor",
+  "totalDuration": "Desconocida",
+  "label": "EMI Classics - Références",
+  "format": "CD / Mono",
+  "catalogNumber": "CDH 7 61051 2",
+  "coverUrl": "https://m.media-amazon.com/images/I/51ybYAVz-pL._UF1000,1000_QL80_.jpg",
+  "composers": [
+    "Varios (Gounod, Bizet, Verdi, Puccini, Mascagni, entre otros)"
+  ]
+},
+{
+  "id": "3 - 39",
+  "section": "3-A",
+  "title": "Mattia Battistini (Prima Voce)",
+  "artist": "Mattia Battistini (Barítono)",
+  "releaseYear": 1989,
+  "genre": "Música Clásica",
+  "subGenre": "Ópera / Bel Canto / Barítono",
+  "totalDuration": "Desconocida",
+  "label": "Nimbus Records",
+  "format": "CD / Mono",
+  "catalogNumber": "NI 7802",
+  "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music69/v4/68/32/ff/6832ffe5-e8fd-0fb0-d4aa-3c1aa49ea0ce/190374191302.jpg/486x486bb.webp",
+  "composers": [
+    "Varios (Mozart, Verdi, Wagner, Massenet, Donizetti, entre otros)"
+  ]
+},
+{
+  "id": "3 - 40",
+  "section": "3-A",
+  "title": "Kathleen Battle at Carnegie Hall",
+  "artist": "Kathleen Battle (Soprano) & Margo Garrett (Piano)",
+  "releaseYear": 1992,
+  "genre": "Música Clásica",
+  "subGenre": "Recital Vocal / Lied / Arias",
+  "totalDuration": "Desconocida",
+  "label": "Deutsche Grammophon",
+  "format": "CD / Stereo / Digital Recording",
+  "catalogNumber": "435 440-2",
+  "coverUrl": "https://m.media-amazon.com/images/I/51z-woGEQBL._UXNaN_FMjpg_QL85_.jpg",
+  "composers": [
+    "Handel",
+    "Mozart",
+    "Liszt",
+    "Strauss",
+    "Rachmaninov",
+    "Gershwin"
+  ]
+},
+{
+  "id": "3 - 41",
+  "section": "3-A",
+  "title": "So Many Stars",
+  "artist": "Kathleen Battle with Grover Washington, Jr., Cyrus Chestnut, Christian McBride & James Carter",
+  "releaseYear": 1995,
+  "genre": "Crossover / Jazz",
+  "subGenre": "Vocal Jazz / Lullabies / Spirituals",
+  "totalDuration": "51m 36s",
+  "label": "Sony Classical",
+  "format": "CD / Stereo",
+  "catalogNumber": "SK 68473",
+  "coverUrl": "https://m.media-amazon.com/images/I/71zsqYR6mML._UF350,350_QL80_.jpg",
+  "composers": [
+    "Varios"
+  ]
+},
+{
+  "id": "3 - 42",
+  "section": "3-A",
+  "title": "Schubert: Lieder",
+  "artist": "Kathleen Battle (Soprano), James Levine (Piano) & Karl Leister (Clarinet)",
+  "releaseYear": 1988,
+  "genre": "Música Clásica",
+  "subGenre": "Romanticismo / Lied / Recital Vocal",
+  "totalDuration": "Desconocida",
+  "label": "Deutsche Grammophon",
+  "format": "CD / Stereo / Digital Recording",
+  "catalogNumber": "419 237-2",
+  "coverUrl": "https://http2.mlstatic.com/D_NQ_NP_989426-MLB54875894454_042023-O.webp",
+  "composers": [
+    "Franz Schubert"
+  ]
+},
+{
+  "id": "3 - 43",
+  "section": "3-A",
+  "title": "Kathleen Battle: French Opera Arias",
+  "artist": "Kathleen Battle (Soprano), Orchestre de l'Opéra Bastille & Myung-Whun Chung (Conductor)",
+  "releaseYear": 1996,
+  "genre": "Música Clásica",
+  "subGenre": "Ópera / Romanticismo Francés / Arias",
+  "totalDuration": "62m 51s",
+  "label": "Deutsche Grammophon",
+  "format": "CD / Stereo / 4D Audio Recording",
+  "catalogNumber": "447 114-2",
+  "coverUrl": "https://i.scdn.co/image/ab67616d0000b273c2996547cf9689fad18d8d90",
+  "composers": [
+    "Charles Gounod",
+    "Gaetano Donizetti",
+    "Giacomo Meyerbeer",
+    "Gustave Charpentier",
+    "Jules Massenet",
+    "Ambroise Thomas",
+    "Berlioz",
+    "Offenbach"
+  ]
+},
+{
+  "id": "3 - 44",
+  "section": "3-A",
+  "title": "Grace",
+  "artist": "Kathleen Battle (Soprano) & Robert Sadin (Conductor)",
+  "releaseYear": 1997,
+  "genre": "Música Clásica",
+  "subGenre": "Música Sacra / Barroco / Clasicismo",
+  "totalDuration": "Desconocida",
+  "label": "Sony Classical",
+  "format": "CD / Stereo",
+  "catalogNumber": "SK 62035",
+  "coverUrl": "https://m.media-amazon.com/images/I/51JtKiTX2aL._UF1000,1000_QL80_.jpg",
+  "composers": [
+    "Johann Sebastian Bach",
+    "George Frideric Handel",
+    "Wolfgang Amadeus Mozart",
+    "Varios"
+  ]
+},
+{
+  "id": "3 - 45",
+  "section": "3-A",
+  "title": "Vocalises",
+  "artist": "Natalie Dessay (Soprano), Berliner Sinfonie-Orchester & Michael Schønwandt (Conductor)",
+  "releaseYear": 1998,
+  "genre": "Música Clásica",
+  "subGenre": "Recital Vocal / Coloratura / Arias",
+  "totalDuration": "Desconocida",
+  "label": "EMI Classics",
+  "format": "CD / Stereo",
+  "catalogNumber": "7243 5 56565 2 1",
+  "coverUrl": "https://m.media-amazon.com/images/I/71EKUZo3fVL._UF350,350_QL80_.jpg",
+  "composers": [
+    "Rachmaninov",
+    "Alabiev",
+    "Saint-Saëns",
+    "Delibes",
+    "Villa-Lobos",
+    "Glière",
+    "J. Strauss II"
+  ]
+},
+{
+  "id": "3 - 46",
+  "section": "3-A",
+  "title": "Placido Domingo: Mozart Arias",
+  "artist": "Plácido Domingo (Tenor), Carol Vaness (Soprano), Münchner Rundfunkorchester & Eugene Kohn (Conductor)",
+  "releaseYear": 1991,
+  "genre": "Música Clásica",
+  "subGenre": "Ópera / Clasicismo / Arias",
+  "totalDuration": "Desconocida",
+  "label": "EMI Classics",
+  "format": "CD / Stereo",
+  "catalogNumber": "CDC 7 54329 2",
+  "coverUrl": "https://i.discogs.com/gdlDaJ7Z3vPb0lYqUuder2Jz_Ig4LIhQEf4Ols3iKKI/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyMjQ3/MjktMTQ5MDI2Njk5/Ni02Nzk5LmpwZWc.jpeg",
+  "composers": [
+    "Wolfgang Amadeus Mozart"
+  ]
+},
+{
+  "id": "3 - 47",
+  "section": "3-A",
+  "title": "Placido Domingo: Roman Heroes",
+  "artist": "Plácido Domingo (Tenor), National Philharmonic Orchestra & Eugene Kohn (Conductor)",
+  "releaseYear": 1990,
+  "genre": "Música Clásica",
+  "subGenre": "Ópera / Arias / Héroes Clásicos",
+  "totalDuration": "Desconocida",
+  "label": "EMI Classics",
+  "format": "CD / Stereo / Digital Recording",
+  "catalogNumber": "CDC 7 54053 2",
+  "coverUrl": "https://m.media-amazon.com/images/I/61oQchY3cUL._UF1000,1000_QL80_.jpg",
+  "composers": [
+    "Vincenzo Bellini",
+    "Hector Berlioz",
+    "George Frideric Handel",
+    "Pietro Mascagni",
+    "Giacomo Puccini",
+    "Gaspare Spontini",
+    "Giuseppe Verdi",
+    "Richard Wagner"
+  ]
+},
+{
+  "id": "3 - 48",
+  "section": "3-A",
+  "title": "Songs of the British Isles (In tribute to Kathleen Ferrier)",
+  "artist": "Linda Finnie (Mezzosoprano) & Anthony Legge (Piano)",
+  "releaseYear": 1988,
+  "genre": "Música Clásica",
+  "subGenre": "Música Vocal / Folclore / Recital",
+  "totalDuration": "Desconocida",
+  "label": "Chandos",
+  "format": "CD / Stereo / Digital Recording",
+  "catalogNumber": "CHAN 8610",
+  "coverUrl": "https://m.media-amazon.com/images/I/51mBx8jx9cL._UF1000,1000_QL80_.jpg",
+  "composers": [
+    "Tradicional / Varios"
+  ]
+},
+{
+  "id": "3 - 49",
+  "section": "3-A",
+  "title": "Mahler: Das Lied von der Erde",
+  "artist": "Violeta Urmana (Mezzosoprano), Michael Schade (Tenor), Wiener Philharmoniker & Pierre Boulez (Conductor)",
+  "releaseYear": 2001,
+  "genre": "Música Clásica",
+  "subGenre": "Post-romanticismo / Sinfonía Vocal",
+  "totalDuration": "60m 22s",
+  "label": "Deutsche Grammophon",
+  "format": "CD / Stereo / Digital Recording",
+  "catalogNumber": "469 526-2",
+  "coverUrl": "https://m.media-amazon.com/images/I/A15pAMgoBqL._UF1000,1000_QL80_.jpg",
+  "composers": [
+    "Gustav Mahler"
+  ]
+},
+{
+  "id": "3 - 50",
+  "section": "3-A",
+  "title": "Mahler: Des Knaben Wunderhorn / Adagio from Symphony No. 10",
+  "artist": "Magdalena Kožená (Mezzosoprano), Christian Gerhaher (Barítono), The Cleveland Orchestra & Pierre Boulez (Conductor)",
+  "releaseYear": 2010,
+  "genre": "Música Clásica",
+  "subGenre": "Post-romanticismo / Lied / Música Orquestal",
+  "totalDuration": "Desconocida",
+  "label": "Deutsche Grammophon",
+  "format": "CD / Stereo / Digital Recording",
+  "catalogNumber": "477 9060",
+  "coverUrl": "https://http2.mlstatic.com/D_NQ_NP_952925-CBT90455359851_082025-O.webp",
+  "composers": [
+    "Gustav Mahler"
+  ]
+},
+{
+  "id": "3 - 51",
+  "section": "3-A",
+  "title": "Angela Gheorghiu: Arias",
+  "artist": "Angela Gheorghiu (Soprano), Orchestra del Teatro Regio di Torino & John Mauceri (Conductor)",
+  "releaseYear": 1996,
+  "genre": "Música Clásica",
+  "subGenre": "Ópera / Verismo / Arias",
+  "totalDuration": "Desconocida",
+  "label": "London (Decca)",
+  "format": "CD / Stereo",
+  "catalogNumber": "452 417-2",
+  "coverUrl": "https://m.media-amazon.com/images/I/713m-qoN6mL.jpg",
+  "composers": [
+    "Verdi",
+    "Puccini",
+    "Massanet",
+    "Catalani",
+    "Bellini",
+    "Gounod",
+    "Boito"
+  ]
+},
+{
+  "id": "3 - 52",
+  "section": "3-A",
+  "title": "Beethoven: Piano Sonatas Op. 53 «Waldstein» & Op. 109 / Andante favori",
+  "artist": "Claudio Arrau (Piano)",
+  "releaseYear": 1987,
+  "genre": "Música Clásica",
+  "subGenre": "Clasicismo / Romanticismo / Piano Solo",
+  "totalDuration": "Desconocida",
+  "label": "Philips Digital Classics",
+  "format": "CD / Stereo / Digital Recording",
+  "catalogNumber": "416 145-2",
+  "coverUrl": "https://m.media-amazon.com/images/I/41O9xTHo-eL._UF1000,1000_QL80_.jpg",
+  "composers": [
+    "Ludwig van Beethoven"
+  ]
+},
+{
+  "id": "3 - 53",
+  "section": "3-A",
+  "title": "Ludwig van Beethoven: Complete Music for Piano and Violoncello",
+  "artist": "András Schiff (Piano) & Miklós Perényi (Violoncello)",
+  "releaseYear": 2004,
+  "genre": "Música Clásica",
+  "subGenre": "Clasicismo / Romanticismo / Música de Cámara",
+  "totalDuration": "151m 39s (2 CDs)",
+  "label": "ECM New Series",
+  "format": "CD / Stereo",
+  "catalogNumber": "ECM 1819/20",
+  "coverUrl": "https://m.media-amazon.com/images/I/51QWA4YPsPL._UF1000,1000_QL80_.jpg",
+  "composers": [
+    "Ludwig van Beethoven"
+  ]
+},
+{
+  "id": "3 - 54",
+  "section": "3-A",
+  "title": "Ludwig van Beethoven: Piano Trio in B-flat major, Op. 97 («Archduke») / Piano Trio in C minor, Op. 1, No. 3",
+  "artist": "Trio Ex Aequo (Gerald Fauth, Matthias Wollong & Matthias Moosdorf)",
+  "releaseYear": 2011,
+  "genre": "Música Clásica",
+  "subGenre": "Clasicismo / Música de Cámara / Trío con Piano",
+  "totalDuration": "Desconocida",
+  "label": "GENUIN",
+  "format": "CD / Stereo",
+  "catalogNumber": "GEN 11210",
+  "coverUrl": "https://http2.mlstatic.com/D_NQ_NP_855815-CBT87125379686_072025-O.webp",
+  "composers": [
+    "Ludwig van Beethoven"
+  ]
+},
+{
+  "id": "3 - 55",
+  "section": "3-A",
+  "title": "Love's Twilight: Late Romantic Songs by Berg, Korngold & Strauss",
+  "artist": "Anne Sofie von Otter (Mezzosoprano) & Bengt Forsberg (Piano)",
+  "releaseYear": 1994,
+  "genre": "Música Clásica",
+  "subGenre": "Lied / Romanticismo Tardío / Expresionismo",
+  "totalDuration": "Desconocida",
+  "label": "Deutsche Grammophon",
+  "format": "CD / Stereo / Digital Recording",
+  "catalogNumber": "445 346-2",
+  "coverUrl": "https://i.ebayimg.com/images/g/MuUAAOSw-~hnPoC4/s-l1200.jpg",
+  "composers": [
+    "Alban Berg",
+    "Erich Wolfgang Korngold",
+    "Richard Strauss"
+  ]
+},
+{
+  "id": "3 - 56",
+  "section": "3-A",
+  "title": "Carmen Symphony (after Bizet)",
+  "artist": "Orquestra Simfònica de Barcelona i Nacional de Catalunya & José Serebrier (Conductor)",
+  "releaseYear": 2003,
+  "genre": "Música Clásica",
+  "subGenre": "Música Orquestal / Ópera Sinfónica / Romanticismo",
+  "totalDuration": "Desconocida",
+  "label": "BIS",
+  "format": "CD / Stereo / Digital Recording",
+  "catalogNumber": "CD-1305 DIGITAL",
+  "coverUrl": "https://m.media-amazon.com/images/I/41JgV6thfxL._UF1000,1000_QL80_.jpg",
+  "composers": [
+    "Georges Bizet",
+    "José Serebrier"
+  ]
+},
+{
+  "id": "3 - 57",
+  "section": "3-A",
+  "title": "Ernest Bloch: Sacred Service (Avodath Hakodesh)",
+  "artist": "Louis Berkman (Baritone), Zemel Choir, London Symphony Orchestra & Geoffrey Simon (Conductor)",
+  "releaseYear": 1988,
+  "genre": "Música Clásica",
+  "subGenre": "Música Sacra / Siglo XX / Obra Coral Orquestal",
+  "totalDuration": "Desconocida",
+  "label": "Chandos",
+  "format": "CD / Stereo / Digitally Remastered",
+  "catalogNumber": "CHAN 8418",
+  "coverUrl": "https://m.media-amazon.com/images/I/61W9DC6KYFL._UF1000,1000_QL80_.jpg",
+  "composers": [
+    "Ernest Bloch"
+  ]
+},
+{
+  "id": "3 - 58",
+  "section": "3-A",
+  "title": "Brahms: Piano Quartet Op. 25 / Schumann: Piano Quartet Op. 47",
+  "artist": "Mozart Piano Quartet",
+  "releaseYear": 2011,
+  "genre": "Música Clásica",
+  "subGenre": "Romanticismo / Música de Cámara / Cuarteto con Piano",
+  "totalDuration": "Desconocida",
+  "label": "MDG Live (Musikproduktion Dabringhaus und Grimm)",
+  "format": "Hybrid SACD / Multichannel / Stereo",
+  "catalogNumber": "MDG 943 1658-6",
+  "coverUrl": "https://images.marktplaats.com/api/v1/listing-mp-p/images/8a/8abf1d5f-e873-470b-89ae-0635283d1e43?rule=ecg_mp_eps$_82",
+  "composers": [
+    "Johannes Brahms",
+    "Robert Schumann"
+  ]
+},
+{
+  "id": "3 - 59",
+  "section": "3-A",
+  "title": "La Verbena de la Paloma",
+  "artist": "Orquesta y Coros Montilla, Eugenio M. Marco (Director)",
+  "releaseYear": "Desconocido",
+  "genre": "Zarzuela",
+  "subGenre": "Género Chico / Lírica Española",
+  "totalDuration": "Desconocida",
+  "label": "PolyGram / Montilla",
+  "format": "CD / Stereo",
+  "catalogNumber": "Desconocido",
+  "coverUrl": "https://i.discogs.com/P7M6NjrGQRYfTURpkCZ6CpYCkZoF8WAghPGg9HzyP_Q/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzU3/MzgwLTE2ODExNjE2/MzgtNTkxOS5qcGVn.jpeg",
+  "composers": [
+    "Tomás Bretón"
+  ]
+},
+{
+  "id": "3 - 60",
+  "section": "3-A",
+  "title": "Katsaris plays Grieg: Concerto and Piano Works",
+  "artist": "Cyprien Katsaris (Piano)",
+  "releaseYear": 2008,
+  "genre": "Música Clásica",
+  "subGenre": "Romanticismo / Piano Solo / Concierto para Piano",
+  "totalDuration": "76m 04s",
+  "label": "Piano 21",
+  "format": "CD / Stereo",
+  "catalogNumber": "P21 028-A",
+  "coverUrl": "https://m.media-amazon.com/images/I/71pHLRy74SL._AC_UF1000,1000_QL80_.jpg",
+  "composers": [
+    "Edvard Grieg"
+  ]
+},
+{
+  "id": "3 - 61",
+  "section": "3-A",
+  "title": "Bruckner: Sinfonie Nr. 3 d-Moll",
+  "artist": "Gewandhausorchester Leipzig & Herbert Blomstedt (Conductor)",
+  "releaseYear": 2010,
+  "genre": "Música Clásica",
+  "subGenre": "Romanticismo / Sinfonía",
+  "totalDuration": "Desconocida",
+  "label": "Querstand",
+  "format": "Hybrid SACD / Stereo / Multichannel",
+  "catalogNumber": "VKJK 1018",
+  "coverUrl": "https://i.discogs.com/yUL3w5K629fpK8HP6tRYQWOMF4bNm1qnzq2YtE1OUfI/rs:fit/g:sm/q:40/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzIw/NzczLTE1MjEyMzk3/MzMtNjI3NS5qcGVn.jpeg",
+  "composers": [
+    "Anton Bruckner"
+  ]
+},
+{
+  "id": "3 - 62",
+  "section": "3-A",
+  "title": "Bruch & Mendelssohn: Violin Concertos / Beethoven: Romances",
+  "artist": "Philippe Quint (Violin), Orquesta Sinfónica de Minería & Carlos Miguel Prieto (Conductor)",
+  "releaseYear": 2014,
+  "genre": "Música Clásica",
+  "subGenre": "Romanticismo / Concierto para Violín",
+  "totalDuration": "Desconocida",
+  "label": "Avanti Classic",
+  "format": "CD / Stereo",
+  "catalogNumber": "AVA 10432",
+  "coverUrl": "https://m.media-amazon.com/images/I/61NSNJ9jIiL._UF1000,1000_QL80_.jpg",
+  "composers": [
+    "Max Bruch",
+    "Felix Mendelssohn",
+    "Ludwig van Beethoven"
+  ]
+},
+{
+  "id": "3 - 63",
+  "section": "3-A",
+  "title": "Chopin: Polonaises",
+  "artist": "Cyprien Katsaris (Piano)",
+  "releaseYear": 1993,
+  "genre": "Música Clásica",
+  "subGenre": "Romanticismo / Piano Solo / Danzas",
+  "totalDuration": "Desconocida",
+  "label": "Sony Classical",
+  "format": "CD / Stereo / SBM (Super Bit Mapping)",
+  "catalogNumber": "SK 53967",
+  "coverUrl": "https://m.media-amazon.com/images/I/71+KgGlPljL._UF350,350_QL50_.jpg",
+  "composers": [
+    "Frédéric Chopin"
+  ]
+},
+{
+  "id": "3 - 64",
+  "section": "3-A",
+  "title": "Música Mexicana: Serie Siglo XX",
+  "artist": "Cuarteto Latinoamericano",
+  "releaseYear": 1997,
+  "genre": "Música Clásica",
+  "subGenre": "Música de Cámara / Vanguardia / Música Mexicana Contemporánea",
+  "totalDuration": "Desconocida",
+  "label": "CENIDIM / INBA",
+  "format": "CD / Stereo",
+  "catalogNumber": "CENIDIM 022",
+  "coverUrl": "disco_generico.png",
+  "composers": [
+    "Varios"
+  ]
+},
+{
+  "id": "3 - 65",
+  "section": "3-A",
+  "title": "Cello Music from Latin America, Volume II",
+  "artist": "Carlos Prieto (Cello), Edison Quintana (Piano), National Symphony Orchestra of Mexico & Enrique Diemecke (Conductor)",
+  "releaseYear": 1995,
+  "genre": "Música Clásica",
+  "subGenre": "Música Latinoamericana / Violonchelo / Siglo XX",
+  "totalDuration": "Desconocida",
+  "label": "PMG Classics",
+  "format": "CD / Stereo / Digital Recording",
+  "catalogNumber": "PMG 092102",
+  "coverUrl": "https://m.media-amazon.com/images/I/513912faZ+L._UF350,350_QL50_.jpg",
+  "composers": [
+    "Samuel Zyman",
+    "Manuel M. Ponce",
+    "Carlos Chávez",
+    "Astor Piazzolla"
+  ]
+},
+{
+  "id": "3 - 66",
+  "section": "3-A",
+  "title": "The Visitors: Acto III",
+  "artist": "Lourdes Ambriz, Randolph Locke, Encarnación Vázquez, Jesús Suaste, Marc Embree, Orquesta y Coro del Teatro de Bellas Artes & José Areán (Director)",
+  "releaseYear": "Desconocido",
+  "genre": "Ópera",
+  "subGenre": "Música Mexicana / Siglo XX / Ópera Contemporánea",
+  "totalDuration": "Desconocida",
+  "label": "Edición Privada / Bellas Artes",
+  "format": "CD / Stereo",
+  "catalogNumber": "Desconocido",
+  "coverUrl": "disco_generico.png",
+  "composers": [
+    "Carlos Chávez"
+  ]
+},
+{
+  "id": "3 - 67",
+  "section": "3-A",
+  "title": "In Remembrance",
+  "artist": "Daniel Catán",
+  "releaseYear": 2011,
+  "genre": "Música Clásica",
+  "subGenre": "Música Mexicana Contemporánea / Ópera / Música Vocal",
+  "totalDuration": "Desconocida",
+  "label": "Desconocido",
+  "format": "CD / Stereo",
+  "catalogNumber": "Desconocido",
+  "coverUrl": "https://i.discogs.com/iVCqtqRL9l0MiF6eRUijvlWp8cu9ufRIJ4LSuB_cvKI/rs:fit/g:sm/q:40/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTMzMDM0/NjktMTU0MjM5Nzkw/OC0xOTIxLmpwZWc.jpeg",
+  "composers": [
+    "Daniel Catán"
+  ]
+},
+{
+  "id": "3 - 68",
+  "section": "3-A",
+  "title": "Mozart: Le nozze di Figaro",
+  "artist": "Kunz, Seefried, London, Schwarzkopf, Jurinac, Wiener Philharmoniker & Herbert von Karajan (Conductor)",
+  "releaseYear": 1988,
+  "genre": "Música Clásica",
+  "subGenre": "Ópera / Clasicismo",
+  "totalDuration": "Desconocida",
+  "label": "EMI Classics",
+  "format": "CD / Mono / Digitally Remastered",
+  "catalogNumber": "Desconocido",
+  "coverUrl": "https://m.media-amazon.com/images/I/41DDP3JE37L.jpg",
+  "composers": [
+    "Wolfgang Amadeus Mozart"
+  ]
+},
+{
+  "id": "3 - 69",
+  "section": "3-A",
+  "title": "J.S. Bach: Christmas Oratorio (Weihnachts-Oratorium) BWV 248",
+  "artist": "The Netherlands Bach Society (Nederlandse Bachvereniging) & Museum Catharijneconvent",
+  "releaseYear": 2003,
+  "genre": "Música Clásica",
+  "subGenre": "Barroco / Oratorio / Música Sacra",
+  "totalDuration": "Desconocida (2 CDs)",
+  "label": "Channel Classics",
+  "format": "CD / Stereo (Edición de Lujo)",
+  "catalogNumber": "CCS SEL 2903",
+  "coverUrl": "https://m.media-amazon.com/images/I/71vkZ8UXxuL._UF1000,1000_QL80_.jpg",
+  "composers": [
+    "Johann Sebastian Bach"
+  ]
+},
+{
+  "id": "3 - 70",
+  "section": "3-A",
+  "title": "W.A. Mozart: Le nozze di Figaro",
+  "artist": "Patrizia Ciofi, Lorenzo Regazzo, Simon Keenlyside, Véronique Gens, Concerto Köln & René Jacobs (Conductor)",
+  "releaseYear": 2004,
+  "genre": "Música Clásica",
+  "subGenre": "Ópera / Clasicismo / Interpretación Histórica",
+  "totalDuration": "172m 14s (3 CDs)",
+  "label": "Harmonia Mundi",
+  "format": "CD / Stereo / Digipak",
+  "catalogNumber": "HMC 901818.20",
+  "coverUrl": "https://m.media-amazon.com/images/I/61Fe4bGqUyL._UF1000,1000_QL80_.jpg",
+  "composers": [
+    "Wolfgang Amadeus Mozart"
+  ]
+},
+{
+  "id": "3 - 71",
+  "section": "3-A",
+  "title": "Berlioz: La Damnation de Faust",
+  "artist": "Anne Sofie von Otter, Michael Myers, Jean-Philippe Lafont, Orchestre de l'Opéra de Lyon & John Eliot Gardiner (Conductor)",
+  "releaseYear": 1987,
+  "genre": "Música Clásica",
+  "subGenre": "Romanticismo Francés / Ópera / Oratorio",
+  "totalDuration": "Desconocida (2 CDs)",
+  "label": "Philips Digital Classics",
+  "format": "CD / Stereo / Digital Recording",
+  "catalogNumber": "416 199-2",
+  "coverUrl": "https://m.media-amazon.com/images/I/81RJocRRGaL.jpg",
+  "composers": [
+    "Hector Berlioz"
+  ]
+},
+{
+  "id": "3 - 72",
+  "section": "3-A",
+  "title": "E. Thomas Stanford: Grabaciones de campo",
+  "artist": "Varios Artistas / E. Thomas Stanford (Investigador)",
+  "releaseYear": 2010,
+  "genre": "Música Tradicional / Etnomúsica",
+  "subGenre": "Grabaciones de Campo / Folclor Mexicano",
+  "totalDuration": "Desconocida",
+  "label": "CONACULTA / Fonoteca Nacional / Urtext",
+  "format": "CD / Mono & Stereo",
+  "catalogNumber": "Desconocido",
+  "coverUrl": "https://static.wixstatic.com/media/d7521c_9868414648ad4749b64509f6be4768be~mv2.jpg/v1/fill/w_200,h_178,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/Sergio%20Rangel_Colecci%C3%B3n%20Thomas%20Stanford.jpg",
+  "composers": [
+    "Tradicional"
+  ]
+},
+{
+  "id": "3 - 73",
+  "section": "3-A",
+  "title": "Mozart: La Clemenza di Tito",
+  "artist": "Anthony Rolfe Johnson, Julia Varady, Anne Sofie von Otter, Sylvia McNair, English Baroque Soloists & John Eliot Gardiner (Conductor)",
+  "releaseYear": 1991,
+  "genre": "Música Clásica",
+  "subGenre": "Ópera / Clasicismo / Interpretación Histórica",
+  "totalDuration": "118m 13s (2 CDs)",
+  "label": "Archiv Produktion",
+  "format": "CD / Stereo / Digital Recording",
+  "catalogNumber": "431 806-2",
+  "coverUrl": "https://http2.mlstatic.com/D_NQ_NP_693343-MLA44373384382_122020-O.webp",
+  "composers": [
+    "Wolfgang Amadeus Mozart"
+  ]
+},
+{
+  "id": "3 - 74",
+  "section": "3-A",
+  "title": "Wagner: Tristan und Isolde",
+  "artist": "Jon Vickers, Helga Dernesch, Christa Ludwig, Walter Berry, Karl Ridderbusch, Berliner Philharmoniker & Herbert von Karajan (Conductor)",
+  "releaseYear": 1988,
+  "genre": "Música Clásica",
+  "subGenre": "Ópera / Romanticismo Alemán",
+  "totalDuration": "Desconocida (4 CDs)",
+  "label": "EMI Classics",
+  "format": "CD / Stereo / Digitally Remastered",
+  "catalogNumber": "CMS 7 69319 2",
+  "coverUrl": "https://m.media-amazon.com/images/I/91jnSBc2KiL.jpg",
+  "composers": [
+    "Richard Wagner"
+  ]
+},
+{
+  "id": "3 - 75",
+  "section": "3-A",
+  "title": "A Hundred Years of Italian Opera: 1810 - 1820",
+  "artist": "Varios Artistas / Philharmonia Orchestra / David Parry (Conductor)",
+  "releaseYear": 1988,
+  "genre": "Música Clásica",
+  "subGenre": "Ópera / Bel Canto / Rarezas Históricas",
+  "totalDuration": "Desconocida (3 CDs)",
+  "label": "Opera Rara",
+  "format": "CD / Stereo / Box Set",
+  "catalogNumber": "ORCH 103",
+  "coverUrl": "https://i.scdn.co/image/ab67616d0000b273feb7b834d154d014ed06403f",
+  "composers": [
+    "Rossini",
+    "Donizetti",
+    "Meyerbeer",
+    "Mercadante",
+    "Mayr",
+    "Weber",
+    "Paer",
+    "García",
+    "Otros"
+  ]
+},
+{
+  "id": "3 - 76",
+  "section": "3-A",
+  "title": "Strauss: Die Liebe der Danae",
+  "artist": "Lauren Flanigan, Peter Coleman-Wright, Hugh Smith, American Symphony Orchestra & Leon Botstein (Conductor)",
+  "releaseYear": 2001,
+  "genre": "Música Clásica",
+  "subGenre": "Ópera / Mitología / Romanticismo Tardío",
+  "totalDuration": "Desconocida (3 CDs)",
+  "label": "Telarc Digital",
+  "format": "CD / Stereo / DSD (Direct Stream Digital)",
+  "catalogNumber": "CD-80570",
+  "coverUrl": "disco_generico.png",
+  "composers": [
+    "Richard Strauss"
+  ]
+},
+{
+  "id": "3 - 77",
+  "section": "3-A",
+  "title": "50 Years Grosses Festspielhaus Salzburg",
+  "artist": "Varios Artistas / Wiener Philharmoniker / Berliner Philharmoniker / Varios Directores",
+  "releaseYear": 2010,
+  "genre": "Música Clásica",
+  "subGenre": "Ópera / Música Sinfónica / Grabaciones Históricas",
+  "totalDuration": "Desconocida (Box Set)",
+  "label": "Deutsche Grammophon",
+  "format": "CD / Stereo / Mono / Box Set",
+  "catalogNumber": "477 9187",
+  "coverUrl": "https://m.media-amazon.com/images/I/41tXXTf6rtL._UF350,350_QL50_.jpg",
+  "composers": [
+    "Mozart",
+    "Strauss",
+    "Wagner",
+    "Beethoven",
+    "Verdi",
+    "Varios"
+  ]
+},
+{
+  "id": "3 - 78",
+  "section": "3-A",
+  "title": "Beethoven: Symphonies (Complete)",
+  "artist": "Wiener Philharmoniker & Christian Thielemann (Conductor)",
+  "releaseYear": 2011,
+  "genre": "Klassische Musik",
+  "subGenre": "Wiener Klassik / Sinfonie",
+  "totalDuration": "Unbekannt (9 CDs)",
+  "label": "Sony Classical",
+  "format": "CD / Stereo / Box Set",
+  "catalogNumber": "88697927172",
+  "coverUrl": "https://m.media-amazon.com/images/I/71vKHHXSmLL.jpg",
+  "composers": [
+    "Ludwig van Beethoven"
+  ]
+},
+{
+  "id": "3 - 79",
+  "section": "3-A",
+  "title": "José Pablo Moncayo: Edición conmemorativa en ocasión del centenario de su nacimiento",
+  "artist": "Varios Artistas / Orquestas Sinfónicas de México",
+  "releaseYear": 2012,
+  "genre": "Música Clásica",
+  "subGenre": "Nacionalismo Mexicano / Siglo XX / Música Orquestal y de Cámara",
+  "totalDuration": "Desconocida (Box Set)",
+  "label": "CONACULTA",
+  "format": "CD / Stereo / Box Set",
+  "catalogNumber": "Desconocido",
+  "coverUrl": "https://musicologiacasera.wordpress.com/wp-content/uploads/2021/02/satinsalwsli-voz36.jpg?w=584",
+  "composers": [
+    "José Pablo Moncayo"
+  ]
+},
+{
+  "id": "3 - 80",
+  "section": "3-A",
+  "title": "J.S. Bach: Mass in B minor (Hohe Messe) BWV 232",
+  "artist": "The Netherlands Bach Society (Nederlandse Bachvereniging) & Museum Catharijneconvent",
+  "releaseYear": 2007,
+  "genre": "Música Clásica",
+  "subGenre": "Barroco / Música Sacra / Misa",
+  "totalDuration": "Desconocida (2 CDs)",
+  "label": "Channel Classics",
+  "format": "CD / Stereo / Edición de Lujo",
+  "catalogNumber": "CCS SEL 4407",
+  "coverUrl": "https://m.media-amazon.com/images/I/51kLYvVuWzL._UF1000,1000_QL80_.jpg",
+  "composers": [
+    "Johann Sebastian Bach"
+  ]
+},
+{
+  "id": "3 - 81",
+  "section": "3-A",
+  "title": "Mozart: Die Zauberflöte",
+  "artist": "Dermota, Seefried, Kunz, Lipp, Weber, London, Wiener Philharmoniker & Herbert von Karajan (Conductor)",
+  "releaseYear": 1988,
+  "genre": "Música Clásica",
+  "subGenre": "Ópera / Singspiel / Clasicismo",
+  "totalDuration": "Desconocida (2 CDs)",
+  "label": "EMI Classics",
+  "format": "CD / Mono / Digitally Remastered",
+  "catalogNumber": "CMS 7 69631 2",
+  "coverUrl": "https://i.discogs.com/euvQWMi5ygQBKoNfFyCWCSsWCoMWRT2ZCTH1C00L5FQ/rs:fit/g:sm/q:90/h:509/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODA5/MDkwLTE1ODIwMjQw/MjItOTQ0Mi5qcGVn.jpeg",
+  "composers": [
+    "Wolfgang Amadeus Mozart"
+  ]
+},
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{
+  "id": "3 - 82",
+  "section": "3-H",
+  "title": "Puccini: Madama Butterfly",
+  "artist": "Victoria de los Ángeles, Jussi Björling, Miriam Pirazzini, Mario Sereni, Orchestra e Coro del Teatro dell'Opera di Roma & Gabriele Santini (Conductor)",
+  "releaseYear": 1987,
+  "genre": "Música Clásica",
+  "subGenre": "Ópera / Verismo",
+  "totalDuration": "Desconocida (2 CDs)",
+  "label": "EMI Classics",
+  "format": "CD / Stereo / Digitally Remastered",
+  "catalogNumber": "CDS 7 49575 2",
+  "coverUrl": "https://m.media-amazon.com/images/I/51zFzGIn5uL._UF1000,1000_QL80_.jpg",
+  "composers": [
+    "Giacomo Puccini"
+  ]
+},
+{
+  "id": "3 - 83",
+  "section": "3-H",
+  "title": "Weissenberg plays Rachmaninoff: Concerto No. 3",
+  "artist": "Alexis Weissenberg (Piano), Chicago Symphony Orchestra & Georges Prêtre (Conductor)",
+  "releaseYear": "Desconocido (Reedición Gold Seal)",
+  "genre": "Música Clásica",
+  "subGenre": "Romanticismo Tardío / Concierto para Piano",
+  "totalDuration": "Desconocida",
+  "label": "RCA Gold Seal",
+  "format": "LP / Stereo",
+  "catalogNumber": "AGL1-3366",
+  "coverUrl": "https://m.media-amazon.com/images/I/81VdFyvAygL.jpg",
+  "composers": [
+    "Sergei Rachmaninoff"
+  ]
+},
+{
+  "id": "3 - 84",
+  "section": "3-H",
+  "title": "Rachmaninoff: Piano Concerto No. 3",
+  "artist": "Lazar Berman (Piano), London Symphony Orchestra & Claudio Abbado (Conductor)",
+  "releaseYear": 1977,
+  "genre": "Música Clásica",
+  "subGenre": "Romanticismo Tardío / Concierto para Piano",
+  "totalDuration": "Desconocida",
+  "label": "Columbia Masterworks",
+  "format": "LP / Stereo",
+  "catalogNumber": "XM 34540",
+  "coverUrl": "https://m.media-amazon.com/images/I/61VIJcW-OeL._UF1000,1000_QL80_.jpg",
+  "composers": [
+    "Sergei Rachmaninoff"
+  ]
+},
+{
+  "id": "3 - 85",
+  "section": "3-H",
+  "title": "Rachmaninov: The Four Piano Concertos / Rhapsody on a Theme of Paganini",
+  "artist": "Vladimir Ashkenazy (Piano), London Symphony Orchestra & André Previn (Conductor)",
+  "releaseYear": 1972,
+  "genre": "Música Clásica",
+  "subGenre": "Romanticismo Tardío / Concierto para Piano",
+  "totalDuration": "Desconocida (3 LPs)",
+  "label": "London Stereo (Decca)",
+  "format": "LP / Stereo / Box Set",
+  "catalogNumber": "CSA 2311",
+  "coverUrl": "https://i.discogs.com/c5DeTFUZNSCdv5X-w4RD1iXN26TEHTQkx7WH2GC1yiY/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2OTE3/MTctMTQzMzQ1MDkw/OS00MDAyLmpwZWc.jpeg",
+  "composers": [
+    "Sergei Rachmaninoff"
+  ]
+},
+{
+  "id": "3 - 86",
+  "section": "3-H",
+  "title": "Rachmaninoff: Symphony No. 2 in E minor (Complete Version)",
+  "artist": "The Philadelphia Orchestra & Eugene Ormandy (Conductor)",
+  "releaseYear": 1975,
+  "genre": "Música Clásica",
+  "subGenre": "Romanticismo Tardío / Música Sinfónica",
+  "totalDuration": "Desconocida",
+  "label": "RCA Red Seal",
+  "format": "LP / Stereo",
+  "catalogNumber": "ARL1-1150",
+  "coverUrl": "https://m.media-amazon.com/images/I/51+0O8wvgjL._UF1000,1000_QL80_.jpg",
+  "composers": [
+    "Sergei Rachmaninoff"
+  ]
+},
+{
+  "id": "3 - 87",
+  "section": "3-H",
+  "title": "Rachmaninoff: Symphony No. 2 in E Minor (Complete Version)",
+  "artist": "London Symphony Orchestra & André Previn (Conductor)",
+  "releaseYear": 1973,
+  "genre": "Música Clásica",
+  "subGenre": "Romanticismo Tardío / Música Sinfónica",
+  "totalDuration": "Desconocida",
+  "label": "Angel Records / EMI",
+  "format": "LP / Stereo",
+  "catalogNumber": "S-36954",
+  "coverUrl": "https://i.discogs.com/Dy9ay9AwYJBFNiqu-72hNmSnLGW-UmtBDHFBsKq8Qc4/rs:fit/g:sm/q:90/h:578/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMDE3/MDktMTYxNTc2MDkx/MC01NDk2LmpwZWc.jpeg",
+  "composers": [
+    "Sergei Rachmaninoff"
+  ]
+},
+{
+  "id": "3 - 88",
+  "section": "3-H",
+  "title": "Rachmaninoff: Symphony No. 2 in E Minor (Complete Version)",
+  "artist": "Yuri Temirkanov (Conductor) & Royal Philharmonic Orchestra",
+  "releaseYear": 1978,
+  "genre": "Música Clásica",
+  "subGenre": "Romanticismo Tardío / Música Sinfónica",
+  "totalDuration": "Desconocida",
+  "label": "Angel Records / EMI",
+  "format": "LP / Stereo",
+  "catalogNumber": "S-37520",
+  "coverUrl": "https://i.discogs.com/uMzzV6uR93XRbRlxLNhUXYjmhFJyLPsiZjROpz-K99c/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2OTQw/MTgtMTQ0Njg5MTA0/My0yMzI0LmpwZWc.jpeg",
+  "composers": [
+    "Sergei Rachmaninoff"
+  ]
+},
+{
+  "id": "3 - 89",
+  "section": "3-H",
+  "title": "Rachmaninoff: Symphony No. 1, Op. 13",
+  "artist": "Rotterdam Philharmonic Orchestra & Edo de Waart (Conductor)",
+  "releaseYear": 1978,
+  "genre": "Música Clásica",
+  "subGenre": "Romanticismo Tardío / Música Sinfónica",
+  "totalDuration": "Desconocida",
+  "label": "Philips",
+  "format": "LP / Stereo",
+  "catalogNumber": "9500 445",
+  "coverUrl": "https://i.discogs.com/X7pQoRMMxu7BC78LBaIivcIWvQLUPqZWybCaeWvXBvY/rs:fit/g:sm/q:40/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxMzQy/OTMtMTQzNDQ3OTY1/OS02MTA1LmpwZWc.jpeg",
+  "composers": [
+    "Sergei Rachmaninoff"
+  ]
+},
+{
+  "id": "3 - 90",
+  "section": "3-H",
+  "title": "Rachmaninoff: Symphony No. 1 in D minor",
+  "artist": "U.S.S.R. Symphony Orchestra & Yevgeny Svetlanov (Conductor)",
+  "releaseYear": 1967,
+  "genre": "Música Clásica",
+  "subGenre": "Romanticismo Tardío / Escuela Rusa",
+  "totalDuration": "Desconocida",
+  "label": "Melodiya / Angel",
+  "format": "LP / Stereo",
+  "catalogNumber": "SR-40084",
+  "coverUrl": "https://m.media-amazon.com/images/I/61zLuUHQwCL._UF350,350_QL50_.jpg",
+  "composers": [
+    "Sergei Rachmaninoff"
+  ]
+},
+{
+  "id": "3 - 91",
+  "section": "3-H",
+  "title": "Grieg: Concerto in A minor, Op. 16 / Rachmaninoff: Rhapsody on a Theme of Paganini, Op. 43",
+  "artist": "Philippe Entremont (Pianist), The Philadelphia Orchestra & Eugene Ormandy (Conductor)",
+  "releaseYear": 1958,
+  "genre": "Música Clásica",
+  "subGenre": "Romanticismo / Concierto para Piano",
+  "totalDuration": "Desconocida",
+  "label": "Columbia Masterworks",
+  "format": "LP / Stereo / Fidelity",
+  "catalogNumber": "MS 6016",
+  "coverUrl": "https://http2.mlstatic.com/D_NQ_NP_621478-MLM50160388433_062022-O.webp",
+  "composers": [
+    "Edvard Grieg",
+    "Sergei Rachmaninoff"
+  ]
+},
+{
+  "id": "3 - 92",
+  "section": "3-H",
+  "title": "Rachmaninoff: Piano Concerto No. 3",
+  "artist": "Abbey Simon (Piano), Saint Louis Symphony Orchestra & Leonard Slatkin (Conductor)",
+  "releaseYear": 1977,
+  "genre": "Música Clásica",
+  "subGenre": "Romanticismo Tardío / Concierto para Piano",
+  "totalDuration": "Desconocida",
+  "label": "Turnabout",
+  "format": "LP / Stereo",
+  "catalogNumber": "QTV 34682",
+  "coverUrl": "https://www.discrepancy-records.com.au/assets/full/WZ-1094227218.jpg?20230622103600",
+  "composers": [
+    "Sergei Rachmaninoff"
+  ]
+},
+{
+  "id": "3 - 93",
+  "section": "3-H",
+  "title": "Rachmaninoff: Rhapsody on a Theme of Paganini / Falla: Nights in the Gardens of Spain",
+  "artist": "Artur Rubinstein (Piano), Chicago Symphony Orchestra, Fritz Reiner (Conductor), San Francisco Symphony & Enrique Jordá (Conductor)",
+  "releaseYear": 1960,
+  "genre": "Música Clásica",
+  "subGenre": "Romanticismo / Impresionismo / Concierto para Piano",
+  "totalDuration": "Desconocida",
+  "label": "RCA Victor Red Seal",
+  "format": "LP / Stereo / Living Stereo",
+  "catalogNumber": "LSC-2430",
+  "coverUrl": "https://m.media-amazon.com/images/I/71k4yfB+ctL._UF1000,1000_QL80_.jpg",
+  "composers": [
+    "Sergei Rachmaninoff",
+    "Manuel de Falla"
+  ]
+},
+{
+  "id": "3 - 94",
+  "section": "3-H",
+  "title": "Rachmaninov: Piano Concerto No. 3 in D minor, Op. 30",
+  "artist": "Vladimir Ashkenazy (Piano), London Symphony Orchestra & Anatole Fistoulari (Conductor)",
+  "releaseYear": 1963,
+  "genre": "Música Clásica",
+  "subGenre": "Romanticismo Tardío / Concierto para Piano",
+  "totalDuration": "Desconocida",
+  "label": "London ffrr (Decca)",
+  "format": "LP / Stereo",
+  "catalogNumber": "CS 6359",
+  "coverUrl": "https://i.discogs.com/TnolLD0lY5upxvfjmUg4LzCy71UFiL7wBdpjlWX8mr0/rs:fit/g:sm/q:40/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMTM1/MjEtMTU5MTk0MzY5/OC04Mjg2LmpwZWc.jpeg",
+  "composers": [
+    "Sergei Rachmaninoff"
+  ]
+},
+{
+  "id": "3 - 95",
+  "section": "3-H",
+  "title": "Rachmaninoff: Liturgy of St. John Chrysostom (1910)",
+  "artist": "Chorus of the Bulgarian Radio (Sofia) & Mikhail Milkov (Conductor)",
+  "releaseYear": 1977,
+  "genre": "Música Clásica",
+  "subGenre": "Música Sacra / Canto Coral Ortodoxo",
+  "totalDuration": "Desconocida (2 LPs)",
+  "label": "Angel Records",
+  "format": "LP / Stereo / Box Set",
+  "catalogNumber": "SB-3864",
+  "coverUrl": "https://i.discogs.com/CBXV6m09CL3jQeQxHXxF_R2g5kNptOXUO5cRGO2-kGA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5MDY3/NTEtMTM3OTA3Mzg1/Ny0yNzg1LmpwZWc.jpeg",
+  "composers": [
+    "Sergei Rachmaninoff"
+  ]
+},
+{
+  "id": "3 - 96",
+  "section": "3-H",
+  "title": "Purcell: The Fantasias for Viols (Complete)",
+  "artist": "Concentus Musicus Wien, Consort of Viols & Nikolaus Harnoncourt (Director)",
+  "releaseYear": 1965,
+  "genre": "Música Clásica",
+  "subGenre": "Barroco Inglés / Música para Consort / Viola da Gamba",
+  "totalDuration": "Desconocida",
+  "label": "The Bach Guild / Vanguard",
+  "format": "LP / Stereo / Stereolab",
+  "catalogNumber": "BGS-70676",
+  "coverUrl": "disco_generico.png",
+  "composers": [
+    "Henry Purcell"
+  ]
+},
+{
+  "id": "3 - 97",
+  "section": "3-H",
+  "title": "Henry Purcell: Consort-Musik für Streicher und Cembalo",
+  "artist": "Leonhardt-Consort (Original Instruments) & Gustav Leonhardt (Director)",
+  "releaseYear": 1967,
+  "genre": "Música Clásica",
+  "subGenre": "Barroco Inglés / Música de Cámara",
+  "totalDuration": "Desconocida",
+  "label": "Telefunken / Das Alte Werk",
+  "format": "LP / Stereo / Reference",
+  "catalogNumber": "SAWT 9506-A",
+  "coverUrl": "https://tastyrecords.co.uk/wp-content/uploads/2025/09/OS5qcGVn-2.jpg",
+  "composers": [
+    "Henry Purcell"
+  ]
+},
+{
+  "id": "3 - 98",
+  "section": "3-H",
+  "title": "Trumpet Voluntary",
+  "artist": "Maurice André (Trumpet), Württembergisches Kammerorchester Heilbronn & Jörg Faerber (Conductor)",
+  "releaseYear": 1980,
+  "genre": "Música Clásica",
+  "subGenre": "Barroco / Concierto para Trompeta",
+  "totalDuration": "Desconocida",
+  "label": "Erato",
+  "format": "LP / Stereo",
+  "catalogNumber": "STU 71383",
+  "coverUrl": "https://i.discogs.com/9D2P2cYNYvAacY5n_Xwj-6PrBqd6JcPyzdnlzgGmP-Y/rs:fit/g:sm/q:90/h:600/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NDE5/MDAwLTE2NjIzNjUx/NzItMTQ3MS5qcGVn.jpeg",
+  "composers": [
+    "Henry Purcell",
+    "Johann Sebastian Bach",
+    "Johann Ludwig Krebs",
+    "Johann Caspar Ferdinand Fischer"
+  ]
+},
+{
+  "id": "3 - 99",
+  "section": "3-H",
+  "title": "Purcell à Notre-Dame",
+  "artist": "Pierre Cochereau (Organ), Maurice André (Trumpet), Ensemble de Cuivres & Armand Birbaum (Conductor)",
+  "releaseYear": "Desconocido (Serie Trésors Classiques)",
+  "genre": "Música Clásica",
+  "subGenre": "Barroco / Música para Órgano y Metales",
+  "totalDuration": "Desconocida",
+  "label": "Philips",
+  "format": "LP / Stereo",
+  "catalogNumber": "835.766",
+  "coverUrl": "https://eterna-trading.jp/html/upload/save_image/-1400/1301/a/REG-2810.jpg",
+  "composers": [
+    "Henry Purcell"
+  ]
+},
+{
+  "id": "3 - 100",
+  "section": "3-H",
+  "title": "A Purcell Anthology: Trio Sonatas and Fantasias",
+  "artist": "Yehudi Menuhin, Alberto Lysy & Members of the Bath Festival Orchestra",
+  "releaseYear": 1965,
+  "genre": "Música Clásica",
+  "subGenre": "Barroco Inglés / Música de Cámara",
+  "totalDuration": "Desconocida",
+  "label": "Angel Records / EMI",
+  "format": "LP / Stereo",
+  "catalogNumber": "S-36270",
+  "coverUrl": "https://i.discogs.com/ZvWw_DUIISCPd6n30HSU9MaAPiX2yXKKir9TtB4SsqQ/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3MTky/NDQtMTQwMDgwNDA4/My01NzYxLmpwZWc.jpeg",
+  "composers": [
+    "Henry Purcell"
+  ]
+},
+{
+  "id": "3 - 101",
+  "section": "3-H",
+  "title": "Henry Purcell: Chansons de tavernes et de chapelles (Tavern and Chapel Songs)",
+  "artist": "Deller Consort & Alfred Deller (Director)",
+  "releaseYear": 1977,
+  "genre": "Música Clásica",
+  "subGenre": "Barroco Inglés / Música Vocal / Antigüedad",
+  "totalDuration": "Desconocida",
+  "label": "Harmonia Mundi France",
+  "format": "LP / Stereo",
+  "catalogNumber": "HM 242",
+  "coverUrl": "https://www.audiophileusa.com/images/products/EA8EACF1-A133-C47A-0F9D5AB20F535A79.jpg",
+  "composers": [
+    "Henry Purcell"
+  ]
+},
+{
+  "id": "3 - 102",
+  "section": "3-H",
+  "title": "Purcell: King Arthur (Highlights / Les plus belles pages)",
+  "artist": "Deller Consort, Chœur & The King's Musick / Alfred Deller (Director)",
+  "releaseYear": 1979,
+  "genre": "Música Clásica",
+  "subGenre": "Barroco Inglés / Ópera / Semiópera",
+  "totalDuration": "Desconocida",
+  "label": "Harmonia Mundi France",
+  "format": "LP / Stereo",
+  "catalogNumber": "HMC E200",
+  "coverUrl": "https://m.media-amazon.com/images/I/81dscIHHhUL._UF1000,1000_QL80_.jpg",
+  "composers": [
+    "Henry Purcell"
+  ]
+},
+{
+  "id": "3 - 103",
+  "section": "3-H",
+  "title": "Henry Purcell: 'Tis Nature's Voice and other Songs and Elegies",
+  "artist": "René Jacobs (Countertenor), Konrad Junghänel (Theorbo) & Wieland Kuijken (Viola da gamba)",
+  "releaseYear": 1978,
+  "genre": "Música Clásica",
+  "subGenre": "Barroco Inglés / Música Vocal / Canciones y Elegías",
+  "totalDuration": "Desconocida",
+  "label": "Accent",
+  "format": "LP / Stereo",
+  "catalogNumber": "ACC 7802",
+  "coverUrl": "https://i.ebayimg.com/images/g/7X4AAOSwh5tmzi1V/s-l1200.jpg",
+  "composers": [
+    "Henry Purcell"
+  ]
+},
+{
+  "id": "3 - 104",
+  "section": "3-H",
+  "title": "Purcell: Funeral Music for Queen Mary / Five Anthems",
+  "artist": "Choir of King's College, Cambridge, Philip Jones Brass Ensemble, Academy of St. Martin-in-the-Fields & Philip Ledger (Conductor)",
+  "releaseYear": 1977,
+  "genre": "Música Clásica",
+  "subGenre": "Barroco Inglés / Música Coral / Música Funeraria",
+  "totalDuration": "Desconocida",
+  "label": "Angel Records",
+  "format": "LP / Stereo",
+  "catalogNumber": "S-37282",
+  "coverUrl": "https://i.scdn.co/image/ab67616d0000b2730d8c6de3a3535ddbca297c51",
+  "composers": [
+    "Henry Purcell"
+  ]
+},
+{
+  "id": "3 - 105",
+  "section": "3-H",
+  "title": "Henry Purcell: Birthday Odes for Queen Mary",
+  "artist": "The Early Music Consort of London & David Munrow (Director)",
+  "releaseYear": 1975,
+  "genre": "Música Clásica",
+  "subGenre": "Barroco Inglés / Música Vocal / Odas",
+  "totalDuration": "Desconocida",
+  "label": "EMI / Odeon",
+  "format": "LP / Stereo",
+  "catalogNumber": "ASD 3166",
+  "coverUrl": "https://m.media-amazon.com/images/I/71jYFcJE2vL._UF894,1000_QL80_.jpg",
+  "composers": [
+    "Henry Purcell"
+  ]
+},
+{
+  "id": "3 - 106",
+  "section": "3-H",
+  "title": "Henry Purcell: Ode for St. Cecilia's Day (1692)",
+  "artist": "Ambrosian Singers, Kalmar Chamber Orchestra of London & Sir Michael Tippett (Conductor)",
+  "releaseYear": 1972,
+  "genre": "Música Clásica",
+  "subGenre": "Barroco Inglés / Oda / Música Coral",
+  "totalDuration": "Desconocida",
+  "label": "The Bach Guild / Vanguard",
+  "format": "LP / Stereo",
+  "catalogNumber": "HM 33",
+  "coverUrl": "https://i.discogs.com/g6mM9rWKXjd4L4hwVC7bn3l5Mq3I2PHCBDaP9AkCRU8/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDQ2/MzQ3LTE1MDkxMDM2/NDEtMTY5My5qcGVn.jpeg",
+  "composers": [
+    "Henry Purcell"
+  ]
+},
+{
+  "id": "3 - 107",
+  "section": "3-H",
+  "title": "Giovanni Punto: Four Horn Concertos",
+  "artist": "Barry Tuckwell (Horn), Academy of St. Martin-in-the-Fields & Neville Marriner (Conductor)",
+  "releaseYear": 1980,
+  "genre": "Música Clásica",
+  "subGenre": "Clasicismo / Concierto para Trompa",
+  "totalDuration": "Desconocida",
+  "label": "Angel Records / EMI",
+  "format": "LP / Stereo",
+  "catalogNumber": "SZ-37781",
+  "coverUrl": "https://i.discogs.com/9SCeb1YxJE4j0asZQs3_1uGwFSiY6-zu6EhA9Jcy-_4/rs:fit/g:sm/q:90/h:600/w:584/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxMTQ2/MjQtMTY0NTA4NzM5/NS01OTk1LmpwZWc.jpeg",
+  "composers": [
+    "Giovanni Punto (Jan Václav Štich)"
+  ]
+},
+{
+  "id": "3 - 108",
+  "section": "3-H",
+  "title": "Puccini: Turandot (Complete Recording)",
+  "artist": "Inge Borkh, Renata Tebaldi, Mario del Monaco & Alberto Erede (Conductor)",
+  "releaseYear": 1955,
+  "genre": "Música Clásica",
+  "subGenre": "Ópera / Verismo",
+  "totalDuration": "Desconocida (3 LPs)",
+  "label": "London ffrr",
+  "format": "LP / Stereophonic / Box Set",
+  "catalogNumber": "OSA 1308",
+  "coverUrl": "https://c8.alamy.com/comp/2H3WDE3/puccini-turandot-erede-london-bb-classical-music-vintage-vinyl-record-2H3WDE3.jpg",
+  "composers": [
+    "Giacomo Puccini"
+  ]
+},
+{
+  "id": "3 - 109",
+  "section": "3-H",
+  "title": "Puccini: Turandot (Recorded Live in Vienna)",
+  "artist": "Eva Marton, José Carreras, Katia Ricciarelli, Wiener Staatsoper & Lorin Maazel",
+  "releaseYear": 1984,
+  "genre": "Música Clásica",
+  "subGenre": "Ópera / Verismo",
+  "totalDuration": "Desconocida (3 LPs)",
+  "label": "CBS Masterworks / Sefel Records",
+  "format": "LP / Digital / Box Set",
+  "catalogNumber": "I3M 39160",
+  "coverUrl": "https://i.discogs.com/tTf3G4iHpz-qBbFzWfVBTh7WSnVfXUJDWh_94FEt-Ac/rs:fit/g:sm/q:90/h:545/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxNDIz/NDItMTUyMDM4OTg4/Ni04MjgwLmpwZWc.jpeg",
+  "composers": [
+    "Giacomo Puccini"
+  ]
+},
+{
+  "id": "3 - 110",
+  "section": "3-H",
+  "title": "Henry Purcell: Sonates à Trois, n° I à VI",
+  "artist": "Neville Marriner, Peter Gibbs, Desmond Dupré & Thurston Dart (Direction)",
+  "releaseYear": 1958,
+  "genre": "Música Clásica",
+  "subGenre": "Barroco Inglés / Sonata en Trío",
+  "totalDuration": "Desconocida",
+  "label": "BAM (Boîte à Musique)",
+  "format": "LP / Mono",
+  "catalogNumber": "LD 038",
+  "coverUrl": "https://i.discogs.com/qv-S6e9-QW-IdyDeqS5CqUN8-lx3HPRCLnwfdApDn7M/rs:fit/g:sm/q:90/h:586/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMzky/MjgyLTE2MzI4Mzgw/MTUtOTQ5Ny5qcGVn.jpeg",
+  "composers": [
+    "Henry Purcell"
+  ]
+},
+{
+  "id": "3 - 111",
+  "section": "3-H",
+  "title": "Purcell: Ceremonial Music",
+  "artist": "The Choir of St. John's College, Cambridge, The English Chamber Orchestra & George Guest (Director)",
+  "releaseYear": 1971,
+  "genre": "Música Clásica",
+  "subGenre": "Barroco Inglés / Música Coral / Himnos",
+  "totalDuration": "Desconocida",
+  "label": "Argo",
+  "format": "LP / Stereo",
+  "catalogNumber": "ZRG 724",
+  "coverUrl": "https://m.media-amazon.com/images/I/71XM9qlyqjL.jpg",
+  "composers": [
+    "Henry Purcell"
+  ]
+},
+{
+  "id": "3 - 112",
+  "section": "3-H",
+  "title": "Talichovský Archiv II: Skladby Českých Mistrů (Compositions of Czech Masters)",
+  "artist": "Václav Talich (Conductor) & Various Czech Orchestras",
+  "releaseYear": 1977,
+  "genre": "Música Clásica",
+  "subGenre": "Nacionalismo Checo / Grabaciones Históricas",
+  "totalDuration": "Desconocida (Box Set)",
+  "label": "Supraphon",
+  "format": "LP / Mono / Box Set",
+  "catalogNumber": "0 10 2151-54",
+  "coverUrl": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcToO55zu3cw_zTErpLKoUvktv3hsSIgWcPSlVvqDBX43wl3dNya",
+  "composers": [
+    "Bedřich Smetana",
+    "Antonín Dvořák",
+    "Josef Suk",
+    "Vítězslav Novák"
+  ]
+},
+{
+  "id": "3 - 113",
+  "section": "3-H",
+  "title": "Musik für den Anfang: Ein Weg zum Werkhören",
+  "artist": "Michael Alt (Compilación y Comentarios) / Varios Artistas",
+  "releaseYear": 1971,
+  "genre": "Música Clásica",
+  "subGenre": "Pedagogía Musical / Antología",
+  "totalDuration": "Desconocida (Box Set)",
+  "label": "Deutsche Grammophon (DGG)",
+  "format": "LP / Stereo / Box Set",
+  "catalogNumber": "2538 128",
+  "coverUrl": "https://i.discogs.com/r0Jmz4vGT1FmrDMxJbbjfWD2jxrp-K0sXNCHD9wSkg0/rs:fit/g:sm/q:90/h:551/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwNjQ1/NTUtMTM4MzUzODkw/MS0zMTMxLmpwZWc.jpeg",
+  "composers": [
+    "Varios Compositores"
+  ]
+}
   ]
 }
