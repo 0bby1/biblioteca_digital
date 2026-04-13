@@ -143,8 +143,6 @@ function App() {
 
               <div className="card-info">
                 <span className="tag-seccion">{disco.section}</span>
-                <h3>{disco.title}</h3>
-                <p className="artist-name">{disco.artist}</p>
               </div>
             </div>
           ))}
