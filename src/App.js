@@ -96,7 +96,7 @@ function App() {
             />
           </div>
 
-          {/* Botón secciones (mobile + desktop) */}
+          {/* Botón secciones*/}
           <button
             className="btn-secciones"
             onClick={() => setMenuAbierto(prev => !prev)}

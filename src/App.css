@@ -1,6 +1,3 @@
-/* ════════════════════════════════════════
-   TOKENS
-════════════════════════════════════════ */
 @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600;700&family=DM+Sans:wght@300;400;500&display=swap');
  
 :root {
@@ -56,8 +53,7 @@ body {
   gap: 1.2rem;
   flex-wrap: wrap;
 }
- 
-/* Brand */
+
 .header-brand {
   display: flex;
   align-items: center;
@@ -95,8 +91,7 @@ body {
   letter-spacing: 0.06em;
   text-transform: uppercase;
 }
- 
-/* Search */
+
 .search-wrap {
   flex: 1;
   min-width: 200px;
@@ -141,8 +136,7 @@ body {
   background: rgba(255,255,255,0.22);
   border-color: rgba(255,255,255,0.5);
 }
- 
-/* Secciones button */
+
 .btn-secciones {
   display: flex;
   align-items: center;
@@ -166,8 +160,7 @@ body {
   background: rgba(255,255,255,0.25);
   transform: translateY(-1px);
 }
- 
-/* Filters bar */
+
 .filters-bar {
   max-width: 1400px;
   margin: 0 auto;
@@ -475,8 +468,7 @@ body {
   border-radius: 100px;
   letter-spacing: 0.03em;
 }
- 
-/* Empty state */
+
 .empty-state {
   text-align: center;
   padding: 5rem 1rem;
